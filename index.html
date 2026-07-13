@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Centri AI — Opportunities Repository</title>
+<link rel="icon" type="image/png" href="centri-logo.png" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <img class="brand-mark" src="centri-logo.png" alt="Centri AI logo" />
+        <div class="brand-text">
+          <span class="brand-name">Centri AI</span>
+          <span class="brand-sub">Opportunities Repository</span>
+        </div>
+      </div>
+      <div class="stats" id="stats"></div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="filters" id="filters">
+      <div class="filters-head">
+        <h2>Filters</h2>
+        <button id="clearFilters" class="link-btn">Clear all</button>
+      </div>
+
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search by name, focus, keyword…" />
+      </div>
+
+      <div class="filter-group">
+        <h3>Category</h3>
+        <div id="filterCategory" class="chip-list"></div>
+      </div>
+
+      <div class="filter-group">
+        <h3>Stage</h3>
+        <div id="filterStage" class="chip-list"></div>
+      </div>
+
+      <div class="filter-group">
+        <h3>Focus area</h3>
+        <div id="filterFocus" class="chip-list"></div>
+      </div>
+
+      <div class="filter-group">
+        <h3>Region</h3>
+        <div id="filterRegion" class="chip-list"></div>
+      </div>
+
+      <div class="filter-group">
+        <h3>Equity</h3>
+        <div id="filterEquity" class="chip-list"></div>
+      </div>
+
+      <div class="filter-group">
+        <h3>Format</h3>
+        <div id="filterFormat" class="chip-list"></div>
+      </div>
+    </aside>
+
+    <section class="content">
+      <div class="toolbar">
+        <div class="result-count" id="resultCount"></div>
+        <div class="sort-box">
+          <label for="sortSelect">Sort by</label>
+          <select id="sortSelect">
+            <option value="name">Name A–Z</option>
+            <option value="funding">Funding amount (est.)</option>
+            <option value="deadline">Deadline urgency</option>
+            <option value="category">Category</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="status-tabs" id="statusTabs"></div>
+
+      <div id="cardGrid" class="card-grid"></div>
+      <div id="emptyState" class="empty-state" hidden>
+        <p>No opportunities match your filters.</p>
+        <button id="emptyClear" class="link-btn">Clear filters</button>
+      </div>
+    </section>
+  </main>
+
+  <div id="detailOverlay" class="overlay" hidden>
+    <div class="overlay-card" id="overlayCard"></div>
+  </div>
+
+  <footer class="footer">
+    <p>Centri AI internal tool · Data compiled and verified via web research · Last full refresh: <span id="lastRefresh"></span></p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
