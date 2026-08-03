@@ -59,7 +59,7 @@
 
   function equityBucket(item) {
     const e = (item.equity || "").toLowerCase();
-    if (e.includes("equity-free") || e.includes("no equity") || e === "0%" || e.includes("$0")) return "Equity-free";
+    if (e.includes("equity-free") || e.includes("no equity") || /\b0%/.test(e) || e.includes("$0")) return "Equity-free";
     return "Takes equity";
   }
 

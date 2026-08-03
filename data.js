@@ -3963,5 +3963,2317 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "nsf-sbir-sttr-americas-seed-fund",
+    "name": "America's Seed Fund powered by NSF (SBIR/STTR)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; NSF headquartered in Alexandria, VA)",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "AI/ML",
+      "Biotech/Health",
+      "Climate/Impact",
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I: up to $305,000 (non-dilutive); Phase II: up to $1,250,000 over 24 months, with supplements potentially adding $500K+ (total program can exceed $2M)",
+    "equity": "0% equity — non-dilutive grant; NSF takes no ownership or IP stake and funds do not need to be repaid",
+    "programLength": "Phase I: 6-18 months; Phase II: 24 months following Phase I",
+    "format": "Remote (federal grant program; no physical residency — startups perform R&D at their own facilities)",
+    "eligibility": "US-based, for-profit small businesses (majority US-owned and controlled, fewer than 500 employees) developing technology with strong commercial potential; venture-capital-majority-owned firms are generally ineligible under standard rules. A mandatory Project Pitch precedes any full proposal.",
+    "applicationDeadline": "Next Phase I full-proposal deadline is November 4, 2026, followed by March 4, 2027; a mandatory Project Pitch must be submitted in advance of each window (2026 cycle reopened June 2, 2026 after a prior-year lapse)",
+    "applicationWindow": "Multiple windows per year (roughly quarterly); Project Pitch required before each full proposal",
+    "applyLink": "https://seedfund.nsf.gov/apply/",
+    "website": "https://seedfund.nsf.gov/",
+    "description": "America's Seed Fund is NSF's SBIR/STTR program, awarding over $200 million per year in non-dilutive R&D funding to about 400 US startups and small businesses developing technology with strong commercial potential. Funding is disbursed in phases (feasibility, then development) with no equity taken.",
+    "highlights": [
+      "Phase I awards up to $305,000; Phase II up to $1,250,000+",
+      "0% equity taken — startup retains full IP and ownership",
+      "Mandatory Project Pitch pre-screening before full proposal",
+      "~400 startups funded annually across all US states",
+      "Reopened for FY2026 after a funding lapse; next deadline November 4, 2026"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "nih-sbir-sttr",
+    "name": "NIH SBIR/STTR (Seed Fund)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; NIH headquartered in Bethesda, MD)",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I: up to $323,090 (higher waiver topics up to $700,000); Phase II: significantly larger multi-year awards",
+    "equity": "0% equity — non-dilutive federal grant; no repayment or ownership stake required",
+    "programLength": "Phase I: typically 6-12 months; Phase II: typically 2 years",
+    "format": "Remote (federal grant program; work performed at applicant's own facility, with SBIR requiring the small business to perform at least two-thirds of Phase I research, and STTR requiring a formal nonprofit research-institution partner performing at least 30%)",
+    "eligibility": "US-based, for-profit small businesses (fewer than 500 employees) with a health/life-sciences R&D project of commercial potential; principal investigator must be primarily employed by the small business. Program lapsed October 1, 2025 and was reauthorized April 14, 2026.",
+    "applicationDeadline": "Submission window reopens August 5, 2026 with a first standard deadline of September 8, 2026; standard NIH cycle deadlines thereafter are January 5 and April 5",
+    "applicationWindow": "3 standard cycles per year (September, January, April)",
+    "applyLink": "https://seed.nih.gov/small-business-funding/find-funding/sbir-sttr-funding-opportunities",
+    "website": "https://seed.nih.gov/",
+    "description": "NIH's SBIR/STTR program (part of NIH Seed) is one of the largest sources of early-stage, non-dilutive capital for health and life-science startups in the US, funding technology commercialization through phased grants. The program lapsed for part of FY2025-26 due to a reauthorization gap and reopened in mid-2026.",
+    "highlights": [
+      "Phase I awards up to $323,090; select waiver topics up to $700,000",
+      "0% equity — non-dilutive federal grant",
+      "Reopens August 5, 2026 after reauthorization; first deadline September 8, 2026",
+      "HHS caps submissions at 9 per small business per fiscal year",
+      "STTR requires a formal nonprofit research-institution partner"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "doe-sbir-sttr",
+    "name": "DOE SBIR/STTR (America's Seed Fund powered by DOE)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; DOE headquartered in Washington, DC)",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I awards (including modifications) up to $323,090; Phase II awards (including modifications) up to $2,153,927, per current federal SBIR/STTR policy caps",
+    "equity": "0% equity — non-dilutive federal grant; no repayment or ownership stake required",
+    "programLength": "Phase I: establishes technical feasibility (typically under a year); Phase II: further development/prototyping (multi-year)",
+    "format": "Remote (federal grant program; applicants perform work at their own facilities; single application progresses through Go/No-Go phase decision points)",
+    "eligibility": "US-based small businesses (for-profit, meeting SBA size standards) developing technology aligned with DOE mission areas such as energy, advanced manufacturing, biotechnology, critical materials, quantum information science, and semiconductors.",
+    "applicationDeadline": "Rolling/topic-specific — FY26 Phase I \"Genesis Mission\" solicitation opened July 22, 2026 alongside a ~$147M FY25 Phase II opportunity; check the DOE SBIR/STTR site for current open topics and closing dates",
+    "applicationWindow": "Multiple solicitation windows per year tied to DOE priority topics",
+    "applyLink": "https://sbir-sttr.connectwerx.org/",
+    "website": "https://www.energy.gov/technologycommercialization/doe-small-business-innovation-research-sbir-and-small-business",
+    "description": "The Department of Energy's SBIR/STTR program provides non-dilutive funding to US small businesses developing innovative energy, manufacturing, and materials technologies with strong commercial potential, moving from feasibility (Phase I) through prototyping (Phase II) via phased, competitively awarded grants.",
+    "highlights": [
+      "Phase I awards up to $323,090; Phase II up to $2,153,927",
+      "0% equity — non-dilutive federal grant",
+      "Topics span energy, advanced manufacturing, biotech, quantum, semiconductors, critical materials",
+      "FY26 Phase I \"Genesis Mission\" topic opened July 22, 2026",
+      "All applications submitted through the DOE SBIR/STTR ConnectWERX portal"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "comcast-rise",
+    "name": "Comcast RISE",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide/regional program; Comcast headquartered in Philadelphia, PA)",
+    "focusAreas": [
+      "General/Any",
+      "Consumer"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$5,000 monetary grant plus a non-cash package (technology makeover, creative production and media schedule, business consultation and educational resources)",
+    "equity": "0% equity — non-dilutive grant; no ownership stake or repayment required",
+    "programLength": "Grant plus multi-month package of services (technology, marketing, coaching)",
+    "format": "Hybrid (online application; grant package includes in-person technology/media installation support for local businesses)",
+    "eligibility": "Independently owned, for-profit small businesses based in the United States, generally required to have been operating for a minimum period (historically 1-2+ years); eligible regions and criteria have varied by application cycle",
+    "applicationDeadline": "Not currently open as of last verification; the most recently confirmed application window was May 1-31, 2025, covering a rotating set of US regions/metro areas. A 2026 application window has not been publicly confirmed on Comcast's official channels as of this verification — check comcastrise.com for current openings",
+    "applicationWindow": "Periodic application windows (historically opened in May) across rotating regions",
+    "applyLink": "https://www.comcastrise.com/",
+    "website": "https://www.comcastrise.com/",
+    "description": "Comcast RISE (Representation, Investment, Strength, Empowerment) provides small businesses with a $5,000 grant plus in-kind technology, marketing, and consulting support. The program runs periodic application windows for rotating US regions rather than a single fixed annual deadline.",
+    "highlights": [
+      "$5,000 non-dilutive grant plus technology and marketing package",
+      "0% equity taken",
+      "Application windows rotate by region rather than one national annual deadline",
+      "Part of Comcast's $160M+ commitment to small business support",
+      "Confirm current-year eligibility and window directly at comcastrise.com"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "verizon-small-business-digital-ready",
+    "name": "Verizon Small Business Digital Ready Grants",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; Verizon headquartered in Basking Ridge, NJ)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$10,000 grants; 10 small businesses selected monthly (roughly June-December 2026)",
+    "equity": "0% equity — non-dilutive grant; no repayment or ownership stake required",
+    "programLength": "One-time grant award; ongoing access to Verizon's free Digital Ready learning platform (courses, mentoring, community)",
+    "format": "Remote (fully online platform, courses, and application)",
+    "eligibility": "Owners of for-profit small businesses based in the United States, Puerto Rico, or the U.S. Virgin Islands who are 18 or older; must create a free Verizon Small Business Digital Ready account and complete at least two eligible courses or events before applying.",
+    "applicationDeadline": "Rolling — applications accepted anytime in 2026; 10 grants of $10,000 awarded monthly from June through December 2026, with all applicants receiving a final decision by January 12, 2027",
+    "applicationWindow": "Ongoing through 2026 with monthly grant selections",
+    "applyLink": "https://digitalready.verizonwireless.com/funding",
+    "website": "https://digitalready.verizonwireless.com/",
+    "description": "Verizon Small Business Digital Ready is a free learning platform paired with a recurring grant program: after completing two courses or events, US-based small business owners can apply for one of ten $10,000 grants awarded each month.",
+    "highlights": [
+      "$10,000 non-dilutive grants, 10 awarded per month (Jun-Dec 2026)",
+      "0% equity taken",
+      "Requires completing 2 free courses/events on the Digital Ready platform first",
+      "Open to businesses in all 50 states, Puerto Rico, and the U.S. Virgin Islands",
+      "Rolling applications — remain eligible for future monthly drawings if not selected"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "rice-business-plan-competition",
+    "name": "Rice Business Plan Competition (RBPC)",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Houston, TX, USA",
+    "stage": "Pre-seed",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech",
+      "Biotech/Health",
+      "Hardware"
+    ],
+    "fundingAmount": "Total prize pool of roughly $1.35M+ in cash, investment, and non-dilutive prizes across 42 competing teams (each team guaranteed at least ~$950); grand prize and category awards vary by year",
+    "equity": "Prizes are a mix of non-dilutive cash and equity/convertible-note investment; specific terms vary by individual prize sponsor — largely equity-free cash awards with some investment-track prizes",
+    "programLength": "Multi-day live competition (2026 finals held April 9-11, 2026) after a written application/screening process",
+    "format": "In-person finals in Houston, TX (application and early rounds conducted remotely/online)",
+    "eligibility": "Teams must include at least two current student founders/management team members, with at least one currently enrolled in a graduate degree program at any college or university worldwide; startup must not have raised more than $250,000 in equity capital or generated more than $100,000 in revenue in any prior 12-month period, and must be seeking funding.",
+    "applicationDeadline": "Closed for the 2026 cycle (application deadline was January 31, 2026; finals held April 9-11, 2026); 2027 cycle dates not yet announced — check rbpc.rice.edu",
+    "applicationWindow": "Annual cycle, applications typically open in fall and close in late January",
+    "applyLink": "https://rbpc.rice.edu/compete",
+    "website": "https://rbpc.rice.edu/",
+    "description": "Billed as the world's largest and richest graduate student startup competition, RBPC brings 42 teams to Houston each spring to compete for over $1M in cash, investment, and in-kind prizes. Alumni teams have collectively raised over $2.3 billion in follow-on funding, including two unicorns (Hyliion, Owlet Baby Care).",
+    "highlights": [
+      "$1.35M+ awarded in 2026; every team wins at least ~$950",
+      "229+ companies launched by alumni, raising $2.3B+ collectively",
+      "Two unicorn alumni: Hyliion and Owlet Baby Care",
+      "Requires at least one current graduate-student founder",
+      "Open to teams from any university worldwide"
+    ],
+    "notableAlumni": [
+      "Hyliion",
+      "Owlet Baby Care",
+      "SwiftSku",
+      "Protein Pints"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "mit-100k-entrepreneurship-competition",
+    "name": "MIT $100K Entrepreneurship Competition",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Cambridge, MA, USA",
+    "stage": "Pre-seed",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech",
+      "AI/ML",
+      "Biotech/Health",
+      "Climate/Impact"
+    ],
+    "fundingAmount": "Almost $1M in total non-dilutive prize money and resources awarded across the year; three rounds — Pitch ($5K, fall), Accelerate ($10K, semifinal), and Launch (up to $100K, spring final); $160,000 awarded to top teams at the 2026 Launch finale",
+    "equity": "Equity-free prize money — no equity taken by the competition",
+    "programLength": "Full academic-year cycle: Pitch (fall) -> Accelerate (Feb/Mar semifinal) -> Launch (May final)",
+    "format": "Hybrid (online applications and pitch submissions; live in-person final \"Launch\" event at MIT in Cambridge, MA)",
+    "eligibility": "Teams must include at least one current MIT student (undergraduate or graduate); other team members can be non-MIT-affiliated, including faculty, alumni, and people from outside the MIT community.",
+    "applicationDeadline": "2026 cycle has concluded (Accelerate-round applications were due February 26, 2026; Launch final held in May 2026); 2027 cycle dates (Pitch round typically opens in the fall) not yet announced — check mit100k.org",
+    "applicationWindow": "Annual cycle running fall through spring (Pitch, Accelerate, Launch rounds)",
+    "applyLink": "https://www.mit100k.org/eligibility-rules",
+    "website": "https://www.mit100k.org/",
+    "description": "The MIT $100K is a student-run, three-round entrepreneurship competition culminating in a live spring final, awarding close to $1M in non-dilutive prize money and resources annually to teams with at least one MIT student. Winners and participants have collectively launched 160+ companies and raised over $1.3B in venture funding.",
+    "highlights": [
+      "Nearly $1M in non-dilutive prizes awarded per cycle across 3 rounds",
+      "Requires only one current MIT student on the team",
+      "160+ companies launched by alumni, $1.3B+ raised",
+      "Final \"Launch\" round awards up to $100K live at MIT",
+      "Notable alumni companies include Akamai and HubSpot"
+    ],
+    "notableAlumni": [
+      "Akamai Technologies",
+      "HubSpot"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "hult-prize",
+    "name": "Hult Prize",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Boston, MA, USA (global competition; on-campus and national rounds run worldwide)",
+    "stage": "Pre-seed",
+    "focusAreas": [
+      "Climate/Impact",
+      "Social Impact",
+      "General/Any"
+    ],
+    "fundingAmount": "$1,000,000 USD in seed funding awarded to the winning team at the Global Finals",
+    "equity": "Equity-free seed prize — no equity taken as a condition of the prize",
+    "programLength": "Multi-stage global cycle: campus/national rounds, Regional Finals, Accelerator, and Global Finals over roughly a year",
+    "format": "Hybrid (campus and regional rounds run in-person/online worldwide; Global Finals held in person)",
+    "eligibility": "Teams presenting a for-profit business concept or operating venture that supports at least one UN Sustainable Development Goal; at least one team member must be a current university student (full- or part-time, any level) aged 18+ at registration; non-profits are not eligible to enter.",
+    "applicationDeadline": "2026 cycle team registration closed February 28, 2026 (18,000+ teams registered, 2,000 advanced to Nationals); 2027 cycle registration opens on a rolling basis later in the year — check hultprize.org",
+    "applicationWindow": "Annual cycle; team registration typically opens mid-year with a Q1 deadline for the following competition year",
+    "applyLink": "https://www.hultprize.org/apply-now",
+    "website": "https://www.hultprize.org/",
+    "description": "The Hult Prize is a global student/early-stage startup competition that awards $1 million in equity-free seed funding to the team building the most promising venture addressing a UN Sustainable Development Goal, following campus, regional, and accelerator rounds culminating in Global Finals.",
+    "highlights": [
+      "$1M equity-free prize — largest student-startup prize globally",
+      "18,000+ teams registered for the 2026 cycle; 2,000 reached Nationals",
+      "Open to teams at any stage, from early idea to operating startup",
+      "Requires at least one current university student on the team",
+      "Must align with a UN Sustainable Development Goal"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "techcrunch-disrupt-startup-battlefield",
+    "name": "TechCrunch Disrupt Startup Battlefield",
+    "category": "Competition",
+    "region": "Global",
+    "country": "San Francisco, CA, USA",
+    "stage": "Stage-agnostic",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS",
+      "Consumer",
+      "Deep Tech"
+    ],
+    "fundingAmount": "$100,000 in equity-free cash to the overall winner, plus the Disrupt Cup and major press/investor exposure for all selected companies",
+    "equity": "Equity-free — $100,000 prize with no equity taken",
+    "programLength": "Selected companies pitch live during the multi-day TechCrunch Disrupt conference (2026 edition: October 13-15, San Francisco)",
+    "format": "In-person finals at TechCrunch Disrupt in San Francisco, CA (application process is online)",
+    "eligibility": "Bold early-stage startups with a working MVP; bootstrapped, pre-seed, and seed-stage companies are encouraged to apply, and select Series A startups in capital-intensive sectors may also qualify.",
+    "applicationDeadline": "Closed for the 2026 cycle (deadline extended to June 8, 2026); selected companies notified late August 2026; TechCrunch Disrupt 2026 runs October 13-15, 2026 — check techcrunch.com/startup-battlefield for the next cycle",
+    "applicationWindow": "Annual cycle; applications typically open in spring ahead of the October conference",
+    "applyLink": "https://techcrunch.com/startup-battlefield/",
+    "website": "https://techcrunch.com/startup-battlefield/",
+    "description": "Startup Battlefield is TechCrunch's flagship pitch competition, held live at TechCrunch Disrupt in San Francisco. A cohort of startups pitches on stage in front of investors and media, with the winner receiving $100,000 in equity-free funding; the alumni community includes 1,700+ companies that have collectively raised over $32 billion.",
+    "highlights": [
+      "$100,000 equity-free grand prize",
+      "1,700+ Battlefield alumni companies, $32B+ raised collectively",
+      "Alumni include Dropbox, Discord, Cloudflare, and Mint",
+      "Open to bootstrapped through select Series A startups",
+      "Live pitch at TechCrunch Disrupt (San Francisco, October)"
+    ],
+    "notableAlumni": [
+      "Dropbox",
+      "Discord",
+      "Cloudflare",
+      "Mint",
+      "Glīd (2025 winner)",
+      "Salva Health (2024 winner)"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "extreme-tech-challenge-xtc",
+    "name": "Extreme Tech Challenge (XTC)",
+    "category": "Competition",
+    "region": "Global",
+    "country": "San Francisco Bay Area, CA, USA (global competition; 2026 finals/summit in California)",
+    "stage": "Stage-agnostic",
+    "focusAreas": [
+      "Climate/Impact",
+      "AI/ML",
+      "Deep Tech",
+      "General/Any"
+    ],
+    "fundingAmount": "Unknown exact cash prize amount publicly disclosed for 2026 (prior editions included cash, in-kind services, and prominent visibility); alumni/finalists have collectively raised over $4 billion in follow-on funding",
+    "equity": "Equity-free competition — no equity taken as a condition of participating or winning",
+    "programLength": "Multi-round annual cycle (applications, judging rounds) culminating in a live Startup Showcase/Summit",
+    "format": "Hybrid (application and early judging conducted online; live Startup Showcase and Summit held in person in California)",
+    "eligibility": "Startups legally incorporated or registered in an eligible country; no restrictions on current revenue level or capital raised to date; 2026 theme (\"AI:360\") includes a special Excellence in Applied AI award alongside the general competition.",
+    "applicationDeadline": "Applications for the 6th edition closed April 1, 2026; Startup Showcase and AI:360 Summit take place in California in November 2026 — check extremetechchallenge.org for the next cycle",
+    "applicationWindow": "Annual cycle; applications typically open in the first quarter of the year",
+    "applyLink": "https://extremetechchallenge.org/",
+    "website": "https://extremetechchallenge.org/",
+    "description": "Backed by corporations including Samsung, Microsoft, Ford, Intel, and Cisco, the Extreme Tech Challenge is a global startup competition connecting entrepreneurs addressing large-scale challenges with investors, corporate partners, and mentors, culminating in a live Startup Showcase. XTC finalists and winners have collectively raised over $4 billion.",
+    "highlights": [
+      "Backed by Samsung, Microsoft, Ford, Intel, Cisco, and other major corporates",
+      "No restrictions on revenue or prior capital raised",
+      "Finalists/winners have raised $4B+ collectively",
+      "2026 edition includes a dedicated Excellence in Applied AI award",
+      "Live Startup Showcase at the AI:360 Summit in California"
+    ],
+    "notableAlumni": [
+      "Owlet Baby Care",
+      "Power Ledger",
+      "Genecis Bioindustries"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "thiel-fellowship",
+    "name": "Thiel Fellowship",
+    "category": "Fellowship",
+    "region": "Global",
+    "country": "San Francisco, CA, USA (Thiel Foundation; open to fellows worldwide, some relocation to the Bay Area encouraged)",
+    "stage": "Pre-seed",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech",
+      "AI/ML",
+      "Biotech/Health",
+      "Web3/Crypto"
+    ],
+    "fundingAmount": "$250,000 grant distributed over 2 years",
+    "equity": "No equity — fellows keep 100% ownership of their company/project; funding is a grant, not an investment",
+    "programLength": "2 years",
+    "format": "Hybrid (fellows work independently on their ventures; program includes in-person mentorship events/network and remote support)",
+    "eligibility": "Individuals aged 22 or younger at time of application who do not hold a university degree (currently enrolled students may apply but must leave their academic program to accept); open worldwide to individuals with a compelling company, technology, research, or social-impact project.",
+    "applicationDeadline": "Rolling — applications accepted year-round with no fixed annual deadline",
+    "applicationWindow": "Ongoing; roughly 20-25 fellows selected per year from 3,000-5,000+ applicants",
+    "applyLink": "https://thielfellowship.org/apply",
+    "website": "https://thielfellowship.org/",
+    "description": "The Thiel Fellowship gives $250,000 over two years, plus mentorship and access to the Thiel network, to individuals 22 or younger who leave (or skip) college to build a company, technology, or research project full-time. No equity is taken. Notable alumni include Ethereum co-creator Vitalik Buterin and Figma founder Dylan Field.",
+    "highlights": [
+      "$250,000 grant over 2 years, no equity taken",
+      "~20-25 fellows selected annually from thousands of applicants",
+      "Requires leaving/skipping a degree program; applicants must be 22 or younger",
+      "Rolling applications, no fixed deadline",
+      "11+ alumni companies have reached $1B+ valuations"
+    ],
+    "notableAlumni": [
+      "Vitalik Buterin (Ethereum)",
+      "Dylan Field (Figma)",
+      "Ritesh Agarwal (OYO)",
+      "Austin Russell (Luminar Technologies)"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "echoing-green-fellowship",
+    "name": "Echoing Green Fellowship",
+    "category": "Fellowship",
+    "region": "Global",
+    "country": "New York, NY, USA (global fellowship; open to founders working in any country)",
+    "stage": "Pre-seed",
+    "focusAreas": [
+      "Social Impact",
+      "General/Any"
+    ],
+    "fundingAmount": "$100,000 stipend distributed over 18 months, plus leadership development, capacity-building support, and a network of nearly 1,000 fellows",
+    "equity": "No equity taken. Nonprofit fellows receive a non-repayable stipend; for-profit (or hybrid) fellows receive the stipend as a \"recoverable grant,\" repayable only if the venture later exceeds a $5M valuation or earns more than $2M in revenue with net profit — forgiven if neither threshold is met within 5 years of signing",
+    "programLength": "18 months (core stipend period), with ongoing alumni community and follow-on funding support",
+    "format": "Hybrid (fellowship programming combines virtual convenings with in-person leadership development events)",
+    "eligibility": "Early-stage social entrepreneurs building organizations (nonprofit, for-profit, or hybrid) addressing systemic inequality; applicants must be 18+ and able to communicate proficiently in English; open to founders of any nationality working in any country, though US-based projects require valid US work authorization.",
+    "applicationDeadline": "Closed for the 2026 Fellowship class (deadline was October 8, 2025); next cycle's deadline not yet confirmed as of this verification — check echoinggreen.org/fellowship for updates",
+    "applicationWindow": "Annual cycle, typically applications open in summer with a fall deadline",
+    "applyLink": "https://echoinggreen.org/fellowship/apply/",
+    "website": "https://echoinggreen.org/fellowship/",
+    "description": "Echoing Green is a global fellowship for early-stage social entrepreneurs, providing an $100,000 stipend over 18 months plus leadership development and a large peer network. For-profit and hybrid fellows receive funding as a recoverable grant rather than an equity investment, forgiven if the venture doesn't reach specified financial thresholds within 5 years.",
+    "highlights": [
+      "$100,000 stipend over 18 months, no equity taken",
+      "For-profits funded via forgivable \"recoverable grant\" structure",
+      "Open globally to founders of any nationality",
+      "Nearly 1,000-strong alumni network",
+      "Focused on ventures addressing systemic inequality"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "fintech-sandbox",
+    "name": "Fintech Sandbox (Data Access Residency)",
+    "category": "Incubator",
+    "region": "Global",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Fintech",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$0 direct capital — provides free, time-limited access to premium financial/market data APIs and datasets from data-provider partners for testing and development",
+    "equity": "Equity-free (no equity, 0%)",
+    "programLength": "24 weeks (Data Access Residency)",
+    "format": "Remote (virtual application and interviews; no relocation required)",
+    "eligibility": "Early-stage fintech startups that are incorporated, have a dedicated leadership team (full-time or clear path to full-time), have a CTO/developers able to work with large datasets, have an alpha product or demo, a clear data use case, and less than $1M in annual recurring revenue.",
+    "applicationDeadline": "Rolling — no fixed deadline; applications reviewed on a rolling basis",
+    "applicationWindow": "Rolling, year-round",
+    "applyLink": "https://www.fintechsandbox.org/apply/",
+    "website": "https://www.fintechsandbox.org/",
+    "description": "Fintech Sandbox is a Boston-based nonprofit that gives early-stage fintech startups free, time-limited access to premium financial data sets and APIs from its network of data-provider partners, plus mentorship and community, through its Data Access Residency program. It does not take equity or provide direct cash funding.",
+    "highlights": [
+      "Free access to premium financial/market data APIs from data partners for use in product development and testing",
+      "24-week Data Access Residency with rolling admissions",
+      "No equity taken, no direct capital investment",
+      "Hosts the annual Boston Fintech Week convening founders, investors, and financial institutions",
+      "Open to fintech startups globally, not just the US"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "global-insurance-accelerator",
+    "name": "Global Insurance Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Des Moines, IA, USA",
+    "focusAreas": [
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$50,000 seed investment",
+    "equity": "Takes an equity stake in exchange for investment (specific percentage not publicly disclosed — provided in term sheet upon acceptance)",
+    "programLength": "100 days (in-person portion of approximately 5.5 weeks in Des Moines, plus additional virtual program support)",
+    "format": "Hybrid, in-person required in Des Moines, IA (housing paid for during the in-person weeks)",
+    "eligibility": "Early-stage insurtech and insurance-adjacent startups; selected companies must relocate to Des Moines, IA for the in-person program weeks.",
+    "applicationDeadline": "2027 100-Day Program applications open August 11, 2026 (exact submission deadline to be posted on program site)",
+    "applicationWindow": "Annual cohort; applications typically open in August for the following year's program",
+    "applyLink": "https://selections.globalinsuranceaccelerator.com/global-insurance-accelerator-application.php",
+    "website": "https://www.globalinsuranceaccelerator.com/",
+    "description": "The Global Insurance Accelerator is a nationally recognized insurtech accelerator based in Des Moines, Iowa, offering $50,000 in seed funding, mentorship from 75+ industry mentors, and direct connections to leading insurance carriers over a 100-day program.",
+    "highlights": [
+      "$50,000 seed investment per company",
+      "Direct access to major insurance carriers and 75+ mentors",
+      "Program culminates in a presentation at the Global Insurance Symposium",
+      "Housing provided during the in-person Des Moines portion of the program",
+      "One of the only accelerators exclusively focused on insurance/insurtech"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "datatribe-cyber-startup-challenge",
+    "name": "DataTribe Cyber Startup Challenge",
+    "category": "Competition",
+    "region": "US",
+    "country": "Fulton, MD, USA",
+    "focusAreas": [
+      "Cybersecurity",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$25,000 in prizes shared among finalists at the live Challenge event; winners and standout applicants may separately be eligible for up to $2M in seed capital investment from DataTribe's foundry",
+    "equity": "Equity terms apply only if a company is selected for direct DataTribe seed investment (not publicly disclosed); no equity required simply to compete in the Challenge",
+    "programLength": "Single-day live pitch competition, with an ongoing startup foundry relationship available to standout companies afterward",
+    "format": "In-person (Cyber Innovation Conference, Washington, DC)",
+    "eligibility": "Pre-Series A cybersecurity and data-science startups with a working product/prototype, typically with total funding raised under approximately $1.2M.",
+    "applicationDeadline": "2026 DataTribe Challenge live event is October 27, 2026 (Cyber Innovation Conference, Washington, DC); submission deadline falls several weeks prior — check cid.datatribe.com for the exact date",
+    "applicationWindow": "Annual, one cohort/event per year",
+    "applyLink": "https://cid.datatribe.com/challenge",
+    "website": "https://datatribe.com/",
+    "description": "DataTribe is a Maryland-based cybersecurity and data-science startup foundry founded by veterans of the U.S. intelligence community. Its annual DataTribe Challenge is a live pitch competition that awards $25,000 in prizes and can lead to DataTribe seed investment of up to $2 million for category-defining cyber/data startups.",
+    "highlights": [
+      "Founded by former U.S. intelligence community operators and investors",
+      "Prior Challenges have produced 20+ finalists, $93M+ raised, and multiple exits",
+      "Winners are eligible for up to $2M in seed capital from DataTribe",
+      "Headline event of DataTribe's annual Cyber Innovation Conference in Washington, DC",
+      "Focuses specifically on cybersecurity and data-science startups"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "dcode-federal-accelerator",
+    "name": "Dcode (Federal/GovTech Accelerator)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Washington, DC, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Cybersecurity",
+      "B2B SaaS"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No direct capital investment; startups pay Dcode a one-time $5,000 program fee (no funding provided — this is a paid go-to-market engagement, not an investment)",
+    "equity": "No equity taken (0%)",
+    "programLength": "8 weeks, approximately 2 hours per week",
+    "format": "Remote (virtual instruction and working sessions)",
+    "eligibility": "Stage-agnostic private-sector tech companies with a real product who want to sell to the U.S. federal government, with or without an existing public-sector sales team.",
+    "applicationDeadline": "Rolling cohorts (e.g., Spring 2026 cohort ran April 28 – June 16, 2026, Summer 2026 cohort July–September 2026) — check dcode.co for next cohort dates",
+    "applicationWindow": "Multiple cohorts per year, rolling enrollment",
+    "applyLink": "https://dcode.co/accelerator",
+    "website": "https://dcode.co/",
+    "description": "Dcode is a Washington, DC-based accelerator that helps private-sector technology companies break into and scale within the U.S. federal government market. Its 8-week virtual program is a paid, non-equity engagement that has run 15+ cohorts, including cohorts focused specifically on cybersecurity companies.",
+    "highlights": [
+      "No equity taken; runs as a fixed one-time fee program rather than an investment",
+      "8-week virtual curriculum focused on federal sales, procurement, and compliance",
+      "15+ cohorts run to date, including cybersecurity-focused cohorts",
+      "Ongoing access to Dcode's federal buyer and government-leader network after the program",
+      "Stage-agnostic — works with companies from early-stage through more mature private companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "afwerx-sbir-sttr",
+    "name": "AFWERX (Air Force/Space Force SBIR & STTR Programs)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Arlington, VA / Las Vegas, NV, USA (national program, multiple hubs)",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Non-dilutive SBIR/STTR contracts: Phase I up to $323,000 (up to 6 months); Phase II up to $2.1 million (up to 24 months); STRATFI $3M–$15M+ matched by private/other government investment; TACFI $375,000–$1.7 million with cost-sharing",
+    "equity": "Equity-free (0% — non-dilutive government contract funding)",
+    "programLength": "Varies by phase: Phase I up to 6 months, Phase II up to 24 months, STRATFI/TACFI bridge funding timelines vary",
+    "format": "Hybrid (virtual proposal submission process; in-person events, pitch days, and program engagements held at various U.S. Air Force/Space Force sites)",
+    "eligibility": "For-profit U.S. small businesses with 500 or fewer employees (including affiliates) that are more than 50% owned and controlled by U.S. citizens/permanent residents, building dual-use technology relevant to the Department of the Air Force or Space Force.",
+    "applicationDeadline": "Rolling — multiple open SBIR/STTR solicitation topics year-round; specific topic deadlines posted on the DoD SBIR/STTR submission portal",
+    "applicationWindow": "Multiple solicitation cycles per year (rolling topics)",
+    "applyLink": "https://www.dodsbirsttr.mil/submissions",
+    "website": "https://afwerx.com/",
+    "description": "AFWERX is the innovation arm of the U.S. Department of the Air Force, deploying non-dilutive SBIR/STTR contract funding, plus phase-appropriate STRATFI/TACFI matching capital, to U.S. small businesses building dual-use hardware, software, and defense technology. It has awarded more than $7 billion in SBIR/STTR contracts to startups and small businesses to date.",
+    "highlights": [
+      "Non-dilutive: no equity taken on any award",
+      "Open Topic track is industry-agnostic — no prior defense experience required",
+      "Phase I awards up to $323,000; Phase II up to $2.1 million",
+      "STRATFI/TACFI bridge funding pairs government dollars with private investment ($3M-$15M+ deals)",
+      "Approximately 10,400 SBIR/STTR contracts worth $7.24B+ awarded to date",
+      "Runs alongside AFVentures (equity co-investment) and Spark (talent/network) arms"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "silicon-catalyst",
+    "name": "Silicon Catalyst",
+    "category": "Incubator",
+    "region": "Global",
+    "country": "San Jose / Silicon Valley, CA, USA",
+    "focusAreas": [
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Most admitted seed-stage companies are eligible for $150,000 upon admission, plus significant in-kind services (EDA tools, foundry access, IP, legal, cloud credits) from Strategic/In-Kind Partners",
+    "equity": "Takes an equity stake in exchange for in-kind services and investment (specific percentage not publicly disclosed)",
+    "programLength": "24-month incubation program",
+    "format": "Hybrid (virtual application/screening; in-person events and partner access primarily in Silicon Valley, CA)",
+    "eligibility": "Pre-seed/seed-stage semiconductor-related startups (chips, photonics, MEMS, sensors, IP, materials, semiconductor-adjacent life sciences) with a capable team, differentiated/IP-protected technology, and a large addressable market.",
+    "applicationDeadline": "Rolling — two pre-screening and two full-screening review cycles per year; no fixed annual deadline",
+    "applicationWindow": "Rolling, approximately two intake cycles per year",
+    "applyLink": "https://www.tfaforms.com/4953383",
+    "website": "https://siliconcatalyst.com/",
+    "description": "Silicon Catalyst is a Silicon Valley-based incubator focused exclusively on semiconductor solutions — including chips, photonics, MEMS, sensors, and semiconductor IP — helping startups go from idea and prototype through to volume production via a network of in-kind partners providing EDA tools, foundry access, and IP.",
+    "highlights": [
+      "Only incubator/accelerator focused specifically on semiconductor solutions",
+      "Most admitted companies eligible for $150,000 upon admission",
+      "24-month program with access to EDA tools, foundry capacity, and IP from Strategic/In-Kind Partners",
+      "Runs approximately 40 industry events worldwide per year",
+      "Has an affiliated fund, Silicon Catalyst Ventures, with 25+ portfolio investments"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "tampa-bay-wave-cybertechx",
+    "name": "Tampa Bay Wave — CyberTech|X Cybersecurity Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Tampa, FL, USA",
+    "focusAreas": [
+      "Cybersecurity"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No direct per-company cash investment disclosed; the accelerator has been backed by a $2M U.S. Economic Development Administration federal grant funding program operations, mentorship, and investor access",
+    "equity": "Equity-free (0% — no equity taken)",
+    "programLength": "3 months",
+    "format": "Hybrid, in-person required for a minimum of two visits to Tampa, FL during the program",
+    "eligibility": "Early-stage cybersecurity startups with proprietary technology, a management team of at least 2 full-time members, market validation, a scalable/investable business model, and 6-12 months of financial runway.",
+    "applicationDeadline": "2026 cohort application deadline was December 5, 2025 (now closed); the next cohort typically opens applications each fall for a January start",
+    "applicationWindow": "Annual cohort (applications open ~October, program runs January-March)",
+    "applyLink": "https://gust.com/programs/cybertech-x-accelerator-2026",
+    "website": "https://www.tampabaywave.org/cybertech/",
+    "description": "CyberTech|X is Tampa Bay Wave's zero-equity accelerator dedicated to cybersecurity startups, offering mentorship from partners including A-LIGN and Bank of America, investor introductions, and a Pitch Night, backed in part by a $2M U.S. Economic Development Administration regional innovation cluster grant.",
+    "highlights": [
+      "Zero-equity program",
+      "Backed by a $2M EDA federal grant supporting cybersecurity, fintech, and healthtech innovation clusters",
+      "Access to 600+ investor network members and 250+ mentors via parent organization Tampa Bay Wave",
+      "3-month program culminating in a Pitch Night to investors and industry leaders",
+      "Only two required in-person visits to Tampa; remainder of the program can be remote"
+    ],
+    "notableAlumni": [
+      "Transmosis"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "aglaunch365",
+    "name": "AgLaunch365",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Memphis, TN, USA",
+    "focusAreas": [
+      "Agtech/Foodtech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$100,000 initial investment, with milestone-based follow-on funding",
+    "equity": "Takes an equity stake (specific percentage not publicly disclosed)",
+    "programLength": "Multi-stage program culminating in a 2-day Challenge Event, followed by multi-year on-farm trials starting the following spring",
+    "format": "Hybrid, in-person Challenge Event in Memphis, TN plus embedded on-farm trials with partner farmers nationally",
+    "eligibility": "Early-stage agtech startups with technology ready to be validated directly in commercial farm environments, not in a lab or pitch room.",
+    "applicationDeadline": "2026 cohort applications closed September 15, 2025; next cycle (2027 cohort) expected to open mid-2026 — check aglaunch.com for current dates",
+    "applicationWindow": "Annual cycle; applications typically open mid-year for the following year's cohort",
+    "applyLink": "https://aglaunch.com/aglaunch-365/",
+    "website": "https://aglaunch.com/",
+    "description": "AgLaunch365, powered by Memphis Bioworks and Tennessee agriculture allies, is a Memphis-based agtech accelerator that embeds startups directly into commercial farm operations rather than a lab or pitch room, pairing them with a national network of innovation-ready farmers for on-farm validation, plus a $100,000 initial investment with milestone-based follow-on funding.",
+    "highlights": [
+      "$100,000 initial investment with milestone-based follow-on funding",
+      "Startups validate technology directly on commercial farms, not in a lab",
+      "Multi-year farm trial partnerships with a national farmer network",
+      "Selection includes a competitive, in-person Challenge Event in Memphis, TN",
+      "Backed by Memphis Bioworks and the Tennessee agtech ecosystem"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "the-yield-lab-north-america",
+    "name": "The Yield Lab (North America Accelerator)",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "St. Louis, MO, USA",
+    "focusAreas": [
+      "Agtech/Foodtech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$100,000 equity investment",
+    "equity": "Takes an equity stake in exchange for investment (specific percentage not publicly disclosed)",
+    "programLength": "9-month, non-residential, cohort-based program (five 2-day sessions held in St. Louis, MO over the course of the year)",
+    "format": "Hybrid (non-residential; periodic in-person sessions in St. Louis, MO plus remote mentorship and network access)",
+    "eligibility": "Early-stage agrifood technology companies with a strong management team, a clear vision, and a scalable business model.",
+    "applicationDeadline": "Rolling / reviewed as part of annual cohort selection — check theyieldlab.com for the current cycle's dates",
+    "applicationWindow": "Annual cohort, approximately 4-8 companies selected per year",
+    "applyLink": "https://www.theyieldlab.com/",
+    "website": "https://www.theyieldlab.com/",
+    "description": "The Yield Lab is a global network of agtech-focused venture funds and accelerators founded in 2015 to address the lack of early-stage capital in agriculture technology. Its St. Louis-based North America accelerator invests $100,000 in a small cohort of agrifood startups each year through a nine-month, non-residential program.",
+    "highlights": [
+      "$100,000 equity investment per company",
+      "Nine-month, non-residential program with periodic 2-day sessions in St. Louis, MO",
+      "Part of a global network spanning North America, Latin America, Europe, and Asia-Pacific with $163M+ AUM",
+      "Access to leading agriculture research institutions and industry mentors",
+      "Affiliated Yield Lab Institute runs additional programs like the H.A.R.V.E.S.T. AgTech cohort with research-institution partners"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "boost-vc",
+    "name": "Boost VC",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "San Mateo, CA, USA",
+    "focusAreas": [
+      "Web3/Crypto",
+      "Hardware",
+      "Deep Tech",
+      "Gaming/Media",
+      "Climate/Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500,000 investment",
+    "equity": "15% equity",
+    "programLength": "3 months (in-person cohort), run twice per year",
+    "format": "In-person, San Mateo, CA (housing and office space provided during the program)",
+    "eligibility": "Early-stage founders building deep technology across crypto/web3, space, biotech, health, climate, robotics, AI, and VR/AR/gaming.",
+    "applicationDeadline": "Rolling — apply anytime; two cohorts run per year",
+    "applicationWindow": "Two cohorts per year, rolling applications",
+    "applyLink": "https://www.boost.vc/apply",
+    "website": "https://www.boost.vc/",
+    "description": "Boost VC is a San Mateo, CA-based venture fund and accelerator that has run twice-yearly, in-person cohorts backing deep-tech and crypto founders since 2012, providing $500,000 for 15% equity plus housing and office space. Its portfolio includes Coinbase, Protocol Labs, and Colossal Biosciences.",
+    "highlights": [
+      "$500,000 for 15% equity, plus housing and office space during the 3-month cohort",
+      "Two in-person cohorts per year in San Mateo, CA",
+      "250+ portfolio companies have collectively raised over $1B since joining",
+      "Early investor in Coinbase, Protocol Labs, and Colossal Biosciences",
+      "Focus spans crypto/web3, robotics, climate, biotech, and gaming/VR-AR"
+    ],
+    "notableAlumni": [
+      "Coinbase",
+      "Protocol Labs",
+      "Colossal Biosciences"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "alliance-web3-accelerator",
+    "name": "Alliance (Alliance DAO)",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Web3/Crypto",
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500,000 investment",
+    "equity": "Investment via SAFE at a $5,000,000 post-money valuation, plus a 1:1 token side letter for crypto-native companies",
+    "programLength": "12 weeks total (2-week in-person onboarding + 10-week remote program)",
+    "format": "Hybrid — 2-week in-person onboarding in New York City, followed by 10 weeks fully remote",
+    "eligibility": "Early-stage crypto/web3 and fintech founders (teams or solo); open globally, with onboarding held in NYC.",
+    "applicationDeadline": "Cohort deadlines vary by cycle (recent cohorts used dates such as September 23 and November 18 for early/regular admission) — check alliance.xyz for the current cohort's exact deadline",
+    "applicationWindow": "Multiple cohorts per year",
+    "applyLink": "https://alliance.xyz/apply",
+    "website": "https://alliance.xyz/",
+    "description": "Alliance (formerly Alliance DAO) is a New York-based Web3 and crypto accelerator offering $500,000 in SAFE funding at a $5M post-money valuation plus a 1:1 token side letter, with a hybrid program combining in-person NYC onboarding and a remote 10-week build phase.",
+    "highlights": [
+      "$500,000 investment via SAFE at a $5M post-money valuation",
+      "1:1 token side letter for crypto-native teams",
+      "2-week in-person onboarding in New York City, then 10 weeks remote",
+      "Median alumni company has raised approximately $3.5M at a ~$25M post-money valuation after the program",
+      "Fast process — interview invites typically sent within 1 week of applying"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "revtech-labs-accelerator",
+    "name": "RevTech Labs Accelerator (formerly Queen City Fintech)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Charlotte, NC, USA",
+    "focusAreas": [
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $120,000 capital investment per company",
+    "equity": "Equity stake taken (RevTech Labs holds equity in portfolio companies; specific percentage not publicly disclosed)",
+    "programLength": "12 weeks (plus 2-3 weeks of prep work before kickoff)",
+    "format": "Hybrid — in-person kickoff week in Charlotte, NC, a mid-program roadshow, and an in-person program conclusion, with the remainder held virtually",
+    "eligibility": "Post-revenue, post-growth fintech and insurtech companies from anywhere in the world; international companies must show traction and clear interest in expanding into the U.S. market.",
+    "applicationDeadline": "Class 25 applications due August 2, 2026",
+    "applicationWindow": "Multiple classes/cohorts per year",
+    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScd7KLYPHtNjfoUKjdkA2BW0Gonh71-PhVbx22ku4a2f09pJg/viewform",
+    "website": "https://www.revtechlabs.co/",
+    "description": "RevTech Labs (rebranded from Queen City Fintech) is a Charlotte, NC-based accelerator for post-revenue fintech and insurtech companies, providing up to $120,000 in capital investment and a hybrid 12-week program with mentorship from bankers, VCs, and industry executives.",
+    "highlights": [
+      "Up to $120,000 capital investment per company",
+      "12-week hybrid program anchored in Charlotte, NC",
+      "200+ mentors including bankers, VCs, and attorneys",
+      "Focused exclusively on post-revenue fintech and insurtech companies",
+      "Formerly known as Queen City Fintech"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "atdc-accelerate",
+    "name": "ATDC Accelerate (Georgia Tech's Advanced Technology Development Center)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Atlanta, GA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Hardware",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No direct funding provided; ATDC helps founders prepare for fundraising and makes investor introductions",
+    "equity": "Equity-free (0% — no equity taken)",
+    "programLength": "Non-time-bound; companies typically stay in Accelerate for 1-3 years",
+    "format": "Hybrid — optional flexible office space at Georgia Tech's Tech Square in Atlanta, GA; virtual programming also available",
+    "eligibility": "Technology companies registered to do business in Georgia with at least 1 full-time and 1 part-time employee, an MVP in beta or on the market, and initial revenue or proven traction.",
+    "applicationDeadline": "Rolling — no fixed deadline; applications reviewed as received",
+    "applicationWindow": "Rolling, year-round",
+    "applyLink": "https://atdc.org/accelerate-program/",
+    "website": "https://atdc.org/",
+    "description": "ATDC is Georgia Tech's state-funded startup accelerator, founded in 1980, helping Georgia technology entrepreneurs build companies with zero equity taken. Its Accelerate program pairs founders with mentors, corporate pilot opportunities, and investor introductions for a $300 quarterly membership fee.",
+    "highlights": [
+      "Zero equity taken — ATDC is state-funded",
+      "Founded in 1980; 120+ graduate companies have raised $1B+ in outside financing",
+      "Six locations across Georgia plus flagship hub at Georgia Tech's Tech Square",
+      "$300 quarterly membership fee, no fixed program length",
+      "Distinct from Georgia Tech's CREATE-X student program — ATDC serves Georgia founders more broadly"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "comerica-hatch-detroit-contest",
+    "name": "Comerica Hatch Detroit Contest",
+    "category": "Competition",
+    "region": "US",
+    "country": "Detroit, MI, USA",
+    "focusAreas": [
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100,000 prize plus technical assistance and support services",
+    "equity": "Equity-free (0% — no equity taken; competition prize)",
+    "programLength": "4-month competition, from application through the 'Hatch Out' winner announcement event",
+    "format": "In-person, Detroit/Hamtramck/Highland Park, MI (winning business must open a physical storefront in one of these areas)",
+    "eligibility": "Entrepreneurs with a retail concept seeking to open their first brick-and-mortar storefront in Detroit, Hamtramck, or Highland Park, MI.",
+    "applicationDeadline": "Applications for the 2026 contest closed February 27, 2026; run annually by TechTown Detroit, with the next cycle expected to open around January 2027",
+    "applicationWindow": "Annual, applications typically open January-February",
+    "applyLink": "https://hatchdetroit.com/apply/",
+    "website": "https://hatchdetroit.com/",
+    "description": "The Comerica Hatch Detroit Contest, run by TechTown Detroit, is an annual $100,000 competition that helps one entrepreneur open a first brick-and-mortar retail storefront in Detroit, Hamtramck, or Highland Park, Michigan, alongside technical assistance and support services.",
+    "highlights": [
+      "$100,000 cash prize plus business support services",
+      "No equity taken — competition format",
+      "Run annually by TechTown Detroit since 2011",
+      "Requires opening a physical storefront in Detroit, Hamtramck, or Highland Park",
+      "Winner announced at a public 'Hatch Out' event"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "mastercard-start-path",
+    "name": "Mastercard Start Path",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "Purchase, NY, USA",
+    "focusAreas": [
+      "Fintech",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$0 direct cash investment (non-equity engagement program focused on co-innovation, mentorship, and network access; separate commercial pilots or investment via Mastercard's investment arm are possible but not guaranteed)",
+    "equity": "No equity taken (0% equity; non-investment engagement program)",
+    "programLength": "Varies by track, generally several months of structured co-innovation engagement",
+    "format": "Hybrid (virtual co-innovation sessions plus in-person events at Mastercard offices and partner hubs)",
+    "eligibility": "Startups with investment already raised (Seed, Series A, or later) with a market-ready product live in market and generating revenue; open globally including US-based companies working in payments, digital assets, cybersecurity, fintech, sustainability, and emerging technologies (including a new agentic commerce track added in 2026)",
+    "applicationDeadline": "Rolling; applications reviewed on an ongoing basis by track, no fixed annual deadline published",
+    "applicationWindow": "Rolling, by program track (Acceptance, Blockchain & Digital Assets, Emerging Fintech, Open Finance, Small Business, Security Solutions, Agentic Commerce)",
+    "applyLink": "https://www.mastercard.com/global/en/innovation/partner-with-us/start-path.html",
+    "website": "https://www.mastercard.com/global/en/innovation/partner-with-us/start-path.html",
+    "description": "Mastercard Start Path is Mastercard's global startup engagement program that partners with growth-stage fintech and technology companies on co-innovation, mentorship, and access to Mastercard's global network of banks, merchants, and partners. In January 2026 the program expanded to add an agentic commerce track alongside its existing acceptance, digital assets, emerging fintech, open finance, security, and small business tracks.",
+    "highlights": [
+      "No equity taken; structured as a co-innovation and business-development engagement rather than an investment",
+      "Multiple concurrent tracks including Emerging Fintech, Open Finance, Small Business, Security Solutions, and a new 2026 Agentic Commerce track",
+      "Targets startups with existing investment and revenue, not pre-seed/idea-stage companies",
+      "Access to Mastercard's global network of financial institutions and merchant partners"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "verizon-forward-for-good-accelerator",
+    "name": "Verizon Forward for Good Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Basking Ridge, NJ, USA",
+    "focusAreas": [
+      "Social Impact",
+      "Biotech/Health",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$50,000 in non-dilutive funding per selected startup",
+    "equity": "Equity-free (0% equity; non-dilutive funding)",
+    "programLength": "16 weeks per cohort",
+    "format": "Hybrid (virtual workshops and mentorship with in-person cohort events)",
+    "eligibility": "US-based, mission-driven startups using next-generation technology (5G, MEC, AI, XR, Big Data) to address a specific social-impact focus area; recent cohorts required founders with disabilities and disability-led leadership (Disability Innovation cohort) or health-equity-focused ventures (Health Equity cohort) — focus area rotates by cohort",
+    "applicationDeadline": "Not currently open; the most recent Disability Innovation cohort's application deadline was November 1 — check verizonforwardforgood.com for the next cohort's dates and focus area",
+    "applicationWindow": "Periodic cohorts with rotating social-impact themes (e.g., Disability Innovation, Health Equity)",
+    "applyLink": "https://www.verizonforwardforgood.com/",
+    "website": "https://www.verizonforwardforgood.com/",
+    "description": "Verizon Forward for Good Accelerator is Verizon's corporate social-impact accelerator for startups using 5G-enabled and emerging technology to tackle specific societal challenges, with each cohort focused on a rotating theme such as disability innovation or health equity. Selected startups receive $50,000 in non-dilutive funding plus mentorship, technology coaching, and community connections over a 16-week program.",
+    "highlights": [
+      "$50,000 in equity-free funding per selected startup",
+      "16-week program with mentorship, technology coaching, and workshops",
+      "Cohort theme rotates (past cohorts: Health Equity, Disability Innovation)",
+      "Access to speakers and mentors from the relevant community (e.g., disability community for the Disability Innovation cohort)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "t-mobile-accelerator",
+    "name": "T-Mobile Accelerator",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "Bellevue, WA, USA",
+    "focusAreas": [
+      "Hardware",
+      "Consumer",
+      "Biotech/Health",
+      "Enterprise"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$0 direct cash investment (non-equity program providing mentorship, network access, and 5G resources rather than funding; introductions to T-Mobile Ventures may occur separately)",
+    "equity": "No equity taken (0% equity; non-equity accelerator)",
+    "programLength": "Approximately 3 months per cohort, may extend depending on program goals",
+    "format": "Hybrid (virtual and in-person components, primarily at facilities in Bellevue, WA and Overland Park, KS)",
+    "eligibility": "Companies of any stage (single founders accepted) building on themes such as 5G, AR/XR, sports & entertainment tech, health tech, or enterprise software; startups from around the world can apply, though in-person activity is coordinated around Bellevue, WA and Overland Park, KS facilities",
+    "applicationDeadline": "Rolling; cohort themes and application windows are announced periodically on accelerator.t-mobile.com — no fixed annual deadline published",
+    "applicationWindow": "Rolling, cohort themes vary (e.g., past cohorts: Sports & Entertainment, Wellness Tech, Smart Glasses/AR)",
+    "applyLink": "https://www.accelerator.t-mobile.com/application",
+    "website": "https://www.accelerator.t-mobile.com/",
+    "description": "T-Mobile Accelerator is T-Mobile's non-equity corporate accelerator that pairs startups with T-Mobile business and technology leaders to build, test, and bring to market products leveraging T-Mobile's 5G network, with cohort themes that have included sports and entertainment, wellness tech, and AR smart glasses.",
+    "highlights": [
+      "Non-equity program — no funds exchanged for equity upon acceptance",
+      "Cohort themes rotate (recent examples: 5G AR smart glasses, sports/entertainment fan experiences, wellness tech)",
+      "Hybrid format based out of Bellevue, WA and Overland Park, KS",
+      "Access to T-Mobile's 5G network and business/technology mentors; potential later introductions to T-Mobile Ventures"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "sap-io-foundry",
+    "name": "SAP.iO Foundry",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "Newtown Square, PA, USA (SAP.iO Foundries include New York and San Francisco locations)",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$0 (equity-free program; no capital investment — value delivered through SAP technology access, customer/partner introductions, and go-to-market support)",
+    "equity": "Equity-free (0% equity; no capital and no equity exchanged)",
+    "programLength": "Approximately 13 weeks per cohort (varies by Foundry location and program)",
+    "format": "Hybrid (in-person programming at Foundry locations including New York and San Francisco, plus virtual mentoring)",
+    "eligibility": "Early- to growth-stage B2B startups building enterprise technology relevant to SAP's customer base; specific US cohorts have focused on women- and diverse-led startups (SAP.iO Foundry New York) and other verticals (e.g., travel & expense management in San Francisco); eligibility criteria vary by cohort/Foundry",
+    "applicationDeadline": "Rolling; SAP.iO periodically opens new cohort applications by Foundry location and theme — check sap.io/foundries/programs for current calls",
+    "applicationWindow": "Rolling, cohorts open periodically by Foundry location and theme",
+    "applyLink": "https://sap.io/foundries/programs/",
+    "website": "https://sap.io/",
+    "description": "SAP.iO Foundry is SAP's global network of equity-free corporate accelerators that help early-stage B2B enterprise startups build integrations and go-to-market relationships with SAP's customer and partner ecosystem. US Foundries have run cohorts in New York (including a program focused on women- and diverse-led startups) and San Francisco.",
+    "highlights": [
+      "Equity-free — no capital invested and no equity taken",
+      "Access to SAP's enterprise customer base, technology, and partner network",
+      "US Foundries have included cohorts specifically for women- and diverse-led enterprise tech founders (New York)",
+      "Part of a global network with additional Foundries in Berlin, Munich, Paris, Singapore, Tel Aviv, and Tokyo"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "salesforce-launchpad",
+    "name": "Salesforce Launchpad for Startups",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "AI/ML",
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$0 cash funding (program provides free and discounted Salesforce products/credits plus AI and go-to-market strategy guidance, not cash investment)",
+    "equity": "No equity taken (0% equity; free program, no investment or equity exchange)",
+    "programLength": "Ongoing membership (not a fixed-length cohort); application review takes about 5 business days",
+    "format": "Remote (virtual application review and ongoing digital/remote support; no required in-person residency)",
+    "eligibility": "Venture-backed startups of any stage and industry based in the US, Canada, or EMEA with external, verifiable funding (VC, venture debt, startup grant, or angel investment)",
+    "applicationDeadline": "Rolling; applications accepted on an ongoing basis with review within about 5 business days",
+    "applicationWindow": "Rolling / apply anytime",
+    "applyLink": "https://www.salesforce.com/launchpad/",
+    "website": "https://www.salesforce.com/launchpad/",
+    "description": "Salesforce Launchpad is Salesforce's free program for venture-backed startups, offering discounted Salesforce products, AI and go-to-market strategy guidance, and implementation support to help startups scale, with no cost or equity required to join.",
+    "highlights": [
+      "Free to join — no cost, no equity taken",
+      "Requires externally verifiable venture funding to qualify",
+      "Provides free/discounted Salesforce products (CRM, AI agents, data platform) plus GTM strategy guidance",
+      "Rolling applications reviewed within about 5 business days"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "cornell-elab",
+    "name": "eLab (Entrepreneurship at Cornell)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Ithaca, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$5,000 investment for teams that advance to the spring semester and incorporate their business, plus funding for customer discovery activities",
+    "equity": "Equity-free (no equity taken)",
+    "programLength": "Two semesters (fall: 1.5-credit course for all admitted teams; spring: 3-credit course for the ~12 teams that advance), roughly September through May",
+    "format": "In-person, Ithaca, NY campus (with a San Francisco startup trek and demo days in NYC, SF, and Ithaca)",
+    "eligibility": "Cornell University students on the Ithaca campus in the second half of an undergraduate degree, later stages of a PhD, or final year of a master's program; teams or individuals with a business idea",
+    "applicationDeadline": "August 30, 2026 (2026-27 cohort); interviews held during Labor Day week",
+    "applicationWindow": "Annual, applications open in summer for a fall start",
+    "applyLink": "https://www.elabstartup.com/apply/",
+    "website": "https://www.elabstartup.com/",
+    "description": "eLab is Cornell University's credit-bearing student startup accelerator, launching around a dozen real businesses each year through a two-semester program combining coursework, customer discovery, mentorship, and public pitch events in Ithaca, New York City, and San Francisco.",
+    "highlights": [
+      "No equity taken; $5,000 investment for teams that advance and incorporate",
+      "Two-semester program earning up to 4.5 Cornell SC Johnson College of Business credits",
+      "Includes a San Francisco startup trek and demo days in NYC, SF, and Ithaca",
+      "1:1 mentoring with experienced entrepreneurs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "ut-austin-texas-venture-labs",
+    "name": "Jon Brumley Texas Venture Labs (TVL) Accelerator",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech",
+      "Consumer"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$0 (no cash funding; provides up to approximately 300 hours of free graduate-student business consulting per startup instead of capital)",
+    "equity": "Equity-free (0% equity; no fees and no equity taken)",
+    "programLength": "One academic semester of consulting engagement",
+    "format": "Hybrid (in-person consulting sessions at UT Austin's McCombs School of Business plus virtual collaboration)",
+    "eligibility": "Texas-based startups at any stage with a working prototype or product, able to define 2-3 concrete consulting projects and engage with a graduate student team",
+    "applicationDeadline": "Rolling by semester; check mccombs.utexas.edu/centers-initiatives/brumley-institute for the current cycle",
+    "applicationWindow": "Rolling, by academic semester",
+    "applyLink": "https://www.mccombs.utexas.edu/centers-initiatives/brumley-institute/",
+    "website": "https://www.mccombs.utexas.edu/centers-initiatives/brumley-institute/",
+    "description": "The Jon Brumley Texas Venture Labs Accelerator, part of UT Austin's McCombs School of Business, matches Texas-based startups with cross-functional teams of UT Austin graduate students who provide free, no-equity business consulting on market research, strategy, and customer discovery.",
+    "highlights": [
+      "Completely free — no fees and no equity taken",
+      "Up to ~300 hours of graduate-student consulting per startup",
+      "Open to Texas-based startups of any industry or stage with a working product",
+      "Backed by UT Austin's McCombs School of Business"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "university-michigan-techarb",
+    "name": "TechArb Student Venture Accelerator (University of Michigan)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Ann Arbor, MI, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Unknown (program offers equity-free funding opportunities to admitted teams; exact amounts not publicly disclosed)",
+    "equity": "Equity-free (equity-free funding; no equity taken)",
+    "programLength": "Academic year-long program (fall and winter semesters) with an option to continue over the summer",
+    "format": "In-person, Ann Arbor, MI (dedicated office space on campus)",
+    "eligibility": "University of Michigan students (undergraduate or graduate) with an early-stage startup or venture idea, requiring at least one U-M student founder",
+    "applicationDeadline": "Rolling by semester; check cfe.umich.edu/techarb for the current cycle's dates",
+    "applicationWindow": "Rolling, applications typically open each semester",
+    "applyLink": "https://cfe.umich.edu/techarb/apply/",
+    "website": "https://cfe.umich.edu/techarb/",
+    "description": "TechArb is the University of Michigan's student venture accelerator, jointly run by the Center for Entrepreneurship and the Zell Lurie Institute for Entrepreneurial Studies, offering U-M student founders dedicated office space, mentorship, free legal and design counsel, and equity-free funding opportunities.",
+    "highlights": [
+      "Equity-free funding opportunities for admitted student teams",
+      "Dedicated office space on the University of Michigan campus",
+      "Mentor network spanning Michigan and the Bay Area",
+      "Free legal counsel and design consultation for participating teams"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "uchicago-polsky-new-venture-challenge",
+    "name": "University of Chicago Polsky Center New Venture Challenge (NVC)",
+    "category": "Competition",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "General/Any",
+      "Social Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Cash prizes plus SAFE investment (amounts vary by track and placement; not publicly fixed — since 1996 the program has helped launch 600+ startups that have collectively raised $2B+ and produced $11B+ in exits)",
+    "equity": "SAFE investment for winning teams (equity terms vary by track/placement; exact terms disclosed to applicants)",
+    "programLength": "Year-long program from fall kickoff through spring/June finals",
+    "format": "Hybrid (in-person workshops and finals in Chicago, IL, plus virtual coaching)",
+    "eligibility": "Four tracks: Chicago Booth MBA students (NVC), undergraduate students (College NVC), Executive MBA students (Global NVC), and students building social-impact ventures (Social NVC); eligible teams submit a business feasibility summary to apply",
+    "applicationDeadline": "Not currently open; the most recent cycle's feasibility-summary deadline was January 21, 2026 — the next cycle is expected to open around January (exact date not yet announced)",
+    "applicationWindow": "Annual, application opens in fall/winter for a program running through the following spring",
+    "applyLink": "https://polskyuchicago.submittable.com/submit/202970/new-venture-challenge",
+    "website": "https://polsky.uchicago.edu/programs-events/new-venture-challenge/",
+    "description": "The New Venture Challenge is the University of Chicago Polsky Center's flagship year-long business launch program and competition, with four tracks for Booth MBA, undergraduate, Executive MBA, and social-impact student founders, culminating in a final pitch competition for cash prizes and SAFE investment.",
+    "highlights": [
+      "Since 1996, has helped launch 600+ startups that have raised $2B+ and generated $11B+ in exits",
+      "Four tracks: NVC (Booth MBA), College NVC (undergrad), Global NVC (Executive MBA), Social NVC (impact ventures)",
+      "Cash prizes and SAFE investment for top teams",
+      "Backed by the University of Chicago's Polsky Center for Entrepreneurship and Innovation"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "cmu-venturebridge",
+    "name": "CMU VentureBridge (Swartz Center for Entrepreneurship)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Pittsburgh, PA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$25,000-$50,000 investment from CMU",
+    "equity": "Not publicly disclosed (CMU makes a $25K-$50K investment; exact equity/SAFE terms are shared with applicants upon acceptance)",
+    "programLength": "Full summer program (approximately 12 weeks) with demo days in NYC, Pittsburgh, and San Francisco",
+    "format": "Hybrid (virtual and in-person programming, with demo days in New York City, Pittsburgh, and San Francisco)",
+    "eligibility": "Startups with at least one Carnegie Mellon-affiliated founder (student, alumni, or faculty) working full-time on the venture; company must be US-incorporated and show early traction (e.g., 10-50 early customers for B2C, or 2-5 design partners/LOIs for B2B)",
+    "applicationDeadline": "Closed for the 2026 cycle; info sessions were held in January and March 2026 — check cmu.edu/swartz-center-for-entrepreneurship for the next cycle",
+    "applicationWindow": "Annual, applications open in winter/early spring for a summer program",
+    "applyLink": "https://www.cmu.edu/swartz-center-for-entrepreneurship/resources-funding-and-talent/venturebridge/about-venturebridge.html",
+    "website": "https://www.cmu.edu/swartz-center-for-entrepreneurship/resources-funding-and-talent/venturebridge/index.html",
+    "description": "CMU VentureBridge is a pre-seed fund and summer accelerator run by Carnegie Mellon's Swartz Center for Entrepreneurship, providing $25,000-$50,000 in funding, mentorship, and investor introductions to startups with a CMU-affiliated founder, with incubation space in Pittsburgh, New York City, and San Francisco.",
+    "highlights": [
+      "$25,000-$50,000 investment from CMU",
+      "Requires evidence of early customer/market traction to apply",
+      "Access to incubation space in San Francisco, New York City, and Pittsburgh",
+      "Demo days held across all three cities"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "nyu-endless-frontier-labs",
+    "name": "Endless Frontier Labs (NYU Stern)",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$0 direct funding (equity-free, fee-free mentorship and business-development program; does not provide direct capital)",
+    "equity": "Equity-free (no equity taken and no fees charged)",
+    "programLength": "Nine months, structured in eight-week increments",
+    "format": "Hybrid (in-person programming at NYU Stern in New York City plus structured virtual mentoring)",
+    "eligibility": "Early-stage science and deep-technology startup founders anywhere in the world; no NYU affiliation or relocation to New York required",
+    "applicationDeadline": "Applications for the 2026-27 cohort closed July 31, 2026; the program runs an annual cycle, so the next application window is expected to open in subsequent months",
+    "applicationWindow": "Annual, typically opens in spring for a fall cohort start",
+    "applyLink": "https://endlessfrontierlabs.com/apply/",
+    "website": "https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/centers/endless-frontier-labs",
+    "description": "Endless Frontier Labs is a nine-month, nonprofit mentorship program at NYU Stern for early-stage science and deep-technology founders worldwide, providing structured business and technical guidance from entrepreneurs, investors, and NYU faculty without charging fees or taking equity.",
+    "highlights": [
+      "No fees, no equity taken",
+      "Nine-month program in eight-week milestone increments",
+      "Open globally — no NYU affiliation or relocation required",
+      "Graduates have collectively raised over $3 billion, including two unicorns"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "on-deck-founders-odf",
+    "name": "On Deck Founders (ODF)",
+    "category": "Fellowship",
+    "region": "Global",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "$0 direct cash funding; provides over $800,000 in partner perks/credits (AWS, Stripe, Mercury, Carta, etc.) and lifetime community access",
+    "equity": "Non-dilutive; suggested pay-what-you-can contribution of $1,000 to cover venue, food, and community infrastructure (0% equity taken)",
+    "programLength": "One intensive in-person week, plus lifetime access to the ODF community and events",
+    "format": "In-person, San Francisco, CA (one-week onboarding), with ongoing remote community engagement",
+    "eligibility": "Aspiring and early-stage founders looking to find a co-founder, pressure-test an idea, or decide to start a company; selection via application, optional async video, and interview(s)",
+    "applicationDeadline": "ODF28 cohort kicks off Q3 2026; specific application deadline not publicly fixed — apply via joinodf.com for current cycle dates",
+    "applicationWindow": "Multiple cohorts per year (ODF numbers each cohort sequentially)",
+    "applyLink": "https://joinodf.com/",
+    "website": "https://joinodf.com/",
+    "description": "On Deck Founders (ODF) is On Deck's flagship founder fellowship, gathering 80-100 high-momentum builders in San Francisco for an intensive one-week program to find co-founders, pressure-test startup ideas, and commit to starting a company, followed by lifetime access to a 3,000+ member founder community and over $800,000 in partner perks.",
+    "highlights": [
+      "Non-dilutive; suggested $1,000 pay-what-you-can contribution, no equity taken",
+      "One-week in-person onboarding in San Francisco with 80-100 builders per cohort",
+      "Lifetime access to the 3,000+-member On Deck community and events",
+      "Over $800,000 in partner perks and credits (AWS, Stripe, Mercury, Carta, etc.)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "halcyon-us-health-accelerator",
+    "name": "Halcyon US Health Accelerator",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Washington, DC, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "Social Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$6,000 equity-free stipend per venture, plus $10,000 in AWS credits",
+    "equity": "Equity-free (0% equity; equity-free stipend)",
+    "programLength": "Approximately 5 months (June-November 2026)",
+    "format": "Hybrid (virtual kickoff and programming days, plus two one-week in-person residencies in the US, including Washington, DC)",
+    "eligibility": "US-based, for-profit health ventures with a technology component addressing women's health, underserved communities, or priority conditions (cancer, diabetes, cardiovascular disease, infectious disease, vaccines, primary care) via diagnostics, telehealth, financial inclusion, supply chain, or related solutions",
+    "applicationDeadline": "May 7, 2026 (2026 cohort eligibility/application deadline; program has passed for this cycle — check halcyonaccelerator.org for the next US Health Accelerator cycle)",
+    "applicationWindow": "Annual cycle; eligibility form followed by invitation to a full application",
+    "applyLink": "https://halcyon.acceleratorapp.co/apply/program/halcyon-open-application",
+    "website": "https://halcyonaccelerator.org/programs/us-health-accelerator-2026/",
+    "description": "The Halcyon US Health Accelerator is a fellowship-style program from the Halcyon Incubator for US-based, for-profit health-tech ventures, offering an equity-free stipend, AWS credits, and in-person residencies in the US (including Washington, DC) alongside virtual programming and mentorship.",
+    "highlights": [
+      "Equity-free $6,000 stipend plus $10,000 in AWS credits",
+      "Hybrid program with in-person residencies in the US and virtual programming days",
+      "Focused on US-based health ventures addressing underserved populations and priority conditions",
+      "Part of Halcyon's broader network of equity-free fellowship/accelerator programs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "nasa-sbir-sttr",
+    "name": "NASA SBIR/STTR",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; NASA headquartered in Washington, DC)",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "AI/ML",
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I: up to $225,000 (~6-month effort); Phase II: award ceilings vary by appendix/topic (historically up to $850,000 over ~24 months), plus up to $50,000 in optional Technical and Business Assistance (TABA) funding",
+    "equity": "0% equity — no equity taken; non-dilutive federal award (contract or grant depending on instrument used)",
+    "programLength": "Phase I: approximately 6 months; Phase II: approximately 24 months",
+    "format": "Remote (proposals submitted and reviewed electronically; no residency required)",
+    "eligibility": "US-owned, for-profit small business with 500 or fewer employees; principal investigator must be primarily employed by the small business at time of award and during the project. Open to startups with aerospace/space-relevant dual-use technology — no prior NASA funding required.",
+    "applicationDeadline": "Rolling under a new structure — for Program Year 2026, NASA replaced its single annual solicitation with a standing Broad Agency Announcement (BAA, valid through Sept. 30, 2027) that releases topic appendices periodically; 2026 Appendix A (SBIR) and Appendix B (SBIR + STTR) closed May 21, 2026, with additional appendices announced on a rolling basis",
+    "applicationWindow": "Formerly one annual cycle; now a rolling BAA with multiple topic appendices opening throughout the year — check the NASA SBIR/STTR site for currently open appendices",
+    "applyLink": "https://www.nasa.gov/sbir_sttr/nasa-sbir-sttr-program-program-year-2026-information-hub/",
+    "website": "https://www.nasa.gov/sbir-sttr/",
+    "description": "NASA's SBIR/STTR program funds small businesses to develop innovative technologies addressing NASA mission needs across aeronautics, human exploration, science, and space technology, with a path to commercialization in both government and private markets. For Program Year 2026, NASA moved from a single annual solicitation to a rolling Broad Agency Announcement that releases new topic appendices throughout the year.",
+    "highlights": [
+      "Phase I awards up to $225,000; Phase II awards historically up to $850,000",
+      "2026 shift to a rolling BAA structure means new topic windows open periodically rather than once a year",
+      "Up to $50,000 in additional Technical and Business Assistance (TABA) funding available to Phase II awardees",
+      "No prior NASA funding or academic affiliation required — open directly to startups and small businesses"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "usda-sbir-nifa",
+    "name": "USDA SBIR (National Institute of Food and Agriculture)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; USDA NIFA headquartered in Kansas City, MO)",
+    "focusAreas": [
+      "Agtech/Foodtech",
+      "Climate/Impact",
+      "Deep Tech",
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I: typically $100,000–$175,000 for ~8 months; Phase II: up to $600,000 over 2 years",
+    "equity": "0% equity — no equity taken; non-dilutive federal grant",
+    "programLength": "Phase I: approximately 8 months; Phase II: approximately 24 months",
+    "format": "Remote (proposals submitted via Grants.gov; no residency required)",
+    "eligibility": "US-owned, for-profit small business with 500 or fewer employees, proposing R&D in one of USDA's ~10 SBIR topic areas (e.g., food science/nutrition, plant/animal production, forests, rural/community development, ag engineering, aquaculture). No prior USDA funding required.",
+    "applicationDeadline": "USDA typically runs one Phase I deadline per fiscal year (historically September/October) and one Phase II deadline (historically March/April); check the current Notice of Funding Opportunity on Grants.gov, as exact 2026/2027 dates are set annually",
+    "applicationWindow": "Annual — one Phase I cycle and one Phase II cycle per fiscal year",
+    "applyLink": "https://www.nifa.usda.gov/grants/programs/small-business-innovation-research-program-sbir",
+    "website": "https://www.nifa.usda.gov/grants/programs/small-business-innovation-research-program-sbir",
+    "description": "USDA's SBIR program, administered by NIFA, provides competitively awarded, non-dilutive grants to small businesses developing innovative agriculture-related technologies, spanning food science, agricultural engineering, forestry, aquaculture, and rural development. It is one of 11 federal agencies participating in the SBIR program established under the Small Business Innovation Development Act.",
+    "highlights": [
+      "Phase I: $100K–$175K; Phase II: up to $600K",
+      "Covers 10 broad agriculture-related topic areas",
+      "Technical and Business Assistance (TABA) support available alongside awards",
+      "One Phase I and one Phase II deadline per fiscal year"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "navy-sbir-sttr",
+    "name": "Navy SBIR/STTR (Department of the Navy)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; Department of the Navy headquartered in Arlington, VA)",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Deep Tech",
+      "Hardware",
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I: up to $240,000 (base up to $140,000 plus option up to $100,000); Phase II: up to $2,000,000 including options and Technical and Business Assistance (TABA) funding",
+    "equity": "0% equity — no equity taken; non-dilutive federal contract award",
+    "programLength": "Phase I: approximately 6 months (base plus option); Phase II: approximately 18–24 months",
+    "format": "Remote (proposals submitted electronically; some topics include optional pitch/demo days)",
+    "eligibility": "US-owned, for-profit small business with 500 or fewer employees, proposing dual-use technology relevant to Navy/Marine Corps needs. Open to startups with no prior Navy contracting history.",
+    "applicationDeadline": "Rolling across multiple 'Releases' per fiscal year rather than one deadline — FY26 Release 3 proposal window ran June 24–July 22, 2026, and a Release 4 topic set (DON26BZ04) has since been posted; check navysbir.com or dodsbirsttr.mil for the current open window",
+    "applicationWindow": "Multiple solicitation 'Releases' per fiscal year (conventional BAA topics plus Commercial Solutions Opening areas of interest)",
+    "applyLink": "https://www.navysbir.com/",
+    "website": "https://www.navysbir.com/",
+    "description": "The Department of the Navy's SBIR/STTR program funds small businesses to develop technology addressing naval and Marine Corps priorities such as quantum, AI, autonomy, and contested logistics. Unlike single-deadline agencies, the Navy releases several solicitation 'Releases' per fiscal year, giving founders multiple entry points annually.",
+    "highlights": [
+      "Phase I up to $240K; Phase II up to $2M including TABA",
+      "Multiple solicitation Releases per year instead of one annual deadline",
+      "Includes both conventional BAA topics and Commercial Solutions Opening (CSO) tracks for faster, more commercial-style proposals",
+      "Recent FY26 Release 3 focused on quantum, AI, and contested logistics topics"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "army-sbir-sttr",
+    "name": "Army SBIR/STTR",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; Department of the Army headquartered in Arlington, VA)",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Deep Tech",
+      "Hardware",
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I: up to $300,000 (1–6 months); Phase II: up to $2,000,000 (12–18 months)",
+    "equity": "0% equity — no equity taken; non-dilutive federal contract award",
+    "programLength": "Phase I: 1–6 months; Phase II: 12–18 months",
+    "format": "Remote (white paper and proposal submission conducted electronically)",
+    "eligibility": "US-owned, for-profit small business with 500 or fewer employees, proposing technology relevant to Army modernization priorities. Process begins with a short white paper before a full proposal is invited.",
+    "applicationDeadline": "Rolling — the Army releases topics across three solicitation periods per fiscal year; currently posted topics close August 5, 2026 and August 19, 2026 (check armysbir.army.mil for the live topic list)",
+    "applicationWindow": "Three solicitation periods per fiscal year, each with its own topic list and deadlines",
+    "applyLink": "https://armysbir.army.mil/",
+    "website": "https://armysbir.army.mil/",
+    "description": "The Army SBIR/STTR program funds small businesses to develop technology aligned with Army modernization priorities, using a white-paper-first process before inviting full proposals. It runs three solicitation periods per fiscal year rather than a single annual deadline, and connects to Army prize competitions (xTech) as an alternate on-ramp.",
+    "highlights": [
+      "Phase I up to $300K; Phase II up to $2M",
+      "White-paper-first process lowers the initial submission burden",
+      "Three solicitation periods per fiscal year",
+      "xTech prize competition winners can be fast-tracked into a Phase I SBIR proposal"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "army-xtech-prize-competitions",
+    "name": "Army xTech Prize Competitions",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide competition; administered by the U.S. Army)",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Varies by named competition — e.g., xTech|Inversion: up to 12 finalists receive $20,000 each, up to 5 final winners receive an additional $150,000, and final winners may submit a Phase I Army SBIR proposal worth up to $300,000; other competitions (e.g., xTech|Phantom, up to $200,000 in total cash prizes with $20,000 per winner) follow a similar tiered cash-prize-plus-SBIR-eligibility structure",
+    "equity": "0% equity — no equity taken; non-dilutive cash prize plus eligibility for a non-dilutive follow-on SBIR contract",
+    "programLength": "Individual competitions run several months from white paper submission through pitch events to final award",
+    "format": "Hybrid (online white paper submission plus in-person or virtual pitch/demo events)",
+    "eligibility": "Open to small, medium, and large U.S. and allied-country businesses, including non-traditional defense contractors and startups with no prior Army contracting experience; specific eligibility criteria vary by named competition",
+    "applicationDeadline": "Rolling — the Army runs several named competitions in parallel or in sequence throughout the year (e.g., xTech|Inversion, xTech|Phantom, xTech|Apex Intercept, xTech|Adaptive Strike, xTech|Kinetic Reach); check xtech.army.mil for currently open competitions and their individual deadlines",
+    "applicationWindow": "Multiple named prize competitions launch throughout the fiscal year, each with its own submission window",
+    "applyLink": "https://xtech.army.mil/",
+    "website": "https://xtech.army.mil/",
+    "description": "Army xTech is a series of prize competitions that connect small businesses and startups to the Army through cash prizes for technology pitches, with top performers fast-tracked toward Army SBIR Phase I contracts. It's designed as a lower-friction on-ramp into Army funding than a traditional SBIR proposal, using white papers and pitch events instead of lengthy technical proposals.",
+    "highlights": [
+      "Cash prizes (commonly $20,000–$150,000+ per winner depending on competition) with no equity taken",
+      "Top performers can be fast-tracked into an Army SBIR Phase I award (up to $300,000)",
+      "Open to businesses of any size, including first-time government contractors",
+      "Multiple named competitions run throughout the year, each themed around a specific Army technology challenge"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "diu-commercial-solutions-opening",
+    "name": "Defense Innovation Unit (DIU) Commercial Solutions Opening",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; DIU headquartered at Moffett Field, Mountain View, CA)",
+    "focusAreas": [
+      "Govtech/Defense",
+      "AI/ML",
+      "Deep Tech",
+      "Hardware",
+      "Cybersecurity"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Prototype Other Transaction Agreements (OTAs) typically start around $500,000 and scale to multi-million-dollar awards depending on the problem statement; DIU's overall FY2026 funding was reported at approximately $979 million across its full portfolio",
+    "equity": "0% equity — no equity taken; companies retain full IP ownership; non-dilutive prototype contract (Other Transaction Agreement), not a traditional grant",
+    "programLength": "Prototype OTA period typically 12–24 months, with potential transition to a follow-on production contract",
+    "format": "Hybrid (solution briefs submitted online; finalists invited to pitch/demo in person or virtually)",
+    "eligibility": "Any individual or commercial entity is eligible to respond — no prior government contracting experience required. DIU favors solutions that are already commercially deployed or demonstrable as a working prototype within months, so early pre-product startups are less likely to be competitive.",
+    "applicationDeadline": "Rolling — new Commercial Solutions Openings are posted continuously around specific DoD problem statements (e.g., counter-UAS sensing, adaptive manufacturing); no single fixed deadline",
+    "applicationWindow": "Continuous; each individual CSO area of interest has its own submission window, typically open for a few weeks to a couple of months",
+    "applyLink": "https://www.diu.mil/work-with-us/open-solicitations",
+    "website": "https://www.diu.mil/work-with-us",
+    "description": "DIU is the Department of Defense's fast-track commercial technology unit, using Commercial Solutions Openings (CSOs) and Other Transaction Authority to award prototype agreements to companies with dual-use technology relevant to specific military problems. It is built for speed — prototype agreements can be awarded in as few as 60–90 days — and is explicitly open to companies with no prior defense contracting experience.",
+    "highlights": [
+      "Prototype OTAs typically start near $500,000 and can scale into the millions",
+      "Awards possible in as few as 60–90 days from submission",
+      "Companies keep full ownership of IP created during the effort",
+      "Successful prototypes can transition to non-competitive production contracts without re-competing"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "dhs-st-sbir",
+    "name": "DHS S&T SBIR",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; DHS Science and Technology Directorate headquartered in Washington, DC)",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Cybersecurity",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I: up to $175,000 for approximately 5–6 months; Phase II: up to $1,000,000–$1,500,000 for approximately 24–36 months",
+    "equity": "0% equity — no equity taken; non-dilutive federal contract award",
+    "programLength": "Phase I: approximately 5–6 months; Phase II: approximately 24–36 months",
+    "format": "Remote (proposals submitted electronically)",
+    "eligibility": "US-owned, for-profit small business with 500 or fewer employees, proposing homeland-security-relevant technology serving DHS components such as CBP, TSA, USCG, CISA, FEMA, or Secret Service.",
+    "applicationDeadline": "DHS S&T has historically issued one SBIR solicitation cycle per fiscal year (recent cycles have opened around January); check dhs.gov/science-and-technology/sbir and sbir.gov for the current solicitation dates, as no active cycle was confirmed open at time of writing",
+    "applicationWindow": "Approximately annual, single solicitation cycle per fiscal year",
+    "applyLink": "https://www.dhs.gov/science-and-technology/sbir",
+    "website": "https://www.dhs.gov/science-and-technology/sbir",
+    "description": "DHS S&T's SBIR program funds small businesses developing technology for homeland security missions spanning border security, transportation security, cybersecurity, and disaster response, across DHS operational components. It follows the standard two-phase SBIR structure with an annual solicitation cycle.",
+    "highlights": [
+      "Phase I up to $175K; Phase II up to $1.0M–$1.5M",
+      "Topics span across DHS components including CBP, TSA, Coast Guard, CISA, and FEMA",
+      "One solicitation cycle per fiscal year",
+      "Part of the standard 11-agency federal SBIR program"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "dot-sbir",
+    "name": "US DOT SBIR (Volpe Center)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; administered by the Volpe National Transportation Systems Center, Cambridge, MA)",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "Climate/Impact",
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I: approximately $200,000–$300,000 per topic (FY2026 cycle); Phase II award amounts set per solicitation",
+    "equity": "0% equity — no equity taken; non-dilutive federal contract award",
+    "programLength": "Phase I: several months of feasibility work; Phase II: extended development period set per solicitation",
+    "format": "Remote (proposals submitted electronically)",
+    "eligibility": "US-owned, for-profit small business with 500 or fewer employees, proposing technology relevant to one of DOT's operating administrations (e.g., FTA, PHMSA, FRA, FHWA), spanning topics like AI trip planning, hazmat safety coatings, battery fire suppression, and vehicle-to-everything (V2X) congestion tools.",
+    "applicationDeadline": "The FY2026 Phase I solicitation closed July 7, 2026 (after a pre-solicitation period from April 29–May 29, 2026), with award recommendations expected roughly 90 days later (around mid-October 2026); the next cycle (FY2027) is expected to open in spring 2027 — check volpe.dot.gov for the announcement",
+    "applicationWindow": "One Phase I cycle per fiscal year, typically opening in spring",
+    "applyLink": "https://www.volpe.dot.gov/work-us/small-business-innovation-research",
+    "website": "https://www.volpe.dot.gov/work-us/small-business-innovation-research",
+    "description": "The US DOT SBIR program, run through the Volpe National Transportation Systems Center, funds small businesses developing transportation safety and technology solutions across highway, rail, transit, and pipeline/hazmat domains. It runs one Phase I solicitation cycle per fiscal year with topics set by DOT's individual operating administrations.",
+    "highlights": [
+      "FY2026 topics spanned AI trip planning, hazmat coatings, battery fire suppression, and V2X congestion tools",
+      "Phase I awards around $200K–$300K per topic",
+      "One Phase I cycle per fiscal year, typically opening in spring",
+      "Topics sourced from FTA, PHMSA, FRA, FHWA, and the Volpe Center itself"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "epa-sbir",
+    "name": "EPA SBIR",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; EPA headquartered in Washington, DC)",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech",
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase I: up to $100,000 for 6 months; Phase II: up to $400,000 over 2 years, plus up to $100,000 in additional matching funds if the recipient secures equivalent third-party investment during the project period",
+    "equity": "0% equity — no equity taken; non-dilutive federal contract award",
+    "programLength": "Phase I: 6 months; Phase II: 2 years",
+    "format": "Remote (proposals submitted electronically)",
+    "eligibility": "US-owned, for-profit small business with 500 or fewer employees, developing environmental technology addressing EPA priority areas: clean and safe water, air quality, land revitalization, homeland security, sustainable materials management/circular economy, and safer chemicals.",
+    "applicationDeadline": "EPA issues one annual SBIR solicitation; check epa.gov/sbir/sbir-funding-opportunities and sbir.gov for the current open or upcoming cycle, as no active deadline was confirmed open at time of writing",
+    "applicationWindow": "Annual, single solicitation cycle",
+    "applyLink": "https://www.epa.gov/sbir",
+    "website": "https://www.epa.gov/sbir",
+    "description": "EPA's SBIR program funds small businesses developing and commercializing environmental technologies across water, air quality, land revitalization, and chemical safety, and has operated for nearly 40 years as one of the original 11 federal SBIR agencies. Phase II awardees can also access an additional matching-funds incentive tied to third-party investment.",
+    "highlights": [
+      "Phase I up to $100K; Phase II up to $400K",
+      "Additional $100K in matching funds available if a Phase II awardee secures equivalent outside investment",
+      "Focus areas include clean water, air quality, land revitalization, and safer chemicals",
+      "One of the original 11 federal agencies participating in SBIR"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "noaa-sbir",
+    "name": "NOAA SBIR (Department of Commerce)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; NOAA headquartered in Silver Spring, MD)",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech",
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Historically, Phase I awards up to approximately $175,000–$190,000; Phase II amounts set per solicitation (typically several hundred thousand dollars)",
+    "equity": "0% equity — no equity taken; non-dilutive federal contract award",
+    "programLength": "Phase I and Phase II lengths set per solicitation (typically ~6 months and ~24 months respectively, consistent with standard SBIR structure)",
+    "format": "Remote (proposals submitted electronically)",
+    "eligibility": "US-owned, for-profit small business with 500 or fewer employees, developing technology relevant to NOAA's mission areas: climate, weather, oceans, fisheries, satellites, and charting/surveying, with recent strategic focus on citizen science, data/cloud computing, uncrewed systems, AI, and 'omics.",
+    "applicationDeadline": "Not currently open — NOAA has confirmed there will be no FY2026 SBIR funding announcement; the next funding announcement is expected to be posted on Grants.gov after October 1, 2026 for FY2027",
+    "applicationWindow": "Normally annual; paused for FY2026, expected to resume for FY2027",
+    "applyLink": "https://techpartnerships.noaa.gov/sbir/",
+    "website": "https://techpartnerships.noaa.gov/sbir/",
+    "description": "NOAA's SBIR program, administered under the Department of Commerce through NOAA's Technology Partnerships Office, funds small businesses developing technology in climate, weather, ocean, fisheries, and satellite domains. NOAA has confirmed it will not issue a new SBIR funding announcement in FY2026, with the next cycle expected to open after October 1, 2026 for FY2027 — founders should watch Grants.gov for that posting.",
+    "highlights": [
+      "Historic Phase I awards around $175K–$190K",
+      "Strategic focus areas include AI, uncrewed systems, cloud computing, and citizen science",
+      "No FY2026 solicitation — next cycle (FY2027) expected after October 1, 2026",
+      "One of the original 11 federal agencies participating in SBIR (housed within the Department of Commerce)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "ed-ies-sbir",
+    "name": "Department of Education IES SBIR (EdTech)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; Institute of Education Sciences headquartered in Washington, DC)",
+    "focusAreas": [
+      "General/Any",
+      "Social Impact"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Phase IA (new education technology): $250,000 for 9 months; Phase IB (new component for an existing research-based product): $250,000 for 9 months; Direct-to-Phase-II (commercializing an existing evidence-based innovation): $1,000,000 for 2 years; standard Phase II (following IA/IB): $1,000,000 for 2 years",
+    "equity": "0% equity — no equity taken; non-dilutive federal grant",
+    "programLength": "Phase IA/IB: 9 months; Phase II / Direct-to-Phase-II: 2 years",
+    "format": "Remote (proposals submitted electronically via SAM.gov-registered entities)",
+    "eligibility": "US-owned, for-profit small business developing education technology products; Direct-to-Phase-II track specifically requires the underlying innovation to have originated from prior university or nonprofit research-based development, which narrows that track's eligibility beyond pure startups.",
+    "applicationDeadline": "Closed for FY2026 — Phase IA/IB and Direct-to-Phase-II proposals were due June 29, 2026; a new FY2027 solicitation is expected to be announced by IES in the months following",
+    "applicationWindow": "Annual, single deadline per fiscal year",
+    "applyLink": "https://ies.ed.gov/funding/research/programs/small-business-innovation-research-sbir/solicitation-information",
+    "website": "https://ies.ed.gov/funding/research/programs/small-business-innovation-research-sbir/solicitation-information",
+    "description": "The Institute of Education Sciences' SBIR program funds small businesses building education technology products, ranging from entirely new tools (Phase IA) to new components of existing research-based products (Phase IB) to commercialization of evidence-based innovations developed in academic or nonprofit settings (Direct-to-Phase-II). It is the federal government's primary SBIR channel specifically for edtech.",
+    "highlights": [
+      "Phase IA/IB: $250K for 9 months; Phase II: $1M for 2 years",
+      "Direct-to-Phase-II track available for commercializing existing evidence-based education research",
+      "FY2026 deadline (June 29, 2026) has passed — next cycle expected for FY2027",
+      "Requires SAM.gov registration and a Unique Entity Identifier (UEI) to apply"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "nsf-i-corps",
+    "name": "NSF I-Corps",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide program; NSF headquartered in Alexandria, VA)",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML",
+      "Biotech/Health",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "National Teams award: up to $50,000, covering an Entrepreneurial Lead stipend (up to $15,000), Technical Lead stipend (up to $10,000), Industry Mentor compensation (up to $3,000), the $10,000 program participation fee, and customer-discovery travel/expenses",
+    "equity": "0% equity — no equity taken; non-dilutive federal training grant/stipend",
+    "programLength": "7-week intensive National Teams training program (following required local/regional I-Corps Site or Node training)",
+    "format": "Hybrid (weekly virtual sessions plus in-person kickoff/close-out meetings and customer-discovery travel)",
+    "eligibility": "Teams of three: an Entrepreneurial Lead, a Technical Lead, and an Industry Mentor. To qualify for National Teams funding, the underlying technology must trace to an NSF award that is currently active or was active within the past 5 years, OR the team must first complete a local/regional NSF I-Corps Site/Node training to establish eligibility — meaning this program is most directly accessible to research-derived (often academic spinout) startups rather than fully independent startups with no NSF/research lineage.",
+    "applicationDeadline": "Rolling — National Teams proposals are accepted on an ongoing basis, with monthly informational webinars held before applying and cohorts starting periodically throughout the year",
+    "applicationWindow": "Rolling / continuous acceptance of proposals with periodic cohort start dates",
+    "applyLink": "https://www.nsf.gov/funding/initiatives/i-corps",
+    "website": "https://www.nsf.gov/funding/initiatives/i-corps",
+    "description": "NSF I-Corps is an intensive, 7-week customer-discovery training program (not a traditional SBIR grant) that helps teams validate a commercialization path for research-derived technology, requiring at least 100 customer interviews during the program. Since its 2012 launch, more than 2,500 teams have participated and nearly 1,400 startups have launched out of the program, collectively raising over $3.16 billion in follow-on funding.",
+    "highlights": [
+      "Up to $50,000 per National Team, covering stipends, the program fee, and customer-discovery travel",
+      "Mandatory minimum of 100 customer interviews completed during the 7-week program",
+      "Nearly 1,400 startups launched by alumni teams since 2012, raising a cumulative $3.16B+",
+      "Eligibility requires an NSF award nexus or prior completion of a regional I-Corps Site/Node training — best suited to research-derived (often academic spinout) startups"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "amber-grant-for-women",
+    "name": "Amber Grant for Women",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$10,000 (three monthly Amber Grants awarded every month); three of the year's monthly winners go on to receive an additional $50,000 Year-End Grant; separate Startup Grants (for idea-stage or under-$10K-revenue businesses) and monthly Business Category Grants also run alongside it",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "One-time award",
+    "format": "Remote (online application)",
+    "eligibility": "Women-owned or women-led, for-profit US businesses of any stage, including idea-phase startups; a single universal application makes applicants eligible for the Monthly Grant plus any Startup or Business Category grants they qualify for",
+    "applicationDeadline": "Rolling monthly — applications due the last day of each month (e.g., August 31, 2026); winners announced by the 21st of the following month",
+    "applicationWindow": "Monthly cycles, year-round",
+    "applyLink": "https://ambergrantsforwomen.com/get-an-amber-grant/",
+    "website": "https://ambergrantsforwomen.com/",
+    "description": "Run by WomensNet since 1998 in memory of Amber Wigdahl, the Amber Grant gives out at least $30,000 every month to women entrepreneurs through three separate $10,000 grants. One short universal application covers eligibility for the Monthly Grant as well as any Startup Grant or monthly Business Category Grant the applicant qualifies for, and top monthly winners compete for an additional $50,000 Year-End Grant.",
+    "highlights": [
+      "Three $10,000 grants awarded every month, no restrictions on industry",
+      "Dedicated Startup Grant track for idea-phase or pre-$10K-revenue businesses",
+      "One simple application (no long forms) covers multiple grant tracks at once",
+      "Three monthly winners per year advance to a $50,000 Year-End Grant"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "cartier-womens-initiative",
+    "name": "Cartier Women's Initiative",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global — 9 regions including North America",
+    "focusAreas": [
+      "Social Impact"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$100,000 (1st place), $60,000 (2nd place) or $30,000 (3rd place) grant per region, awarded across 9 regions worldwide including North America",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "One-time grant plus 1-year Fellowship (coaching, workshops, peer network)",
+    "format": "Hybrid (online application; in-person Fellowship events and awards ceremony)",
+    "eligibility": "For-profit, revenue-generating, impact-driven businesses; applicant must be a woman in a top leadership role (CEO/COO/CTO, etc.) who owns a stake greater than or equal to any co-founder's; $50,000–$5M in annual revenue, 5–250 team members, max $2M in dilutive funding raised to date, business at least 18 months old",
+    "applicationDeadline": "Closed for the current (2027) edition — deadline was June 16, 2026; laureates announced spring 2027. Next application cycle expected to open in early 2027",
+    "applicationWindow": "Annual cycle (opens ~January, closes mid-June)",
+    "applyLink": "https://www.cartierwomensinitiative.com/regional-awards",
+    "website": "https://www.cartierwomensinitiative.com/",
+    "description": "Cartier's global award for women-led, impact-driven businesses selects three winners in each of 9 world regions (including North America), granting $100,000/$60,000/$30,000 non-dilutive cash awards plus a year of coaching, workshops, and access to Cartier's investor and mentor network.",
+    "highlights": [
+      "Up to $100,000 non-dilutive grant for regional first-place winners",
+      "North America is one of 9 eligible regions, open to US-based founders",
+      "1-year Fellowship with 1:1 executive coaching and peer cohort",
+      "Caps dilutive funding raised at $2M, favoring early/growth-stage founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "tory-burch-foundation-fellows-program",
+    "name": "Tory Burch Foundation Fellows Program",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "USA (nationwide)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$5,000 grant per Fellow (50 Fellows selected annually), plus access to an interest-free small business loan through Kiva and in-kind business education",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "1-year fellowship",
+    "format": "Hybrid (virtual workshops/coaching plus an in-person Summit in New York City)",
+    "eligibility": "Majority woman-owned/founded, for-profit US businesses with $75,000–$1,000,000 in annual revenue",
+    "applicationDeadline": "2026 cohort applications closed November 11, 2025 at 11:59 PM ET; program reopens annually in late September — next cycle expected to open around September 2026",
+    "applicationWindow": "Annual (opens late September, closes mid-November)",
+    "applyLink": "https://fellows.toryburchfoundation.org/",
+    "website": "https://www.toryburchfoundation.org/fellows/",
+    "description": "The Tory Burch Foundation selects 50 women entrepreneurs a year for a yearlong Fellows Program combining a $5,000 business grant, workshops, 1:1 coaching, an interest-free Kiva loan option, and an invitation to the Foundation's annual Summit in New York City.",
+    "highlights": [
+      "$5,000 non-dilutive grant plus access to interest-free Kiva capital",
+      "50 Fellows selected per year from a national applicant pool",
+      "Yearlong programming: workshops, coaching, and a NYC Summit",
+      "Requires existing revenue ($75K–$1M), so best fit for post-launch founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "ifundwomen-universal-grant-application",
+    "name": "IFundWomen Universal Grant Application",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Varies by matched partner grant — typically $5,000–$25,000 in cash from corporate partners (e.g., Visa, American Express, adidas, Caress, Johnnie Walker); a single applicant may be matched to and awarded multiple partner grants over time",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "One-time award per matched grant",
+    "format": "Remote (online application)",
+    "eligibility": "Women entrepreneurs and small business owners in the US, open to any industry or stage; one ~10-minute application is used to match founders against the eligibility criteria of IFundWomen's rotating roster of corporate-sponsored grants",
+    "applicationDeadline": "Rolling — no fixed deadline; applicants are notified if/when they match an open partner grant",
+    "applicationWindow": "Rolling, year-round",
+    "applyLink": "https://www.ifundwomen.com/grants/apply-for-grants",
+    "website": "https://www.ifundwomen.com/",
+    "description": "IFundWomen (now operating under Honeycomb Credit) runs a single Universal Grant Application that matches women-owned businesses to whichever of its corporate-sponsored grant programs they qualify for, plus business coaching and access to its founder network — rather than being one fixed grant, it's a matching engine across many.",
+    "highlights": [
+      "One universal application unlocks eligibility for multiple rotating corporate grants",
+      "Historical partners include Visa, American Express, and adidas",
+      "No cost to apply; matched businesses are notified directly",
+      "Open to all industries and business stages"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "google-for-startups-black-founders-fund-us",
+    "name": "Google for Startups Black Founders Fund: United States",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $150,000 in equity-free cash, plus up to $100,000 in Google Cloud credits",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "6-month program (cash award plus ongoing mentorship)",
+    "format": "Hybrid (virtual mentorship and support with in-person events)",
+    "eligibility": "US-based, Black-led startups (at least one founder or C-level executive identifies as Black); Google prioritizes tech-enabled ventures with demonstrated traction or strong growth potential",
+    "applicationDeadline": "US applications for the current cohort opened March 19, 2026; exact close date not published — confirm current window on the official page",
+    "applicationWindow": "Annual cohort cycle",
+    "applyLink": "https://startup.google.com/programs/black-founders-fund/united-states/",
+    "website": "https://startup.google.com/programs/black-founders-fund/united-states/",
+    "description": "Google for Startups' Black Founders Fund gives Black-led US startups up to $150,000 in equity-free cash plus Google Cloud credits, mentorship, and product support. The program has awarded more than $40 million to Black-led startups since launching in 2020.",
+    "highlights": [
+      "Up to $150,000 equity-free cash award",
+      "Additional $100K in Google Cloud credits and hands-on Google mentorship",
+      "Over $40M awarded to Black-led US startups since 2020",
+      "No pitch deck or product required to start the application"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "google-for-startups-latino-founders-fund",
+    "name": "Google for Startups Latino Founders Fund",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$150,000 equity-free cash award, plus Google Cloud credits, mentorship, and technical support",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "Multi-month program (cash award plus ongoing mentorship)",
+    "format": "Hybrid (virtual mentorship and support with in-person events)",
+    "eligibility": "US-based, Latino-led startups; Google prioritizes tech-enabled ventures with demonstrated traction or strong growth potential",
+    "applicationDeadline": "Unknown — official page currently displays past-cohort recaps rather than an open call; recent coverage (2026) states applications are open, but no fixed close date is published. Confirm current cycle status at the official program page before relying on this",
+    "applicationWindow": "Periodic cohort cycles",
+    "applyLink": "https://startup.google.com/programs/latino-founders-fund/",
+    "website": "https://startup.google.com/programs/latino-founders-fund/",
+    "description": "Google for Startups' Latino Founders Fund provides Latino-led US startups with a $150,000 equity-free cash award alongside Google Cloud credits, mentorship, and technical support, mirroring the structure of Google's Black Founders Fund.",
+    "highlights": [
+      "$150,000 equity-free cash award",
+      "Google Cloud credits and hands-on mentorship included",
+      "Targets Latino-led, tech-enabled US startups with early traction",
+      "Application status fluctuates by cohort — verify the window is currently open before applying"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "draper-richards-kaplan-foundation",
+    "name": "Draper Richards Kaplan (DRK) Foundation Funding",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global — multiple priority geographies including USA",
+    "focusAreas": [
+      "Social Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $300,000 in funding over 3 years (paid in tranches), plus roughly $500,000 in in-kind capacity-building support (board service, strategy, network access)",
+    "equity": "0% equity in the great majority of cases — no equity taken; DRK's support to eligible applicants is structured as an unrestricted grant, not a venture equity stake (note: DRK's own materials describe the instrument as either 'unrestricted grant funding or investment capital' depending on legal structure and geography, so mission-driven for-profits should confirm the exact instrument offered before applying)",
+    "programLength": "3-year unrestricted funding commitment",
+    "format": "Hybrid (remote application and check-ins; in-person board engagement)",
+    "eligibility": "Early-stage (post-pilot, pre-scale), for-profit or nonprofit social enterprises addressing health, education, food security, climate resilience, social justice, or economic empowerment; eligible legal structures include nonprofits, C-corps, B-corps, LLCs, and hybrids; accepted from the foundation's priority geographies, including the US",
+    "applicationDeadline": "Rolling — accepted year-round; no fixed deadline",
+    "applicationWindow": "Rolling, year-round",
+    "applyLink": "https://www.drkfoundation.org/apply/",
+    "website": "https://www.drkfoundation.org/",
+    "description": "DRK Foundation is a venture philanthropy fund that gives early-stage, high-impact social enterprises up to $300,000 in unrestricted funding over three years, plus deep operational support including a DRK board seat and access to its global entrepreneur network. Since 2002, it has backed more than 150 social entrepreneurs, including Kiva and One Acre Fund.",
+    "highlights": [
+      "Up to $300,000 over 3 years, largely unrestricted",
+      "Accepts both nonprofit and mission-driven for-profit (C-corp/B-corp/LLC) applicants",
+      "Rolling, year-round application with no fixed deadline",
+      "Includes a DRK board member and ~$500K in hands-on capacity support"
+    ],
+    "notableAlumni": [
+      "Kiva",
+      "One Acre Fund",
+      "Room to Read",
+      "GrassRoots Soccer"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "hello-alice-fund-her-future-grant",
+    "name": "Fund Her Future Grant (Block Advisors by H&R Block x Hello Alice)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$100,000 total pool: one $50,000 grand-prize grant plus five $10,000 runner-up grants (6 recipients total); all 6 also receive a year of free Block Advisors tax, bookkeeping, and payroll services",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "One-time award",
+    "format": "Remote (online application via Hello Alice)",
+    "eligibility": "At least 51% woman-owned, established US businesses with a minimum of $20,000 in prior-year revenue; applicants must be 18+ (19 in AL/NE) and US residents",
+    "applicationDeadline": "Unknown — check helloalice.com/grants/hrblock/ for the current cycle's open dates; the program has run annually",
+    "applicationWindow": "Annual cycle",
+    "applyLink": "https://helloalice.com/grants/hrblock/",
+    "website": "https://www.blockadvisors.com/fund-her-future-small-business-grants/",
+    "description": "Fund Her Future is a partnership between Block Advisors (H&R Block) and Hello Alice awarding $100,000 total to six women-owned small businesses — a $50,000 grand prize plus five $10,000 runner-up grants — along with a year of free tax, bookkeeping, and payroll support from Block Advisors.",
+    "highlights": [
+      "$50,000 grand-prize grant plus five $10,000 runner-up grants",
+      "All winners also get a year of free Block Advisors business services",
+      "Requires $20,000+ in prior-year revenue, so best for revenue-stage founders",
+      "Applications run through the Hello Alice platform"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "alibaba-cocreate-pitch",
+    "name": "Alibaba.com CoCreate Pitch (delivered by Hello Alice)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide)",
+    "focusAreas": [
+      "Consumer",
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "US track: $200,000 (1st place), $100,000 (2nd place), $50,000 (3rd place); 17 additional finalists each receive $10,000. Global prize pool exceeds $1M (split roughly 50% cash / 50% Alibaba.com credits)",
+    "equity": "0% equity — no equity taken; hybrid cash + Alibaba.com credits grant/prize, non-dilutive",
+    "programLength": "One-time competition/prize",
+    "format": "Hybrid (online application/pitch rounds; in-person finals)",
+    "eligibility": "US-based, product-driven small business owners; a 'General' track for established product businesses and an 'AI Entrepreneur' track for founders building a new product from scratch; delivered as a Hello Alice opportunity",
+    "applicationDeadline": "2026 US applications closed July 25, 2026; finals were held September 9–10, 2026 in Los Angeles. Runs as an annual competition — next cycle expected in 2027",
+    "applicationWindow": "Annual cycle",
+    "applyLink": "https://www.helloalice.com/opportunities/grants/alibabacom-cocreate",
+    "website": "https://www.alibabacocreate.com/pitch",
+    "description": "Alibaba.com's CoCreate Pitch is a global product-startup competition, delivered in the US via Hello Alice, offering a US prize track of $200,000/$100,000/$50,000 for the top 3 finishers plus $10,000 to 17 other finalists, alongside Alibaba.com credits and sourcing/AI tooling support. All applicants also get ongoing Hello Alice business support regardless of outcome.",
+    "highlights": [
+      "$200,000 top prize for the US track, largest of any entry in this batch",
+      "20 total US finalists win cash, from $10,000 to $200,000",
+      "Two tracks: established product businesses, and new AI-built products",
+      "All applicants keep access to Hello Alice's business tools and programs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "amex-backing-small-businesses",
+    "name": "Backing Small Businesses (American Express x Main Street America)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$10,000–$40,000 per grant depending on the round (a 2026 round awarded $20,000 grants to over 500 businesses, totaling more than $10 million distributed); some rounds include an additional $30,000 Enhancement Grant for select recipients",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "One-time award",
+    "format": "Remote (online application)",
+    "eligibility": "Independent (non-franchise), brick-and-mortar small businesses located in an older or historic Main Street, downtown, or commercial district in the US; 20 or fewer full-time employees; business must have been operating and at its current address since on/before a set cutoff date (recent rounds used January 1 of the prior year); best fit for existing local small businesses rather than early-stage tech startups",
+    "applicationDeadline": "Rolling annual rounds — the most recent application window closed in mid-January 2026 with recipients announced in May 2026; next cycle's dates are not yet published",
+    "applicationWindow": "Annual rounds",
+    "applyLink": "https://mainstreet.org/about/partner-collaborations/backing-small-businesses",
+    "website": "https://mainstreet.org/about/partner-collaborations/backing-small-businesses",
+    "description": "American Express and Main Street America jointly fund Backing Small Businesses, an annual non-dilutive grant program supporting independent, brick-and-mortar small businesses in historic downtown and commercial districts, distributing $10,000–$40,000 grants (recent rounds gave $20,000 each to 500+ recipients).",
+    "highlights": [
+      "$10M+ distributed to 500+ small businesses in the most recent round",
+      "Grants of $10,000–$40,000 depending on round and recipient tier",
+      "Focused on historic/downtown commercial districts, not generic startups",
+      "Run annually in partnership with Main Street America"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "visa-everywhere-initiative",
+    "name": "Visa Everywhere Initiative",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global (open to US-based fintech startups)",
+    "focusAreas": [
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$100,000 cash prize to the global winner, plus a live pitch slot at TechCrunch Disrupt (San Francisco) in front of investors and press; regional/local editions (e.g., Latin America & Caribbean) award smaller tiered prizes such as $25,000/$15,000/$10,000",
+    "equity": "0% equity — no equity taken; non-dilutive cash prize",
+    "programLength": "One-time competition/prize",
+    "format": "Hybrid (online application and virtual rounds; in-person global final at TechCrunch Disrupt)",
+    "eligibility": "For-profit, growth-stage fintech startups building solutions in payments, money movement, digital issuance, cross-border payments, open banking, or embedded finance; open globally, including US-based startups",
+    "applicationDeadline": "Unknown — exact 2026/2027 deadline not published on the reachable official pages; the program has historically run annually ahead of TechCrunch Disrupt (San Francisco, typically held in October). Confirm current dates via corporate.visa.com/en/visa-everywhere/everywhere-initiative before relying on this",
+    "applicationWindow": "Annual cycle, tied to TechCrunch Disrupt",
+    "applyLink": "https://corporate.visa.com/en/visa-everywhere/everywhere-initiative/initiative.html",
+    "website": "https://corporate.visa.com/en/visa-everywhere/everywhere-initiative/initiative.html",
+    "description": "Visa's Everywhere Initiative is a global fintech startup competition (running since 2015, ~15,000 applicants from 100+ countries to date) that awards a $100,000 non-dilutive cash prize to its global winner, chosen after finalists pitch live on the TechCrunch Disrupt stage in San Francisco.",
+    "highlights": [
+      "$100,000 non-dilutive cash prize for the global winner",
+      "Global final held on the TechCrunch Disrupt stage in San Francisco",
+      "Nearly 15,000 startups from 100+ countries have applied since 2015",
+      "Focused specifically on payments/fintech innovation"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "sogal-black-founder-startup-grant",
+    "name": "SoGal Foundation Black Founder Startup Grant",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (nationwide)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$5,000–$10,000 cash grant, amount determined by team assessment of company needs",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "One-time award",
+    "format": "Remote (online application)",
+    "eligibility": "Black women or Black nonbinary founders (inclusive of multiracial Black women/nonbinary founders) of a legally registered, for-profit US business intending to seek investor financing; applicant must be 18+, able to legally receive funds in the US, and have a business bank account with an EIN/Tax ID",
+    "applicationDeadline": "Rolling — no fixed deadline; most recent cohort's winners were announced November 20–22, 2025. Note: this program is administered by SoGal Foundation and referenced by multiple official partners (e.g., Pace University SBDC), but was not independently confirmed on a live SoGal-hosted page at time of research — verify it is still accepting applications before referring founders",
+    "applicationWindow": "Rolling, year-round",
+    "applyLink": "https://www.iamsogal.com/black-founder-startup-grant/",
+    "website": "https://www.iamsogal.com/",
+    "description": "SoGal Foundation's Black Founder Startup Grant gives Black women and nonbinary entrepreneurs $5,000–$10,000 in non-dilutive cash, plus tactical fundraising support and ongoing access to the SoGal Foundation and SoGal Ventures teams, to help close the racial funding gap in venture-backable startups.",
+    "highlights": [
+      "$5,000–$10,000 non-dilutive cash grant",
+      "Includes lifetime access to SoGal Foundation/Ventures for fundraising advice",
+      "Rolling applications, reviewed on an ongoing basis",
+      "Could not be independently verified as currently open on an official SoGal page — confirm status before applying"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "nc-idea-seed",
+    "name": "NC IDEA SEED",
+    "category": "Grant",
+    "region": "US",
+    "country": "Durham, NC, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$50,000 grant, disbursed over 6-12 months based on milestones",
+    "equity": "0% equity — no equity taken; non-dilutive state-supported grant",
+    "programLength": "One-time award with milestone-based disbursement over 6-12 months, plus ongoing mentorship/programming",
+    "format": "Hybrid — virtual info sessions and office hours plus in-person regional sessions and final pitch presentations across North Carolina",
+    "eligibility": "Applicant team must include at least one full-time founder residing in North Carolina (preference given when all founders are NC residents); company must be headquartered in and conduct a majority of operations in NC; must have a demonstrated proof of concept (clear problem, market readiness, MVP)",
+    "applicationDeadline": "August 24, 2026, 5:00 PM ET (Fall 2026 cycle)",
+    "applicationWindow": "Two competitive cycles per year, typically opening around January/February and July/August",
+    "applyLink": "https://ncidea.org/nc-idea-seed/",
+    "website": "https://ncidea.org/nc-idea-seed/",
+    "description": "NC IDEA SEED provides non-dilutive $50,000 grants to early-stage North Carolina startups that have a proven concept and are pursuing venture capital or significant revenue growth. Recipients also get mentorship, pitch feedback, and introductions to the state's funding and startup network.",
+    "highlights": [
+      "$50,000 non-dilutive grant released on milestones over 6-12 months",
+      "Requires an NC-resident founder and NC-headquartered company",
+      "Twice-yearly competitive cycles with statewide regional info sessions",
+      "Over $11M awarded to 238+ NC companies since the program began in 2006",
+      "Includes mentorship, pitch feedback, and investor introductions"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "colorado-oedit-aia-early-stage-grant",
+    "name": "Advanced Industries Accelerator — Early-Stage Capital and Retention Grant (OEDIT)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Denver, CO, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $250,000 per project (cap may be lifted for projects impacting more than one advanced industry); requires cash matching funds equal to at least 2x the grant request",
+    "equity": "0% equity — no equity taken; non-dilutive state grant",
+    "programLength": "One-time project award; project performance period typically around 12 months",
+    "format": "Remote — online application, reviewed by industry committees with final approval from the Economic Development Commission",
+    "eligibility": "Colorado-based technology businesses in one of seven targeted advanced industries (advanced manufacturing, aerospace, bioscience, electronics, energy and natural resources including cleantech, infrastructure engineering, information technology); technology must be created or manufactured in Colorado; applicant must identify matching cash funds at least 2x the requested grant amount",
+    "applicationDeadline": "First business day of November 2026 (next of three annual cycles: March, July, November)",
+    "applicationWindow": "Three annual cycles, with deadlines the first business day of March, July, and November at 5:00 PM MT",
+    "applyLink": "https://oedit.colorado.gov/advanced-industries-early-stage-capital-retention-grant",
+    "website": "https://oedit.colorado.gov/advanced-industries-accelerator-programs",
+    "description": "OEDIT's Advanced Industries Accelerator Early-Stage Capital and Retention Grant provides non-dilutive funding of up to $250,000 to help Colorado-based advanced-industries companies develop and commercialize technologies created or manufactured in the state. It is one of several grant tracks under Colorado's Advanced Industries Accelerator program, first created in 2013.",
+    "highlights": [
+      "Up to $250,000 in non-dilutive funding per project",
+      "Targets seven advanced industries, including bioscience, IT, and cleantech",
+      "Requires 2x matching cash funds from other sources",
+      "Three annual application cycles (March, July, November)",
+      "$7.4M+ awarded across AIA programs in the most recent full funding cycle"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "vipc-launch-grant",
+    "name": "VIPC Launch Grant",
+    "category": "Grant",
+    "region": "US",
+    "country": "Richmond, VA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$50,000 grant",
+    "equity": "0% equity — no equity taken; non-dilutive grant (requires a 1:1 non-dilutive capital or in-kind match from the company)",
+    "programLength": "One-time award; approximately 60-day cycle from application opening to funding",
+    "format": "Remote — online quarterly application cycles",
+    "eligibility": "Virginia-based, pre-MVP startups with no product revenue that have not raised any angel or venture capital (up to $300,000 raised from family and friends is acceptable if secured at least 90 days before applying); must provide a 1:1 non-dilutive capital or in-kind match",
+    "applicationDeadline": "Rolling quarterly solicitations; most recent cycle closed July 30, 2026 at 12:00 PM ET — check vipc.org for the next window",
+    "applicationWindow": "Quarterly solicitations; approximately 20 grants awarded per year",
+    "applyLink": "https://vipc.org/funding/startups/",
+    "website": "https://vipc.org/funding/startups/",
+    "description": "The Virginia Innovation Partnership Corporation's Launch Grant provides $50,000 in non-dilutive funding to pre-MVP Virginia startups at the earliest stage of formation, requiring a 1:1 non-dilutive match to help founders validate and advance their companies without giving up equity.",
+    "highlights": [
+      "$50,000 non-dilutive grant for pre-MVP Virginia startups",
+      "Requires a 1:1 non-dilutive capital or in-kind match",
+      "No prior angel or VC funding permitted (friends-and-family funding capped at $300K)",
+      "Quarterly competitive solicitations, about 20 awards per year",
+      "Companion Lab-to-Launch grants available for university-licensed technology"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "ohio-third-frontier-tvsf",
+    "name": "Ohio Third Frontier Technology Validation and Start-up Fund (TVSF)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Columbus, OH, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Biotech/Health",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Phase 2 Start-up Fund awards up to $200,000 per project (Phase 1 Technology Validation awards are generally smaller)",
+    "equity": "0% equity — no equity taken; non-dilutive state grant",
+    "programLength": "One-time project award",
+    "format": "Remote — competitive RFP-based application process",
+    "eligibility": "Ohio-based startups and young companies working to license and commercialize technologies developed at Ohio higher-education institutions, nonprofit research institutions, or federal labs",
+    "applicationDeadline": "Round 39 closed May 7, 2026 (awards announced July 2026); next round not yet announced — check development.ohio.gov/business/third-frontier-and-technology",
+    "applicationWindow": "Multiple competitive RFP rounds per year",
+    "applyLink": "https://development.ohio.gov/business/third-frontier-and-technology",
+    "website": "https://development.ohio.gov/business/third-frontier-and-technology",
+    "description": "Ohio Third Frontier's Technology Validation and Start-up Fund provides non-dilutive grants (Phase 2 awards up to $200,000) to help Ohio startups license and commercialize technologies from the state's research institutions. Since 2012, the program has issued over 400 awards totaling more than $69 million.",
+    "highlights": [
+      "Phase 2 Start-up Fund awards up to $200,000, non-dilutive",
+      "Focused on commercializing technology licensed from Ohio research institutions",
+      "Over $69M awarded across 400+ TVSF grants since 2012",
+      "Priority sectors include advanced manufacturing, biomedical/life sciences, energy, sensors, and software",
+      "Administered by the Ohio Department of Development via competitive RFP rounds"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "launch-minnesota-innovation-grant",
+    "name": "Launch Minnesota Innovation Grant",
+    "category": "Grant",
+    "region": "US",
+    "country": "St. Paul, MN, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $35,000, disbursed on a 2:1 reimbursement basis (business incurs $2 of eligible expenses to be reimbursed $1)",
+    "equity": "0% equity — no equity taken; non-dilutive state grant",
+    "programLength": "One-time, reimbursement-based award",
+    "format": "Remote — online application through the Minnesota Department of Employment and Economic Development (DEED)",
+    "eligibility": "Business must be headquartered and operating in Minnesota; in operation fewer than 10 years; has raised less than $1 million in equity financing; has not previously received a Launch Minnesota Innovation Grant",
+    "applicationDeadline": "Rolling application windows several times a year; most recent confirmed deadline was July 31, 2026 — check mn.gov/deed/launchmngrant for the next cycle",
+    "applicationWindow": "Multiple rounds per year",
+    "applyLink": "https://mn.gov/deed/launchmngrant/",
+    "website": "https://mn.gov/deed/launchmngrant/",
+    "description": "Launch Minnesota's Innovation Grant provides up to $35,000 in non-dilutive, reimbursement-based funding to promising, scalable Minnesota technology startups for R&D, direct business expenses, and technical assistance.",
+    "highlights": [
+      "Up to $35,000 in non-dilutive funding, reimbursed on a 2:1 basis",
+      "Requires MN headquarters and business operations",
+      "Capped to companies under 10 years old with under $1M in equity raised",
+      "Multiple application rounds each year",
+      "Run by Minnesota DEED's Launch Minnesota initiative"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "arizona-innovation-challenge",
+    "name": "Arizona Innovation Challenge (AIC)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Phoenix, AZ, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Minimum $50,000 non-dilutive award per winning company (up to 10 awardees per cohort)",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "Competition culminating in an award, plus three months of customized support with an ACA Entrepreneur-in-Residence",
+    "format": "Hybrid — online application with in-person pitch and finals events",
+    "eligibility": "Arizona-based companies with at least 2 but fewer than 30 employees; open to early-stage technology and innovation startups statewide",
+    "applicationDeadline": "Not yet announced for the Spring 2026 cohort (most recent Fall 2025 cohort ran July 29–August 11, 2025) — check azcommerce.com for the next window",
+    "applicationWindow": "Two cohorts per year (spring and fall)",
+    "applyLink": "https://www.azcommerce.com/start-up/arizona-innovation-challenge/",
+    "website": "https://www.azcommerce.com/start-up/arizona-innovation-challenge/",
+    "description": "The Arizona Innovation Challenge, run by the Arizona Commerce Authority, is one of the largest business plan competitions in the country, awarding a minimum of $50,000 in non-dilutive funding plus Entrepreneur-in-Residence support to the most promising early-stage Arizona technology ventures.",
+    "highlights": [
+      "Minimum $50,000 non-dilutive award per winning company",
+      "Up to 10 awardees selected per cohort",
+      "Includes three months of ACA Entrepreneur-in-Residence support",
+      "Two cohorts per year (spring and fall)",
+      "Non-winning semifinalists/finalists can access the Venture Raise accelerator"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "washington-commerce-rdd-program",
+    "name": "Washington State Research, Development & Demonstration (RDD) Program",
+    "category": "Grant",
+    "region": "US",
+    "country": "Olympia, WA, USA",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Approximately $10 million total funding pool for the current round (Climate Commitment Act funds); individual award amounts vary by project",
+    "equity": "0% equity — no equity taken; non-dilutive state grant",
+    "programLength": "Project-based award; term varies by project",
+    "format": "Remote — online application with a virtual pre-application conference",
+    "eligibility": "For-profit companies, nonprofits, local governments, research institutions, federally recognized tribes, higher-education institutions, and national labs; Washington-based applicants preferred (out-of-state applicants eligible if they benefit the state and have significant WA presence); focused on advanced bioenergy/biofuels, advanced energy storage/battery technologies, greenhouse gas removal/carbon capture, and grid modernization/flexible load integration",
+    "applicationDeadline": "September 3, 2026, 4:00 PM PT",
+    "applicationWindow": "Annual competitive solicitation",
+    "applyLink": "https://www.commerce.wa.gov/funding/apply-now-for-research-development-and-demonstration-program-grants/",
+    "website": "https://www.commerce.wa.gov/funding/apply-now-for-research-development-and-demonstration-program-grants/",
+    "description": "The Washington State Department of Commerce's Research, Development & Demonstration Program awards non-dilutive grants, funded by Climate Commitment Act revenue, to organizations — including startups — advancing clean energy technologies such as battery storage, carbon capture, and grid modernization.",
+    "highlights": [
+      "~$10 million available in the current funding round",
+      "Non-dilutive Climate Commitment Act-funded grants",
+      "Targets bioenergy, battery storage, carbon capture, and grid modernization",
+      "Virtual pre-application conference offered ahead of the deadline",
+      "Administered by Washington State Department of Commerce (EPICGrants@commerce.wa.gov)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "masscec-catalyst-dices",
+    "name": "MassCEC Catalyst and DICES",
+    "category": "Grant",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $75,000 per Catalyst award; DICES adds up to three additional $75,000 grants for underrepresented applicants",
+    "equity": "0% equity — no equity taken; non-dilutive grant",
+    "programLength": "One-time project award, typically around 12 months",
+    "format": "Remote — applications submitted through an online MassVentures portal",
+    "eligibility": "Massachusetts-based early-stage climatetech companies with four or fewer full-time-equivalent employees (or nonprofit research institutions) at Technology Readiness Level 2-4; primary operations, headquarters, and R&D must be in Massachusetts; combined debt/equity financing, grant funding, and revenue over the past 5 years capped at $2.5 million for companies; DICES track requires applicants to demonstrate underrepresentation or economic barriers in climatetech",
+    "applicationDeadline": "Fall 2026 round reopens August 2026 (Spring 2026 round closed March 13, 2026, 11:59 PM)",
+    "applicationWindow": "Twice per year (spring and fall)",
+    "applyLink": "https://www.masscec.com/program/catalyst-and-dices",
+    "website": "https://www.masscec.com/program/catalyst-and-dices",
+    "description": "MassCEC's Catalyst and DICES programs provide non-dilutive grants of up to $75,000 to very early-stage Massachusetts climatetech companies and researchers to advance new clean energy technologies, with DICES providing additional funding for applicants underrepresented in climatetech.",
+    "highlights": [
+      "Up to $75,000 in non-dilutive funding per award",
+      "DICES track adds funding for underrepresented climatetech founders",
+      "Limited to companies with 4 or fewer FTEs at early technology readiness levels",
+      "Twice-yearly application cycles (spring and fall)",
+      "Applicant funding history capped at $2.5M over 5 years"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "utah-goeo-economic-assistance-grant",
+    "name": "Utah Economic Assistance Grant (EAG)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Up to $200,000 (Tier 1: up to $50,000; Tier 2: $50,001–$100,000; Tier 3: $100,001–$200,000); $4.5 million total pool for FY2026",
+    "equity": "0% equity — no equity taken; non-dilutive state grant",
+    "programLength": "One-time, project-based award",
+    "format": "Remote — online application portal",
+    "eligibility": "For-profit or nonprofit business (government entities excluded) with principal place of business in Utah, registered and in good standing with the Utah Division of Corporations and Commercial Code; priority given to aerospace/defense, financial services, advanced manufacturing, life sciences/health care, and software/IT",
+    "applicationDeadline": "September 1–15, 2026 (portal opens 9:00 AM Sept 1, closes 5:00 PM Sept 15)",
+    "applicationWindow": "Annual application window, typically in the fall",
+    "applyLink": "https://business.utah.gov/grants/eag",
+    "website": "https://business.utah.gov/grants/eag",
+    "description": "Utah's Governor's Office of Economic Opportunity administers the Economic Assistance Grant, a one-time, project-based non-dilutive award of up to $200,000 to support Utah businesses — including startups — in industry, education, community, or infrastructure development projects.",
+    "highlights": [
+      "Up to $200,000 in non-dilutive, one-time funding",
+      "Three funding tiers based on request size",
+      "$4.5 million total pool allocated for FY2026",
+      "Requires Utah principal place of business",
+      "Priority sectors include aerospace/defense, life sciences, and software/IT"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "michigan-make-it-mobility-prototyping-grant",
+    "name": "Make It in Michigan Mobility Prototyping Grant",
+    "category": "Grant",
+    "region": "US",
+    "country": "Southfield, MI, USA",
+    "focusAreas": [
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Up to $100,000 per company, provided as service-based support (product development, prototyping, testing, and manufacturing readiness services rather than direct cash); $2 million total pool for the 2026 cycle",
+    "equity": "0% equity — no equity taken; non-dilutive state grant",
+    "programLength": "Projects run October 1, 2026 – June 30, 2027",
+    "format": "Hybrid — online application with in-person interviews and prototyping support at Centrepolis Accelerator facilities",
+    "eligibility": "Startups and established firms at Technology Readiness Level 5-9 working on autonomous systems, critical mobility components, or electrification; Michigan-based companies, or out-of-state companies committing to develop/manufacture in Michigan",
+    "applicationDeadline": "2026 cycle closed July 12, 2026, 11:59 PM (opened May 13, 2026); next cycle expected to open on an annual basis",
+    "applicationWindow": "Annual application cycle",
+    "applyLink": "https://www.centrepolisaccelerator.com/Programs/Make-it-in-Michigan-Prototype-Grant-Program",
+    "website": "https://www.centrepolisaccelerator.com/Programs/Make-it-in-Michigan-Prototype-Grant-Program",
+    "description": "Make It in Michigan is a state-funded prototyping grant (via Michigan's Office of Future Mobility & Electrification, the Department of Labor & Economic Opportunity, and Centrepolis Accelerator at Lawrence Technological University) that provides up to $100,000 in non-dilutive, service-based support to move mobility, electrification, and autonomous-systems technologies from concept to commercialization.",
+    "highlights": [
+      "Up to $100,000 in non-dilutive support per company",
+      "Funded by Michigan OFME and the Department of Labor & Economic Opportunity",
+      "Focused on autonomous systems, mobility components, and electrification hardware",
+      "Open to startups and established firms, including those relocating to Michigan",
+      "Delivered as prototyping/testing/manufacturing-readiness services via Centrepolis Accelerator"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "nyserda-76west-clean-energy-competition",
+    "name": "76West Clean Energy Competition (NYSERDA)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Binghamton, NY, USA",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$2.5 million total prize pool per round: one $1,000,000 grand prize, one $500,000 award, and four $250,000 awards to finalists",
+    "equity": "0% equity — no equity taken; non-dilutive prize/grant",
+    "programLength": "One-time competition prize plus technical assistance and mentorship",
+    "format": "Hybrid — online application with in-person pitch and finals events in New York's Southern Tier",
+    "eligibility": "Clean energy companies of any stage that commit to locating or expanding operations in New York's Southern Tier region (Broome, Chemung, Chenango, Delaware, Schuyler, Steuben, Tioga, and Tompkins counties); open to companies based outside the region if they relocate/expand into it",
+    "applicationDeadline": "Unknown — rounds open periodically; check nyserda.ny.gov/All-Programs/76west for current round dates",
+    "applicationWindow": "Annual competition rounds",
+    "applyLink": "https://www.nyserda.ny.gov/All-Programs/76west",
+    "website": "https://www.nyserda.ny.gov/All-Programs/76west",
+    "description": "76West is NYSERDA's clean energy business competition for New York's Southern Tier region, awarding a $2.5 million non-dilutive prize pool each round — including a $1 million grand prize — to clean energy companies that commit to growing their operations in the region.",
+    "highlights": [
+      "$2.5 million non-dilutive prize pool per round, including a $1M grand prize",
+      "Six winners selected per round (grand prize plus five additional awards)",
+      "Requires commitment to locate/expand in NY's Southern Tier",
+      "Over $20 million awarded across eight years of the competition",
+      "Includes technical assistance and support services alongside cash prizes"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
   }
 ];
