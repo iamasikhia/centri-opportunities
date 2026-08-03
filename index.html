@@ -5,7 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Centri AI — Opportunities Repository</title>
 <link rel="icon" type="image/png" href="centri-logo.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="styles.css" />
+<script>
+  (function () {
+    var saved = localStorage.getItem("theme") || "light";
+    document.documentElement.className = saved;
+  })();
+</script>
 </head>
 <body>
   <header class="topbar">
@@ -17,7 +26,20 @@
           <span class="brand-sub">Opportunities Repository</span>
         </div>
       </div>
-      <div class="stats" id="stats"></div>
+      <div class="topbar-right">
+        <div class="stats" id="stats"></div>
+        <div class="theme-switch" id="themeSwitch" role="group" aria-label="Theme">
+          <button class="theme-btn" data-theme="light" aria-label="Light theme" title="Light">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+          </button>
+          <button class="theme-btn" data-theme="dark" aria-label="Dark theme" title="Dark">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          </button>
+          <button class="theme-btn" data-theme="cream" aria-label="Cream theme" title="Cream">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 8h1a4 4 0 1 1 0 8h-1"/><path d="M3 8h14v9a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg>
+          </button>
+        </div>
+      </div>
     </div>
   </header>
 

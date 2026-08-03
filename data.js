@@ -2986,5 +2986,982 @@ window.OPPORTUNITIES = [
       "Silver Spur Therapeutics"
     ],
     "lastVerified": "2026-07-13"
+  },
+  {
+    "id": "betaworks-camp",
+    "name": "Betaworks Camp",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "AI/ML",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $500K total ($250K from Betaworks Ventures + up to $250K from syndicate co-investors)",
+    "equity": "~5% common stock (on a $250K uncapped SAFE with 25% discount)",
+    "programLength": "12 weeks",
+    "format": "Hybrid — based at Betaworks' Meatpacking District office in NYC; in-person required for first and final two weeks, hybrid participation for the middle weeks",
+    "eligibility": "Early-stage founders building AI-first products (product not required at time of application); international teams welcome but must be willing to spend time in NYC during the program.",
+    "applicationDeadline": "Not currently open — next window (H2 2026 'AI Camp') applications open June–July 2026; check site for exact close date",
+    "applicationWindow": "Two cohorts/year — Spring (Mar–May, apps open Dec–Jan) and Fall (Aug–Nov, apps open Jun–Jul)",
+    "applyLink": "https://www.betaworks.com/camp/application",
+    "website": "https://www.betaworks.com/camp",
+    "description": "Betaworks Camp is a themed, 12-week studio-style accelerator run by the veteran NYC startup studio Betaworks (Giphy, Bitly, Dots), with each cohort centered on a specific technology wave — most recently AI agents. It combines investment with intensive in-house mentorship from the Betaworks team and portfolio network.",
+    "highlights": [
+      "Cohorts are thematically curated around emerging tech waves (currently agentic AI)",
+      "Backed by Betaworks' 20+ year track record building and investing in NYC tech studios",
+      "No-cost participation; investment structured as an uncapped SAFE",
+      "Culminates in a Demo Day with Betaworks' investor and corporate network"
+    ],
+    "notableAlumni": [
+      "Giphy",
+      "Bitly",
+      "Chartbeat",
+      "Dots"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "launch-accelerator",
+    "name": "LAUNCH Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$125,000",
+    "equity": "7% equity",
+    "programLength": "14 weeks",
+    "format": "Hybrid — primarily remote coaching with in-person investor/pitch events in the San Francisco Bay Area",
+    "eligibility": "Early-stage startups with early traction — e.g., $2K+ MRR growing 20%+ monthly for B2B/marketplace, or 3K+ DAUs growing weekly for consumer, or a market-ready MVP for deep tech teams.",
+    "applicationDeadline": "Rolling — cohorts run continuously (Cohort 35+ in progress); apply anytime via launch.co/apply",
+    "applicationWindow": "Rolling admissions with new cohorts launching regularly throughout the year",
+    "applyLink": "https://launch.co/apply",
+    "website": "https://launch.co/",
+    "description": "LAUNCH Accelerator, founded by angel investor and 'This Week in Startups' host Jason Calacanis, is a highly selective (only ~7 companies per cohort) accelerator focused on getting founders in front of active angels and VCs fast. It emphasizes pitch training and direct investor access over curriculum.",
+    "highlights": [
+      "Extremely small cohort size (7 companies) for high-touch investor access",
+      "Weekly pitch sessions with 8-10 investors from a network of 100+ active angels/VCs",
+      "Backed by Calacanis's LAUNCH Fund track record (early investor in Uber, Robinhood, Calm)",
+      "Personalized coaching on storytelling and fundraising strategy"
+    ],
+    "notableAlumni": [
+      "Uber",
+      "Robinhood",
+      "Calm"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "alphalab",
+    "name": "AlphaLab",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Pittsburgh, PA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Hardware",
+      "Biotech/Health",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $100,000 investment",
+    "equity": "Low equity commitment (specific % not published; historically single-digit)",
+    "programLength": "6 months",
+    "format": "In-person — Pittsburgh, PA (immersive, on-site cohort)",
+    "eligibility": "Early-stage founders across four tracks: Software, Hardware (AlphaLab Gear), Life Sciences (AlphaLab Health), and Robotics (Robotics Factory).",
+    "applicationDeadline": "Not currently open — 2026 cohort applications closed July 17, 2026; team is now selecting the 2027 cohort",
+    "applicationWindow": "Annual cohort, applications typically open in spring for a mid-year start",
+    "applyLink": "https://www.alphalab.org/apply/",
+    "website": "https://www.alphalab.org/",
+    "description": "AlphaLab is Innovation Works' flagship accelerator and one of the first 10 accelerators in the US (founding member of the Global Accelerator Network). It runs a unified 6-month, in-person program in Pittsburgh with specialty tracks for software, hardware, life sciences, and robotics founders.",
+    "highlights": [
+      "One of the original US accelerators (est. 2008), founding member of Global Accelerator Network",
+      "250+ startups supported, $1.3B+ in follow-on funding raised by alumni, 2 unicorns, 20+ exits",
+      "Sector-specific tracks (Gear, Health, Robotics Factory) with tailored curriculum",
+      "Hands-on training in founder-led sales and fundraising preparation"
+    ],
+    "notableAlumni": [
+      "Honeycomb Credit",
+      "Accel Diagnostics",
+      "Everhire",
+      "Watt-Learn"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "evonexus",
+    "name": "EvoNexus",
+    "category": "Incubator",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Biotech/Health",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct cash investment — provides facilities, mentorship, and fundraising support (non-dilutive-style support model)",
+    "equity": "1% common stock upon acceptance (notably low vs. typical 6-7% at other incubators)",
+    "programLength": "Up to 2 years (individualized, milestone-based residency, longer than a typical 3-month accelerator)",
+    "format": "In-person — San Diego (La Jolla Gateway) and Irvine (UCI Research Park), CA",
+    "eligibility": "Technology startups (general tech, MedTech, 5G/telecom, digital health) seeking longer-term incubation rather than a short accelerator sprint; several tracks run in partnership with Sharp HealthCare and Qualcomm.",
+    "applicationDeadline": "Rolling — application form is live year-round on the website",
+    "applicationWindow": "Rolling admissions with periodic themed cohorts (e.g., Digital Healthcare Cohort)",
+    "applyLink": "https://evonexus.org/apply/",
+    "website": "https://evonexus.org/",
+    "description": "EvoNexus is a nonprofit San Diego/Irvine tech incubator offering an unusually long (up to 2-year) residency and take only 1% equity, far below typical accelerator terms. It runs specialty tracks with corporate partners including Sharp HealthCare (MedTech) and Qualcomm (5G).",
+    "highlights": [
+      "Only 1% equity taken vs. 6-7%+ at comparable incubators",
+      "256+ startups supported, 85%+ have gone on to raise VC funding, 1 unicorn (Anaconda)",
+      "Corporate-sponsored tracks: Sharp HealthCare MedTech and Qualcomm 5G incubators",
+      "Long-form, milestone-based residency rather than a fixed cohort sprint"
+    ],
+    "notableAlumni": [
+      "Anaconda",
+      "Aira",
+      "SOCi",
+      "Housecall Pro"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "carb-x",
+    "name": "CARB-X (Combating Antibiotic-Resistant Bacteria Biopharmaceutical Accelerator)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Non-dilutive awards typically ranging from several hundred thousand to multiple millions of dollars per project (portfolio total invested: $506M+ to date)",
+    "equity": "Equity-free (non-dilutive grant funding)",
+    "programLength": "Project-based (varies by product development stage); ongoing portfolio support beyond initial award",
+    "format": "Remote application/award process — CARB-X is headquartered at Boston University but funds companies and research institutions globally, including many US-based biotechs",
+    "eligibility": "Biotech companies and non-commercial developers (academic centers included) working on antibacterial products (novel antibiotics, diagnostics, vaccines/non-vaccine preventatives) addressing drug-resistant bacteria; must demonstrate industry-grade development capabilities.",
+    "applicationDeadline": "2026 April call closed (EOIs were accepted April 8–22, 2026); next call expected Q4 2026 — check site for exact dates",
+    "applicationWindow": "Two funding calls per year (announced periodically around specific product themes)",
+    "applyLink": "https://carb-x.org/",
+    "website": "https://carb-x.org/",
+    "description": "CARB-X is a global non-dilutive biopharmaceutical accelerator funding early development of antibiotics, diagnostics, and other products to combat antimicrobial resistance (AMR). It is funded by US HHS/BARDA, Wellcome, the UK government, and the Gates Foundation, among others.",
+    "highlights": [
+      "Equity-free, non-dilutive funding — no stake taken in awardee companies",
+      "Over $506M invested across its portfolio since inception",
+      "2026 round targets 4 themes: Gram-negative therapeutics, novel chemistry AMR challenge, and neonatal sepsis prevention/diagnostics",
+      "Backed by major global public health funders (HHS/BARDA, Wellcome, Gates Foundation)"
+    ],
+    "notableAlumni": [
+      "Spero Therapeutics",
+      "Entasis Therapeutics",
+      "Forge Therapeutics"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "mit-delta-v",
+    "name": "MIT delta v",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Cambridge, MA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Up to $75,000 equity-free funding, plus $200,000+ in perks/in-kind value",
+    "equity": "Equity-free",
+    "programLength": "~14 weeks (June to early September, full-time)",
+    "format": "In-person — Martin Trust Center for MIT Entrepreneurship on MIT's Cambridge, MA campus, or the NYC Startup Studio in Manhattan",
+    "eligibility": "Team must include at least one current MIT student as a co-founder — this is a firm, non-negotiable requirement. Not open to non-MIT-affiliated founders.",
+    "applicationDeadline": "Program appears inactive/unverifiable for outside founders — 2026 applications opened March 1 and closed April 1, 2026 (cycle already concluded); note this program is restricted to MIT student-founder teams and generally NOT accessible to the broader US founder population this repository targets",
+    "applicationWindow": "Annual — applications open March 1, close April 1, summer cohort runs June–September, Demo Day in September",
+    "applyLink": "https://entrepreneurship.mit.edu/accelerator/apply/",
+    "website": "https://entrepreneurship.mit.edu/accelerator/program/",
+    "description": "MIT delta v is MIT's flagship venture accelerator for student-founded startups, run out of the Martin Trust Center. IMPORTANT ELIGIBILITY FLAG: this program requires at least one active MIT student co-founder, so it is not accessible to most external US founders despite being fully US-based and in-person.",
+    "highlights": [
+      "Funding increased substantially in 2026 to up to $75,000 equity-free (from $20,000 in prior years)",
+      "Full-time summer residency at MIT's Trust Center or an NYC Startup Studio option",
+      "$200,000+ in additional perks and a structured partner support model new for 2026",
+      "Backed by a recent $6M gift specifically to expand support for student founders"
+    ],
+    "notableAlumni": [
+      "Bevi",
+      "Podimetrics",
+      "Biobot Analytics",
+      "Accion Systems"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "urban-x",
+    "name": "URBAN-X",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Brooklyn, NY, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Historically at least $100,000 per company (program has ceased operations — no longer applicable)",
+    "equity": "Historically negotiated per deal (terms no longer applicable)",
+    "programLength": "Historically 4-5 months (20 weeks)",
+    "format": "Was in-person at Newlab, Brooklyn Navy Yard, NYC",
+    "eligibility": "N/A — program has shut down",
+    "applicationDeadline": "Program appears inactive/unverifiable",
+    "applicationWindow": "N/A — no longer running cohorts",
+    "applyLink": "https://urban-x.com/",
+    "website": "https://urban-x.com/",
+    "description": "URBAN-X was a Brooklyn-based urban-tech accelerator founded by MINI (BMW Group) and run in partnership with Urban Us, focused on mobility, climate, and built-environment startups. IMPORTANT: URBAN-X announced its closure in January 2025 after completing its 15th and final cohort, concluding operations at the end of 2025 with no reason publicly given. This program should be treated as DEFUNCT and is included here only per research instructions — founders should not plan to apply.",
+    "highlights": [
+      "Ran 15 cohorts and backed 116+ startups between 2016 and 2024/2025 before closing",
+      "Was located at Newlab in the Brooklyn Navy Yard with access to MINI/BMW's global network",
+      "Closure announced January 20, 2025; wound down by end of 2025 with no reason disclosed",
+      "No longer accepting applications — flagged here as inactive per verification requirement"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "third-derivative",
+    "name": "Third Derivative (D3)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Boulder, CO / Oakland, CA, USA (global program, RMI-affiliated hubs)",
+    "focusAreas": [
+      "Climate/Impact",
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Investment option around $100,000 per startup, plus first-in-line access to $100M+ in follow-on funding from the D3 investor network",
+    "equity": "Equity terms vary by deal (not uniformly published)",
+    "programLength": "18-month accelerator engagement",
+    "format": "Hybrid/Remote-first — global cohort with virtual programming plus periodic in-person convenings and access to RMI's expert network; a newer 'Future Industries Partnership' track targets startups expanding into Asia/Middle East (flagged: that specific track may require international focus, though the core D3 program supports US-based startups remotely)",
+    "eligibility": "Pre-seed to Series A climate tech startups working in hard-to-decarbonize sectors (industrial, buildings, transport, power, etc.); global applicant pool including US-based companies.",
+    "applicationDeadline": "Rolling — startup application portal is live year-round; specific tracks like 'Future Industries Partnership' were noted as actively open as of mid-2026",
+    "applicationWindow": "Rolling cohort admissions; historically ~2 intake cycles/year (e.g., cohort announcements in spring and fall)",
+    "applyLink": "https://www.third-derivative.org/startup-application",
+    "website": "https://www.third-derivative.org/",
+    "description": "Third Derivative is a joint venture between RMI (Rocky Mountain Institute) and New Energy Nexus, built as a 'next-generation' climate tech accelerator emphasizing speed-to-scale over a fixed short cohort. It connects startups to RMI's network of 600+ experts, corporate partners, and climate-focused investors.",
+    "highlights": [
+      "18-month engagement model designed to carry startups from pilot to commercial scale, not just a 12-week sprint",
+      "Backed by RMI's policy/technical expert network (600+ people) and New Energy Nexus's clean energy investor base",
+      "Focuses on hard-to-decarbonize, hard-tech sectors rather than generic climate software",
+      "Corporate partner network provides pilot and deployment opportunities alongside capital"
+    ],
+    "notableAlumni": [
+      "Moxion Power",
+      "Span",
+      "Verdagy"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "tinyseed",
+    "name": "TinySeed",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Remote (headquartered in the US)",
+    "focusAreas": [
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$120,000 for the first founder + $60,000 per additional founder",
+    "equity": "~10-12% equity",
+    "programLength": "1 year (12-month remote program)",
+    "format": "Remote — fully distributed, with community events like 'Tiny Fest' for in-person networking",
+    "eligibility": "B2B SaaS 'bootstrapper' founders who can show product-market signal, typically $500+ MRR; explicitly does NOT invest in pre-revenue or idea-stage companies.",
+    "applicationDeadline": "Not currently open — Spring 2026 window closed February 17, 2026; Fall 2026 applications open in September 2026",
+    "applicationWindow": "Two cohorts/year — Spring (apps open Feb) and Fall (apps open Sep)",
+    "applyLink": "https://apply.tinyseed.com/",
+    "website": "https://tinyseed.com/",
+    "description": "TinySeed is the leading remote accelerator built specifically for bootstrapped/independent B2B SaaS founders who want to grow a durable, profitable business rather than chase hypergrowth. It provides year-long funding, mentorship, and a tight-knit founder community instead of a short in-person sprint.",
+    "highlights": [
+      "210+ B2B SaaS companies funded since its first fund in 2018",
+      "Only accelerator of this list purpose-built for 'bootstrapper' founders prioritizing sustainable growth over blitzscaling",
+      "Full year of support (vs. typical 12-13 week cohorts), fully remote",
+      "Requires revenue traction (~$500+ MRR) — not for idea-stage/pre-revenue teams"
+    ],
+    "notableAlumni": [
+      "SavvyCal",
+      "Storemapper",
+      "Riverside.fm",
+      "ScatterSpoke"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "greentown-labs",
+    "name": "Greentown Labs",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Somerville, MA & Houston, TX, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No direct investment — membership-based physical incubator model (paid lab/workspace membership, not a funding program)",
+    "equity": "Equity-free (membership fee-based, no equity taken)",
+    "programLength": "Open-ended membership (not a fixed-length cohort)",
+    "format": "In-person — physical prototyping labs and workspace in Somerville, MA (Boston area) and Houston, TX; also offers a remote-friendly 'Ecosystem Flex Membership' for non-startup climate professionals",
+    "eligibility": "Climatetech-focused startups, typically at prototype-to-early-market stage, that fit Greentown's three criteria: climatetech focus, appropriate business/technology stage, and community fit.",
+    "applicationDeadline": "Rolling — no fixed deadline; application process (call, tour, interview) typically completes within a month",
+    "applicationWindow": "Rolling admissions year-round",
+    "applyLink": "https://greentownlabs.com/apply-now/",
+    "website": "https://greentownlabs.com/",
+    "description": "Greentown Labs is the largest climatetech startup incubator in North America, offering physical prototyping and lab space, equipment, and a dense peer community across its Boston-area and Houston campuses. Unlike a cohort accelerator, it's an open-ended paid membership model well suited to hardware-heavy climate startups needing lab/workshop access.",
+    "highlights": [
+      "Largest climatetech incubator in North America with dual campuses (Somerville, MA and Houston, TX)",
+      "Physical prototyping labs, equipment, and shared workshop space — critical for hardware/hard-tech climate startups",
+      "Nonprofit 501(c)(3) model; no equity taken, membership-fee based",
+      "Home to major climatetech successes including Form Energy and Sublime Systems"
+    ],
+    "notableAlumni": [
+      "Form Energy",
+      "Sublime Systems",
+      "Ascend Elements"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "genius-ny",
+    "name": "GENIUS NY",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Syracuse, NY, USA",
+    "focusAreas": [
+      "Hardware",
+      "Deep Tech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$3M total across 5 winners ($1M grand prize + four $500K awards)",
+    "equity": "SAFE (valuation cap + discount) — dilutive future equity, not equity-free",
+    "programLength": "~7 months (program starts October 2026; Pitch Finals/Grand Prize week of May 3, 2027)",
+    "format": "In-person — Syracuse, NY (INSPYRE Innovation Hub); winners must operate in Central NY for at least 1 year",
+    "eligibility": "Early-stage startups (US or international) building drones/UAS, robotics, autonomy, or other uncrewed-systems technology. Winners must relocate/operate their business in Central New York for at least one year.",
+    "applicationDeadline": "Not currently open — Cohort 10 deadline (extended to May 31, 2026) has passed; Cohort 11 window not yet announced",
+    "applicationWindow": "One cohort per year, applications typically open in winter/spring",
+    "applyLink": "https://geniusny.com/applynow/",
+    "website": "https://geniusny.com/",
+    "description": "GENIUS NY bills itself as the world's largest business accelerator for uncrewed systems (drones, robotics, autonomy), backed by New York State's Empire State Development and run by CenterState CEO in Syracuse. It offers the largest single cash awards of any accelerator in this list ($3M/year) via SAFE, but requires winners to physically operate in Central New York for a year — a domestic (not international) relocation requirement.",
+    "highlights": [
+      "$3M invested annually via SAFE across 5 winning teams ($1M grand prize + 4x $500K)",
+      "State-backed (Empire State Development) with access to INSPYRE Innovation Hub hardware/fab facilities",
+      "Now in its 10th cohort (Round 10), one of the longest-running deep-tech accelerators of its kind",
+      "Requires 1-year in-region operating commitment in Syracuse, NY as a condition of the award"
+    ],
+    "notableAlumni": [
+      "Aviant",
+      "Flox Intelligence"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "chobani-food-incubator",
+    "name": "Chobani Food Incubator",
+    "category": "Incubator",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Historically ~$25,000 stipend plus mentorship, retail/distribution access (unconfirmed if still offered)",
+    "equity": "Equity-free (non-dilutive; no equity historically taken)",
+    "programLength": "4 months (historically September–December)",
+    "format": "In-person — New York, NY (Chobani HQ); US-incorporated companies only",
+    "eligibility": "Early-stage US-based food and beverage companies with a positive social/environmental mission (\"good food to more people\"); must be incorporated and operating in the United States.",
+    "applicationDeadline": "Program appears inactive/unverifiable",
+    "applicationWindow": "Historically annual (applications opened ~July, deadline ~August); no confirmed cohort since ~2020-2021",
+    "applyLink": "https://www.chobani.com/impact",
+    "website": "https://www.chobani.com/impact",
+    "description": "Chobani Food Incubator was a pioneering corporate-backed food/beverage incubator launched by Chobani in 2016, running several well-publicized cohorts (including a veterans-focused class and a diversity-focused class) through roughly 2020-2021. Despite real search effort, no evidence of a cohort, application call, or news coverage was found after that period, the dedicated incubator URL (chobanifoodincubator.com) now redirects to a dead Chobani.com page, and \"Impact\" section of chobani.com no longer references the incubator — this program should be treated as likely dormant/discontinued until directly confirmed with Chobani.",
+    "highlights": [
+      "Backed one of the most recognized CPG-sponsored food incubators (2016 inaugural class included Banza, Kettle & Fire)",
+      "Historically non-dilutive, cohort included ~$25,000 stipend plus Chobani mentorship and retail-network access",
+      "No confirmed active cohort or open application found as of verification date — status should be reconfirmed directly with Chobani before founders invest time applying"
+    ],
+    "notableAlumni": [
+      "Banza",
+      "Kettle & Fire",
+      "A Dozen Cousins",
+      "Bread SRSLY"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "xleratehealth",
+    "name": "XLerateHealth",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Louisville, KY, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $25K in commercialization funding (varies by cohort/partner); no standard cash-for-equity check disclosed",
+    "equity": "Varies — no fixed equity stake publicly disclosed",
+    "programLength": "12 weeks",
+    "format": "Hybrid — Louisville, KY HQ; sessions delivered virtually via Zoom (no relocation required)",
+    "eligibility": "Early-stage healthcare, medtech, diagnostics, or digital-health startups with at least one full-time committed founder and an MVP ready for piloting.",
+    "applicationDeadline": "Rolling — check website (applications currently accepted via Gust)",
+    "applicationWindow": "Annual cohort; applications via Gust platform",
+    "applyLink": "https://gust.com/programs/xleratehealth-2024",
+    "website": "https://www.xleratehealth.com/accelerator/louisville/",
+    "description": "XLerateHealth is Louisville's longest-standing healthcare accelerator, using a Lean LaunchPad, customer-discovery-driven methodology to help early-stage medtech, diagnostics, and digital-health founders reach commercialization. It partners with regional universities (U of L, University of Kentucky, WVU) and has NIH grant backing for a digital learning platform, and sessions run virtually so founders need not relocate.",
+    "highlights": [
+      "One of the longest-operating dedicated healthcare accelerators in the US",
+      "Lean LaunchPad customer-discovery curriculum tailored to med device/diagnostics/digital health",
+      "NIH-funded partnership with University of Kentucky on a digital learning platform",
+      "Fully virtual session delivery — no relocation required despite Louisville HQ"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "health-wildcatters",
+    "name": "Health Wildcatters",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Dallas, TX, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$30,000 cash investment; up to $380,000 total potential cash via follow-on/convertible note opportunities, plus $200,000+ in program value",
+    "equity": "8% equity",
+    "programLength": "12 weeks (Fall cohort runs September–mid November)",
+    "format": "Hybrid — Dallas, TX; in-person or virtual participation accepted",
+    "eligibility": "Early-stage healthcare IT, SaaS, digital health, mobile health, medical device, diagnostic, or pharmaceutical startups.",
+    "applicationDeadline": "Not currently open — 2026 cohort deadlines (F6S connect-by Mar 31, 2026; Gust apply-by May 30, 2026) have passed; next window expected to open for a future cohort",
+    "applicationWindow": "Recurring cohorts (currently on its 14th accelerator class); applications typically open several months before a September start",
+    "applyLink": "https://www.healthwildcatters.com/accelerator",
+    "website": "https://www.healthwildcatters.com/",
+    "description": "Health Wildcatters is a mentor-driven seed accelerator in Dallas focused broadly on healthcare innovation — from digital health and SaaS to medical devices, diagnostics, and pharma. It has run continuously since its founding, now on roughly its 14th cohort, with a portfolio of 130+ startups that have collectively raised over $350M, and offers a hybrid format so out-of-state founders can participate largely remotely.",
+    "highlights": [
+      "Now running its 14th accelerator cohort — long, continuous track record",
+      "Portfolio of 130+ startups with $350M+ raised collectively",
+      "200+ mentor network and heavy media exposure (40M+ media impressions/year claimed)",
+      "Hybrid format allows remote (non-Dallas) participation"
+    ],
+    "notableAlumni": [
+      "Iluria Health",
+      "Stingray Therapeutics",
+      "Alviss.ai",
+      "Insight Optics"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "onramp-insurance-accelerator",
+    "name": "OnRamp Insurance Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Minneapolis-St. Paul, MN, USA",
+    "focusAreas": [
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$100,000 cash investment (per most recent confirmed 2022 cohort terms)",
+    "equity": "Equity stake taken (deal-dependent, exact current percentage not publicly disclosed)",
+    "programLength": "3 months",
+    "format": "Hybrid — Minneapolis-St. Paul, MN (in-person + virtual elements)",
+    "eligibility": "Insurtech and fintech startups, generally post-seed with a working product, selected in partnership with Allianz Life and Securian Financial.",
+    "applicationDeadline": "Program appears inactive/unverifiable",
+    "applicationWindow": "Historically annual; last confirmed cohort was 2022",
+    "applyLink": "https://www.gener8tor.com/onramp-insurance",
+    "website": "https://www.gener8tor.com/",
+    "description": "IMPORTANT CORRECTION: OnRamp Insurance Accelerator is NOT based in Des Moines, IA — it is a gener8tor program run in Minneapolis-St. Paul, MN in partnership with Allianz Life and Securian Financial. The dedicated program page now 301-redirects to gener8tor's unrelated \"Bolt\" conference, and the program is absent from gener8tor's current list of active accelerators; the last confirmed cohort (Botdoc, ForwardLane, Manifest, Nestimate, White Swan) was in 2022, suggesting OnRamp has likely been discontinued or folded into other gener8tor programming. Founders looking specifically for a Des Moines-based insurtech accelerator should instead investigate the separately-run, currently-active Global Insurance Accelerator (globalinsuranceaccelerator.com, Des Moines, IA, 100-day program, 2026 cohort confirmed active) — a distinct organization not part of gener8tor.",
+    "highlights": [
+      "Last confirmed cohort (2022) selected 5 of 500+ applicants, each receiving $100K cash",
+      "Backed by major insurance carriers Allianz Life and Securian Financial",
+      "Program page now redirects elsewhere on gener8tor's site and is missing from their current accelerator list — likely discontinued",
+      "Not to be confused with the actually Des Moines-based, currently-active Global Insurance Accelerator"
+    ],
+    "notableAlumni": [
+      "Botdoc",
+      "ForwardLane",
+      "Manifest",
+      "Nestimate",
+      "White Swan"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "sixthirty",
+    "name": "SixThirty",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "St. Louis, MO, USA",
+    "focusAreas": [
+      "Fintech",
+      "Cybersecurity",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $100,000 investment",
+    "equity": "3%–10% equity (negotiated per deal)",
+    "programLength": "~6 months per cycle (two cohorts/year: Spring and Fall)",
+    "format": "Hybrid — St. Louis, MO",
+    "eligibility": "Late-seed to Series A fintech, insurtech, or cybersecurity startups seeking pilot/partnership access to major financial-services and insurance institutions.",
+    "applyLink": "https://sixthirty.co/apply/",
+    "applicationDeadline": "Rolling — check website for current Spring/Fall cohort dates",
+    "applicationWindow": "Two cohorts per year (Spring and Fall), 8–12 companies selected annually",
+    "website": "https://sixthirty.co/",
+    "description": "SixThirty (SixThirty Ventures) is a St. Louis-based venture capital firm and accelerator backed by the St. Louis Regional Chamber and Cultivation Capital, investing in and connecting fintech, insurtech, and cybersecurity startups with a national network of financial-services and insurance corporate partners. It recently closed a $66M Fund III and has expanded into a dedicated cybersecurity accelerator track.",
+    "highlights": [
+      "Up to $100K investment for 3-10% equity, twice-yearly cohorts",
+      "Backed by category-leading financial-services/insurance corporate LPs via $66M Fund III",
+      "Portfolio includes 2 unicorns (Silverfort, Upside) and 30+ acquisitions",
+      "Dedicated cybersecurity accelerator track launched alongside core fintech/insurtech program"
+    ],
+    "notableAlumni": [
+      "Silverfort",
+      "Upside",
+      "Bankjoy",
+      "BOXX Insurance"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "biogenerator",
+    "name": "BioGenerator",
+    "category": "Incubator",
+    "region": "US",
+    "country": "St. Louis, MO, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Non-dilutive grants from a few thousand dollars up to $50K+ (BioGenerator Labs); larger venture checks via two new $40M BioGenerator Ventures funds",
+    "equity": "Varies — deal-dependent; Labs/Fellows components are non-dilutive, venture fund investments are dilutive",
+    "programLength": "Ongoing/rolling (Labs); Venture Fellows program runs 12–24 months",
+    "format": "Hybrid — St. Louis, MO (wet-lab and office space in-person; coaching/fellows programs hybrid)",
+    "eligibility": "St. Louis-region-focused (or willing to build a presence there) bioscience, agtech, and digital-health/AI startups; Venture Fellows targets STEM researchers/scientists interested in VC investing.",
+    "applicationDeadline": "Rolling — pitches/applications accepted on an ongoing basis (contact info@biogeneratorventures.com)",
+    "applicationWindow": "Rolling; no fixed cohort deadline",
+    "applyLink": "https://www.biogeneratorventures.com/",
+    "website": "https://www.biogeneratorventures.com/",
+    "description": "BioGenerator is the venture-development and investment arm of BioSTL, a two-decade-old organization that has invested $50M+ into 130+ St. Louis-area bioscience, agtech, and digital-health startups and helped them raise nearly $3B in follow-on capital. Unlike a traditional fixed-cohort accelerator, it operates as an ongoing venture studio/fund plus shared wet-lab space (BioGenerator Labs) and a VC fellowship program, with rolling applications rather than a single annual deadline.",
+    "highlights": [
+      "$50M+ invested into 130+ St. Louis bioscience/agtech startups since 2003, driving ~$3B in follow-on capital",
+      "Recently launched two new venture funds totaling $40M targeting biotech tools, agtech, and digital health/AI",
+      "BioGenerator Labs offers shared wet-lab/office space plus non-dilutive grants for early de-risking work",
+      "Venture Fellows program trains STEM researchers in early-stage biotech investing"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "capital-innovators",
+    "name": "Capital Innovators",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "St. Louis, MO, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Historically $50,000 seed investment per company (terms for a current, actively-running branded cohort unconfirmed)",
+    "equity": "Historically ~6% equity for $50K seed check (current terms unconfirmed)",
+    "programLength": "12–13 weeks (historical program length)",
+    "format": "In-person — St. Louis, MO (historical; current operating format unverified)",
+    "eligibility": "Historically open to tech-enabled seed/Series A startups nationally; current eligibility criteria unpublished.",
+    "applicationDeadline": "Program appears inactive/unverifiable",
+    "applicationWindow": "Unclear — no confirmed open cohort found for 2024, 2025, or 2026",
+    "applyLink": "https://capitalinnovators.com/acceleratorprogram",
+    "website": "https://capitalinnovators.com/",
+    "description": "Capital Innovators is a long-running St. Louis accelerator/seed fund founded in 2010 that has invested in 190+ companies over ~15 years (per its own site copy) and helped them raise $1B+ in follow-on funding. However, despite real search effort, the most concrete evidence of a specific, currently-running branded accelerator cohort with open applications dates back to its NGA Accelerator program (Cohort 3, ~2021-2022); no 2024-2026 cohort startups, deadlines, or press coverage could be found. A May 2025 press mention shows the underlying organization is still operating (partnering with the Missouri Technology Corporation on a statewide investor-readiness program), but it is unclear whether the flagship, directly-applicable \"Accelerator Program\" is still actively recruiting cohorts — treat as unverified until confirmed directly with Capital Innovators.",
+    "highlights": [
+      "190+ companies invested in over ~15 years, $1B+ in follow-on capital raised by alumni",
+      "Ranked among top US accelerator programs in past years",
+      "Organization remains active as an investor (MTC statewide partnership, May 2025) even though a currently-open branded cohort could not be confirmed",
+      "Alumni include LockerDome, an early notable St. Louis tech exit/raise"
+    ],
+    "notableAlumni": [
+      "LockerDome"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "jumpstart-inc-cleveland",
+    "name": "JumpStart Inc. (Trailblazer Accelerators)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Cleveland, OH, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $125,000 in non-dilutive funding (Trailblazer Software Accelerator)",
+    "equity": "Equity-free (non-dilutive, no ownership stake taken)",
+    "programLength": "~3-month intensive cohort (kickoff scheduled September 17, 2026)",
+    "format": "Hybrid — Cleveland/Northeast Ohio",
+    "eligibility": "Ohio-based (or willing to be Ohio-based) pre-seed/seed-stage software or healthtech startups seeking venture-capital readiness support.",
+    "applicationDeadline": "Applications for the current cycle show as closed on JumpStart's site as of verification, with a published 2026 cohort deadline of August 2, 2026 — check website to confirm exact status",
+    "applicationWindow": "Multiple cohorts per year across two tracks (Trailblazer Software Accelerator and Trailblazer HealthTech Accelerator); 4 cohorts planned across 2025-2026",
+    "applyLink": "https://www.jumpstartinc.org/startups/trailblazer-accelerators/software/",
+    "website": "https://jumpstartinc.org/",
+    "description": "JumpStart Inc. is a Cleveland-based venture-development nonprofit (distinct from Nashville's JumpStart Foundry) that has deployed $50M+ into 114+ Northeast Ohio companies since 2004, including major exits like CoverMyMeds ($1.1B acquisition by McKesson). Its current Trailblazer Software and Trailblazer HealthTech Accelerators offer non-dilutive funding (up to $125K) and no-fee, no-equity support for Ohio pre-seed/seed startups.",
+    "highlights": [
+      "Up to $125,000 non-dilutive (no equity, no fees) funding via Trailblazer Software Accelerator",
+      "Separate Trailblazer HealthTech Accelerator track for pre-seed/seed health tech startups",
+      "$50M+ deployed into 114+ companies since 2004, including the CoverMyMeds $1.1B exit",
+      "Planning 4 cohorts (2 healthtech, 2 software) serving ~100 startups across 2025-2026"
+    ],
+    "notableAlumni": [
+      "CoverMyMeds",
+      "CardioInsight",
+      "Wireless Environment (acq. by Ring/Amazon)",
+      "Axuall"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "nashville-entrepreneur-center",
+    "name": "Nashville Entrepreneur Center (TakeOff / InFlight / Project Healthcare)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Nashville, TN, USA",
+    "focusAreas": [
+      "General/Any",
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No direct cash investment — tuition-based programs ($500 for TakeOff, $1,000 for InFlight); includes free EC membership and Nashville Technology Council membership",
+    "equity": "Equity-free (tuition-based; no investment or equity taken)",
+    "programLength": "4 months (September–December for TakeOff/InFlight); Project Healthcare length varies",
+    "format": "In-person — Nashville, TN (weekly in-person sessions, e.g. Mondays 1-4pm CST)",
+    "eligibility": "Nashville-based (or Nashville-relocating) founders. TakeOff is for pre-launch/recently-launched founders with a validated plan; InFlight targets growth-stage founders with $100K-$1M revenue and 3-8 team members; Project Healthcare is for health-tech founders.",
+    "applicationDeadline": "Rolling — Fall 2026 cohort applications currently open",
+    "applicationWindow": "Cohorts run each Fall (Sept-Dec); Project Healthcare timing varies",
+    "applyLink": "https://ec.co/apply/",
+    "website": "https://ec.co/",
+    "description": "The Nashville Entrepreneur Center (EC) is a long-running nonprofit hub offering multiple curriculum-based accelerator tracks rather than cash-for-equity investment: TakeOff for early/pre-launch founders, InFlight for growth-stage founders, and Project Healthcare for health-tech entrepreneurs. Programs are low-cost, tuition-funded, equity-free, and require in-person Nashville participation rather than offering capital.",
+    "highlights": [
+      "Three distinct tracks (TakeOff, InFlight, Project Healthcare) covering different stages/industries",
+      "Low-cost, equity-free, tuition-based model ($500-$1,000) rather than cash-for-equity",
+      "Includes free EC membership (~$400 value) and Nashville Technology Council membership",
+      "200+ volunteer advisor/mentor network"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "harvard-innovation-labs",
+    "name": "Harvard Innovation Labs (i-lab) — Launch Lab X",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Boston/Allston, MA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Equity-free; alumni ventures can compete for a share of a non-dilutive prize pool (~$400K across President's Innovation Challenge tracks)",
+    "equity": "Equity-free",
+    "programLength": "8 months (Launch Lab X, the alumni accelerator); i-lab student programs run each semester/year-round",
+    "format": "Hybrid — mostly virtual programming with periodic in-person events at Harvard's Allston, MA campus",
+    "eligibility": "Founder(s) must have a current Harvard affiliation: alumni of any of the 13 Harvard schools (any graduation year) for Launch Lab X, or current matriculated Harvard students/postdocs for the student i-lab. Not open to founders without a Harvard connection.",
+    "applicationDeadline": "Closed for the 2026-27 Launch Lab X cohort (window was Apr 7 – May 12, 2026); next cycle expected spring 2027",
+    "applicationWindow": "Annual — one Launch Lab X cohort per year, opens each spring; i-lab has rolling semester programs for students",
+    "applyLink": "https://apply.innovationlabs.harvard.edu/",
+    "website": "https://innovationlabs.harvard.edu/",
+    "description": "Harvard Innovation Labs is Harvard's university-wide entrepreneurship hub, running the student-facing i-lab plus Launch Lab X, its flagship equity-free accelerator for Harvard alumni founders (any of the 13 schools, any class year). Ventures get workshops, mentorship, dedicated space, and access to non-dilutive funding competitions. It is exclusively for founders with a Harvard affiliation — not open to the general public.",
+    "highlights": [
+      "Equity-free — no funding taken in exchange for equity",
+      "Access to Harvard's global mentor, alumni, and investor network",
+      "Alumni ventures can compete for a share of ~$400K in non-dilutive prizes via the President's Innovation Challenge",
+      "Dedicated sub-tracks for climate (Climate Circle) and life sciences (Pagliuca Harvard Life Lab) ventures"
+    ],
+    "notableAlumni": [
+      "WHOOP"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "tigerlabs",
+    "name": "Tigerlabs",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Princeton, NJ, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech",
+      "Biotech/Health",
+      "Gaming/Media"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Historically seed-stage checks on a rolling basis; current investment activity unverifiable",
+    "equity": "Unverified — historically negotiated per deal",
+    "programLength": "Historically ~6 months",
+    "format": "In-person — Princeton, NJ (coworking facility)",
+    "eligibility": "Historically open to early-stage SaaS, fintech, digital-media, and healthcare-IT startups; current accelerator/investment intake status could not be verified.",
+    "applicationDeadline": "Program appears inactive/unverifiable",
+    "applicationWindow": "Unclear — no recent (post-2015) cohort or investment announcements found",
+    "applyLink": "https://tigerlabs.co/",
+    "website": "https://tigerlabs.co/",
+    "description": "Tigerlabs launched in 2011 as a Princeton, NJ seed accelerator/fund (later adding a dedicated 'Tigerlabs Health' healthcare-IT track with pharma/hospital partners) investing in early-stage SaaS, fintech, and digital-health startups. FLAG: as of this review, the live tigerlabs.co site presents the brand purely as a coworking space with no visible accelerator application, current cohort, or recent portfolio news — the accelerator/investment side appears dormant or discontinued even though the physical coworking community still operates under new ownership after a lease change. Confirm directly with Tigerlabs before treating this as an active accelerator.",
+    "highlights": [
+      "Originally an early New Jersey seed accelerator (SaaS, fintech, digital health)",
+      "Ran a dedicated 'Tigerlabs Health' healthcare-IT track with pharma/hospital partners",
+      "Current public site shows only coworking membership — no open accelerator application found",
+      "Crunchbase lists 35 historical investments / 3 exits, but no confirmed activity in roughly a decade"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "upwest",
+    "name": "UpWest",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Palo Alto/Silicon Valley, CA, USA (with sourcing/interviews conducted partly in Tel Aviv, Israel)",
+    "focusAreas": [
+      "Cybersecurity",
+      "Enterprise",
+      "B2B SaaS",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K–$400K average check (pre-seed/seed)",
+    "equity": "~8% equity (typical)",
+    "programLength": "Ongoing hands-on mentorship and US market fast-tracking (not a fixed-week cohort); investment relationship continues post-close",
+    "format": "Hybrid — Silicon Valley, CA-based fund; founders are expected to build toward a US market/presence, though the vetting process includes Israel-based interviews",
+    "eligibility": "Israeli-founded startups, from idea stage through early seed, that are building for or expanding into the US market.",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; highly selective — typically ~5 companies chosen per cycle from 130-150+ applicants",
+    "applyLink": "https://upwest.vc/",
+    "website": "https://upwest.vc/",
+    "description": "UpWest is a Silicon Valley-based seed fund purpose-built to help Israeli-founded startups break into the US market, combining capital with hands-on go-to-market support and direct introductions to US customers and investors. FLAG (international/relocation note): the program is inherently structured around Israeli founders and includes an Israel-based interview/sourcing process; while UpWest's explicit mission is helping these teams establish a genuine US footprint, founders should confirm current relocation and remote-work expectations directly, as day-to-day team presence may still be partly in Israel.",
+    "highlights": [
+      "Purpose-built to bring Israeli founders into the US market — not a generic accelerator",
+      "Very selective: typically ~5 companies chosen from 130-150+ applicants per cycle",
+      "Operating since 2011 with a $70M+ Fund IV and 80+ portfolio companies",
+      "Portfolio includes a unicorn (HoneyBook) and an NYSE-listed company (SentinelOne)"
+    ],
+    "notableAlumni": [
+      "SentinelOne",
+      "HoneyBook",
+      "Stampli",
+      "CyCognito"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "disney-accelerator",
+    "name": "Disney Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Glendale, CA, USA",
+    "focusAreas": [
+      "Gaming/Media",
+      "Consumer",
+      "AI/ML"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Investment amount undisclosed publicly (Disney typically invests alongside a company's existing investors)",
+    "equity": "Undisclosed / negotiated per deal",
+    "programLength": "~5 months (July–November 2026), including roughly three weeks of required full in-person attendance during kickoff/milestone weeks",
+    "format": "Hybrid — HQ in Glendale, CA (in-person for milestone weeks), remote otherwise",
+    "eligibility": "Open only to venture-backed, growth-stage tech/entertainment startups whose focus aligns with Disney's business priorities. There is no public application — companies are identified through Disney's outreach or introduced by their existing investors.",
+    "applicationDeadline": "No public application process — invite-only via investor introduction or Disney outreach (info@disneyaccelerator.com); the 2026 cohort runs July–November 2026",
+    "applicationWindow": "Annual, one cohort per year (summer through fall)",
+    "applyLink": "https://sites.disney.com/accelerator/faq/",
+    "website": "https://sites.disney.com/accelerator/",
+    "description": "The Disney Accelerator pairs a small number of growth-stage, venture-backed tech and entertainment startups with Disney business units for mentorship, pilot opportunities, and potential investment, culminating in a Demo Day. It ended its formal Techstars partnership in 2016 and has run independently ever since, and remains active for 2026. Unlike most accelerators on this list, it has no public application form — access comes via Disney's own outreach or an introduction from a company's existing investors, so it functions as effectively invite-only.",
+    "highlights": [
+      "Direct access to Disney business-unit leaders, IP, and distribution channels",
+      "Small, highly curated cohort of roughly 5-8 companies each year",
+      "Independent, Disney-run program since parting ways with Techstars in 2016",
+      "No open/public application — access is via investor introduction or direct Disney outreach only"
+    ],
+    "notableAlumni": [
+      "Sphero",
+      "littleBits",
+      "Kahoot!"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "cedars-sinai-accelerator",
+    "name": "Techstars Healthcare Accelerator (sponsored by Cedars-Sinai)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$120,000 total (standard Techstars terms: $20K for common stock + $100K convertible note)",
+    "equity": "6% equity (standard Techstars deal)",
+    "programLength": "13 weeks (~3 months)",
+    "format": "In-person — Los Angeles, CA (West Hollywood campus), with some hybrid programming",
+    "eligibility": "Early-stage digital health, health IT, medical device, or health-services startups; open to US and international founders, but requires in-person participation in LA.",
+    "applicationDeadline": "Closed for the 2026 cohort (deadline was June 10, 2026); next application window typically opens later in the year for the following cohort",
+    "applicationWindow": "Annual cohort; applications typically open in winter/spring",
+    "applyLink": "https://www.techstars.com/accelerators/healthcare",
+    "website": "https://csaccelerator.com/",
+    "description": "Now branded Techstars Healthcare, this Los Angeles program — long known simply as the Cedars-Sinai Accelerator — pairs Techstars' standard accelerator model with a multi-system healthcare sponsor group (Cedars-Sinai, Point32Health, UCI Health, and UnitedHealthcare), giving digital-health founders direct clinical pilot access and mentorship from physicians and health executives. Cedars-Sinai has also separately launched a longer, 12-month 'Accelerator+' venture-building track for later-stage (Seed+) health companies. Both remain active in 2026, though the flagship cohort's most recent application window (June 10, 2026) has already closed.",
+    "highlights": [
+      "Standard Techstars terms: $120K investment plus access to a 7,000+ mentor/investor network",
+      "Direct clinical pilots and physician mentorship inside Cedars-Sinai's hospital system",
+      "Multi-payer/health-system sponsor group: Cedars-Sinai, Point32Health, UCI Health, UnitedHealthcare",
+      "12 portfolio exits and $800M+ raised across alumni to date"
+    ],
+    "notableAlumni": [
+      "Deep 6 AI",
+      "Diligent Robotics",
+      "EpiBone",
+      "Syntho"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "wells-fargo-startup-accelerator",
+    "name": "Wells Fargo Startup Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA (program was fully virtual)",
+    "focusAreas": [
+      "Fintech",
+      "Enterprise",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Historically up to $1,000,000 in funding per company",
+    "equity": "Undisclosed / varied by deal historically",
+    "programLength": "6 months (historical)",
+    "format": "Remote/virtual (historical)",
+    "eligibility": "Historically open to enterprise-focused startups (fintech and beyond) with a working product; non-exclusive (could join other accelerators simultaneously). Current intake status is unverifiable.",
+    "applicationDeadline": "Program appears inactive/unverifiable",
+    "applicationWindow": "No confirmed cohort activity found since approximately 2022",
+    "applyLink": "https://www.wellsfargo.com/",
+    "website": "https://www.wellsfargo.com/",
+    "description": "The Wells Fargo Startup Accelerator ran from 2014 through roughly 2022, offering up to $1M in non-exclusive funding plus mentorship from Wells Fargo business/technology leaders to enterprise-focused startups. FLAG: this program appears to be discontinued. Its dedicated site (accelerator.wf.com) no longer resolves at all, the most recent discoverable portfolio addition dates to October 2022, and no 2023-2026 cohort announcements could be found. Wells Fargo does still run a separate, active innovation program — the Wells Fargo Innovation Incubator (IN2) — but that one is specifically for clean-energy/climate-tech, not general fintech/enterprise startups, so it is not a like-for-like replacement.",
+    "highlights": [
+      "Historically offered funding up to $1M — one of the larger corporate-accelerator checks in this space",
+      "Non-exclusive: startups could join other accelerators and raise other capital simultaneously",
+      "Dedicated accelerator domain (accelerator.wf.com) is now dead/unreachable",
+      "No public cohort news found since 2022 — strong signal the program has quietly ended"
+    ],
+    "notableAlumni": [
+      "Extend",
+      "Oliver",
+      "AutoCloud"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "gbeta-medtech",
+    "name": "gBETA MedTech",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Rochester, MN, USA (Mayo Clinic region); program runs virtually",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No cash investment — free program; participants get access to $1M+ in vendor/partner perks",
+    "equity": "Equity-free",
+    "programLength": "7 weeks",
+    "format": "Remote — fully virtual program, open to founders nationally",
+    "eligibility": "Early-stage medtech, health IT, biotech, or diagnostics startups (idea through early-revenue stage); capped at five companies per cohort, requiring 85%+ attendance commitment.",
+    "applicationDeadline": "Not currently open — check website (no active cohort application posted as of this review)",
+    "applicationWindow": "Periodic cohorts (roughly 1-2x per year historically); watch the gener8tor site for the next opening",
+    "applyLink": "https://www.gener8tor.com/gbeta/medtech",
+    "website": "https://www.gener8tor.com/gbeta/medtech",
+    "description": "gBETA MedTech is gener8tor's free, equity-free 7-week pre-accelerator for early medtech, health IT, biotech, and diagnostics founders, run in partnership with Mayo Clinic, the Medical Alley Association, the University of Minnesota, and founding sponsor Boston Scientific. It caps each cohort at just five companies to keep coaching and sponsor/vendor connections tightly personalized. As of this review the program is between cohorts with no open application listed, but it has run 8+ cohorts to date and is expected to reopen periodically.",
+    "highlights": [
+      "100% free, zero equity taken",
+      "Deep clinical network via Mayo Clinic and the Medical Alley Association",
+      "Part of gener8tor's national gBETA network, giving cross-program access to mentors/investors",
+      "$537M+ raised and 3,500+ jobs created across the broader gBETA alumni network"
+    ],
+    "notableAlumni": [
+      "Kobara Medical",
+      "CorInnova",
+      "Arcana Recovery"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "create-x",
+    "name": "CREATE-X (Georgia Tech Startup Launch)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Atlanta, GA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$5,000 seed funding + $150,000 in in-kind services per team",
+    "equity": "Equity-free",
+    "programLength": "12 weeks (summer)",
+    "format": "In-person — Atlanta, GA (Georgia Tech campus, 24/7 co-working access)",
+    "eligibility": "At least one team member/co-founder must be a Georgia Tech student, faculty member, researcher, or alumnus (any graduation year); teams may otherwise include non-Georgia Tech co-founders.",
+    "applicationDeadline": "Startup Launch 2027 applications are currently open; priority deadline is expected mid-November 2026 (based on prior-year pattern)",
+    "applicationWindow": "Annual — one summer cohort per year",
+    "applyLink": "https://airtable.com/appaTqlTL2zQkXBBR/pagdkIvjQbvDbSD2F/form",
+    "website": "https://create-x.gatech.edu/",
+    "description": "CREATE-X is Georgia Tech's campus-wide venture-creation program; its flagship Startup Launch is a 12-week, in-person summer accelerator that takes student, faculty, researcher, and alumni teams from idea to a fully operating startup with no equity taken. Over the past decade the program has produced 650+ startups worth a combined $2.4B+ in portfolio valuation, including logistics unicorn-track company Stord.",
+    "highlights": [
+      "No equity taken — $5K seed grant plus $150K in in-kind legal/accounting/mentorship services",
+      "650+ startups launched, $2.4B+ combined portfolio valuation since inception",
+      "24/7 co-working office access on Georgia Tech's Atlanta campus",
+      "Only one co-founder needs Georgia Tech affiliation (student, faculty, researcher, or alum)"
+    ],
+    "notableAlumni": [
+      "Stord",
+      "Reframe",
+      "Sora Schools",
+      "dot.card"
+    ],
+    "lastVerified": "2026-07-24"
+  },
+  {
+    "id": "fledge",
+    "name": "Fledge",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Seattle, WA, USA (HQ) — current active in-person cohorts are largely international (Nairobi, Kenya; Peru; Europe) or the US-based Start.coop (Boston) partner track",
+    "focusAreas": [
+      "Climate/Impact",
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$20,000 historically for US cohorts; $15,000 (Peru), €15,000 (Europe) for current international cohorts",
+    "equity": "Revenue-based equity (repaid via a revenue share rather than a standard priced equity round)",
+    "programLength": "~2 months (historical Seattle cohort length)",
+    "format": "In-person, historically Seattle, WA — no active Seattle cohort could be confirmed as currently open; current open programs are Fledge Africa (Nairobi, Kenya, in-person) and the Boston-based Start.coop cooperative track",
+    "eligibility": "Mission-driven, revenue-generating (or near-revenue) for-profit startups tackling poverty, hunger, unemployment, or environmental problems.",
+    "applicationDeadline": "Program appears inactive/unverifiable for the original Seattle, US cohort — check fledge.co for current geography-specific openings",
+    "applicationWindow": "Varies by location; Fledge Africa and the Start.coop (Boston) track are currently listed as accepting applications",
+    "applyLink": "https://www.fledge.co/apply/",
+    "website": "https://www.fledge.co/",
+    "description": "Fledge pioneered the 'conscious company' accelerator model in Seattle in 2012, investing modest checks via revenue-based equity into mission-driven startups tackling poverty, hunger, and environmental problems. FLAG (international/status note): as of this review, Fledge's original Seattle, WA cohort does not appear on the current open-applications list. The brand has expanded into a global network of geography-specific programs (Fledge Africa in Nairobi, Kenya; Peru; Europe; Vancouver, Canada) plus a US-based cooperative-focused track (Start.coop) run out of Boston. Founders should confirm directly with Fledge whether a Seattle-specific, US in-person cohort is currently running before relying on it as an active option.",
+    "highlights": [
+      "Originator of the 'conscious company' / impact-accelerator category",
+      "Revenue-based equity model instead of a typical priced equity round",
+      "Global network now spans Africa, Europe, Latin America, and Canada",
+      "Current US presence runs primarily through the Boston-based Start.coop cooperative track, not the original Seattle cohort"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-07-24"
   }
 ];

@@ -32,7 +32,22 @@
     filterRegion: document.getElementById("filterRegion"),
     filterEquity: document.getElementById("filterEquity"),
     filterFormat: document.getElementById("filterFormat"),
+    themeSwitch: document.getElementById("themeSwitch"),
   };
+
+  function initTheme() {
+    const saved = localStorage.getItem("theme") || "light";
+    document.documentElement.className = saved;
+    els.themeSwitch.querySelectorAll(".theme-btn").forEach((btn) => {
+      btn.classList.toggle("active", btn.dataset.theme === saved);
+      btn.addEventListener("click", () => {
+        const theme = btn.dataset.theme;
+        document.documentElement.className = theme;
+        localStorage.setItem("theme", theme);
+        els.themeSwitch.querySelectorAll(".theme-btn").forEach((b) => b.classList.toggle("active", b === btn));
+      });
+    });
+  }
 
   function classifyDeadline(item) {
     const d = (item.applicationDeadline || "").toLowerCase();
@@ -50,10 +65,10 @@
 
   function formatBucket(item) {
     const f = (item.format || "").toLowerCase();
-    if (f.startsWith("remote")) return "Remote";
-    if (f.startsWith("hybrid")) return "Hybrid";
-    if (f.startsWith("in-person")) return "In-person";
-    return item.format || "Unknown";
+    if (f.includes("hybrid")) return "Hybrid";
+    if (f.includes("remote")) return "Remote";
+    if (f.includes("in-person") || f.includes("in person")) return "In-person";
+    return "Unknown";
   }
 
   function uniqueSorted(values) {
@@ -139,7 +154,16 @@
         break;
       case "deadline": {
         const rank = { dated: 0, rolling: 1, unknown: 2, closed: 3 };
-        arr.sort((a, b) => rank[classifyDeadline(a)] - rank[classifyDeadline(b)]);
+        const dateMs = (item) => {
+          const d = extractDeadlineDate(item.applicationDeadline);
+          const t = d ? Date.parse(d) : NaN;
+          return isNaN(t) ? Infinity : t;
+        };
+        arr.sort((a, b) => {
+          const ra = rank[classifyDeadline(a)], rb = rank[classifyDeadline(b)];
+          if (ra !== rb) return ra - rb;
+          return dateMs(a) - dateMs(b); // within "dated", soonest deadline first
+        });
         break;
       }
       case "category":
@@ -157,11 +181,54 @@
     }[c]));
   }
 
-  function deadlineBadge(item) {
+  const DEADLINE_LABELS = {
+    rolling: "Rolling / Ongoing",
+    dated: "Has a deadline",
+    closed: "Closed / Inactive",
+    unknown: "Unknown",
+  };
+  const DEADLINE_CLASS = {
+    rolling: "deadline-rolling",
+    dated: "deadline-dated",
+    closed: "deadline-closed",
+    unknown: "deadline-unknown",
+  };
+
+  // Pulls the first "Month Day, Year"-style date out of a free-text deadline
+  // note, e.g. "...deadline was June 12, 2026 (3:00 PM ET); interviews..."
+  // -> "June 12, 2026". Returns null if no concrete date is present (e.g.
+  // "Rolling", "June–July 2026" with no day).
+  const MONTH_RE =
+    "(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)";
+  const DATE_RE = new RegExp(MONTH_RE + "\\.?\\s+\\d{1,2}(?:st|nd|rd|th)?,?\\s+\\d{4}", "i");
+  function extractDeadlineDate(text) {
+    if (!text) return null;
+    const m = text.match(DATE_RE);
+    return m ? m[0].replace(/\.(?=\s)/, "") : null;
+  }
+
+  const DEADLINE_PREFIX = { dated: "Due ", closed: "Closed ", rolling: "", unknown: "" };
+
+  // Short, single-line status chip for the card face. Prefers a concrete
+  // extracted date ("Due Jun 10, 2026") over the raw sentence; falls back to
+  // a generic label once neither a date nor a short raw string is available.
+  function deadlineChip(item) {
     const cls = classifyDeadline(item);
-    const label = item.applicationDeadline || "Unknown";
-    const clsMap = { rolling: "deadline-rolling", dated: "deadline-dated", closed: "deadline-closed", unknown: "deadline-unknown" };
-    return `<span class="deadline-badge ${clsMap[cls]}">${escapeHtml(label)}</span>`;
+    const raw = item.applicationDeadline || "Unknown";
+    const date = extractDeadlineDate(raw);
+    const label = date ? `${DEADLINE_PREFIX[cls]}${date}` : raw.length <= 34 ? raw : DEADLINE_LABELS[cls];
+    return `<span class="deadline-badge ${DEADLINE_CLASS[cls]}">${escapeHtml(label)}</span>`;
+  }
+
+  // Status chip + full free-text explanation, used in the detail overlay
+  // where paragraph-length deadline notes have room to breathe.
+  function deadlineDetail(item) {
+    const cls = classifyDeadline(item);
+    const raw = item.applicationDeadline || "Unknown";
+    return `
+      <span class="deadline-badge ${DEADLINE_CLASS[cls]}">${escapeHtml(DEADLINE_LABELS[cls])}</span>
+      <p class="deadline-detail-text">${escapeHtml(raw)}</p>
+    `;
   }
 
   function cardTemplate(item) {
@@ -186,7 +253,7 @@
         </div>
         <div class="card-tags">${tags}</div>
         <div class="card-footer">
-          ${deadlineBadge(item)}
+          ${deadlineChip(item)}
           <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Apply →</a>
         </div>
       </article>
@@ -214,7 +281,7 @@
         <div><h4>Program length</h4><p>${escapeHtml(item.programLength || "Unknown")}</p></div>
         <div><h4>Format</h4><p>${escapeHtml(item.format || "Unknown")}</p></div>
         <div><h4>Application window</h4><p>${escapeHtml(item.applicationWindow || "Unknown")}</p></div>
-        <div><h4>Deadline status</h4><p>${deadlineBadge(item)}</p></div>
+        <div class="overlay-deadline"><h4>Deadline status</h4>${deadlineDetail(item)}</div>
       </div>
 
       <div class="overlay-section">
@@ -300,7 +367,8 @@
     els.resultCount.innerHTML = `Showing <b>${sorted.length}</b> of <b>${DATA.length}</b> opportunities`;
     els.grid.innerHTML = sorted.map(cardTemplate).join("");
     els.empty.hidden = sorted.length !== 0;
-    els.grid.querySelectorAll(".card").forEach((card) => {
+    els.grid.querySelectorAll(".card").forEach((card, i) => {
+      card.style.animationDelay = `${(i % 8) * 80}ms`;
       card.addEventListener("click", () => openDetail(card.dataset.id));
     });
   }
@@ -340,6 +408,7 @@
   els.clearFilters.addEventListener("click", clearAllFilters);
   els.emptyClear.addEventListener("click", clearAllFilters);
 
+  initTheme();
   renderStats();
   renderAll();
 
