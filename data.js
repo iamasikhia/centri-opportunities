@@ -586,8 +586,8 @@ window.OPPORTUNITIES = [
       "Deep Tech"
     ],
     "stage": "Pre-idea",
-    "fundingAmount": "No cost for Residency; $1M-$10M available for venture-scale companies via SPC's fund",
-    "equity": "Equity-free for Residency/Fellowship membership",
+    "fundingAmount": "Founder Fellowship: $400,000 for 7% equity via SAFE, plus $600,000 guaranteed in the next financing round ($1M total potential); separately, the open-ended Residency/Community Membership track is free (no funding attached unless a member later raises from SPC's fund, $1M-$10M for venture-scale companies)",
+    "equity": "7% equity (SAFE) for the $400K Founder Fellowship investment; Residency/Community Membership itself is equity-free",
     "programLength": "6 months (Residency); Founder Fellowship runs a ~2-month bootcamp plus a residency phase",
     "format": "In-person — San Francisco, New York, Bangalore",
     "eligibility": "Talented technologists and founders in the 'exploration' (pre-idea to pre-launch) phase; the Founder Fellowship targets those ready to commit full-time to finding their next big idea.",
@@ -597,10 +597,11 @@ window.OPPORTUNITIES = [
     "website": "https://www.southparkcommons.com",
     "description": "South Park Commons is a community-driven incubator for technologists and founders exploring 'what's next,' offering a 6-month Residency and a structured Founder Fellowship that carry members from open-ended exploration to company formation, with no cost or equity required to join. Members ready to build venture-scale companies can access $1M-$10M in funding directly from SPC.",
     "highlights": [
-      "No cost/equity for Residency membership",
-      "Up to $1M in partner compute credits (Anthropic, OpenAI, Microsoft, AWS)",
-      "Private programming with leaders like Satya Nadella and Vinod Khosla",
-      "Alumni include Replit, Pilot, Luma Labs, Clerk"
+      "Founder Fellowship: $400K for 7% equity + $600K guaranteed in your next round",
+      "Free, equity-free Residency/Community Membership track also available",
+      "Over $900K in credits and perks (OpenAI, Anthropic, Azure, GCP, AWS, Figma, and more)",
+      "Small cohorts — roughly one partner for every two companies",
+      "Alumni include Replit, Pilot, Luma Labs, Baseten, Clerk"
     ],
     "notableAlumni": [
       "Replit",
@@ -609,7 +610,7 @@ window.OPPORTUNITIES = [
       "Baseten",
       "Clerk"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-08-02"
   },
   {
     "id": "nfx-fast",
@@ -6275,5 +6276,574 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "founders-inc",
+    "name": "Founders, Inc. (F.Inc)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100,000–$250,000 first check, customized per founder",
+    "equity": "4-7% equity (typical range; negotiated per deal)",
+    "programLength": "Not a fixed-length cohort — ongoing campus membership; applicants first build on campus for 1-2 weeks before an investment decision",
+    "format": "In-person, San Francisco, CA (42,000 sq ft Fort Mason campus with desk, hardware lab, and on-site resources)",
+    "eligibility": "Early-stage founders solving hard problems in emerging domains (AI, AR/VR, B2B, hardware, robotics, and more); many members also go through other accelerators like YC and return to F.Inc's campus afterward",
+    "applicationDeadline": "Rolling — reviewed on a rolling basis; typical response within about a month",
+    "applicationWindow": "Rolling, year-round",
+    "applyLink": "https://f.inc/apply",
+    "website": "https://f.inc/",
+    "description": "Founders, Inc. (F.Inc) is a San Francisco investor and startup campus at Fort Mason offering $100K-$250K first checks alongside long-term physical workspace, a hardware lab, and community — positioned as an ongoing home for founders rather than a fixed-length cohort program.",
+    "highlights": [
+      "$100K-$250K first check for 4-7% equity",
+      "Not time-boxed — founders can stay and keep building long-term",
+      "42,000 sq ft Fort Mason campus with hardware lab, gym, and media resources",
+      "Many founders cycle through YC or other accelerators and return to F.Inc afterward"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "greylock-edge",
+    "name": "Greylock Edge",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "San Francisco / Bay Area, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Deep Tech"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Fully flexible — ranges from no capital at all to an uncapped SAFE to a priced seed round (deal-specific); plus $500K+ in cloud/AI credits from partners including AWS, Google, and Microsoft",
+    "equity": "No fixed equity — founders choose the financing structure, including a no-capital, equity-free option",
+    "programLength": "3 months",
+    "format": "Hybrid — in-person programming at Greylock in the Bay Area, plus remote support; small rolling cohort rather than one large annual batch",
+    "eligibility": "Select pre-idea, pre-seed, and seed-stage founders; Greylock admits only a handful of companies at a time",
+    "applicationDeadline": "Rolling — apply anytime",
+    "applicationWindow": "Rolling, year-round; continuous small-cohort admissions rather than a single annual batch",
+    "applyLink": "https://greylock.com/edge/",
+    "website": "https://greylock.com/edge/",
+    "description": "Greylock Edge is a bespoke, 3-month company-building program run by venture firm Greylock for a small, rolling group of pre-idea through seed-stage founders. Financing is fully flexible — from no capital at all to an uncapped SAFE to a priced round — plus $500K+ in cloud and AI credits from partners like AWS, Google, and Microsoft.",
+    "highlights": [
+      "Fully flexible financing, including a no-equity, no-capital option",
+      "$500K+ in credits from AWS, Google, Microsoft, and more",
+      "Small, rolling cohort — not a large annual batch",
+      "Access to Greylock's AI Researchers in Residence and hiring/customer support"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "seedcamp",
+    "name": "Seedcamp",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "London, UK (expanding US presence via a new 2026 $320M Fund VII)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "First check typically $350,000-$1.25M (up to ~$1.3M in some deals); leads roughly 70% of its deals",
+    "equity": "Approximately 5-10% equity (varies by deal); invests via SAFE, Advance Subscription Agreement (ASA), or convertible note",
+    "programLength": "Not a fixed-length cohort or bootcamp — ongoing investor support post-investment; invests year-round rather than running dated batches",
+    "format": "Hybrid — remote-friendly application and support, with in-person events/network access primarily out of London and a growing US presence",
+    "eligibility": "Pre-product through post-launch founders building for global markets; best fit for companies that haven't yet raised more than a couple million dollars. Historically Europe-focused; expanding into the US following its June 2026 $320M Fund VII raise — confirm current US eligibility before applying.",
+    "applicationDeadline": "Rolling — invests year-round with no batch deadlines",
+    "applicationWindow": "Rolling, year-round",
+    "applyLink": "https://seedcamp.com/",
+    "website": "https://seedcamp.com/",
+    "description": "Seedcamp is a London-based pre-seed/seed investor (Synthesia, Revolut, UiPath, and Wise are alumni) that writes first checks of roughly $350K-$1.25M for about 5-10% equity, investing year-round rather than through cohort batches. It closed a new $320M Fund VII in June 2026, including a dedicated vehicle for expanding its US footprint.",
+    "highlights": [
+      "First checks of $350K-$1.25M for ~5-10% equity",
+      "Leads roughly 70% of the deals it does",
+      "No batch/bootcamp structure — rolling, year-round investing",
+      "New $320M Fund VII (June 2026) includes a dedicated US-expansion vehicle",
+      "Alumni include Revolut, UiPath, Wise, and Synthesia"
+    ],
+    "notableAlumni": [
+      "Revolut",
+      "UiPath",
+      "Wise",
+      "Synthesia"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "soma-capital",
+    "name": "Soma Capital / Soma Fellowship",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA / New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Climate/Impact",
+      "Fintech",
+      "Biotech/Health",
+      "Web3/Crypto"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Typical check size $100,000-$1,000,000 (average ~$431,000) via direct investment; separately, the Soma Fellowship track offers up to $2,000,000 in uncapped SAFE funding at 0% equity to select early founders",
+    "equity": "Deal-specific cash-for-equity investment for the main fund (percentage varies by round); the Soma Fellowship track specifically is 0% equity, uncapped SAFE",
+    "programLength": "Not a fixed cohort — ongoing investor relationship; the Fellowship track includes community programming (dinners, events) with founders Soma has previously backed",
+    "format": "Hybrid — fully remote application and support, with optional in-person networking/events in San Francisco or New York",
+    "eligibility": "Early-stage (pre-seed/seed) founders across AI, climate tech, consumer, fintech, healthcare, proptech, SaaS, and web3; the Fellowship track has historically run an annual application deadline — confirm the current cycle before applying",
+    "applicationDeadline": "Rolling for general investment inquiries; the Soma Fellowship has run an annual deadline (e.g., April 1) in past cycles — confirm the current date at programs.somacap.com/fellows",
+    "applicationWindow": "Rolling (main fund) / annual cycle (Fellowship track)",
+    "applyLink": "https://programs.somacap.com/fellows",
+    "website": "https://www.somacap.com/",
+    "description": "Soma Capital is an early-stage venture fund investing $100K-$1M checks (avg. ~$431K) into pre-seed/seed startups across AI, climate, fintech, healthcare, and more. Its Soma Fellowship track separately offers select early founders up to $2M in uncapped, 0%-equity SAFE funding plus access to a network of unicorn-founder alumni.",
+    "highlights": [
+      "Typical checks $100K-$1M (avg. ~$431K)",
+      "Soma Fellowship track: up to $2M uncapped SAFE at 0% equity",
+      "Fully remote, with optional in-person SF/NYC networking",
+      "Alumni network includes Ramp, Cognition, Mercor, Deel, and Kalshi"
+    ],
+    "notableAlumni": [
+      "Ramp",
+      "Cognition",
+      "Mercor",
+      "Deel",
+      "Kalshi"
+    ],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "afore-capital",
+    "name": "Afore Capital",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500,000-$2,000,000+ typical check (as low as $50,000 in some cases); median check size $500K-$1M",
+    "equity": "Deal-specific equity via a YC-style SAFE (percentage negotiated per company, not publicly fixed)",
+    "programLength": "Not a fixed cohort — direct investment relationship; also runs a separate Founders-in-Residence (FIR) program for pre-idea builders without a startup yet",
+    "format": "Remote — application and investment process conducted virtually, no residency required",
+    "eligibility": "Pre-traction, pre-everything (idea to early-product) founders building venture-scale companies; the Founders-in-Residence track is also open to aspiring founders without a concrete idea yet",
+    "applicationDeadline": "Rolling — no fixed deadline for general pitch submissions",
+    "applicationWindow": "Rolling, year-round",
+    "applyLink": "https://www.afore.vc/pitch",
+    "website": "https://www.afore.vc/",
+    "description": "Afore Capital is a San Francisco pre-seed venture fund (Fund IV: $185M; $500M+ total AUM) investing $500K-$2M+ in pre-traction founders via YC-style SAFEs, alongside a separate Founders-in-Residence program for people with conviction but no concrete startup idea yet.",
+    "highlights": [
+      "$500K-$2M+ typical check size at pre-seed",
+      "YC-style SAFE, terms negotiated per company",
+      "Founders-in-Residence track for pre-idea builders",
+      "$500M+ total assets under management across its funds"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-02"
+  },
+  {
+    "id": "sku-austin",
+    "name": "SKU",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Consumer",
+      "Agtech/Foodtech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No direct cash investment disclosed; provides access to retail buyers, distributors, and investor network",
+    "equity": "Approximately 5% equity stake, distributed primarily among program mentors",
+    "programLength": "12 weeks",
+    "format": "Hybrid (in-person program based in Austin, open to brands/mentors nationwide)",
+    "eligibility": "Consumer product (CPG) companies with a market-ready physical product and existing sales traction in food, beverage, pet care, personal care, apparel, or health & wellness; not for idea-stage companies",
+    "applicationDeadline": "July 15, 2026 (Fall '26 track)",
+    "applicationWindow": "Two cohorts per year (Spring and Fall tracks)",
+    "applyLink": "https://sku.is/apply-2/",
+    "website": "https://sku.is/",
+    "description": "SKU is one of the country's first and most established consumer product goods (CPG) accelerators, founded in Austin in 2011 by Shari Wynne Ressler and Clayton Christopher (Sweet Leaf Tea, Deep Eddy Vodka). The 12-week hybrid program pairs market-validated CPG brands with a curated network of retail, distribution, and investor mentors to help them scale.",
+    "highlights": [
+      "Founded 2011; over 150 CPG brands have completed the program",
+      "Alumni include Siete Foods (acquired by PepsiCo for $1.2B), EPIC Provisions, DUDE Wipes, and wildwonder",
+      "12-week hybrid curriculum with hand-picked mentor teams and access to retail buyers",
+      "Requires existing product and market traction — not for idea-stage founders",
+      "Recently expanded to a Latin America-based track alongside its core Austin program"
+    ],
+    "notableAlumni": [
+      "Siete Foods",
+      "EPIC Provisions",
+      "DUDE Wipes",
+      "wildwonder"
+    ],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "austin-technology-incubator-ati",
+    "name": "Austin Technology Incubator (ATI)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Climate/Impact",
+      "Biotech/Health",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct capital invested by ATI; helps member companies raise outside funding (member companies have collectively raised over $1.7B in the past 12 years)",
+    "equity": "2% equity stake required for membership, plus a $10,000 annual membership fee (per third-party sourcing; contact ATI to confirm current terms)",
+    "programLength": "Typically 1 to 3 years, varies by company maturity",
+    "format": "In-person (Austin-based coworking/lab space) with rolling admissions",
+    "eligibility": "Any startup with breakthrough scientific/engineering innovation at prototype or MVP stage; no requirement to be UT-affiliated, but founders must be eligible to work in the U.S.",
+    "applicationDeadline": "Rolling admissions",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://ati.utexas.edu/apply/",
+    "website": "https://ati.utexas.edu/",
+    "description": "Austin Technology Incubator is the longest continuously operating university-affiliated technology incubator in the U.S., founded in 1989 as part of the IC² Institute at The University of Texas at Austin. It supports deep-tech startups in sustainability (circular economy, energy, food & agtech, mobility, water), healthcare, and microelectronics through coworking space, mentorship, and connections to funding.",
+    "highlights": [
+      "Operating since 1989; over 300 member companies graduated",
+      "Housed within UT Austin's IC² Institute / Discovery to Impact unit",
+      "Focus areas: sustainability, healthcare, and microelectronics deep tech",
+      "Rolling admissions with due-diligence review by ATI staff and outside experts",
+      "Also home to Southwest I-Corps and the TEXVMS Venture Mentoring Service"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "sputnik-atx",
+    "name": "Sputnik ATX VC",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100,000 initial investment (SAFE), with up to $400,000–$500,000 in potential follow-on funding",
+    "equity": "Investment via SAFE note; specific percentage not publicly disclosed. No board seats taken.",
+    "programLength": "13 weeks",
+    "format": "Hybrid (in-person bootcamp in Austin)",
+    "eligibility": "Early-stage 'maker-founder' startups across any industry; open to founders relocating to Austin for the program",
+    "applicationDeadline": "Rolling; Summer cohort applications due ~June 25 and Winter cohort applications due ~December 25 each year",
+    "applicationWindow": "Two cohorts per year (Summer and Winter)",
+    "applyLink": "https://www.sputnikatx.com/accelerator",
+    "website": "https://www.sputnikatx.com/",
+    "description": "Sputnik ATX is an Austin-based pre-seed accelerator and venture fund that runs a 13-week bootcamp focused on sales training and traction-building for early-stage 'maker-founder' startups. It invests $100K upfront via SAFE with the potential for significant follow-on funding.",
+    "highlights": [
+      "Founded 2017; runs two cohorts per year (Summer and Winter)",
+      "Invests $100K per startup with up to $400K–$500K in follow-on funding",
+      "13-week program emphasizing sales training and traction building",
+      "No board seats taken; positions itself as founder-friendly",
+      "Recent cohorts (2025-2026) included Auric Essentials, Nitex, Biky, and MOD Tech Labs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "international-accelerator-austin",
+    "name": "International Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$50,000 via SAFE note (per multiple third-party sources; not itemized on official site — confirm directly)",
+    "equity": "Reported 10%-15% equity (per third-party review sources; official site does not itemize equity terms — confirm directly)",
+    "programLength": "6 months (official site); some secondary sources describe a 12-month track — confirm exact duration directly",
+    "format": "In-person (relocation to Austin required for program duration)",
+    "eligibility": "Founding teams with at least one foreign-born team member committed to relocating to Austin, TX for the program; must have a viable MVP with early market validation. Fewer than 1% of applicants accepted.",
+    "applicationDeadline": "Rolling; application is free",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://www.internationalaccelerator.com/application",
+    "website": "https://www.internationalaccelerator.com/",
+    "description": "International Accelerator, founded in 2014 and based in Austin, is billed as the only U.S. accelerator exclusively designed for foreign-born founders. It provides free housing, co-working office space, relocation and immigration support, funding, and mentorship to help international entrepreneurs launch in the U.S. market.",
+    "highlights": [
+      "Only U.S. accelerator exclusively for foreign-born founders",
+      "Provides free housing and office space in Austin plus immigration/relocation support",
+      "Reported portfolio value of $530 million",
+      "Extremely selective — fewer than 1% acceptance rate",
+      "Also runs the Startup World Cup Austin Regional pitch competition"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "texas-health-catalyst",
+    "name": "Texas Health Catalyst (UT Austin Dell Medical School)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $50,000 in milestone-based seed funding",
+    "equity": "No equity taken",
+    "programLength": "Milestone-based; award cycle runs several months (Fall 2026 cycle: applications open Aug 3, finalists announced October, showcase Dec 10, awards announced December)",
+    "format": "Hybrid (UT Austin/Dell Medical School, Austin, TX)",
+    "eligibility": "UT Austin faculty and staff, or UT Austin physicians-in-training, medical students, postdocs, or graduate students with faculty supervision, working on health care technologies (therapeutics, diagnostics, medical devices, digital health)",
+    "applicationDeadline": "September 6, 2026, 11:59 PM CT (Fall 2026 cycle)",
+    "applicationWindow": "Annual challenge cycles plus a year-round general open call for proposals",
+    "applyLink": "https://dellmed.utexas.edu/units/office-of-innovation-and-entrepreneurship/texas-health-catalyst/application",
+    "website": "https://dellmed.utexas.edu/units/office-of-innovation-and-entrepreneurship/texas-health-catalyst",
+    "description": "Texas Health Catalyst is a health innovation hub at UT Austin's Dell Medical School that provides milestone-based seed funding, mentorship, and industry connections to help UT Austin researchers and clinicians translate health care research into commercial ventures.",
+    "highlights": [
+      "Over 10 years of operation; $1.7M+ in seed funding has catalyzed $100M+ in follow-on funding across 76 projects",
+      "Up to $50,000 in non-dilutive, milestone-based seed funding per award",
+      "Restricted to UT Austin-affiliated faculty, staff, and students",
+      "Fall 2026 cycle focused on women's health and child health innovation",
+      "Run jointly with Cockrell School of Engineering, College of Natural Sciences, and College of Pharmacy"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "longhorn-startup-lab",
+    "name": "Longhorn Startup Lab",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct funding; free program with course credit and free coworking membership at Capital Factory",
+    "equity": "No equity taken",
+    "programLength": "Two-semester program (Fall seminar course + Spring project-based lab course)",
+    "format": "In-person (UT Austin campus / Capital Factory)",
+    "eligibility": "Current University of Texas at Austin students only",
+    "applicationDeadline": "Unknown exact date; enrollment follows UT Austin's semester course registration calendar",
+    "applicationWindow": "Annual (Fall seminar, Spring lab)",
+    "applyLink": "https://www.cs.utexas.edu/longhorn-startup",
+    "website": "https://www.cs.utexas.edu/longhorn-startup",
+    "description": "Longhorn Startup Lab is a free, UT Austin student-only accelerator program taught by Capital Factory founder and UT CS instructor Joshua Baer. Students get course credit, weekly one-on-one mentoring from entrepreneurs, and free coworking membership at Capital Factory while building their startups.",
+    "highlights": [
+      "Founded 2011; over 1,000 UT Austin students have participated",
+      "Free program offering course credit plus mentorship",
+      "Free coworking membership at Capital Factory during the Spring Lab course",
+      "Alumni startups have gone on to Y Combinator, Capital Factory, and angel/VC funding",
+      "Restricted to enrolled UT Austin students"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "mediatech-ventures-incubator",
+    "name": "MediaTech Incubator (MediaTech Ventures)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Gaming/Media"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No investment provided; program charges a $750 program fee (per third-party sourcing — confirm current fee directly)",
+    "equity": "No equity taken",
+    "programLength": "12 weeks",
+    "format": "Hybrid",
+    "eligibility": "Founders, students, graduates, or professionals building media/technology ventures (content platforms, creator tools, media analytics, adtech, digital storytelling); open globally",
+    "applicationDeadline": "Rolling; applications always open",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://created.mediatech.ventures/mediatech-incuabtor",
+    "website": "https://mediatech.ventures/",
+    "description": "MediaTech Ventures, founded in Austin in 2015 by Paul O'Brien, runs the MediaTech Incubator — a 12-week intensive curriculum for founders building at the intersection of media and technology, backed by mentors with deep media-industry experience.",
+    "highlights": [
+      "Austin-founded (2015); ~150 alumni startups to date",
+      "12-week curriculum focused exclusively on media/creative-tech founders",
+      "No equity taken; program funded via a program fee model",
+      "Rolling admissions, applications always open",
+      "Has also partnered on incubator programming in Houston (Ion district)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "acc-impact-lab",
+    "name": "IMPACT Lab (Austin Community College)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "None — the lab explicitly does not provide financial assistance in any form; provides facility, equipment, and training access instead",
+    "equity": "No equity taken",
+    "programLength": "Ongoing membership/access model; individual trainings range from single sessions to multi-week courses",
+    "format": "In-person (ACC Highland campus, Austin, TX)",
+    "eligibility": "Digital-ready small and midsize manufacturers and physical-product entrepreneurs; student programs require current ACC course enrollment",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdqUUAhvN6vfHl-qG36ccjKNGgqfNTkDNO9Wcuwsf9gTAobDg/viewform",
+    "website": "https://dmcat.austincc.edu/advanced-manufacturing/acc-impact-lab/",
+    "description": "IMPACT Lab (Innovative Manufacturing Partnerships Accelerating Central Texas) is a 5,000-square-foot business incubator at Austin Community College — Austin's first innovation center dedicated to physical product development and manufacturing, offering prototyping equipment, training, and connections for hardware entrepreneurs.",
+    "highlights": [
+      "Austin's first innovation center focused on physical product development and manufacturing",
+      "Funded in part by the EDA Regional Innovation Strategies program, ATI, Autodesk, City of Austin, and AWS",
+      "Offers 3D printing and CNC machining training plus prototyping equipment access",
+      "No direct funding or equity — a facility/training-access incubator, not an investor",
+      "Connects student talent, researchers, and entrepreneurs with manufacturers"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "acc-bioscience-incubator",
+    "name": "ACC Bioscience Incubator",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "None — provides leasable wet-lab space and equipment access, not direct capital",
+    "equity": "No equity taken — the program explicitly states member companies keep 100% of their IP and equity",
+    "programLength": "Ongoing membership model (lease-based); duration varies by company",
+    "format": "In-person (Austin, TX wet-lab facility)",
+    "eligibility": "Early-stage bioscience/biotech companies needing wet-lab space; exact revenue/stage requirements not published — confirm directly",
+    "applicationDeadline": "Unknown; contact ABI directly",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://sites.austincc.edu/incubator/edit-apply/",
+    "website": "https://sites.austincc.edu/incubator/",
+    "description": "The ACC Bioscience Incubator is Austin's only dedicated bioscience startup incubator, offering a 10,000-square-foot wet-lab facility with close to $2M in lab equipment. It supports early-stage biotech companies with affordable lab space, cross-disciplinary talent access, and mentorship while letting founders retain 100% of their IP and equity.",
+    "highlights": [
+      "Austin's only dedicated bioscience/biotech startup incubator",
+      "10,000 sq. ft. wet-lab facility with ~$2M in lab equipment",
+      "Companies keep 100% of IP and equity — no equity taken by the program",
+      "Operated by Austin Community College's Office of Strategic Initiatives",
+      "Bridges education and entrepreneurship, connecting to regional bioscience workforce"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "tex-e-accelerator-ut-austin",
+    "name": "TEX-E Accelerator (Texas Exchange for Energy & Climate Entrepreneurship)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$10,000 in non-dilutive funding per team",
+    "equity": "No equity taken (non-dilutive funding)",
+    "programLength": "3 months over the summer, beginning June 1",
+    "format": "In-person/hybrid (UT Austin, Energy Institute)",
+    "eligibility": "Climate and energy startups led by current University of Texas at Austin students",
+    "applicationDeadline": "Unknown exact date; program begins annually on June 1",
+    "applicationWindow": "Annual (summer cohort)",
+    "applyLink": "https://energy.utexas.edu/tex-e-texas-exchange-energy-climate-entrepreneurship",
+    "website": "https://energy.utexas.edu/tex-e-texas-exchange-energy-climate-entrepreneurship",
+    "description": "TEX-E is a summer accelerator run by the Energy Institute at UT Austin, supporting UT Austin student-led climate and energy startups with $10,000 in non-dilutive funding, tailored mentorship, and guidance from an Accelerator Advisory Board toward technology development and commercialization.",
+    "highlights": [
+      "Run by the Energy Institute at UT Austin",
+      "$10,000 non-dilutive funding per team, no equity taken",
+      "3-month summer accelerator (June-August) exclusively for UT Austin students",
+      "2026 cohort included startups like TerraCoat (solar efficiency)",
+      "Monthly milestone reviews with an Accelerator Advisory Board"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "quake-capital-partners",
+    "name": "Quake Capital Partners",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$100,000-$150,000",
+    "equity": "5%-10% equity (post-SAFE); valuation caps typically $1M-$3.5M",
+    "programLength": "12 weeks",
+    "format": "Hybrid (in-person cohorts in Austin, plus Los Angeles, NYC, and Cologne)",
+    "eligibility": "Seed-stage, industry-agnostic startups; excludes pharmaceutical, restaurant, consultancy, and local service businesses",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://duedash.com/dd/quakecapitalpartners",
+    "website": "https://quakecapital.com/",
+    "description": "Quake Capital Partners is a seed-stage accelerator and venture fund headquartered in Austin, Texas, founded in 2016. It runs a 12-week accelerator program investing $100K-$150K for 5%-10% equity, with cohorts also running in Los Angeles, New York, and Cologne, Germany.",
+    "highlights": [
+      "Headquartered in Austin, TX; founded 2016",
+      "$100K-$150K investment for 5%-10% equity",
+      "12-week accelerator emphasizing traction, team, and market fit",
+      "Industry-agnostic but excludes pharma, restaurants, consultancy, and local services",
+      "Also runs accelerator cohorts in Los Angeles, New York, and Cologne, Germany"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "divinc-women-in-tech-accelerator",
+    "name": "DivInc Women in Tech Accelerator (Austin)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any",
+      "Social Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$10,000 non-dilutive seed funding upon completion, plus approximately $100,000 in resources/perks",
+    "equity": "No equity taken (non-dilutive funding)",
+    "programLength": "12 weeks",
+    "format": "Hybrid (in-person program based in Austin)",
+    "eligibility": "Women-identifying and non-binary-led, for-profit tech startups of any industry focused on scaling and becoming venture-backable; non-profits and consulting firms not eligible",
+    "applicationDeadline": "Most recent Austin cohort ran April-June 2026 (applications closed November 30, 2025); next cycle dates not yet announced",
+    "applicationWindow": "Annual cohort cycle",
+    "applyLink": "https://www.divinc.org/apply",
+    "website": "https://www.divinc.org/focusareas/women-in-tech",
+    "description": "DivInc's Women in Tech Accelerator is a 12-week program (distinct from DivInc's flagship Innovation & Influence Accelerator) launched in partnership with SheSpace to support women-identifying and non-binary tech founders in Austin and Houston, providing $10,000 in non-dilutive funding plus mentorship and resources.",
+    "highlights": [
+      "Launched Fall 2022 in partnership with SheSpace",
+      "$10,000 non-dilutive seed funding plus ~$100,000 in program resources/perks",
+      "12-week program dedicated specifically to women and non-binary tech founders",
+      "Provides childcare-assistance stipends for participating founders",
+      "Run by DivInc, an Austin-based 501(c)(3) nonprofit accelerator"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "accelerateher-austin",
+    "name": "AccelerateHER Austin (TWU Center for Women Entrepreneurs)",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any",
+      "Social Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct funding — free program providing mentorship, training, and resources; no equity or fees",
+    "equity": "No equity taken; program is entirely free to participants",
+    "programLength": "15 weeks",
+    "format": "In-person (Austin, TX)",
+    "eligibility": "Women-owned businesses (51% or more women ownership required) based in the Greater Austin area",
+    "applicationDeadline": "October 24, 2026 (2026 Austin cohort)",
+    "applicationWindow": "Annual cohort",
+    "applyLink": "https://twu.edu/center-women-entrepreneurs/accelerateher/austin/",
+    "website": "https://twu.edu/center-women-entrepreneurs/",
+    "description": "AccelerateHER Austin is a free 15-week program run by Texas Woman's University's Center for Women Entrepreneurs, selecting a small cohort of Austin-area women-owned businesses each year for business-plan refinement, pitch training, mentorship, and networking support at no cost to founders.",
+    "highlights": [
+      "Completely free to participants — no tuition, equity, or fees",
+      "Selects approximately 7 Austin-area women-owned businesses per cohort",
+      "15-week program with direct access to a business advisor and mentors",
+      "Facilitated by Austin Woman magazine founder Melinda Garvey",
+      "Run by Texas Woman's University's Center for Women Entrepreneurs, which has provided $2.3M+ in funding to small businesses over 10 years"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
   }
 ];
