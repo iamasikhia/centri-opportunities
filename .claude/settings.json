@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl *)",
+      "mcp__claude_ai_Google_Drive__search_files"
+    ]
+  }
+}
