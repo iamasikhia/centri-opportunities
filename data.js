@@ -264,7 +264,7 @@ window.OPPORTUNITIES = [
       "Consumer"
     ],
     "stage": "Pre-seed",
-    "fundingAmount": "Up to $1M ($500K for 10% upfront via SAFE + $500K in next round within 18 months); plus $5M+ in cloud/AI/software credits",
+    "fundingAmount": "Up to $1M ($500K for 10% upfront via SAFE + $500K in next round within 18 months); plus $5M-$8M+ in cloud/AI/software credits (reported range varies by cohort/source)",
     "equity": "10% equity (for initial $500K tranche)",
     "programLength": "12 weeks",
     "format": "In-person, San Francisco, CA",
@@ -285,7 +285,7 @@ window.OPPORTUNITIES = [
       "August",
       "Third Space"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-08-06"
   },
   {
     "id": "plug-and-play-tech-center",
@@ -6842,6 +6842,513 @@ window.OPPORTUNITIES = [
       "15-week program with direct access to a business advisor and mentors",
       "Facilitated by Austin Woman magazine founder Melinda Garvey",
       "Run by Texas Woman's University's Center for Women Entrepreneurs, which has provided $2.3M+ in funding to small businesses over 10 years"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "the-residency",
+    "name": "The Residency",
+    "category": "Incubator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Exact amount not publicly disclosed — provides housing, meals, and some cash support for the cohort period in exchange for a SAFE; also includes AI model compute credits. Confirm current terms directly before applying.",
+    "equity": "Takes equity via SAFE in exchange for housing, food, and cash support (specific percentage not publicly disclosed)",
+    "programLength": "3-6 months per cohort, live-in",
+    "format": "In-person, San Francisco, CA (leases five SF mansions — four in Pacific Heights, one in the Mission — each housing 10-25 founders)",
+    "eligibility": "Ambitious early-stage founders and technical builders, often pre-idea or pre-product; extremely competitive (received 5,000+ applications from 40+ countries for a recent cohort, accepting roughly 3%)",
+    "applicationDeadline": "Cohort-based; Fall 2026 cohort applications closed July 31, 2026 — check apply.livetheresidency.com for the next cycle",
+    "applicationWindow": "Periodic cohorts (roughly 2-3 per year)",
+    "applyLink": "https://apply.livetheresidency.com",
+    "website": "https://www.livetheresidency.com/",
+    "description": "The Residency is a live-in San Francisco incubator that houses early-stage founders across a network of leased mansions, providing housing, meals, community, therapy/coaching, and AI compute credits in exchange for a SAFE, so founders can build without worrying about basic living costs. It has drawn backing interest from high-profile figures including Sam Altman and receives thousands of applications per cohort.",
+    "highlights": [
+      "Houses 10-25 founders per home across 5 leased SF mansions",
+      "Housing, meals, coaching, and AI compute credits included",
+      "Extremely selective — ~3% acceptance from 5,000+ applicants in a recent cycle",
+      "Additional locations beyond SF include Bangalore",
+      "Best fit for pre-idea/pre-product builders, not just funded startups"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "peak6-trials",
+    "name": "PEAK6 Trials",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Fintech"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "$100,000 annual salary, plus access to PEAK6's internal resources, AI engineering team, and customer network — not a lump-sum investment",
+    "equity": "Founder retains up to 51% equity as the company scales (PEAK6 dilutes itself so the founder holds more value at exit than PEAK6 does, on a sliding scale up to a $1B valuation)",
+    "programLength": "12 months, based at PEAK6's Austin headquarters; no cohorts or demo days — a single-founder, ongoing residency",
+    "format": "In-person, Austin, TX (PEAK6 headquarters)",
+    "eligibility": "Aspiring fintech founders of any background — open to people without prior fintech experience; extremely selective (~1% acceptance, max 12 participants)",
+    "applicationDeadline": "2026 cohort applications closed May 29, 2026 — check peak6trials.com for the next cycle",
+    "applicationWindow": "Annual cycle",
+    "applyLink": "https://peak6trials.com/apply",
+    "website": "https://peak6trials.com/",
+    "description": "PEAK6 Trials is a fintech-focused, one-year founder residency at PEAK6's Austin headquarters, paying a $100,000 salary and giving founders access to PEAK6's in-house AI engineering team and real customer relationships to build a fintech business from scratch — with no cohorts, demo days, or fixed curriculum, just a year dedicated to building with real revenue.",
+    "highlights": [
+      "$100,000 salary for the year, plus in-house AI engineers and real fintech customers",
+      "Founder equity grows to up to 51% on a sliding scale as valuation increases",
+      "No cohorts or demo days — one founder at a time building for real",
+      "~1% acceptance rate, capped at 12 participants",
+      "Backed by PEAK6, the trading/fintech firm behind Apex Fintech Solutions"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "agi-house",
+    "name": "AGI House",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Hillsborough / San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "AGI House Ventures (its affiliated early-stage AI fund) offers up to $1,000,000 in investment for promising AI founders; residency itself does not have a separately published cash amount",
+    "equity": "Investment terms via AGI House Ventures are deal-specific and not publicly fixed",
+    "programLength": "Ongoing community/residency model, not a fixed-cohort program",
+    "format": "In-person — houses in Hillsborough, CA and atop Twin Peaks in San Francisco, plus a broader event/community program",
+    "eligibility": "Top AI builders and researchers; residency and funding are merit-based rather than a fixed application window — no formal published eligibility criteria",
+    "applicationDeadline": "No fixed deadline — join via the AGI House app/mailing list or apply directly for venture funding consideration",
+    "applicationWindow": "Rolling / ongoing",
+    "applyLink": "https://www.agihouse.org/",
+    "website": "https://www.agihouse.org/",
+    "description": "AGI House is a community, live-in hacker house network, and early-stage AI venture fund founded in 2023, operating residences in Hillsborough and San Francisco for top AI builders and researchers. Its affiliated fund, AGI House Ventures — backed by investors including Eric Schmidt and Marc Andreessen — offers up to $1M in funding to promising AI founders, though the application process is merit-based and less formally structured than a typical accelerator.",
+    "highlights": [
+      "Live-in hacker houses in Hillsborough, CA and San Francisco (Twin Peaks)",
+      "Affiliated AGI House Ventures fund invests up to $1M in AI startups",
+      "Backed by investors including Eric Schmidt and Marc Andreessen",
+      "Merit-based, rolling access rather than a fixed cohort/deadline model",
+      "Focused exclusively on AI builders and researchers"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "founder-institute-austin",
+    "name": "Founder Institute Austin",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct cash investment; provides access to FI's global Venture Network of investors and follow-on Founder Lab accelerators",
+    "equity": "2.5% equity via warrant (joins FI's global Equity Collective roughly two-thirds through the program); the warrant is dilutable and only converts upon a $100K+ qualified equity financing",
+    "programLength": "4 months (10-session core curriculum; Fall 2026 cohort runs Sep 15 - Nov 18, 2026)",
+    "format": "Hybrid (core curriculum plus local in-person mentor and networking events in Austin)",
+    "eligibility": "Early-stage tech founders at idea through pre-seed stage; companies typically under 2 years old with under $500K in annual revenue; selection includes FI's 'Entrepreneur DNA Assessment'",
+    "applicationDeadline": "September 1, 2026 (early-enrollment pricing for applicants who enroll by July 28, 2026)",
+    "applicationWindow": "Twice yearly (Spring and Fall cohorts)",
+    "applyLink": "https://fi.co/apply/austin",
+    "website": "https://fi.co/s/austin",
+    "description": "Founder Institute Austin is the local chapter of the Founder Institute, a global pre-seed accelerator network, running a 4-month mentor-driven curriculum that takes idea-stage and pre-seed Austin founders toward a fundable company. Unlike traditional accelerators, founders pay a program entrance fee up front and later pledge a small equity warrant to FI's global Equity Collective.",
+    "highlights": [
+      "Entrance fee of $899-$1,199 (early enrollment discount), refundable before a specified early session",
+      "2.5% equity warrant that only activates upon a $100K+ qualified financing event",
+      "Local Austin chapter led by Founder Institute Texas director Martin Martinez and MediaTech Ventures CEO Paul O'Brien",
+      "Part of FI's worldwide network spanning 200+ cities, giving Austin founders access to global mentors and the FI Venture Network",
+      "Fall 2026 Austin cohort runs Sep 15 - Nov 18, 2026, with a Sep 1, 2026 final application deadline"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "berkeley-gateway-accelerator",
+    "name": "Berkeley Gateway Accelerator (BGA)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Berkeley, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "Climate/Impact",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $200,000 in cash plus an additional ~$200,000 in services (housing, office/lab space, mentorship)",
+    "equity": "Approximately 10% via SAFE, with flexible terms for the earliest-stage founders",
+    "programLength": "5 months",
+    "format": "In-person (residency required in Berkeley, CA)",
+    "eligibility": "Scientific/technical founders (often from national labs, universities, or corporate R&D) with deep tech at prototype/lab-stage validation (TRL 3-5); must commit to relocating to Berkeley for the residency; solo founders and teams welcome",
+    "applicationDeadline": "Rolling cohorts starting spring and fall; Fall 2026 cohort application currently open",
+    "applicationWindow": "Two cohorts per year (spring and fall)",
+    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSetPEI2DkAPGjqkxO02I3v3u3oT2vGTRP-NMm9jRR1_6Bl3gw/viewform",
+    "website": "https://bga.tech/programs/accelerator",
+    "description": "Berkeley Gateway Accelerator is a live-in deep tech accelerator in downtown Berkeley that provides scientific founders with capital, lab/office space, housing, and 800+ hours of mentorship to commercialize hard science across sectors like quantum, space, medtech, energy, and robotics. It runs rolling 5-month residencies and works with founders across 12+ deep tech sectors.",
+    "highlights": [
+      "Up to $200K cash plus $200K in services (housing, office, hardware/media labs)",
+      "5-month in-person residency in downtown Berkeley",
+      "800+ hours of mentorship from General Partners and entrepreneurial fellows",
+      "Focused on TRL 3-5 deep tech: quantum, space, medtech, neurotech, energy, robotics, biotech, semiconductors"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "a16z-csx-crypto-startup-accelerator",
+    "name": "a16z CSX (Crypto Startup Accelerator)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Web3/Crypto"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500,000 investment from a16z crypto",
+    "equity": "7% equity, standard investor rights",
+    "programLength": "12 weeks",
+    "format": "In-person (San Francisco, though the program has historically rotated to other cities for some cohorts)",
+    "eligibility": "Early-stage founders building with blockchain/crypto technologies; highly competitive with roughly a 3% acceptance rate",
+    "applicationDeadline": "Rolling — twice-yearly cohorts; most recent cohort (CSX 04) applications closed February 7, 2026, next cohort TBD",
+    "applicationWindow": "Twice yearly (Spring and Fall cohorts)",
+    "applyLink": "https://a16zcrypto.com/accelerator/",
+    "website": "https://a16zcrypto.com/accelerator/",
+    "description": "a16z CSX (formerly Crypto Startup School) is a16z crypto's intensive, in-person accelerator for early-stage web3/crypto founders, evolved from a free educational program into a full accelerator with investment terms. Cohorts of early-stage crypto companies get $500K for 7% equity plus mentorship, technical workshops, and go-to-market support.",
+    "highlights": [
+      "$500K investment for 7% equity per company",
+      "12-week intensive in-person program",
+      "~3% acceptance rate; CSX cohorts have collectively raised over $1B in follow-on funding",
+      "Runs twice per year (Spring/Fall cohorts)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "ai-grant",
+    "name": "AI Grant",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250,000 via uncapped, no-discount MFN SAFE, plus roughly $350K in Microsoft Azure credits and additional partner credits (~$600K+ combined value)",
+    "equity": "No cap, no discount MFN SAFE (equity dilution occurs on future conversion; not equity-free)",
+    "programLength": "Culminates in an AI Grant Summit weekend and Demo Day in San Francisco; exact duration between application and summit not disclosed",
+    "format": "Hybrid (remote application/building, in-person Summit and Demo Day in San Francisco)",
+    "eligibility": "No credentials required; must have an actionable AI product idea and be willing to form a Delaware C-corp if accepted",
+    "applicationDeadline": "Applications for Batch 4 are closed; no reopening date publicly announced as of research date",
+    "applicationWindow": "Periodic batches (roughly annual)",
+    "applyLink": "https://aigrant.com/",
+    "website": "https://aigrant.com/",
+    "description": "AI Grant is a San Francisco-based investment program founded by Nat Friedman and Daniel Gross, evolved from an open-source AI grants program into an equity accelerator for AI startups. Selected companies receive $250K on an uncapped SAFE plus large compute credit packages and attend an in-person AI Grant Summit and Demo Day.",
+    "highlights": [
+      "$250K uncapped/no-discount MFN SAFE plus ~$350K+ in Azure/partner credits",
+      "No credentials required to apply",
+      "Founded by Nat Friedman and Daniel Gross",
+      "Batch 4 applications currently closed; program run periodically"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "activate-fellowship-berkeley",
+    "name": "Activate Fellowship — Berkeley Community",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Berkeley, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Living stipend and project/research funding for two years (exact amount not publicly disclosed); access to Lawrence Berkeley National Lab facilities (Molecular Foundry, Advanced Bioprocessing and Development Unit) via the Cyclotron Road partnership",
+    "equity": "No equity — Activate takes no equity and claims no IP ownership over fellows' work",
+    "programLength": "2 years",
+    "format": "In-person (Berkeley, partnered with Lawrence Berkeley National Laboratory / Cyclotron Road)",
+    "eligibility": "Bachelor's degree plus at least 4 years post-graduate research/technology development experience; must be leading commercial development of a hardware-based innovation for the first time; full-time commitment; must be authorized to work in the US",
+    "applicationDeadline": "Cohort 2026 applications closed October 28, 2025; next cycle deadlines typically announced ~1 year ahead",
+    "applicationWindow": "Annual",
+    "applyLink": "https://activate.org/apply",
+    "website": "https://activate.org/",
+    "description": "Activate (formerly Activate.org, incorporating the Cyclotron Road program) is a nonprofit fellowship that gives scientists and engineers two years of stipended, equity-free support to turn hard-tech research into startups. The Berkeley community, its longest-standing, partners with Cyclotron Road at Lawrence Berkeley National Lab and gives fellows access to national-lab-grade facilities.",
+    "highlights": [
+      "2 years of full-time, equity-free support; no IP claimed",
+      "Berkeley cohort partners with Lawrence Berkeley National Lab (Cyclotron Road)",
+      "Access to the Molecular Foundry and other national lab facilities",
+      "Focused on hard tech for climate, energy, manufacturing, and food systems"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "restive-ventures-fintech-cohort",
+    "name": "Restive Ventures Fintech Founder Cohort",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Fintech",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Unknown — early-stage capital investment plus a 6-month high-touch program; exact check size not publicly disclosed",
+    "equity": "Unknown — not publicly disclosed",
+    "programLength": "6 months",
+    "format": "Hybrid (San Francisco-based investor with distributed founder cohort, plus in-person events)",
+    "eligibility": "Pre-seed and seed-stage fintech founders (product live or in development), engineering-led teams, businesses touching regulated finance, enterprise workflow, or consumer financial experiences",
+    "applicationDeadline": "Rolling — 9th cohort applications ran May 30–July 15, 2025; next cycle TBD",
+    "applicationWindow": "Twice yearly",
+    "applyLink": "https://www.restive.com/blog/calling-all-fintech-founders-apply-now",
+    "website": "https://www.restive.com/",
+    "description": "Restive Ventures (formerly Financial Venture Studio) is a San Francisco-based seed-stage fintech investor that runs a twice-yearly application-based cohort combining early capital with a 6-month program connecting founders to fintech operators, regulators, and follow-on VCs. Restive-backed startups have collectively raised over $800M in follow-on capital.",
+    "highlights": [
+      "Twice-yearly application-based investment cohort for fintech founders",
+      "6-month high-touch program with regulators, operators, and follow-on VC introductions",
+      "Portfolio has raised $800M+ in follow-on funding since 2018",
+      "Now emphasizing AI-native fintech companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "openai-grove",
+    "name": "OpenAI Grove",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "$50,000 in OpenAI API credits; no cash investment",
+    "equity": "No equity taken",
+    "programLength": "5 weeks",
+    "format": "In-person (OpenAI San Francisco HQ), with some remote workshops/office hours",
+    "eligibility": "Technical talent at the very earliest ('pre-idea') stage of building an AI company; approximately 15 participants selected per cohort",
+    "applicationDeadline": "Most recent cohort applications closed January 12, 2026 (program ran Jan 22–Feb 27, 2026); next cohort date TBD",
+    "applicationWindow": "Periodic cohorts (multiple times per year)",
+    "applyLink": "https://openai.com/index/openai-grove/",
+    "website": "https://openai.com/index/openai-grove/",
+    "description": "OpenAI Grove is a technical talent program (not a traditional accelerator) for individuals at the very earliest stage of building an AI company. It runs a five-week, mostly in-person program at OpenAI's San Francisco HQ, including workshops, office hours, and mentorship from OpenAI staff, plus $50K in API credits — with no equity taken.",
+    "highlights": [
+      "No equity taken; $50K in OpenAI API credits provided",
+      "5-week program hosted at OpenAI's San Francisco headquarters",
+      "Cohort of ~15 pre-idea technical founders",
+      "Mentorship and early access from OpenAI researchers/technical leaders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "fogarty-innovation",
+    "name": "Fogarty Innovation (Fogarty Institute for Innovation)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Mountain View, CA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "Hardware"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Unknown — no direct cash investment publicly disclosed; provides in-kind incubation space, coaching, and access to regulatory/clinical/commercialization resources. The 'CAP' program is aimed at Series A/B-stage companies",
+    "equity": "Unknown — not publicly disclosed",
+    "programLength": "Varies by program (e.g., CAP program runs approximately 6 months); incubated companies have historically stayed an average of 3.2 years",
+    "format": "In-person (incubator space on the El Camino Health campus, Mountain View, CA)",
+    "eligibility": "Early- to growth-stage medical device, diagnostics, and digital health companies; rolling admissions with dedicated staff coaching",
+    "applicationDeadline": "Rolling admissions",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://www.fogartyinnovation.org/what-we-do/create/",
+    "website": "https://www.fogartyinnovation.org/",
+    "description": "Fogarty Innovation is a nonprofit medtech incubator founded in 2007 by Dr. Thomas J. Fogarty, based on the El Camino Health campus in Mountain View. It provides 'full-contact coaching,' incubator space, and regulatory/clinical/commercialization guidance to help medical device and digital health startups reach market; alumni companies have collectively raised over $1.2B.",
+    "highlights": [
+      "Nonprofit medtech incubator on the El Camino Health campus in Mountain View",
+      "36+ incubated companies since founding, averaging $34.5M raised per company",
+      "Dedicated staff coaches plus access to regulatory, quality, and reimbursement experts",
+      "Runs the annual Thomas J. Fogarty Innovation Prize"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "nasdaq-entrepreneurial-center-milestone-makers",
+    "name": "Nasdaq Entrepreneurial Center — Milestone Makers",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No equity, no cash funding — provides free mentoring, coaching, training, and media exposure (no equity)",
+    "equity": "No equity — program is entirely free to participants",
+    "programLength": "12 weeks",
+    "format": "Hybrid (San Francisco-headquartered nonprofit; cohort programming combines virtual and in-person elements)",
+    "eligibility": "Early-to-mid-stage entrepreneurs selected through a competitive application process; specific cohorts (e.g., CleanTech, women-focused) rotate by season",
+    "applicationDeadline": "Rolling/seasonal cohorts (e.g., Fall 2026 CleanTech cohort); check site for current window",
+    "applicationWindow": "Multiple cohorts per year",
+    "applyLink": "https://nasdaqcenter.org/milestone-makers/",
+    "website": "https://nasdaqcenter.org/",
+    "description": "The Nasdaq Entrepreneurial Center is a San Francisco-headquartered nonprofit supporting under-resourced founders. Its Milestone Makers program is a competitive, free 12-week cohort offering individualized mentoring, executive coaching, and training to help founders hit key growth milestones, with themed cohorts such as CleanTech.",
+    "highlights": [
+      "Free 12-week cohort program, no equity taken",
+      "Individualized mentoring, executive coaching, and media exposure",
+      "Themed cohorts (e.g., Milestone Makers: CleanTech)",
+      "Run by the San Francisco-based Nasdaq Entrepreneurial Center, active since 2015"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "bakar-labs-bioenginuity-hub",
+    "name": "Bakar Labs (Bakar BioEnginuity Hub, UC Berkeley)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Berkeley, CA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "None — this is a lab/office space lease incubator, not a cash investment program",
+    "equity": "No equity — companies pay for lab/office space rather than exchanging equity",
+    "programLength": "Ongoing tenancy (no fixed program length); companies can lease space from a single lab bench up to full suites",
+    "format": "In-person (40,000 sq ft facility in Woo Hon Fai Hall, UC Berkeley campus)",
+    "eligibility": "Early-stage life-science startups needing wet-lab or office space; no UC affiliation required",
+    "applicationDeadline": "Rolling — apply for space anytime",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://bio.bakarlabs.org/apply-for-space/",
+    "website": "https://bio.bakarlabs.org/",
+    "description": "Bakar Labs is UC Berkeley's life-science startup incubator inside the Bakar BioEnginuity Hub, offering wet-lab and office space, shared equipment (tissue culture, freezer farms, analytical instruments), and access to UC Berkeley faculty and 26 industry affiliates. Tenant and alumni companies have collectively raised over $1.16B.",
+    "highlights": [
+      "40,000+ sq ft of life-science lab/office space at UC Berkeley",
+      "62+ tenant and alumni companies to date, having raised $1.16B+ collectively",
+      "Access to shared core facilities and UC Berkeley faculty/students",
+      "No equity taken — space is leased, not exchanged for equity"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "qb3-early-stage-mentoring",
+    "name": "QB3 Early-Stage Mentoring Program",
+    "category": "Incubator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No program fee; select nominees may receive up to $100K proof-of-concept grants (to UC labs) or in-kind rent credit at Bakar Bio Labs in exchange for SAFE notes",
+    "equity": "Mentor equity structure after a 3-month trial: 0% pre-incorporation, 1% for recently incorporated companies (vesting months 4-6), 0.5% for seed-funded companies, 0.25% for Series A-funded companies",
+    "programLength": "Ongoing mentorship relationship (3-month trial period, then continued engagement)",
+    "format": "Hybrid (UC campuses in Berkeley/San Francisco/Santa Cruz, meeting space at Bakar Bio Labs)",
+    "eligibility": "Pre-incorporation or recently incorporated bioscience companies with a lab component and initial data beyond concept stage; California-based or relocating soon; no university affiliation required",
+    "applicationDeadline": "February 13, 2026; May 29, 2026; October 9, 2026",
+    "applicationWindow": "Three cycles per year",
+    "applyLink": "https://qb3.org/early-stage-mentoring/",
+    "website": "https://qb3.org/",
+    "description": "QB3 is the University of California's life-science innovation hub (Berkeley, San Francisco, Santa Cruz). Its Early-Stage Mentoring Program pairs pre-incorporation and recently-incorporated bioscience founders with experienced executive mentors, with optional proof-of-concept grants and a structured, stage-based mentor-equity arrangement.",
+    "highlights": [
+      "Three application cycles per year with fixed 2026 deadlines",
+      "Optional $100K proof-of-concept grants for select nominees",
+      "Stage-based mentor equity (0-1%) rather than upfront investment",
+      "Backed by QB3, whose affiliated companies raised $942M in 2022 alone"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "solo-founders-program",
+    "name": "Solo Founders Program",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$100,000 investment per founder",
+    "equity": "2.5% equity via an uncapped MFN SAFE",
+    "programLength": "3 months",
+    "format": "In-person (San Francisco; full-time in-person commitment required, no remote option)",
+    "eligibility": "Solo founders building technology companies, full-time (or ready to commit full-time); stage-agnostic from pre-launch through post-revenue; open to founders who previously raised or attended other accelerators",
+    "applicationDeadline": "September 2026 (program starts September 10, 2026)",
+    "applicationWindow": "Cohort-based, roughly annual/biannual",
+    "applyLink": "https://form.fillout.com/t/wbEMzSKo4vus",
+    "website": "https://solofounders.com/program",
+    "description": "Solo Founders Program is a San Francisco-based, in-person accelerator built specifically for solo (single-founder) technology startups, offering $100K for 2.5% equity, shared office space, optional housing, and over $800K in technology/cloud credits. It's led by Julian Weisser and includes weekly 1:1 mentorship and a peer cohort of ~6 founders.",
+    "highlights": [
+      "$100K for 2.5% equity via uncapped MFN SAFE, designed to complement other funding",
+      "Explicitly built for solo founders — small cohorts of ~6",
+      "3-month full-time in-person program with optional on-site housing",
+      "$800K+ in technology perks (AWS, Anthropic, OpenAI, Vercel, Cloudflare, etc.)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "founders-space",
+    "name": "Founders Space",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Unknown — not publicly disclosed; program is positioned as a 'venture builder' with access to an investor network rather than a fixed standard check",
+    "equity": "Unknown — not publicly disclosed",
+    "programLength": "Unknown / varies by track (Venture Building, Online Startup Program, Online Innovation Program, Innovation Lab)",
+    "format": "Hybrid (in-person programs based in San Francisco plus online programs)",
+    "eligibility": "Early-stage startups across sectors; company states it reviews all applications and follows up with roughly the top 2%",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://www.foundersspace.com/apply/",
+    "website": "https://www.foundersspace.com/",
+    "description": "Founders Space is a long-running San Francisco-headquartered venture builder/accelerator (operating since 2011) offering mentorship, an investor network, and startup programming both in-person and online, plus consulting services for corporations and governments on innovation strategy. Specific funding amounts and equity terms are not publicly disclosed and vary by deal.",
+    "highlights": [
+      "San Francisco-headquartered venture builder active since 2011",
+      "Multiple program tracks: Venture Building, Online Startup/Innovation Programs, Innovation Lab",
+      "Extensive mentor network of lawyers, VCs, angels, and growth experts",
+      "Selects roughly the top 2% of applicants for follow-up"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "hustle-fund-emerging-founder-school",
+    "name": "Hustle Fund Emerging Founder School",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "San Carlos, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "None — no cash funding or investment; free program",
+    "equity": "No equity taken — free program",
+    "programLength": "8 weeks",
+    "format": "Hybrid (Bay Area-headquartered with in-person local events in San Francisco and other cities including Singapore, Hong Kong, Miami, New York, Chicago, and Toronto)",
+    "eligibility": "Current undergraduate or graduate students in the U.S. from underrepresented backgrounds in venture/tech; early-stage founders with limited capital/network access; exceptions considered for strong non-student fits",
+    "applicationDeadline": "Rolling — check site for current cohort window",
+    "applicationWindow": "Periodic cohorts",
+    "applyLink": "https://airtable.com/apppffVkNiSJ1sSVL/shrvHR5f2ohbxeFya",
+    "website": "https://www.hustlefund.vc/emerging-founder-school",
+    "description": "Emerging Founder School is a free, no-equity, 8-week fellowship from Hustle Fund (a Bay Area-headquartered early-stage VC) aimed at underrepresented and under-resourced early-stage founders, helping them validate their idea and get investor-ready, with priority access to pitch Hustle Fund's network of 2,000+ angel investors.",
+    "highlights": [
+      "Free 8-week fellowship, no equity taken",
+      "Priority access to pitch 2,000+ angel investors in Hustle Fund's network",
+      "Targeted at underrepresented founders with limited capital/network access",
+      "Run by San Carlos, CA (Bay Area)-headquartered Hustle Fund"
     ],
     "notableAlumni": [],
     "lastVerified": "2026-08-06"
