@@ -169,6 +169,9 @@
       case "category":
         arr.sort((a, b) => (a.category || "").localeCompare(b.category || "") || a.name.localeCompare(b.name));
         break;
+      case "recent":
+        arr.sort((a, b) => DATA.indexOf(b) - DATA.indexOf(a));
+        break;
       default:
         arr.sort((a, b) => a.name.localeCompare(b.name));
     }
