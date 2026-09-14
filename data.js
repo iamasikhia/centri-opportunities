@@ -10760,5 +10760,559 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "hbcu-founders-accelerator-nexcubed",
+    "name": "HBCU Founders Accelerator (Nex Cubed x HBCUvc)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Social Impact",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$120,000 initial investment per company, with follow-on financing typically ranging $100,000-$500,000 (average ~$250,000)",
+    "equity": "Equity investment (SAFE or priced round) in exchange for the initial capital; exact ownership percentage is negotiated per company and not publicly fixed.",
+    "programLength": "16 weeks",
+    "format": "Remote — the program is conducted primarily virtually, with optional (not required) access to Nex Cubed offices in NYC, SF, or San Diego; no relocation required.",
+    "eligibility": "At least one founding team member must be an HBCU student, alum, or faculty member; company should have a working MVP/proof of concept or be near commercialization.",
+    "applicationDeadline": "Rolling, cohort-based (recent cycles have opened in the fall for a spring cohort)",
+    "applicationWindow": "Multiple cohorts per year",
+    "applyLink": "https://www.nex3.com/hbcu-founders-accelerator",
+    "website": "https://www.nex3.com/hbcu-founders-accelerator",
+    "description": "A 16-week virtual accelerator run by Nex Cubed in partnership with HBCUvc that invests $120,000 upfront in HBCU-affiliated founders, with additional follow-on capital available post-program. It targets Black, Latino, and other underrepresented tech founders connected to Historically Black Colleges and Universities.",
+    "highlights": [
+      "$120,000 initial check plus $100K-$500K in available follow-on funding",
+      "Fully virtual 16-week program, no relocation required",
+      "Backed by Nex Cubed, a pre-seed accelerator/studio focused on underrepresented founders",
+      "Eligibility open to HBCU students, alumni, or faculty on the founding team"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "overlooked-ventures",
+    "name": "Overlooked Ventures",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Columbus, OH, USA",
+    "focusAreas": [
+      "Social Impact",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$150,000-$1,000,000 typical check size (Fund I is a $50M pre-seed/seed vehicle)",
+    "equity": "Traditional equity investment (priced round or SAFE); ownership percentage is negotiated per deal and not publicly fixed.",
+    "programLength": "Rolling investment (not a cohort program); ongoing portfolio support",
+    "format": "Remote — application, review, and investment process are fully online; founders are not required to relocate and can be based anywhere in the US.",
+    "eligibility": "Early-stage tech and tech-enabled companies with one or more historically overlooked/underrepresented founders (women, Black, Latino, LGBTQ+, disabled, and other underestimated groups); no warm intro required.",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications accepted on an ongoing basis",
+    "applyLink": "https://airtable.com/shrxICQtjx7CUcVyR",
+    "website": "https://www.overlookedventures.com/",
+    "description": "A Columbus, Ohio-based venture fund investing pre-seed and seed capital into tech and tech-enabled startups led by historically overlooked founders, including women, people of color, and LGBTQ+ entrepreneurs. Founded in 2021 by Janine Sickmeyer and Brandon Brooks, it reviews applications with identifying details removed to reduce bias and does not require warm introductions.",
+    "highlights": [
+      "$50M Fund I; typical checks of $150K-$1M",
+      "No warm intro required — anyone can apply via an open online form",
+      "Backed by investors including Bank of America",
+      "Debiased review process removes founder/company names before evaluation"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "zeal-capital-partners",
+    "name": "Zeal Capital Partners",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Washington, DC, USA",
+    "focusAreas": [
+      "Fintech",
+      "Biotech/Health",
+      "EdTech",
+      "Social Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250,000-$500,000 typical pre-seed checks; $1M-$3M at seed; up to $5M for high-conviction follow-ons (firm manages $186M+ AUM including an $82M Fund II)",
+    "equity": "Traditional equity investment; ownership percentage negotiated per deal and not publicly fixed.",
+    "programLength": "Not a fixed-length program — ongoing investment and portfolio support",
+    "format": "Remote — founders submit and are evaluated online; no relocation to Washington, DC required.",
+    "eligibility": "Early-stage founders (pre-seed/seed) building fintech, healthcare, future-of-work, or future-of-learning companies, with emphasis on closing gaps in wealth, health, and skills; explicit inclusive-investing focus on underrepresented founders.",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications accepted on an ongoing basis",
+    "applyLink": "https://www.zealcapitalpartners.com/",
+    "website": "https://www.zealcapitalpartners.com/",
+    "description": "A Washington, DC-based venture capital firm founded in 2020 by Nasir Qadree that invests in early-stage fintech, healthcare, future-of-work, and future-of-learning startups through an explicit 'Inclusive Investing' framework. It also manages the Barclays Pre-Seed Investments vehicle, a $50M pre-seed fund for underrepresented founders.",
+    "highlights": [
+      "Manages $186M+ across Fund I, Fund II ($82M), and Barclays Pre-Seed Investments ($50M)",
+      "Explicit 'Inclusive Investing' thesis targeting underrepresented founders",
+      "10 new portfolio investments in the trailing 12 months as of mid-2026",
+      "Founded and led by Nasir Qadree"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "collab-capital",
+    "name": "Collab Capital",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Atlanta, GA, USA",
+    "focusAreas": [
+      "Social Impact",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M-$2M checks into ~30 companies from its $75M Fund II, with 40% reserved for follow-on",
+    "equity": "Traditional equity investment; ownership percentage negotiated per deal and not publicly fixed.",
+    "programLength": "Not a fixed-length program — ongoing investment and portfolio support over a 5-year deployment period",
+    "format": "Remote — application and diligence conducted online; portfolio companies operate across 16+ US cities with no relocation to Atlanta required.",
+    "eligibility": "Early-stage, tech-enabled startups led by Black and underrepresented founders in community infrastructure, healthcare access, or economic mobility, at seed to Series A.",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications accepted on an ongoing basis",
+    "applyLink": "https://kkzr55yjpa8.typeform.com/to/ZY6Osc0Z",
+    "website": "https://www.collab.capital/",
+    "description": "An Atlanta-based venture capital firm founded by Jewel Burks Solomon, Justin Dawkins, and Barry Givens that invests in Black-led, tech-enabled startups. Its $75M Fund II (backed by Apple and Goldman Sachs Asset Management) plans to deploy $1M-$2M checks into roughly 30 companies over five years.",
+    "highlights": [
+      "$75M Fund II backed by Apple and Goldman Sachs Asset Management",
+      "$1M-$2M checks with 40% reserved for follow-on investment",
+      "Focus areas: community infrastructure, healthcare access, economic mobility",
+      "$125M+ AUM across 40+ portfolio companies to date"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "astia-fund",
+    "name": "Astia Fund",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Social Impact",
+      "Biotech/Health",
+      "Fintech",
+      "Climate/Impact"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Investments from a $100M fund; Astia has made 180+ investments to date across its Fund, Angels, and Edge vehicles",
+    "equity": "Traditional equity investment (Series A/B focus, with earlier-stage checks via Astia Angels and the Astia Edge vehicle for Black women and Latina CEOs); ownership percentage negotiated per deal and not publicly fixed.",
+    "programLength": "Not a fixed-length program — ongoing investment plus access to Astia's global expert network",
+    "format": "Remote — applications and Astia's bias-reduction 'Expert Sift' evaluation process are conducted online; no relocation required.",
+    "eligibility": "High-growth companies with at least one woman in a C-suite, equity-holding position; must have traction beyond concept stage. A distinct vehicle, Astia Edge, specifically targets seed-stage companies led by Black women and Latina CEOs.",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications accepted on an ongoing basis",
+    "applyLink": "https://www.astia.org/apply",
+    "website": "https://www.astia.org/",
+    "description": "A San Francisco-based investment organization founded in 2000 that has evolved from an advisory nonprofit into a $100M venture fund backing women-led companies. Astia uses a proprietary 'Expert Sift' process to reduce bias in sourcing and screening, and runs Astia Edge, a dedicated seed-stage vehicle for Black women and Latina CEOs.",
+    "highlights": [
+      "$100M fund, backed in part by Mastercard; 180+ investments to date",
+      "Astia Edge is a dedicated seed-stage vehicle for Black women and Latina CEOs",
+      "Bias-reduction 'Expert Sift' screening process",
+      "No referral required to apply — open online application"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "chingona-ventures",
+    "name": "Chingona Ventures",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "Fintech",
+      "EdTech",
+      "Biotech/Health",
+      "Social Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250,000-$2,000,000 institutional pre-seed checks (fund size $50M+)",
+    "equity": "Traditional equity investment; ownership percentage negotiated per deal and not publicly fixed.",
+    "programLength": "Not a fixed-length program — ongoing investment and portfolio support",
+    "format": "Remote — application and evaluation conducted online; no relocation to Chicago required, and the firm explicitly targets founders outside coastal hubs.",
+    "eligibility": "Pre-seed founders in fintech, future of work, future of learning, or health/wellness, with emphasis on backing underestimated founders in overlooked geographic markets (especially the Midwest).",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications accepted on an ongoing basis",
+    "applyLink": "https://www.chingona.ventures/apply",
+    "website": "https://www.chingona.ventures/",
+    "description": "A Chicago-based, Latina-led institutional pre-seed fund (one of the only solo-GP $50M+ funds run by a Latina based in the Midwest) that writes first institutional checks into underestimated founders building in large but overlooked markets, with an explicit focus outside Silicon Valley and New York.",
+    "highlights": [
+      "$50M+ fund led by solo GP Samara Mejia Hernandez",
+      "$250K-$2M checks, often the company's first institutional capital",
+      "Explicit thesis of backing founders outside coastal/Silicon Valley hubs",
+      "Open online application, no warm intro required"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "harlem-capital",
+    "name": "Harlem Capital",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Social Impact",
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500,000-$1,000,000 typical checks (average ~$750,000) from a $40M+ fund",
+    "equity": "Traditional equity investment; ownership percentage negotiated per deal and not publicly fixed.",
+    "programLength": "Not a fixed-length program — ongoing investment and portfolio support",
+    "format": "Remote — pitch submission and evaluation are conducted online; no relocation to New York required, and the firm backs founders across the US, Africa, and LatAm.",
+    "eligibility": "Post-product, early ('EARLY Seed') stage founders; Harlem Capital reserves capital specifically for minority and women founders as part of its mission to invest in 1,000 diverse founders over 20 years.",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications accepted on an ongoing basis",
+    "applyLink": "https://harlem.capital/pitch/",
+    "website": "https://harlem.capital/",
+    "description": "A New York-based venture capital firm on a mission to invest in 1,000 diverse founders over 20 years, reserving capital for minority and women-led startups at the early seed stage. Founders submit pitch materials directly online, with no relocation required.",
+    "highlights": [
+      "Mission to back 1,000 diverse founders over 20 years",
+      "$500K-$1M average check size (~$750K average) from a $40M+ fund",
+      "Reserves capital specifically for minority and women founders",
+      "Open online pitch submission process"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "kapor-capital",
+    "name": "Kapor Capital",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Oakland, CA, USA",
+    "focusAreas": [
+      "Social Impact",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100,000-$250,000 average seed check (up to $1M+ for exceptional teams); $250K at pre-seed up to $3M at Series A",
+    "equity": "Traditional equity investment; ownership percentage negotiated per deal and not publicly fixed.",
+    "programLength": "Not a fixed-length program — ongoing investment and portfolio support",
+    "format": "Remote — pitch submission and evaluation conducted online; no relocation to Oakland required.",
+    "eligibility": "Tech-driven, early-stage startups (pre-seed through Series A) committed to closing gaps of access, opportunity, or outcome for low-income communities and communities of color in the US.",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications accepted on an ongoing basis",
+    "applyLink": "https://www.kaporcapital.com/for-founders/",
+    "website": "https://www.kaporcapital.com/",
+    "description": "An Oakland-based venture capital firm founded by Mitch Kapor and Freada Kapor Klein that invests in tech startups explicitly aimed at closing gaps of access, opportunity, and outcome for low-income communities and communities of color, making 20-25 new seed investments per year.",
+    "highlights": [
+      "20-25 new seed investments per year; up to $1M+ for exceptional teams",
+      "Explicit 'gap-closing' investment thesis centered on equity and inclusion",
+      "Backs founders with lived experience in the communities they serve",
+      "Open online application via the 'For Founders' portal"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "ganas-ventures",
+    "name": "Ganas Ventures",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "Social Impact",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100,000-$250,000 typical check size",
+    "equity": "Traditional equity investment; ownership percentage negotiated per deal and not publicly fixed.",
+    "programLength": "Not a fixed-length program — ongoing investment and portfolio support",
+    "format": "Remote — pitch submission and evaluation conducted fully online; no relocation required, and the fund invests across the US and Latin America.",
+    "eligibility": "Pre-seed and seed-stage, community-driven startups; explicit focus on underestimated founders — Latinx, Black, Indigenous, immigrant, and LGBTQ+ entrepreneurs. No warm intro required.",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications accepted on an ongoing basis",
+    "applyLink": "https://www.ganas.vc/",
+    "website": "https://www.ganas.vc/",
+    "description": "A Latina-led venture fund founded by Lolita Taub that writes $100K-$250K checks into pre-seed and seed community-driven startups across the US and Latin America. The portfolio is majority BIPOC-led (90%) with significant representation of women, Latine, and LGBTQ+ founders.",
+    "highlights": [
+      "$100K-$250K checks, no warm intro needed to apply",
+      "Portfolio is 90% BIPOC-led, 55% women-led, 50% Latine-led, 10% LGBTQ-led",
+      "Publicly accessible fundraising structure allowing qualifying investors to co-invest",
+      "Backs founders across both the US and Latin America"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "founders-first-capital-partners",
+    "name": "Founders First Capital Partners — Revenue-Based Financing",
+    "category": "Grant",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "stage": "Stage-agnostic",
+    "focusAreas": [
+      "Social Impact",
+      "General/Any"
+    ],
+    "fundingAmount": "Up to $2,000,000 in revenue-based, hybrid, or term financing (up to $1M in initial growth capital, with follow-on available)",
+    "equity": "No equity — this is non-dilutive revenue-based financing; founders retain full ownership and no board seats are taken.",
+    "programLength": "Not a cohort program — an ongoing financing facility plus business-acceleration support",
+    "format": "Remote — application, underwriting, and funding are handled online; no relocation required (though the firm's own diligence excludes businesses headquartered in a small number of states including Florida, Texas, Connecticut, and Nevada).",
+    "eligibility": "B2B service-based small businesses with at least $500,000 in annual revenue, profitable or with a clear path to profitability; explicit focus on women, people of color, LGBTQ+, and veteran-led businesses, especially outside major capital markets like Silicon Valley and NYC.",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications accepted on an ongoing basis",
+    "applyLink": "https://foundersfirstcapitalpartners.com/revenue-based-financing",
+    "website": "https://foundersfirstcapitalpartners.com/",
+    "description": "A San Diego-based non-dilutive capital provider offering revenue-based financing up to $2M to underrepresented-led small businesses (women, people of color, LGBTQ+, and veterans), with an explicit focus on service-based companies located outside major venture hubs. Founders keep full equity and control.",
+    "highlights": [
+      "Up to $2M in non-dilutive, revenue-based financing — no equity or board seats taken",
+      "Explicit focus on women, POC, LGBTQ+, and veteran-led businesses",
+      "Targets businesses outside Silicon Valley/NYC, in underinvested regions",
+      "$125M+ raised across financing vehicles to date; $100M committed fund"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "rebel-fund",
+    "name": "Rebel Fund",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$150,000 standard first check per YC company backed",
+    "equity": "Invests via SAFE alongside each company's Y Combinator batch terms; Rebel does not set a separate valuation cap or equity percentage of its own — stake is determined by the underlying YC SAFE the company already has in place",
+    "programLength": "N/A — investment only, no structured curriculum (rides alongside YC's existing 3-month batch)",
+    "format": "Remote — there is no program or cohort to attend; investment decisions are made remotely by Rebel's team with no relocation or in-person component required of founders",
+    "eligibility": "Must be a current or recent Y Combinator batch company selected by Rebel's screening (targets roughly the top 10% of each batch); there is no direct/unsolicited application to Rebel Fund itself — selection happens automatically after a company is already accepted into YC",
+    "applicationDeadline": "N/A — no direct application process; contingent on separately applying to and being accepted by Y Combinator",
+    "applicationWindow": "Ongoing, aligned to each YC batch (3 cycles per year)",
+    "applyLink": "https://www.rebelfund.vc/",
+    "website": "https://www.rebelfund.vc/",
+    "description": "Rebel Fund is a venture fund founded by Y Combinator alumni that invests exclusively in top-performing YC batch companies, typically writing a $150,000 first check before Demo Day. Founders cannot apply to Rebel directly — the fund uses a proprietary machine-learning model (Rebel Theorem) plus founder interviews to select roughly the top 10% of each YC batch after those companies are already accepted into YC.",
+    "highlights": [
+      "$150K standard first check into YC batch companies",
+      "300+ YC startups backed to date",
+      "Uses proprietary ML screening tool (Rebel Theorem 4.0) trained on 10+ years of YC outcomes",
+      "Near-100% deal win rate, typically closing pre-Demo Day",
+      "No direct application — selection is automatic post-YC-acceptance, fully remote"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "dorm-room-fund",
+    "name": "Dorm Room Fund",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Cambridge, MA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$40,000–$200,000 (standard initial check around $40,000)",
+    "equity": "Uncapped SAFE, no discount, with an MFN (most-favored-nation) clause; a typical $40K check has implied ~1.33% ownership at roughly a $3M post-money reference valuation, though exact terms vary by deal",
+    "programLength": "N/A — investment only; ongoing access to advisors, operators, and the alumni investor network after funding",
+    "format": "Remote — application, pitch, and investment committee process are conducted virtually across 4 regional student-partner hubs (Bay Area, NYC, Boston, Philadelphia); no relocation required of founders",
+    "eligibility": "At least one founding team member must be a currently enrolled undergraduate or graduate student, or have graduated within the last 6 months, at a US college/university; company should be incorporated in the US and typically already has a live product/early traction",
+    "applicationDeadline": "Rolling (regional cycles reopen each semester)",
+    "applicationWindow": "Rolling, multiple cohorts per year across 4 US regions",
+    "applyLink": "https://drf.vc/apply",
+    "website": "https://www.dormroomfund.com/",
+    "description": "Dorm Room Fund is a student-run venture fund — launched under First Round Capital over a decade ago and independent since 2021 — that writes the first check, typically $40K-$200K via an uncapped SAFE, for founders who are current students or very recent graduates. More than 60 student partners across four US regional hubs run diligence and vote on investments, but the entire process is done remotely with no relocation required.",
+    "highlights": [
+      "$40K-$200K first check via uncapped SAFE with MFN clause",
+      "339+ companies backed, portfolio has raised $6B+ in follow-on capital",
+      "Run by 60+ student investment partners across 4 US regions",
+      "Portfolio includes Cursor, Shield AI, and Dandy",
+      "No fees — investment and advising only, fully remote process"
+    ],
+    "notableAlumni": [
+      "Cursor",
+      "Shield AI",
+      "Dandy"
+    ],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "contrary-capital",
+    "name": "Contrary",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100,000–$2,000,000 (sweet spot around $500,000–$1,000,000)",
+    "equity": "Equity investment via SAFE or priced round; percentage is negotiated per deal, no fixed publicly-disclosed valuation cap",
+    "programLength": "N/A — investment only, plus ongoing access to Contrary's founder community and (via Contrary Talent) career/operator network",
+    "format": "Remote — sourcing, diligence, and investment are conducted virtually through a nationwide network of student Venture Partners; no relocation or physical office visit required",
+    "eligibility": "Exceptional early-career founders, typically within roughly 1-3 years of college, building venture-scale companies; Contrary Talent (launched as a dedicated arm in 2026) separately supports early-career engineers, designers, and operators with job placement and mentorship",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://applications.contrary.com/",
+    "website": "https://contrary.com/",
+    "description": "Contrary is a talent-driven investment firm, founded by Eric Tarczynski out of Stanford in 2016, that backs exceptional early-career and student founders sourced through a network of 100+ student Venture Partners at top universities. Checks typically range from $100K to $2M, and the entire application and investment process is virtual with no in-person residency required.",
+    "highlights": [
+      "Checks typically $100K-$2M, sweet spot $500K-$1M",
+      "Early investor in companies including Ramp and Anduril",
+      "100+ student Venture Partners sourcing deals across US campuses",
+      "Contrary Talent arm launched 2026 for early-career operator support",
+      "Fully virtual application via applications.contrary.com"
+    ],
+    "notableAlumni": [
+      "Ramp",
+      "Anduril"
+    ],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "gc-venture-fellows",
+    "name": "GC Venture Fellows (Rough Draft Ventures)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Cambridge, MA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$25,000 pre-seed check (plus an earlier-stage starter grant option for very early founders)",
+    "equity": "Standard founder-friendly SAFE with no board seat or governance rights; percentage varies by deal, no fixed public valuation cap disclosed",
+    "programLength": "N/A for funded founders — one-time check and ongoing GC network access; the student Fellows who source deals serve a year-long, part-time term",
+    "format": "Remote — the funding application and investment process for founders is fully remote with no relocation required; the student Fellows who run the fund work remotely from their own campuses, with optional in-person summits for Fellows only (not required of funded founders)",
+    "eligibility": "Student or recent-graduate founders enrolled at, or recently graduated from, an eligible US, Canadian, or UK university",
+    "applicationDeadline": "Rolling for founder funding applications; the annual student Fellow cohort application for 2026-27 closes March 1, 2026",
+    "applicationWindow": "Rolling for founder investment; annual cycle for the Fellow cohort",
+    "applyLink": "https://airtable.com/appslPddN0o2Hymcu/shrykFVbaFXmZvpBG",
+    "website": "https://www.generalcatalyst.com/stories/introducing-the-gc-venture-fellowship",
+    "description": "GC Venture Fellows — the 2024 relaunch of General Catalyst's decade-old Rough Draft Ventures — is a student-run pre-seed fund that writes $25,000 SAFE checks into startups founded by students or recent graduates. Twenty student Fellows source and diligence deals each year from 35+ campuses, with General Catalyst covering all investment capital and legal costs; founders apply for funding directly online with no in-person requirement.",
+    "highlights": [
+      "$25,000 first check via founder-friendly SAFE, no board seat taken",
+      "Backed entirely by General Catalyst's capital and seed team",
+      "40+ student Fellows sourcing deals across 35+ campuses in the US, Canada, and UK",
+      "Decade-long track record operating as Rough Draft Ventures before 2024 relaunch",
+      "Starter-grant pathway available for very early-stage student founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "calm-company-fund",
+    "name": "Calm Company Fund (formerly Earnest Capital)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Miami, FL, USA",
+    "focusAreas": [
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$75,000–$250,000 typical check (fund has flexibility for larger amounts on a case-by-case basis)",
+    "equity": "No equity — financed via a Shared Earnings Agreement (SEAL): investors provide upfront capital and receive a percentage of future founder earnings/profit once a threshold is met, capped at roughly 2-4x the original investment; not debt, not a loan, and no stock or board seat changes hands",
+    "programLength": "N/A — investment only, on a rolling basis, plus ongoing access to a remote founder community and mentorship",
+    "format": "Remote — the fund and its founder community operate entirely remote-first; no physical program, office, or relocation required",
+    "eligibility": "Bootstrapped, founder-led software (SaaS) companies with existing revenue (typically at least a few thousand dollars/month), majority founder-owned, seeking capital without giving up equity or control",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://calmfund.com/for-founders",
+    "website": "https://calmfund.com/",
+    "description": "Calm Company Fund — rebranded from Earnest Capital in 2021 — provides $75K-$250K in non-equity Shared Earnings Agreement (SEAL) financing to bootstrapped, profitable SaaS founders who want capital without dilution. Repayment is a percentage of founder earnings/profit, capped at 2-4x the investment, and the fund and its founder community run entirely remote with no physical program.",
+    "highlights": [
+      "Non-dilutive SEAL financing — no equity, no board seat, no personal guarantee",
+      "Typical check $75K-$250K, repayment capped at 2-4x investment",
+      "Originally founded as Earnest Capital in 2019; rebranded 2021",
+      "Launched a $10M Subscription Fund III for profitable software businesses",
+      "Remote-first fund community and founder mentorship network"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "hustle-fund",
+    "name": "Hustle Fund",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$150,000 standard first check",
+    "equity": "Equity investment via SAFE; specific valuation/terms negotiated per deal, no fixed public cap disclosed",
+    "programLength": "N/A — investment only, plus ongoing access to Hustle Fund's founder network and growth resources",
+    "format": "Remote — pitch and diligence process is fully online (decision typically made after 1-2 remote calls); no relocation or in-person pitch required",
+    "eligibility": "Full-time founders with at least a minimum viable product (MVP); primarily US, Canada, and Southeast Asia based",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; fund paces up to ~100 investments per year",
+    "applyLink": "https://www.hustlefund.vc/",
+    "website": "https://www.hustlefund.vc/",
+    "description": "Hustle Fund is a pre-seed venture fund that writes $150,000 first checks into full-time founders with at least an MVP, known for fast, casual, remote pitch calls and decisions within days. There is no in-person program — founders pitch online and, if it's a fit, can expect a decision after 1-2 remote conversations.",
+    "highlights": [
+      "$150K standard first check, decisions in 1-2 remote meetings",
+      "Invests in the US, Canada, and Southeast Asia",
+      "Requires only an MVP, not revenue or traction",
+      "Paces up to ~100 investments per year",
+      "No warm intro required — public online pitch process"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "1517-fund",
+    "name": "1517 Fund",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$50,000–$1,000,000 (average check around $400,000)",
+    "equity": "Equity investment via SAFE/priced round; percentage negotiated per deal, no fixed public valuation cap disclosed",
+    "programLength": "N/A — investment only; ongoing access to a global community of dropout/deep-tech founders and events",
+    "format": "Remote — submissions and the investment process are fully remote via an online contact form; no relocation or in-person pitch required",
+    "eligibility": "Founders without a completed undergraduate degree (dropouts), current students, or scientists pursuing ambitious/deep-tech ideas; open to idea/R&D-stage through seed-stage companies",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://www.1517fund.com/",
+    "website": "https://www.1517fund.com/",
+    "description": "1517 Fund backs young, unconventional founders — college dropouts, current students, and deep-tech scientists — with pre-seed checks ranging from $50K at the idea/R&D stage up to $1M, averaging around $400K. Co-founded in 2015 by Michael Gibson and Danielle Strachman (who previously ran the Thiel Fellowship), the fund takes submissions through a simple online form and operates on a rolling, fully remote basis.",
+    "highlights": [
+      "Checks from $50K to $1M, average ~$400K",
+      "Explicitly backs founders without a completed college degree",
+      "Also runs the $1,000 Medici Project micro-grant for early explorers",
+      "Founded by former Thiel Fellowship co-leads Michael Gibson & Danielle Strachman",
+      "Rolling, fully remote submissions via simple online form"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "precursor-ventures",
+    "name": "Precursor Ventures",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$50,000–$500,000 (typically $250,000–$500,000)",
+    "equity": "Equity investment via SAFE; percentage negotiated per deal, no fixed public valuation cap disclosed",
+    "programLength": "N/A — investment only",
+    "format": "Remote — public online pitch form, no warm introduction required, fully remote diligence process; no relocation required",
+    "eligibility": "First-time and often overlooked/underestimated founders in North America (US, Canada, Mexico), from idea stage through pre-product-market-fit",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; ~30-40 new investments per year",
+    "applyLink": "https://precursorvc.com/",
+    "website": "https://precursorvc.com/",
+    "description": "Precursor Ventures is a solo-GP pre-seed fund that writes $50K-$500K checks into first-time, often overlooked founders as early as the idea stage, with no warm introduction required. The firm invests across North America through a public online pitch form, with an entirely remote diligence process and no physical program or relocation requirement.",
+    "highlights": [
+      "Checks $50K-$500K, frequently the first institutional check into a company",
+      "No warm intro required — public pitch form on the website",
+      "Backs first-time/underestimated founders as early as the idea stage",
+      "30-40 new investments per year",
+      "Open to founders across the US, Canada, and Mexico"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
   }
 ];
