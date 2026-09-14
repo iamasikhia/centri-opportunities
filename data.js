@@ -7352,5 +7352,3413 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-08-06"
+  },
+  {
+    "id": "idea-village-ideainstitute",
+    "name": "IDEAinstitute",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New Orleans, LA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Unknown — no direct capital investment confirmed on official page; program culminates in an IDEAinstitute Pitch Night in front of investors",
+    "equity": "No equity taken; program instead charges a $285 program fee, with scholarships available for founders with financial barriers",
+    "programLength": "12 weeks",
+    "format": "Hybrid — weekly virtual live cohort sessions (Wednesday evenings) plus an in-person final week culminating in Pitch Night in New Orleans",
+    "eligibility": "Founders/aspiring entrepreneurs at the earliest, idea stage building a scalable venture with regional, national, or global growth potential",
+    "applicationDeadline": "Rolling — Fall 2026 cohort applications currently open",
+    "applicationWindow": "Fall 2026 cohort applications are currently open (announced via Biz New Orleans, Sept 2026)",
+    "applyLink": "https://www.ideavillage.org/ideainstitute",
+    "website": "https://www.ideavillage.org/ideainstitute",
+    "description": "IDEAinstitute is The Idea Village's 12-week idea-stage accelerator that introduces early founders to Lean Startup methodology through weekly learning sprints, live cohort sessions, and 1:1 advising. It ends with an IDEAinstitute Pitch Night where select founders present to investors.",
+    "highlights": [
+      "12-week hybrid format: virtual weekly sessions + in-person final week in New Orleans",
+      "1:1 advising with founders, operators, and investors",
+      "Lean Startup methodology curriculum with weekly video content and frameworks",
+      "$285 program fee with scholarship opportunities for those with financial barriers",
+      "Alumni include SafePush, Rx Interactive, Falaya, and Spot2Nite"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "idea-village-villagex",
+    "name": "VILLAGEx",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New Orleans, LA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Unknown — VILLAGEx does not itself invest; graduates become eligible for investment from The Idea Village's affiliated Momentum Fund ($7M committed capital) and can pitch at IDEApitch during New Orleans Entrepreneur Week",
+    "equity": "Unknown — not published on official site",
+    "programLength": "Unknown — official page did not publish exact duration (marketed as an 'intensive' program)",
+    "format": "Hybrid (New Orleans-based, consistent with sister IDEAinstitute program) — exact format not fully confirmed on the official page",
+    "eligibility": "Venture-scale startups targeting at least $1M in capital raised within 24 months",
+    "applicationDeadline": "Unknown — one unverified source suggested a November 6, 2026 deadline for the 2027 cohort; confirm directly with The Idea Village before applying",
+    "applicationWindow": "Unknown — could not confirm application open date",
+    "applyLink": "https://www.ideavillage.org/villagex",
+    "website": "https://www.ideavillage.org/villagex",
+    "description": "VILLAGEx is The Idea Village's industry-leading, mentor-driven intensive accelerator for venture-scale startups on a path to raising $1M+ in the next 24 months. It is one of the organization's three core programs alongside IDEAinstitute and the affiliated Momentum Fund.",
+    "highlights": [
+      "Targets venture-scale startups aiming to raise $1M+ within 24 months",
+      "Mentor-driven, intensive program structure",
+      "Graduates eligible for Momentum Fund investment ($7M committed capital)",
+      "Alumni can pitch at IDEApitch during New Orleans Entrepreneur Week for additional investment prizes"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "idea-village-ideafuel",
+    "name": "IDEAfuel",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New Orleans, LA, USA",
+    "focusAreas": [
+      "Social Impact",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$15,000 non-dilutive funding per selected founder",
+    "equity": "No equity taken — non-dilutive funding",
+    "programLength": "Unknown — official page did not publish exact duration",
+    "format": "Hybrid (New Orleans-based, part of The Idea Village ecosystem alongside hybrid IDEAinstitute)",
+    "eligibility": "Black founders and founders of color in the Gulf Coast region; must be an IDEAinstitute alumnus or commit to completing IDEAinstitute upon acceptance",
+    "applicationDeadline": "Closed as of verification — next cohort not yet announced ('check back soon')",
+    "applicationWindow": "Annual, next round TBA",
+    "applyLink": "https://www.ideavillage.org/ideafuel",
+    "website": "https://www.ideavillage.org/ideafuel",
+    "description": "IDEAfuel is The Idea Village's venture accelerator specifically for Black founders and founders of color in the Gulf Coast region, addressing the well-documented gap in access to capital for these founders. Selected participants receive $15,000 in non-dilutive funding plus 1:1 mentorship and structured workshops.",
+    "highlights": [
+      "$15,000 in non-dilutive funding per founder",
+      "Three-stage selection: application review, founder interview, investment committee pitch",
+      "Supported by Regions Foundation",
+      "Member of the Morrow accelerator network",
+      "Alumni include Tahda Baby (maternal health platform) and Milestone Mate (child development app)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "propeller-impact-accelerator",
+    "name": "Propeller Impact Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New Orleans, LA, USA",
+    "focusAreas": [
+      "Social Impact",
+      "Climate/Impact",
+      "Agtech/Foodtech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Unknown — no direct cash award confirmed; program provides free coworking space and mentorship rather than a capital grant",
+    "equity": "No equity taken — program is free to participants",
+    "programLength": "Approximately 3 months per track (Startup Track: Sept 15 - Nov 19, 2026; Growth Track: roughly May - July)",
+    "format": "Hybrid — in-person Tuesday Night Meetups and Lead Mentor office hours at Propeller's New Orleans facility, plus remote support",
+    "eligibility": "Mission-driven entrepreneurs in the greater New Orleans area working in community economic development, education, food, health, or water",
+    "applicationDeadline": "Closed for 2026 (Startup Track applications closed August 16, 2026); next cycle expected 2027",
+    "applicationWindow": "Startup Track annually (summer applications); Growth Track annually (spring)",
+    "applyLink": "https://gopropeller.tfaforms.net/20?programclassID=a17U10000CJWPj9",
+    "website": "https://gopropeller.org/impact-accelerator/",
+    "description": "Propeller's Impact Accelerator is a free, cohort-based program supporting mission-driven entrepreneurs in the New Orleans area through two tracks — a Startup Track for early-stage ventures and a Growth Track for more established businesses. Participants get curriculum, individualized mentorship, and access to Propeller's 300+ alumni network.",
+    "highlights": [
+      "Free program — no cost, no equity taken",
+      "12+ hours of business development curriculum and 12+ hours of 1:1 mentorship with a dedicated Lead Mentor",
+      "~20 hours of subject matter expert support (marketing, finance, operations, legal)",
+      "Free coworking space at Propeller's New Orleans facility",
+      "Cohort size of roughly 15 entrepreneurs; access to 300+ alumni network"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "nobic-biochallenge",
+    "name": "BioChallenge",
+    "category": "Competition",
+    "region": "US",
+    "country": "New Orleans, LA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "More than $100,000 in non-dilutive award funding across the competition",
+    "equity": "No equity taken — non-dilutive prize funding",
+    "programLength": "Single-day pitch event",
+    "format": "In-person — finalists must travel to New Orleans to compete (travel stipends provided)",
+    "eligibility": "Early-stage biotechnology, digital health, neurotechnology, and life science startups (founders, researchers, student entrepreneurs, and teams); 2026 theme is brain health/neuroscience",
+    "applicationDeadline": "Closed for 2026 (deadline was August 1, 2026); pitch day October 29, 2026",
+    "applicationWindow": "Annual",
+    "applyLink": "https://neworleansbio.com/biochallenge-2026/",
+    "website": "https://neworleansbio.com/biochallenge-2026/",
+    "description": "BioChallenge is the New Orleans BioInnovation Center's (NOBIC) global pitch competition for life sciences startups. The 2026 edition focuses on brain health and neuroscience, awarding more than $100,000 in non-dilutive funding to promising early-stage companies addressing neurological disease.",
+    "highlights": [
+      "More than $100,000 in non-dilutive prize funding for 2026",
+      "2026 theme: brain health and neuroscience innovation",
+      "Finalists travel to New Orleans to pitch in person (travel stipends provided)",
+      "Open to biotech, digital health, neurotech, and life sciences founders, researchers, and student teams"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "nobic-biofellows",
+    "name": "BioFellows",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "New Orleans, LA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$15-$20 per hour compensation (paid fellowship, not startup funding)",
+    "equity": "Not applicable — this is a paid individual fellowship, not startup investment",
+    "programLength": "One semester (Fall, Spring, or Summer), extendable by mutual agreement",
+    "format": "Hybrid — approximately 20 hours/week at NOBIC's New Orleans facility, schedule adjusted around school terms",
+    "eligibility": "Primarily university students/graduate students interested in biotech, venture capital, and startup building",
+    "applicationDeadline": "Rolling — recruits each Fall, Spring, and Summer semester",
+    "applicationWindow": "Three cycles per year (per semester)",
+    "applyLink": "https://neworleansbio.com/biofellows/",
+    "website": "https://neworleansbio.com/biofellows/",
+    "description": "BioFellows is a paid fellowship at the New Orleans BioInnovation Center at the intersection of biotech, venture capital, and startup building. Fellows get hands-on experience supporting NOBIC's programs, events, investment activities, and ecosystem management, including participation in the BioChallenge competition.",
+    "highlights": [
+      "Paid fellowship: $15-$20/hour",
+      "~20 hours/week, adjusted to academic schedules",
+      "Direct access to investors, scientists, and founders",
+      "Participation in BioChallenge global pitch competition and travel to life sciences conferences",
+      "Venture capital and due diligence training"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "cdl-seattle",
+    "name": "Creative Destruction Lab - Seattle (CDL-Seattle)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML",
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No program-provided funding amount publicly disclosed; individual CDL mentors may separately choose to invest",
+    "equity": "No equity taken by the program itself in exchange for mentoring",
+    "programLength": "9 months, full-day in-person sessions roughly every 8 weeks",
+    "format": "Hybrid (in-person sessions at UW Foster School of Business, downtown/UW Seattle, with remote work between sessions)",
+    "eligibility": "Early-stage, science-based technology companies with high scalability potential; 2026 streams: Computational Health and Advanced Manufacturing",
+    "applicationDeadline": "Unknown exact date for current cycle — check creativedestructionlab.com/locations/seattle for current deadline",
+    "applicationWindow": "Annual cohort",
+    "applyLink": "https://creativedestructionlab.com/locations/seattle/",
+    "website": "https://creativedestructionlab.com/locations/seattle/",
+    "description": "CDL-Seattle is the Seattle chapter of the global Creative Destruction Lab network, hosted at the University of Washington's Foster School of Business since 2021 in partnership with Microsoft and UW's College of Engineering. It's a nonprofit, non-equity-taking, objectives-based accelerator for seed-stage science/tech founders.",
+    "highlights": [
+      "Nonprofit, objectives-based program — no equity taken for participation",
+      "2026 cohort graduated 17 companies across Advanced Manufacturing and Computational Health streams",
+      "Backed in part by a $300,000 award from the Washington Research Foundation",
+      "Part of CDL's global network of 17 locations and 26 specialized streams"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "washington-maritime-blue-accelerator",
+    "name": "Washington Maritime Blue - Blue Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$100,000 investment via SAFE",
+    "equity": "Investment via SAFE (Simple Agreement for Future Equity); specific percentage not publicly disclosed",
+    "programLength": "4 months, plus a 1-year Maritime Blue membership",
+    "format": "Hybrid (mentor-based program with in-person Seattle programming)",
+    "eligibility": "Venture-scale companies in sustainable fishing/seafood, ocean ecosystems, maritime decarbonization, or renewable ocean energy, with a dedicated team ready to accelerate growth",
+    "applicationDeadline": "Rolling — no fixed deadline confirmed",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://maritimeblue.org/blue-ventures-2025-application/",
+    "website": "https://maritimeblue.org/blue-ventures/",
+    "description": "Washington Maritime Blue is a Seattle-headquartered nonprofit strategic alliance for the Blue Economy. Its Blue Accelerator provides $100,000 in SAFE-based investment and mentorship to venture-scale maritime/ocean tech startups.",
+    "highlights": [
+      "$100,000 investment via SAFE — one of the few Seattle-area programs with confirmed dollar funding terms",
+      "4-month immersive, mentor-based program plus a 1-year membership",
+      "Focused specifically on the Blue Economy: sustainable fishing, ocean health, maritime decarbonization",
+      "Runs alongside a sister program, One Ocean Accelerator"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "one-ocean-accelerator",
+    "name": "One Ocean Accelerator (Washington Maritime Blue)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Hardware"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "No investment provided — this is a paid, $20,000 program-fee model for US market-entry support, not a funding program",
+    "equity": "No equity taken — participation is via a $20,000 fee, not an investment",
+    "programLength": "3 months, plus a 1-year Maritime Blue membership",
+    "format": "Hybrid (Seattle-based, focused on US customer relationships and market expansion)",
+    "eligibility": "International, already-commercialized maritime/ocean-tech startups seeking US market entry",
+    "applicationDeadline": "Rolling — no fixed deadline confirmed",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://maritimeblue.org/blue-ventures-2025-application/",
+    "website": "https://maritimeblue.org/blue-ventures/",
+    "description": "One Ocean Accelerator is Washington Maritime Blue's companion program to Blue Accelerator, designed to help already-commercialized international maritime/ocean-tech companies establish a US foothold via Seattle's maritime network. Unlike Blue Accelerator, this is a paid ($20K fee) soft-landing program rather than an investment.",
+    "highlights": [
+      "Built specifically for international companies entering the US market",
+      "$20,000 participation fee rather than an investment — a soft-landing, not funding",
+      "3-month program plus 1-year Maritime Blue membership",
+      "Same Seattle HQ and network as Blue Accelerator"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "comotion-labs-climate-tech-incubator",
+    "name": "CoMotion Labs - Climate Tech Incubator (University of Washington)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct cash funding — program provides dedicated office space, curriculum, and mentorship rather than capital",
+    "equity": "No equity or IP taken",
+    "programLength": "6 months",
+    "format": "Hybrid (dedicated office space at the Seattle Climate Innovation Hub, on-site attendance 2-3x/month plus ~20 hrs/month of programming)",
+    "eligibility": "Pre-seed to seed-stage climate startups with a business license and an MVP ready for commercialization",
+    "applicationDeadline": "Closed for the current cycle (Jan 2026 review, Feb 2026 decisions, Apr 2026 kickoff, Sept 2026 Demo Day) — next cycle TBA",
+    "applicationWindow": "Annual cohort",
+    "applyLink": "https://comotion.uw.edu/startups-incubation/comotion-labs/comotion-labs-climate-tech-incubator/",
+    "website": "https://comotion.uw.edu/startups-incubation/comotion-labs/comotion-labs-climate-tech-incubator/",
+    "description": "A University of Washington/CoMotion-run, no-equity, 6-month cohort incubator for early-stage climate tech founders, based at the Seattle Climate Innovation Hub downtown, spanning mobility, ocean health, land management, circular materials, and climate finance.",
+    "highlights": [
+      "No equity or IP taken from participating companies",
+      "2026 cohort included 8 startups across mobility, ocean health, and regenerative food systems",
+      "Dedicated office space at the Seattle Climate Innovation Hub",
+      "Backed by University of Washington and public-private partners"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "comotion-labs-tech-hardware-life-sciences",
+    "name": "CoMotion Labs - Tech+, Hardware, and Life Sciences Incubators (University of Washington)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "AI/ML",
+      "Fintech",
+      "Hardware",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct cash funding — paid workspace membership (Unlimited/Drop-In/Virtual tiers) plus mentorship; exact pricing not published",
+    "equity": "No equity or IP taken",
+    "programLength": "Ongoing membership, not a fixed-length cohort",
+    "format": "In-person (UW campus/downtown Seattle facilities — Startup Hall for Tech+, Fluke Hall for Hardware and Life Sciences)",
+    "eligibility": "Early-stage startups in the greater Seattle area; sector fit varies by track (software/AI/fintech/edtech for Tech+, deep tech/robotics/cleantech for Hardware, biotech/medtech for Life Sciences)",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://forms.zohopublic.com/uwcomotion1/form/LabsInitialIntakeForm/formperma/naYQRxz0WT_k0_ohV5XbuxmxVuQdXQTqCKLA4Xnp7JY",
+    "website": "https://comotion.uw.edu/startups-incubation/comotion-labs/",
+    "description": "CoMotion Labs is University of Washington's multi-track, no-equity incubator network across Seattle-area locations, providing early-stage startups with physical space, prototyping equipment (3D printers, CNC mill, laser cutter for the Hardware track), and mentorship without taking equity or IP.",
+    "highlights": [
+      "Four distinct sector-specific incubator tracks (Tech+, Hardware, Life Sciences, Climate Tech)",
+      "No equity or IP taken from any participating company",
+      "Hardware track includes prototyping equipment and T-Mobile 5G network access",
+      "Rolling admission via a shared intake form"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "create33",
+    "name": "Create33",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "None — Create33 is a workspace/community hub, not a funded accelerator; no cash investment or equity stake",
+    "equity": "No equity taken",
+    "programLength": "Ongoing membership, not a fixed-length cohort — two tracks: 'Builder' (individuals) and 'Resident' (companies)",
+    "format": "In-person, downtown Seattle (999 3rd Ave, DocuSign Tower)",
+    "eligibility": "High-growth technology entrepreneurs in the Pacific Northwest; specific criteria not detailed publicly",
+    "applicationDeadline": "Rolling / unclear application process — general contact required",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://create33.co/",
+    "website": "https://create33.co/",
+    "description": "Create33 is a Seattle-based entrepreneur center and coworking hub for high-growth tech startups in the Pacific Northwest, offering shared workspace, a peer community, and access to expert partners. It does not provide direct funding or take equity — it's a community/workspace resource rather than a classic funded accelerator.",
+    "highlights": [
+      "Downtown Seattle coworking hub for tech entrepreneurs",
+      "Two membership tracks: Builder (individuals) and Resident (companies)",
+      "No funding or equity component — workspace and community only",
+      "Distinct from the generic Techstars brand, despite some informal association in third-party sources"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "foundersboost-denver",
+    "name": "FoundersBoost Denver",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Denver, CO, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct funding — pre-accelerator focused on preparing founders for later-stage accelerators, investment, and revenue growth",
+    "equity": "No equity, no fees",
+    "programLength": "6 weeks; 3-hour weekly sessions plus ~5 hrs/week deliverables; cohorts of ~10 startups",
+    "format": "In-person, virtual, or hybrid (varies by cohort)",
+    "eligibility": "Small dedicated teams with early customer traction; underrepresented founders actively encouraged",
+    "applicationDeadline": "Rolling — recurring cycle",
+    "applicationWindow": "Multiple cohorts per year",
+    "applyLink": "https://www.foundersboost.com/programs/denver",
+    "website": "https://www.foundersboost.com/programs/denver",
+    "description": "FoundersBoost is a global mentor-driven pre-accelerator network with a Denver-based cohort track that prepares early-traction founders for later-stage accelerators, investment, and revenue growth.",
+    "highlights": [
+      "600+ startups supported over 8 years; alumni raised $400M+",
+      "Alumni have gone on to YC, Techstars, a16z",
+      "~80% of participating startups founded by underrepresented entrepreneurs",
+      "No equity, no fees"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "ascent-deep-tech-accelerator-cu-boulder",
+    "name": "Ascent Deep Tech Accelerator (Venture Partners at CU Boulder)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Boulder, CO, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Climate/Impact",
+      "Biotech/Health",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No direct capital — program provides mentorship/training, not cash; alumni have raised $20M+ in non-dilutive funding and $47M in VC",
+    "equity": "No equity taken from university-affiliated research teams",
+    "programLength": "4-5 months",
+    "format": "Hybrid (weekly Zoom workshops plus in-person mentor check-ins in Boulder, CO)",
+    "eligibility": "Teams commercializing disclosed CU intellectual property from Boulder, Colorado Springs, or Denver campuses, ideally via NSF I-Corps Hub West",
+    "applicationDeadline": "Closed for the 2026 cycle — next cycle TBA",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.colorado.edu/venturepartners/what-we-do/entrepreneurial-training/ascent-deep-tech-accelerator",
+    "website": "https://www.colorado.edu/venturepartners/what-we-do/entrepreneurial-training/ascent-deep-tech-accelerator",
+    "description": "Launched 2021 by Venture Partners at CU Boulder, Ascent is a no-equity accelerator specifically for deep-tech spinouts from CU system campuses, building on NSF I-Corps customer-discovery training.",
+    "highlights": [
+      "67 teams graduated since 2021",
+      "Alumni raised $20M+ in non-dilutive funding and $47M in VC",
+      "Graduates have advanced to NREL West Gate, Creative Destruction Lab, Techstars, and Activate",
+      "Focus on physical/life sciences, hydrogen/energy systems, wildfire detection, regenerative medicine"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "catalyze-cu",
+    "name": "Catalyze CU (Venture Partners at CU Boulder)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Boulder, CO, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $25,000 in funding, entirely equity-free, including a per-founder stipend",
+    "equity": "No equity taken",
+    "programLength": "12 weeks, mid-May to early August",
+    "format": "In-person in Boulder, CO",
+    "eligibility": "At least one founding team member must hold a valid CU Boulder 'BuffOne' card (student/faculty/staff); solo founders allowed; no competing full-time employment during program",
+    "applicationDeadline": "Closed for Summer 2026 — next cycle opens March 2027",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.colorado.edu/catalyzecu/",
+    "website": "https://www.colorado.edu/catalyzecu/",
+    "description": "A CU Boulder-run, equity-free summer accelerator for ventures founded by CU students, faculty, or staff, combining mentorship, funding, and dedicated co-working space in Boulder.",
+    "highlights": [
+      "Up to $25,000 in equity-free funding including a per-founder stipend",
+      "12-week intensive summer program",
+      "Open to CU Boulder students, faculty, or staff",
+      "Dedicated co-working space in Boulder"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "base-camp-du",
+    "name": "BASE Camp (Entrepreneurship@DU, University of Denver)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Denver, CO, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$5,000 stipend per team",
+    "equity": "No equity stake mentioned",
+    "programLength": "5 weeks",
+    "format": "In-person at 'The Garage' on DU campus, Denver, CO",
+    "eligibility": "Teams of 1-5; at least one member must be a current DU degree-seeking student or DU alum; up to 2 alumni teams per cohort; alumni teams must be at MVP/product-validation stage",
+    "applicationDeadline": "Concluded for 2026 (opened Feb 23, closed March 30, 2026) — similar window expected 2027",
+    "applicationWindow": "Annual",
+    "applyLink": "https://daniels.du.edu/entrepreneurship/base-camp/",
+    "website": "https://daniels.du.edu/entrepreneurship/base-camp/",
+    "description": "DU's Daniels College of Business runs BASE Camp as a competitive, three-round summer accelerator for DU-affiliated student and recent-alumni startups.",
+    "highlights": [
+      "$5,000 stipend per team",
+      "Selective — 5-7 teams from applicant pool",
+      "Private office, co-working space, and maker space access at 'The Garage'",
+      "Full-time commitment required (16-24 hrs/week)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "trout-tank-pitch-accelerator",
+    "name": "Trout Tank Pitch Accelerator (Denver Metro SBDC / Chamber of Commerce)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Denver, CO, USA",
+    "focusAreas": [
+      "General/Any",
+      "Agtech/Foodtech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No direct funding pool disclosed for most editions; free to apply",
+    "equity": "No equity taken",
+    "programLength": "5-8 weeks of pitch training, culminating in a public pitch event/demo day",
+    "format": "In-person (Denver metro)",
+    "eligibility": "Colorado-based entrepreneurs/businesses; only 20 companies accepted per cohort",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Multiple editions/cohorts per year (general, CPG/Food Frenzy, Sustainability)",
+    "applyLink": "https://www.denversbdc.org/trout-tank-cpg-pitch-accelerator/",
+    "website": "https://www.denversbdc.org/trout-tank-cpg-pitch-accelerator/",
+    "description": "Created in 2014 by the Denver Metro SBDC in partnership with the Denver Metro Chamber of Commerce, Trout Tank is a recurring, free pitch-training accelerator running several themed editions culminating in public pitch events.",
+    "highlights": [
+      "Free, no-equity model backed by a chamber of commerce/SBDC",
+      "Running since 2014",
+      "Multiple themed editions per year",
+      "Only 20 companies accepted per cohort"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "prime-health-innovation-challenge",
+    "name": "Prime Health Innovation Challenge",
+    "category": "Competition",
+    "region": "US",
+    "country": "Denver, CO, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Historically $1.9M+ in cumulative prize funding since 2014 (2026-specific prize amount not disclosed)",
+    "equity": "Non-dilutive — no equity taken",
+    "programLength": "3-round, multi-month process (April-October) culminating in a live pitch event",
+    "format": "Hybrid (virtual and in-person components, Denver, CO)",
+    "eligibility": "Digital health companies aligned with Colorado safety-net healthcare needs; particular focus on founders who are people of color, women, and/or LGBTQ+",
+    "applicationDeadline": "Closed for 2026 (semifinalists announced June 18, 2026) — next cycle expected ~2027",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.primehealthco.com/challenge",
+    "website": "https://www.primehealthco.com/challenge",
+    "description": "Powered by the Colorado Health Foundation and run by Prime Health (a Denver-based health-innovation ecosystem founded in 2012), the Innovation Challenge funds and pilots digital health solutions with Colorado safety-net healthcare institutions.",
+    "highlights": [
+      "45+ pilots implemented across Colorado to date",
+      "Over $1.9M in cumulative prize funding since 2014",
+      "Culminates in a live 'Shark Tank'-style pitch event with provider/payer/policy judges",
+      "Particular focus on founders of color, women, and LGBTQ+ founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "pennovation-accelerator",
+    "name": "Pennovation Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML",
+      "Hardware",
+      "Agtech/Foodtech",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct cash investment; includes 3 months of free co-working membership (potential 12-month resident-desk membership for select winners) and $10,000+ in prizes at Pitch Day",
+    "equity": "No equity taken (equity-free)",
+    "programLength": "6 weeks, concluding with Pitch Day",
+    "format": "Hybrid (virtual Monday morning coffee chats; in-person Wednesday afternoon sessions and mentor meetings at the Pennovation Center in Philadelphia)",
+    "eligibility": "Philadelphia-region companies at pre-seed to seed stage with a proof of concept and less than $500K previously raised; no Penn affiliation or incorporation required",
+    "applicationDeadline": "August 14, 2026",
+    "applicationWindow": "Annual, applications typically open mid-July",
+    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdQUcRr2QHJIzA9khMqeXbADk-eUyDhU-fch_QVJrjKPab6yQ/viewform?pli=1",
+    "website": "https://pennovation.upenn.edu/news/2026-pennovation-accelerator",
+    "description": "The Pennovation Accelerator is a free, cohort-based program run out of Penn's Pennovation Center that pairs up to 12 local startups with mentors to develop business strategy over six weeks. It is open to any Philadelphia-region company, regardless of Penn affiliation, and culminates in a Pitch Day with cash prizes.",
+    "highlights": [
+      "No cost to participate and no equity taken",
+      "Up to 12 companies accepted per cohort",
+      "Weekly expert-led sessions plus 1:1 mentor pairing",
+      "Concludes with a Pitch Day offering $10,000+ in prizes"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "capital-readiness-program-ucsc",
+    "name": "Capital Readiness Program (University City Science Center)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No direct capital provided (free to accepted companies); prepares founders to raise $1M-$5M in institutional capital — alumni have raised $173M+ collectively",
+    "equity": "No equity taken — the program itself is non-dilutive",
+    "programLength": "5-day intensive, on-site program",
+    "format": "In-person (5-day on-site intensive at University City Science Center in Philadelphia)",
+    "eligibility": "Medtech, digital health, or healthcare technology companies that have raised a minimum ~$500K and are seeking $1M-$5M in institutional investment within the next year",
+    "applicationDeadline": "August 21, 2026",
+    "applicationWindow": "Recurring cohorts; interest list available for future openings",
+    "applyLink": "https://sciencecenter.org/programs/capital-readiness/interest",
+    "website": "https://sciencecenter.org/programs/capital-readiness",
+    "description": "Run by the University City Science Center, the Capital Readiness Program is a free, five-day, in-person bootcamp that equips medtech, digital health, and healthcare technology founders with the due-diligence readiness and investor connections needed to raise their first institutional round.",
+    "highlights": [
+      "11 cohorts completed as of 2026; alumni have raised $173M+ collectively",
+      "Due-diligence deep dive across financial, legal, technical, and operational areas",
+      "Access to Investors-in-Residence representing $1.35B in venture capital",
+      "Free to selected participants; competitive application process"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiada-institute-drexel-startups-fund",
+    "name": "Baiada Institute for Entrepreneurship (Drexel University)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Up to $25,000 awarded per Drexel Startups Fund competition cycle; incubator space and mentorship provided at no cost year-round",
+    "equity": "No equity taken — non-dilutive, alumni-funded grant",
+    "programLength": "Rolling, year-round incubator membership; Drexel Startups Fund runs twice-yearly competition cycles",
+    "format": "In-person (Drexel University campus incubator space in Philadelphia, run by the Close School of Entrepreneurship)",
+    "eligibility": "At least one founder must be a current Drexel undergraduate, graduate, or post-graduate student (graduated within one year of the application deadline)",
+    "applicationDeadline": "February 27, 2026 (Spring cycle)",
+    "applicationWindow": "Twice-yearly (Fall and Spring)",
+    "applyLink": "https://baiada.startuptree.co/discover/competitions",
+    "website": "https://drexel.edu/baiada/",
+    "description": "The Baiada Institute is Drexel University's entrepreneurship incubator, offering Drexel-affiliated student founders workspace, mentoring, and funding. Its Drexel Startups Fund competition awards up to $25,000 twice a year to student ventures.",
+    "highlights": [
+      "Up to $25,000 in non-dilutive funding per competition cycle",
+      "Finalists receive mentoring, incubator space, and investor introductions",
+      "Twice-yearly competition cycle (Fall and Spring)",
+      "Open to Drexel students from any academic discipline"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "penn-vip-incubator",
+    "name": "Penn Venture Lab - VIP Incubator",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Up to $500 VIP-INC completion award for eligible participants (not guaranteed)",
+    "equity": "No equity taken",
+    "programLength": "Self-paced, no fixed duration",
+    "format": "Hybrid (self-guided online modules plus in-person advising session at Tangen Hall, Philadelphia)",
+    "eligibility": "Currently enrolled Penn students at any school, exploring ideas or building early-stage ventures; no incorporation or traction required",
+    "applicationDeadline": "Rolling — closes each July-August for annual maintenance",
+    "applicationWindow": "Rolling, year-round",
+    "applyLink": "https://venturelab.upenn.edu/incubator",
+    "website": "https://venturelab.upenn.edu/venture-initiation-program",
+    "description": "The VIP Incubator is the entry-level track of Penn's Venture Initiation Program (Venture Lab), open to any current Penn student exploring or building an early-stage venture, combining self-guided online modules with in-person advising and a small non-dilutive completion award.",
+    "highlights": [
+      "Rolling admission year-round",
+      "No equity taken",
+      "Self-guided modules plus required 1:1 advising session",
+      "Up to $500 VIP-INC completion award available"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "penn-vip-x-philadelphia",
+    "name": "VIP-X Philadelphia (Penn Venture Lab)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $10,000 in non-dilutive grant funding per venture team, plus pro-bono legal support, AWS credits, and marketing assistance",
+    "equity": "No equity taken — non-dilutive grant",
+    "programLength": "One semester (Fall or Spring), semi-weekly cohort meetings plus biweekly 1:1 advising",
+    "format": "In-person (cohort meetings, workshops, and dedicated coworking space in Philadelphia)",
+    "eligibility": "Current Penn students in degree-granting programs whose lead applicant is Philadelphia-based; maximum 7 ventures per cohort",
+    "applicationDeadline": "September 1, 2026 (Fall cohort)",
+    "applicationWindow": "Fall and Spring cohorts each academic year",
+    "applyLink": "https://venturelab.upenn.edu/VIP-X",
+    "website": "https://venturelab.upenn.edu/venture-initiation-program",
+    "description": "VIP-X Philadelphia is the advanced accelerator track of Penn's Venture Initiation Program, for Penn student founders with a Philadelphia-based lead applicant, offering a structured semester of workshops, advising, and up to $10,000 in non-dilutive funding.",
+    "highlights": [
+      "Up to $10,000 non-dilutive grant per team",
+      "Maximum 7 ventures per cohort",
+      "Includes pro-bono legal support, AWS credits, and marketing assistance",
+      "Runs each Fall and Spring semester"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "nextfab-artisan-accelerator",
+    "name": "NextFab Artisan Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "Consumer",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Free to participate (funded via a Department of Commerce BTAP grant); participants receive $2,400 in annual studio credits plus 9 months of studio/shop space access",
+    "equity": "No equity taken — grant-funded, equity-free program",
+    "programLength": "13 weeks of instruction across two sessions, plus 9 months of studio access",
+    "format": "Hybrid (in-person sessions at NextFab's Philadelphia location, with some virtual components)",
+    "eligibility": "Micro-enterprises (5 or fewer employees) creating physical products; low-to-moderate income households; business address within Philadelphia city limits; priority for historically disadvantaged communities",
+    "applicationDeadline": "July 31, 2026",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.nextfab.com/artisan-accelerator-application/",
+    "website": "https://www.nextfab.com/artisan-accelerator",
+    "description": "The Artisan Accelerator is a free, grant-funded 13-week program at NextFab (Philadelphia's makerspace) for micro-enterprise creative entrepreneurs who make physical products, combining business education with 9 months of access to woodworking, metalworking, textile, 3D printing, and CNC equipment.",
+    "highlights": [
+      "Free program funded by a Department of Commerce BTAP grant",
+      "15 participants accepted per cohort, priority for historically disadvantaged communities",
+      "$2,400 in annual studio credits plus 9 months of shop access",
+      "Access to woodworking, metalworking, jewelry, textiles, 3D printing, and CNC equipment"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "ben-franklin-technology-partners-sepa",
+    "name": "Ben Franklin Technology Partners of Southeastern Pennsylvania",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech",
+      "Biotech/Health",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Unknown exact check size (not publicly disclosed); requires dollar-for-dollar matching capital from other sources",
+    "equity": "Equity and/or debt investment (specific terms undisclosed; not equity-free)",
+    "programLength": "Ongoing investment/portfolio relationship rather than a fixed-length cohort program",
+    "format": "Hybrid (in-person office at 1600 Market Street, Philadelphia, plus ongoing portfolio-company engagement)",
+    "eligibility": "Technology-focused business located in or with significant presence in Philadelphia, Bucks, Chester, Delaware, or Montgomery counties, with strong growth potential and ability to secure matching capital",
+    "applicationDeadline": "Rolling (Healthcare track); scheduled review cycles (Technology track)",
+    "applicationWindow": "Rolling / scheduled cycles depending on track",
+    "applyLink": "https://bftp.my.site.com/contactbenfranklininquiries/s/",
+    "website": "https://www.sep.benfranklin.org/",
+    "description": "Ben Franklin Technology Partners of Southeastern PA is a state-backed, nonprofit seed-stage investment and economic-development organization that has invested over $200 million in more than 2,000 regional startups, with a current portfolio of 200+ active companies.",
+    "highlights": [
+      "Over $200M invested in 2,000+ regional companies since inception",
+      "40-50 new investments per year; 200+ active portfolio companies",
+      "Requires dollar-for-dollar co-investment matching",
+      "Focus on IT/software and healthcare/life-sciences technology companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "convoi-ventures-accelerator",
+    "name": "Convoi Ventures Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Orem, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $100,000 per company via SAFE (tied to a $5M post-money valuation cap)",
+    "equity": "Structured as a SAFE investment; a separate optional 'TipJar' model lets founders voluntarily grant 0-3% equity if they found the program valuable",
+    "programLength": "10 weeks",
+    "format": "In-person (weekly dinners with founder-mentors, one-on-one mentoring, and a Demo Day in Utah)",
+    "eligibility": "Utah-based founders, all industries/verticals, pre-seed/early-stage startups",
+    "applicationDeadline": "Rolling — Spring 2027 early applications open",
+    "applicationWindow": "Two cohorts per year",
+    "applyLink": "https://accelerator.convoiventures.com",
+    "website": "https://accelerator.convoiventures.com",
+    "description": "Convoi Ventures Accelerator is a 10-week accelerator for Utah-based founders, run by Convoi Ventures, a Utah-focused pre-seed fund. It pairs founders with mentor-investors through weekly dinners and 1:1 mentoring, culminating in a Demo Day in front of VCs and angels.",
+    "highlights": [
+      "Up to $100K invested per company via SAFE at a $5M post-money cap",
+      "Optional 0-3% equity 'TipJar' model instead of a fixed program fee",
+      "100+ VCs and angels attend Demo Day",
+      "Alumni reported raising $5M-$100M+ in follow-on funding"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "altitude-lab",
+    "name": "Altitude Lab",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Varies by track: Chris and Summer Gibson Fellowship provides an $80,000 stipend; Altitude Lab Fund provides $100,000-$250,000 pre-seed investment; Trail Angel Grant provides membership + mentorship",
+    "equity": "Varies by track — Fellowship and Trail Angel Grant are non-dilutive; the Altitude Lab Fund is a pre-seed equity investment (terms undisclosed)",
+    "programLength": "Residency tracks run approximately 12 months, with a 12-20 week onboarding phase",
+    "format": "In-person residency at Altitude Lab's Salt Lake City campus (lab + office space), with a national mentor/investor network",
+    "eligibility": "Early-stage biotech/techbio founders building platform-biology companies; the Altitude Lab Fund track requires a peer-reviewed grant (e.g., SBIR)",
+    "applicationDeadline": "Unknown — periodic cohorts",
+    "applicationWindow": "Rolling admissions with periodic cohorts",
+    "applyLink": "https://altitudelab.org/become-a-resident",
+    "website": "https://altitudelab.org",
+    "description": "Altitude Lab is a Salt Lake City biotech incubator connected to Recursion Pharmaceuticals leadership, giving early-stage techbio founders wet/dry lab space, mentorship, and investor access across several funding tracks.",
+    "highlights": [
+      "20,000 sq ft of BSL-1/BSL-2 lab and office space in downtown Salt Lake City",
+      "Portfolio companies have raised over $185M-$205M since 2020",
+      "Reports an 85% seed-financing success rate among residents",
+      "Chris and Summer Gibson Fellowship offers an $80,000 stipend plus lab/office space"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "sandbox-fellowship",
+    "name": "Sandbox Fellowship",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Provo, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "No cash grant/investment provided directly to founders; federal student loans available for tuition/living expenses",
+    "equity": "No equity taken in participants' companies; tuition is $7,000/semester ($21,000 total across 3 semesters)",
+    "programLength": "12 months (3 semesters)",
+    "format": "In-person (full-time cohort-based program at Sandbox Spaces in Provo, UT, with 24/7 workspace access)",
+    "eligibility": "No CS degree, team, or startup idea required to apply; participants concurrently pursue an accredited Master of Computer Science",
+    "applicationDeadline": "Unknown",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://sandbox.ing/start?entry_path=fellowship_direct",
+    "website": "https://web.sandbox.ing/fellowship",
+    "description": "Sandbox Fellowship is a 12-month, in-person program in Provo, Utah, where participants spend a full year building a venture-scale tech startup while earning an accredited Master of Computer Science degree. It charges tuition but takes no equity in participants' companies.",
+    "highlights": [
+      "75 fellows per cohort",
+      "Combines full-time startup building with an accredited Master's degree",
+      "12+ portfolio companies have reached a combined $310M in valuation",
+      "7 alumni companies have been accepted into Y Combinator"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "ihub-utah",
+    "name": "iHub (Utah)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Provo, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "None disclosed directly (no stated cash grant/investment)",
+    "equity": "No equity taken, no membership dues — 501(c)(3) nonprofit",
+    "programLength": "Three sequential stages: Blueprint (4-12 weeks), Foundation (8-16 weeks), Elevation (10-20 weeks)",
+    "format": "In-person (50,000 sq ft Provo, UT facility with 24/7 member access)",
+    "eligibility": "Founders across industries; no revenue requirement, selected via a Founder Fit Interview rather than a pitch deck",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — applications reviewed within about 48 hours",
+    "applyLink": "https://www.ihubutah.org",
+    "website": "https://www.ihubutah.org",
+    "description": "iHub describes itself as Utah's largest startup incubator, offering Provo-based founders a staged, three-part program (Blueprint, Foundation, Elevation) with mentors, a maker space, and a commercial kitchen — no membership dues, rolling admissions.",
+    "highlights": [
+      "50,000 sq ft of coworking, maker space, commercial kitchen, and warehouse space",
+      "300+ mentors across industries",
+      "No membership dues (501(c)(3) nonprofit)",
+      "iHub founders report having raised $23.6M in outside capital"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "lassonde-company-launch",
+    "name": "Company Launch (Lassonde Entrepreneur Institute, University of Utah)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Non-dilutive 'Bridge Grants' available to founders who complete both sprints (amounts not disclosed)",
+    "equity": "No equity taken; Bridge Grant funding is non-dilutive and non-competitive",
+    "programLength": "15 weeks, split into a Validation Sprint and a Launch Sprint",
+    "format": "In-person (weekly 90-minute Friday sessions plus occasional events at the University of Utah)",
+    "eligibility": "Founders actively building, testing, or selling (not pure ideation-stage); must commit to weekly Friday sessions",
+    "applicationDeadline": "Unknown",
+    "applicationWindow": "Opens approximately 2 months before each fall and spring semester",
+    "applyLink": "https://eccles.qualtrics.com/jfe/form/SV_2c3R0kWcerPdzqB",
+    "website": "https://lassonde.utah.edu/launch/",
+    "description": "Company Launch is a 15-week accelerator run by the University of Utah's Lassonde Entrepreneur Institute, taking founders from early concept or initial traction through customer validation and launch, each fall and spring semester, taking no equity.",
+    "highlights": [
+      "Two-part structure: Validation Sprint then Launch Sprint",
+      "Covers customer validation, MVP development, legal structure, financing, and bookkeeping",
+      "Completing both sprints unlocks eligibility for non-dilutive Bridge Grants",
+      "Part of the broader Lassonde Studios entrepreneurship ecosystem"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "lassonde-devlab",
+    "name": "Lassonde DevLab (University of Utah)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Scholarships and grants available to admitted teams (amounts not disclosed)",
+    "equity": "Free program that takes no equity",
+    "programLength": "Ongoing/extracurricular; minimum a few hours/week for at least one semester",
+    "format": "In-person coworking and mentorship at Lassonde Studios, University of Utah",
+    "eligibility": "Current University of Utah students or recent alumni with a defined software concept; at least one technical team member ready to build",
+    "applicationDeadline": "Rolling — priority deadline 45 days before desired semester",
+    "applicationWindow": "Accepted year-round",
+    "applyLink": "https://lassonde.utah.edu/devlab",
+    "website": "https://lassonde.utah.edu/devlab",
+    "description": "Lassonde DevLab is a software-focused startup incubator for University of Utah students and recent graduates, offering coworking space, technical and business mentorship, and scholarships/grants.",
+    "highlights": [
+      "Free to join; takes no equity",
+      "Coworking space at Lassonde Studios",
+      "Hands-on technical and business mentorship plus peer community",
+      "Year-round applications with a 45-day priority deadline before each semester"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "silicon-slopes-start-school",
+    "name": "Start School (Silicon Slopes)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Lehi, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "None — the program provides education/mentorship, not capital",
+    "equity": "Completely free — no equity, tuition, or fees; no compensated investor introductions",
+    "programLength": "Self-paced, ongoing curriculum",
+    "format": "Remote, self-paced online curriculum via the Silicon Slopes Community Hub",
+    "eligibility": "Open to Utah entrepreneurs committed to the state's startup ecosystem; selection emphasizes commitment over credentials",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling enrollment",
+    "applyLink": "https://www.siliconslopes.com/start-school",
+    "website": "https://www.siliconslopes.com/start-school",
+    "description": "Start School is a free, equity-free educational program from Silicon Slopes (a Utah nonprofit industry association) that teaches Utah founders to build sustainable, profitable businesses without relying on venture funding.",
+    "highlights": [
+      "Completely free — no tuition, fees, or equity taken",
+      "No pitch decks, demo days, or investor-driven benchmarks",
+      "Each participant paired with a Mountain America Credit Union business advisor and business account",
+      "Targets founders outside the typical VC-backable path"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "iu-health-incubator-iu-lab-pre-accelerator",
+    "name": "IU Health Incubator at IU LAB Pre-Accelerator",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Indianapolis, IN, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "None — non-dilutive program; no direct cash investment (provides mentorship, customer connections, and investor introductions)",
+    "equity": "No equity taken (equity-free program)",
+    "programLength": "7 weeks",
+    "format": "Hybrid — in-person programming at 16 Tech Innovation District in Indianapolis with virtual components",
+    "eligibility": "Early-stage founders commercializing breakthrough technologies at the intersection of biosciences, human health, and biotechnology",
+    "applicationDeadline": "Unknown — check gener8tor.com/gbeta/iu-lab for the next window",
+    "applicationWindow": "Multiple gBETA cohorts per year",
+    "applyLink": "https://www.gener8tor.com/gbeta/iu-lab",
+    "website": "https://www.gener8tor.com/gbeta/iu-lab",
+    "description": "A free, non-dilutive seven-week pre-accelerator run by gener8tor in partnership with Indiana University Health and the IU Launch Accelerator for Biosciences (IU LAB), based at 16 Tech in Indianapolis, supporting early-stage founders in biosciences, human health, and biotechnology.",
+    "highlights": [
+      "Hosted at 16 Tech Innovation District in downtown Indianapolis",
+      "Free, non-dilutive — no equity taken",
+      "Backed by Indiana University Health and the IU Launch Accelerator for Biosciences",
+      "Third cohort completed with a showcase event on August 27, 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "agrinovus-velocity-accelerator",
+    "name": "AgriNovus Indiana Velocity Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Indianapolis, IN, USA",
+    "focusAreas": [
+      "Agtech/Foodtech",
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$75,000 total in non-dilutive prizes ($25,000 per track across 3 tracks)",
+    "equity": "No equity taken (equity-free program)",
+    "programLength": "Approximately 5 months, culminating in a Demo Day",
+    "format": "In-person — Indianapolis-based mentorship and programming culminating in a Demo Day",
+    "eligibility": "Students, startups, and existing companies building solutions to AgriNovus's published industry challenges in bioinnovation, farmer-focused innovation, or food-is-health",
+    "applicationDeadline": "Closed for 2026 (closed May 1, 2026); runs annually — check agrinovusindiana.com/velocity for next cycle",
+    "applicationWindow": "Annual",
+    "applyLink": "https://agrinovusindiana.com/velocity/",
+    "website": "https://agrinovusindiana.com/velocity/",
+    "description": "Velocity is AgriNovus Indiana's annual accelerator challenging founders, startups, and students to build solutions to top agbioscience industry challenges, with 2026 cohort selecting 12 startups to compete for $75,000 in non-dilutive prize money across three tracks.",
+    "highlights": [
+      "Headquartered in Indianapolis, IN",
+      "$75,000 total in non-dilutive prize money split across 3 tracks",
+      "12 startups selected for the 2026 cohort",
+      "Open to students, startups, and existing companies — not restricted to one funding stage"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "16-tech-ignition",
+    "name": "16 Tech Ignition",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Indianapolis, IN, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "None — no direct funding provided (mentorship and resources only)",
+    "equity": "No equity taken (equity-free program)",
+    "programLength": "8 weeks",
+    "format": "Hybrid — weekly virtual workshops combined with in-person meetups at 16 Tech in downtown Indianapolis",
+    "eligibility": "Collegiate founders (current university students) from campuses across Indiana, including IU, Purdue, and Butler",
+    "applicationDeadline": "Closed for Spring 2026 (closed Feb 16, 2026) — check 16tech.com/ignition for next opening",
+    "applicationWindow": "Cycle typically opens January 5, closes February 16",
+    "applyLink": "https://16tech.com/ignition/",
+    "website": "https://16tech.com/ignition/",
+    "description": "Ignition is 16 Tech Community Corporation's eight-week hybrid program for collegiate founders across Indiana, helping students turn early ideas into real traction through mentorship, workshops, and access to the Indiana Founders Network.",
+    "highlights": [
+      "Hosted at 16 Tech Innovation District in downtown Indianapolis",
+      "8-week hybrid program for 25-30 collegiate founders per cohort",
+      "Includes a 1:1 consultation with TechPoint's Venture Support team",
+      "No equity taken — free mentorship-based program"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "digital-sandbox-kc",
+    "name": "Digital Sandbox KC",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Kansas City, MO, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $20,000 in milestone-based proof-of-concept project funding per award (paid to approved vendors/contractors on the company's behalf)",
+    "equity": "No equity, ownership, or IP taken — equity-free",
+    "programLength": "Unknown (tied to project milestones rather than a fixed cohort duration)",
+    "format": "Hybrid — online application and ongoing mentorship, with in-person pitch at the UMKC Innovation Center in Kansas City, MO",
+    "eligibility": "Early-stage, pre-revenue or very-early-revenue tech startups/projects with a significant IT/digital component, located within the Kansas City metro area",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; new awardees selected roughly 4 times per year",
+    "applyLink": "https://techventurestudiokc.com/digital-sandbox/submit-an-idea/",
+    "website": "https://techventurestudiokc.com/digital-sandbox/",
+    "description": "Digital Sandbox KC is a Kansas City proof-of-concept program that provides early-stage tech founders with milestone-based project funding, mentorship, and commercialization support, administered by UMKC's Technology Venture Studio.",
+    "highlights": [
+      "Up to $20,000 in milestone-based, non-dilutive project funding per award",
+      "No equity or IP taken from participating companies",
+      "255+ projects funded since 2013; alumni have raised $243M+ in follow-on funding",
+      "Confirmed active in 2026 with cohorts announced in January and Q2 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "betablox",
+    "name": "BetaBlox",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Kansas City, MO, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No direct cash funding — mentorship/education-based accelerator, not a capital provider",
+    "equity": "No equity taken — instead paid 2% of the founder's next $1,000,000 in revenue (capped around $20,000 total), collected only as revenue is earned",
+    "programLength": "Multi-year, three-phase program: monthly workshops + mentors, a 4-day in-person intensive, then ~1 year of ongoing coaching",
+    "format": "Hybrid — primarily remote coursework and coaching, plus one mandatory 4-day in-person intensive in Kansas City, MO",
+    "eligibility": "Open to founders at any stage (idea through growth) in most industries; no fixed revenue minimum; founders do not need to be based in Kansas City",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling admissions via a free 4-step process",
+    "applyLink": "https://www.betablox.com/betablox",
+    "website": "https://www.betablox.com/",
+    "description": "BetaBlox is a Kansas City-based, mentor-driven startup accelerator that provides coursework, one-on-one mentorship, and an in-person Kansas City intensive to help founders build and scale, without taking equity — instead paid a small share of future revenue growth.",
+    "highlights": [
+      "No equity taken — paid via 2% of next $1M in revenue, capped near $20,000",
+      "Open to founders at any stage and in nearly any industry, regardless of location",
+      "Three-phase model: workshops + mentorship, a 4-day Kansas City intensive, then ~1 year of coaching",
+      "Free, no-cost application process"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "launchkc",
+    "name": "LaunchKC",
+    "category": "Competition",
+    "region": "US",
+    "country": "Kansas City, MO, USA",
+    "focusAreas": [
+      "General/Any",
+      "Social Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$60,000 non-dilutive grant per selected company",
+    "equity": "No equity — awards are structured as non-dilutive grants",
+    "programLength": "Year-long program following selection; winning companies join a cohort in Downtown Kansas City for the year",
+    "format": "In-person — selected companies must relocate to and operate from Downtown Kansas City, MO for at least one year",
+    "eligibility": "Early-stage, high-growth, technology-enabled startups nationwide willing to relocate headquarters to Downtown Kansas City, MO",
+    "applicationDeadline": "Unknown for next cycle — historically opens late August, closes late September",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.launchkc.org/competition/",
+    "website": "https://www.launchkc.org/",
+    "description": "LaunchKC is a nonprofit startup grants competition run by the Downtown Council and the Economic Development Corporation of Kansas City that awards non-dilutive cash grants to early-stage, tech-enabled companies willing to relocate to Downtown Kansas City.",
+    "highlights": [
+      "$60,000 non-dilutive grant per winning company, no equity taken",
+      "Winners must relocate their company to Downtown Kansas City, MO for at least one year",
+      "137+ portfolio companies since 2014, ~$650M+ in follow-on capital raised",
+      "Parallel Social Venture Studio track for social/environmental/equity-impact ventures"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "oregon-ai-accelerator",
+    "name": "Oregon AI Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Portland, OR, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $50,000 in equity-free grant prizes (competitive; not a guaranteed per-company check)",
+    "equity": "No equity taken; equity-free grant prizes awarded to top performers",
+    "programLength": "Approximately 3.5 months",
+    "format": "Hybrid (in-person sessions in Portland, OR combined with virtual programming)",
+    "eligibility": "Early-stage founders building AI-first/transformative-AI companies; open to startups from anywhere, though at least 50% of the pilot cohort was required to be Oregon-based",
+    "applicationDeadline": "Unknown — actively recruiting a next cohort as of Sept 2026, exact deadline unconfirmed",
+    "applicationWindow": "Periodic cohorts",
+    "applyLink": "https://oregonaiaccelerator.com/",
+    "website": "https://oregonaiaccelerator.com/",
+    "description": "Oregon AI Accelerator is a Portland-based hybrid accelerator for early-stage AI startups, launched in late 2025 with seed funding from Google and organizational support from the Metro Regional Innovation Hub, Portland State University, OHSU, and Oregon State University. Its pilot cohort of 20 companies ran February-May 2026 with mentorship, validation support, and equity-free grant prizes.",
+    "highlights": [
+      "Backed by seed funding from Google; no tuition or equity required to participate",
+      "Pilot cohort: 20 early-stage AI startups with a Demo Day at Big Pink in Portland",
+      "Up to $50,000 in equity-free grant prizes available to participants",
+      "Organized by the Metro Regional Innovation Hub with PSU, OHSU, OSU, and Oregon Entrepreneurs Network"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "latino-founders-business-accelerator",
+    "name": "Latino Founders Business Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Portland, OR, USA",
+    "focusAreas": [
+      "General/Any",
+      "Social Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Unknown (no direct cash award specified; program itself is free to attend)",
+    "equity": "No equity taken; program is free to participate",
+    "programLength": "10-week core program plus 12 months of continued mentorship",
+    "format": "Hybrid (in-person programming and coworking at the Founders Hub in Portland, OR, plus an online application process)",
+    "eligibility": "18+; business registered and operating for at least 1 year; applicant holds majority ownership; must demonstrate traction; industry-agnostic; open to founders across the US with priority for the Pacific Northwest",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling admissions",
+    "applyLink": "https://www.latinofounder.com/businessaccelerator",
+    "website": "https://www.latinofounder.com/",
+    "description": "Latino Founders runs a free, 10-week business accelerator for entrepreneurs, based out of its new Founders Hub Center for Innovation and Entrepreneurship in Portland's Pearl District, pairing companies with one-on-one mentorship and expert-led programming, followed by 12 months of continued support.",
+    "highlights": [
+      "Free program: no cost and no equity taken",
+      "10-week core accelerator plus 12 months of continued mentorship",
+      "New 15,000 sq ft Founders Hub space in Portland, operating since August 2026",
+      "Also runs a related PCEF-grant-funded 10-week climate tech accelerator track (Next Wave)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "portland-seed-fund",
+    "name": "Portland Seed Fund",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Portland, OR, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS",
+      "Climate/Impact",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Unknown exact check size (not publicly disclosed)",
+    "equity": "Equity investment; specific percentage/terms not publicly disclosed, negotiated per deal",
+    "programLength": "Unknown — now operates as an ongoing investment fund rather than a fixed-length cohort",
+    "format": "Remote (self-described 'non-resident accelerator' — founders not required to relocate to Portland; fund HQ'd in Portland, OR)",
+    "eligibility": "Pre-seed and seed-stage startups, primarily Oregon/Pacific Northwest-based or with ties to the region",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; actively investing in 2026",
+    "applyLink": "https://www.portlandseedfund.com/",
+    "website": "https://www.portlandseedfund.com/",
+    "description": "Portland Seed Fund is a Portland, OR-based venture fund and self-described 'non-resident accelerator' that has invested in 200+ early-stage companies since its founding in 2010, evolving from cohort-style accelerator batches into an ongoing seed-stage investment fund.",
+    "highlights": [
+      "200+ portfolio companies invested since 2010/2011",
+      "Notable portfolio companies/exits include Auth0 (acquired by Okta) and ESS Inc. (NYSE: GWH)",
+      "New $4M fund (PSF IV Managers) announced May 2026",
+      "Operates as a 'non-resident accelerator' — founders are not required to relocate to Portland"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "launch-powered-by-kpmg",
+    "name": "Launch Powered by KPMG",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Chapel Hill, NC, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML",
+      "Hardware",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No direct funding; free equity-free access to KPMG's enterprise network, mentorship, and business-development support",
+    "equity": "No equity taken (equity-free)",
+    "programLength": "6 weeks",
+    "format": "Primarily in-person in Chapel Hill, NC, with limited remote participation via Zoom for occasional conflicts",
+    "eligibility": "Startups at MVP or preliminary-sales stage with completed customer discovery, aligned with one of KPMG's 8 Innovation Frontiers; no UNC affiliation required; 10-12 teams admitted per cohort",
+    "applicationDeadline": "Closed (most recent cycle closed July 31, 2026) — next cycle TBA",
+    "applicationWindow": "Recurring cohorts",
+    "applyLink": "https://app.capwave.ai/get-started?partner=kpmg",
+    "website": "https://launchchapelhill.com/kpmg-accelerator",
+    "description": "Launch Powered by KPMG is a free, equity-free accelerator run by Launch Chapel Hill in partnership with KPMG, connecting deep-tech and dual-use founders with KPMG's enterprise network to help them land their first enterprise customer.",
+    "highlights": [
+      "No cost and no equity taken to participate",
+      "10-12 teams per cohort at MVP/early-sales stage",
+      "Direct access to KPMG operators and enterprise clients across 8 Innovation Frontiers",
+      "Open to founders with or without a UNC affiliation"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "ced-gro-incubator",
+    "name": "CED GRO Incubator",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Research Triangle Park, NC, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No direct investment disclosed; Demo Day cash prizes of $20,000 (1st place) and $5,000 (2nd place)",
+    "equity": "Unknown (equity terms not disclosed on official program pages)",
+    "programLength": "12 weeks",
+    "format": "Hybrid — primarily virtual weekly classes and 1:1 coaching, culminating in an in-person Demo Day",
+    "eligibility": "Early-stage tech and biotech startups seeking to fast-track growth",
+    "applicationDeadline": "Closed (GRO12 closed July 24, 2026) — next window TBA",
+    "applicationWindow": "Recurring, biannual cohorts",
+    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdV99i2AvGwgOlmgxGFVuHr7PGbNhYSghs8CkZo66hQkUI0nw/viewform",
+    "website": "https://cednc.org/gro-incubator/",
+    "description": "The GRO Incubator is a 12-week program for early-stage tech and biotech startups, run by CED (Council for Entrepreneurial Development), a Research Triangle Park-based nonprofit founded in 1984, culminating in a Demo Day with cash prizes.",
+    "highlights": [
+      "Run by CED, a 40+ year old Research Triangle Park entrepreneurship nonprofit",
+      "12-week curriculum spanning strategy, financials, and fundraising",
+      "Demo Day cash prizes of $20,000 (1st place) and $5,000 (2nd place)",
+      "Separate tracks for Tech and Biotech startups"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "first-flight-venture-center-propeller",
+    "name": "Propeller Pre-Accelerator (First Flight Venture Center)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Research Triangle Park, NC, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Biotech/Health",
+      "Agtech/Foodtech",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct funding provided; program costs $1,000 to attend (scholarships available for women-led, AgTech, defense-manufacturing, and Raleigh-based founders)",
+    "equity": "No equity taken (equity-free); funded via a flat program fee, not investment",
+    "programLength": "6 weeks (cohort-based) or self-paced",
+    "format": "Hybrid — offered as virtual self-paced modules, virtual cohorts, or in-person cohorts in Research Triangle Park, NC",
+    "eligibility": "Open to any early-stage entrepreneur testing whether a product/service idea has sufficient commercial value",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling admissions; cohorts run periodically throughout the year",
+    "applyLink": "https://launch.ffvcnc.org/ap/Form/Fill/LzjdEcjL",
+    "website": "https://www.ffvcnc.org/propeller/",
+    "description": "Propeller is a 6-week entrepreneurial design-thinking pre-accelerator run by First Flight Venture Center, a science/tech incubator founded in 1991 and headquartered in Research Triangle Park, NC, helping founders validate commercial viability before pursuing an idea further.",
+    "highlights": [
+      "Run by First Flight Venture Center, founded 1991",
+      "6-week design-thinking curriculum on customer discovery and investor readiness",
+      "No equity taken; flat $1,000 fee with scholarships for priority founders",
+      "Co-funded by NC IDEA Foundation, SBA, and NC MEP"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "nc-state-andrews-launch-accelerator",
+    "name": "Andrews Launch Accelerator (NC State)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Raleigh, NC, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Average $5,000-$10,000 in non-dilutive seed funding per team, from the NC State Acceleration Fund",
+    "equity": "No equity taken (equity-free / non-dilutive funding)",
+    "programLength": "12 weeks",
+    "format": "In-person weekly sessions and kickoff in Raleigh, NC, plus remote coaching from an assigned Entrepreneur in Residence",
+    "eligibility": "At least one founder must be a current NC State student or a graduate within the past 5 years, physically present in Raleigh for in-person sessions",
+    "applicationDeadline": "Closed for 2026 cohort — next cycle TBA",
+    "applicationWindow": "Annual",
+    "applyLink": "https://entrepreneurshipclinic.ncsu.edu/accelerator/",
+    "website": "https://entrepreneurshipclinic.ncsu.edu/accelerator/",
+    "description": "The Andrews Launch Accelerator is a 12-week, equity-free accelerator run by NC State University's Entrepreneurship Clinic for NC State student and recent-graduate founders, funded by a $1,000,000 donation from Lyn and Chip Andrews.",
+    "highlights": [
+      "Funded by a $1,000,000 donation from Lyn and Chip Andrews",
+      "Average $5,000-$10,000 in non-dilutive funding per team",
+      "Weekly sessions in Raleigh plus kickoff and investor Demo Day",
+      "Open to all startup types, not limited to tech"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "endeavor-miami",
+    "name": "Endeavor Miami (EndeavorLAB & ScaleUp Program)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Miami, FL, USA",
+    "focusAreas": [
+      "General/Any",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No cash investment; equity/fee terms not disclosed on official pages",
+    "equity": "Unknown — not disclosed officially for these two programs",
+    "programLength": "EndeavorLAB: 2 months; ScaleUp: 4 months",
+    "format": "In-person (launch event, group/1:1 mentorship, and closing networking event in the Miami area)",
+    "eligibility": "Florida-based, tech-enabled company; EndeavorLAB wants a 2-person founding team with product-market fit ($50K-$500K ARR); ScaleUp wants defined PMF and a team ready to raise ($800K-$3M ARR)",
+    "applicationDeadline": "Historically two cycles/year (Spring ~mid-January, Fall ~early May) — exact 2026/2027 dates not confirmed",
+    "applicationWindow": "Twice yearly",
+    "applyLink": "https://endeavormiami.org/endeavorlab/",
+    "website": "https://endeavormiami.org/",
+    "description": "Endeavor Miami is the first U.S. affiliate of the global Endeavor network, launched 2013 with Knight Foundation backing. EndeavorLAB and ScaleUp are its two Miami-run cohort programs supporting local founders at different revenue stages.",
+    "highlights": [
+      "First U.S. Endeavor affiliate (2013)",
+      "Alumni companies generated $1.08B in annual revenue and created 7,000+ jobs",
+      "~1% acceptance rate",
+      "Network of 2,000+ entrepreneurs and 500+ investors"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "emerge-americas-startup-accelerator",
+    "name": "eMerge Americas Startup Accelerator + Showcase",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Miami, FL, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "AI/ML",
+      "Deep Tech",
+      "Biotech/Health",
+      "Fintech",
+      "Web3/Crypto"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No equity taken by eMerge; startups compete for $300K+ in prize/investor funding plus in-kind legal services; selected startups pay a $650 participation fee",
+    "equity": "No equity taken by eMerge itself",
+    "programLength": "~6-week virtual training curriculum, culminating in-person at the eMerge Americas conference in Miami",
+    "format": "Hybrid (virtual curriculum, in-person conference culmination in Miami)",
+    "eligibility": "Pre-seed through Series A startups; 100 selected globally per cycle",
+    "applicationDeadline": "Not published — tied to annual conference cycle; next conference March 2-4, 2027",
+    "applicationWindow": "Annual, tied to the eMerge Americas conference",
+    "applyLink": "https://emergeamericas.com/startups/startup-showcase-accelerator/",
+    "website": "https://emergeamericas.com/programs/",
+    "description": "eMerge Americas, founded 2014 and based in Coral Gables/Miami, runs a genuine structured Startup Accelerator + Showcase program (mentorship + curriculum) culminating at its annual Miami tech conference.",
+    "highlights": [
+      "12 years running; 1,200+ startups supported",
+      "$3B+ raised by alumni",
+      "Founders from 60+ countries",
+      "Alumni include Wisecut, Healthbird, Togal.ai"
+    ],
+    "notableAlumni": [
+      "Wisecut",
+      "Healthbird",
+      "Togal.ai"
+    ],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "scale2miami",
+    "name": "Scale2Miami (Mana Tech)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Miami, FL, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "AI/ML",
+      "Agtech/Foodtech",
+      "Fintech",
+      "Deep Tech",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $300,000 for up to 9% equity, invested via SPV; startups also pay a $30,000 operational fee for 12 months of incubation support",
+    "equity": "Up to 9% equity via SPV investment",
+    "programLength": "~13-month, 4-phase program (global scouting, 4-week online pre-incubation, 1-week in-person Miami immersion + Demo Day, 12 months of growth support)",
+    "format": "Hybrid (online pre-incubation plus in-person Miami immersion)",
+    "eligibility": "Startups with a validated MVP and high U.S. growth potential; local Miami or international founders",
+    "applicationDeadline": "Rolling — Cohort 3 notifications went out September 18, 2026",
+    "applicationWindow": "Periodic cohorts",
+    "applyLink": "https://scale2miami.pynn.ai/apply",
+    "website": "https://scale2miami.com",
+    "description": "Scale2Miami is a Miami-based investment/incubation program run by Mana Tech, combining a structured pre-incubation curriculum with direct equity investment via SPV, aimed at bringing international and local founders into the U.S./Miami market.",
+    "highlights": [
+      "Up to $300,000 investment for up to 9% equity via SPV",
+      "20 founders selected per cohort globally",
+      "13-month program culminating in a Miami Demo Day",
+      "No annual fees/carry to investors"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "built-in-miami",
+    "name": "Built in Miami (City of Miami / Venture Miami)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Miami, FL, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "None — completely free, no equity taken",
+    "equity": "No equity taken",
+    "programLength": "18 weeks",
+    "format": "In-person, City of Miami",
+    "eligibility": "Miami/South Florida entrepreneurs; idea-stage",
+    "applicationDeadline": "Rolling — spots fill up fast, no fixed date published",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://forms.gle/JDDrF5Bo2qqu4FEP6",
+    "website": "https://eidmiami.org/built-in-miami/",
+    "description": "Run by the City of Miami's Department of Economic Innovation and Development under the 'Venture Miami' brand, this is a city-government-backed incubator that moves entrepreneurs from idea to investment-ready.",
+    "highlights": [
+      "400+ founders graduated",
+      "15+ subject-matter mentors, 40+ workshops held",
+      "Completely free, no equity taken",
+      "Several alumni have since raised pre-seed/seed rounds and been accepted into other accelerators"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "idea-center-mdc-scale-up",
+    "name": "The Idea Center at Miami Dade College - Scale Up",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Miami, FL, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Free, no equity",
+    "equity": "No equity taken",
+    "programLength": "12 weeks",
+    "format": "In-person (bootcamp + mentorship + 1:1 consulting across MDC's Wolfson/West/Homestead campuses)",
+    "eligibility": "Aspiring and early-stage founders across Miami-Dade County",
+    "applicationDeadline": "Not published",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://forms.office.com/r/cpVpaZJCU3",
+    "website": "https://theideacenter.co/programs/accelerators/",
+    "description": "The Idea Center is Miami Dade College's entrepreneurship hub and a member of the Blackstone Charitable Foundation's LaunchPad network. Its Scale Up program is a structured, free 12-week incubator for community and student founders.",
+    "highlights": [
+      "One of 70+ Blackstone LaunchPad campuses nationally",
+      "Free, no equity taken",
+      "Bootcamp + mentorship + 1:1 consulting",
+      "Also runs a separate MDC-student-only 'prototype to pitch' incubator in partnership with eMerge Americas"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "i2e-e3-bootcamp",
+    "name": "i2E E3 Bootcamp",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Oklahoma City, OK, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "None — no direct funding is provided as part of the program",
+    "equity": "No equity — equity-free program",
+    "programLength": "Four weeks, with 5-10 hours/week of outside work",
+    "format": "Remote (weekly live virtual workshops plus weekly 1:1 virtual coaching calls)",
+    "eligibility": "Oklahoma residents/businesses with majority assets and operations in Oklahoma, offering new or disruptive solutions",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Year-round, successive ~4-week cohorts",
+    "applyLink": "https://i2e.org/e3-application/",
+    "website": "https://i2e.org/e3/",
+    "description": "E3 (Evaluate, Equip, Empower) is i2E's free, four-week virtual bootcamp that helps Oklahoma entrepreneurs test product/market fit for new concepts or find new customers for existing businesses.",
+    "highlights": [
+      "No cost to participants — supported by the Oklahoma Commercialization Network / OCAST",
+      "No equity taken",
+      "Weekly one-on-one coaching with i2E advisors/mentors",
+      "Fully virtual/remote format"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "i2e-advanced-services",
+    "name": "i2E Advanced Services",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Oklahoma City, OK, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "None — no direct investment through this program; capital-seeking founders are referred to i2E's affiliated fund, Plains Ventures",
+    "equity": "No equity — equity-free advisory service",
+    "programLength": "Ongoing, individualized (no fixed cohort length)",
+    "format": "Hybrid (one-on-one venture advising delivered in person and virtually from Oklahoma City and Tulsa offices)",
+    "eligibility": "Innovation-driven, scalable Oklahoma companies (typically technology-based or tech-enabled) at any stage",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "No formal window — founders contact i2E directly",
+    "applyLink": "https://i2e.org/contact/",
+    "website": "https://i2e.org/advanced-services/",
+    "description": "Advanced Services is i2E's free, one-on-one venture advisory offering for Oklahoma founders, providing customized guidance on go-to-market strategy, financial projections, investor-pitch preparation, and introductions to Oklahoma's investor network.",
+    "highlights": [
+      "Free to Oklahoma founders via OCAST partnership",
+      "No equity taken; not a direct funding source",
+      "Personalized 1:1 advisor rather than a fixed curriculum",
+      "Offices in both Oklahoma City and Tulsa"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "rose-rock-bridge",
+    "name": "Rose Rock Bridge",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Tulsa, OK, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "Climate/Impact"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Up to $100,000 non-dilutive funding for startups advancing to the Deploy phase",
+    "equity": "Non-dilutive — no equity taken",
+    "programLength": "Two-phase, six-month cohort cycle: a 6-week 'Derisk' virtual accelerator phase, followed by up to a 1-year 'Deploy' pilot phase",
+    "format": "Hybrid (6-week virtual accelerator sessions followed by in-person piloting/presence in Tulsa)",
+    "eligibility": "Startups at Technology Readiness Level (TRL) 5+ in energy-related fields with demonstrated traction, funding, and team readiness",
+    "applicationDeadline": "Unknown — runs in six-month cohort cycles",
+    "applicationWindow": "Unknown",
+    "applyLink": "https://roserockbridge.com/contact",
+    "website": "https://roserockbridge.com",
+    "description": "Rose Rock Bridge is a Tulsa Innovation Labs venture studio that connects Fortune 500 energy corporate partners (including Devon Energy, ONEOK, Williams, and Microsoft) with early-stage energy-tech startups to pilot and deploy new technologies.",
+    "highlights": [
+      "Backed by Fortune 500 energy corporate partners",
+      "Up to $100,000 non-dilutive funding for startups advancing to deployment",
+      "Two-phase model: 6-week virtual Derisk phase + up to 1-year Deploy pilot phase",
+      "Focused on energy-sector deep tech (robotics, fluid systems, asset optimization)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "build-in-tulsa-we-build",
+    "name": "W.E. Build (Build in Tulsa)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Tulsa, OK, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$25,000 non-dilutive business award",
+    "equity": "No equity — non-dilutive award",
+    "programLength": "12 weeks (3 months)",
+    "format": "In-person (full-time, in Tulsa, OK; 40-hour weekly commitment)",
+    "eligibility": "Women-led, revenue-generating U.S.-registered businesses in Tech, Tech-enabled, or CPG sectors with product-market fit; founders must relocate to/reside in Tulsa for the program duration",
+    "applicationDeadline": "Closed for 2026 cohort — next window TBA",
+    "applicationWindow": "Annual",
+    "applyLink": "https://buildintulsa.com/program/we-build-application",
+    "website": "https://buildintulsa.com",
+    "description": "W.E. Build is Build in Tulsa's full-time, in-person accelerator for women founders of revenue-generating tech, tech-enabled, or CPG businesses ready to scale, providing a $25,000 non-dilutive award plus training, mentorship, and cost-of-living stipends.",
+    "highlights": [
+      "$25,000 non-dilutive award, no equity taken",
+      "12-week full-time, in-person program in Tulsa",
+      "Includes cost-of-living stipends and mental health counseling",
+      "Specifically for women-led, revenue-generating ventures"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "build-in-tulsa-product-pitch-night",
+    "name": "Product Pitch Night (Build in Tulsa)",
+    "category": "Competition",
+    "region": "US",
+    "country": "Tulsa, OK, USA",
+    "focusAreas": [
+      "Hardware",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $18,500 in prizes ($10,000 first, $5,000 second, $2,500 third, $1,000 audience choice)",
+    "equity": "No equity — no repayment, no interest, no equity taken",
+    "programLength": "Eight weeks, culminating in a live pitch event",
+    "format": "Hybrid (evening in-person workshops plus virtual midday sessions)",
+    "eligibility": "Solo founders or teams of up to 3 based in Tulsa or surrounding Oklahoma, with a functioning MVP of a physical product",
+    "applicationDeadline": "Closed for 2026 — next window TBA",
+    "applicationWindow": "Annual",
+    "applyLink": "https://buildintulsa.com/program/product-pitch-night-application",
+    "website": "https://buildintulsa.com/program/product-pitch-night-powered-by-build-in-tulsa",
+    "description": "Product Pitch Night is Build in Tulsa's eight-week program for early-stage physical-product founders, culminating in a live pitch competition awarding up to $18,500 in non-dilutive prize funding.",
+    "highlights": [
+      "Up to $18,500 in non-dilutive prize funding across four placements",
+      "Eight-week hybrid format",
+      "Specifically for physical-product founders (not software)",
+      "Requires a functioning MVP/prototype"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "build-in-tulsa-build-up-tech",
+    "name": "BUILD UP Tech (Build in Tulsa)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Tulsa, OK, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Unknown — validation/readiness program rather than a funding program",
+    "equity": "No equity taken — the program provides no direct funding",
+    "programLength": "Four weeks",
+    "format": "In-person (Tulsa, OK)",
+    "eligibility": "Very early-stage founders with an idea for a tech-based app, platform, or solution, based in or committed to building in Tulsa; no technical background required",
+    "applicationDeadline": "Closed for 2026 — next window TBA",
+    "applicationWindow": "Annual",
+    "applyLink": "https://buildintulsa.com/program/build-up-application",
+    "website": "https://buildintulsa.com/program/build-up-tech-2026",
+    "description": "BUILD UP Tech is Build in Tulsa's four-week, hands-on readiness program for very early-stage tech founders, focused on problem validation and customer research rather than scaling or fundraising.",
+    "highlights": [
+      "Designed for pre-idea/pre-MVP tech founders",
+      "No technical background or existing product required",
+      "Four-week in-person format in Tulsa",
+      "Focused on validation, not funding or scaling"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "build-in-tulsa-build-up-cpg",
+    "name": "BUILD UP CPG (Build in Tulsa)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Tulsa, OK, USA",
+    "focusAreas": [
+      "Agtech/Foodtech",
+      "Consumer"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Unknown — validation/readiness program rather than a funding program",
+    "equity": "No equity taken — the program provides no direct funding",
+    "programLength": "Four weeks",
+    "format": "In-person (Tulsa, OK)",
+    "eligibility": "Early-stage founders with an idea for a physical or packaged consumer product (food, beverage, beauty, wellness), Tulsa-based or Tulsa-committed",
+    "applicationDeadline": "Closed for 2026 — next window TBA",
+    "applicationWindow": "Annual",
+    "applyLink": "https://buildintulsa.com/program/build-up-application",
+    "website": "https://buildintulsa.com/program/build-up-cpg-2026",
+    "description": "BUILD UP CPG is Build in Tulsa's four-week workshop series for early-stage consumer packaged goods founders, focused on demand validation and buyer clarity before production.",
+    "highlights": [
+      "Focused on food, beverage, beauty, and wellness product founders",
+      "No finished product or manufacturer required to apply",
+      "Four weekly in-person sessions in Tulsa",
+      "Validation-focused rather than funding-focused"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "build-in-tulsa-female-founders-pitch-night",
+    "name": "Female Founders Pitch Night (Build in Tulsa)",
+    "category": "Competition",
+    "region": "US",
+    "country": "Tulsa, OK, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$10,000 first place, $5,000 second, $2,500 third, $1,000 audience choice (non-dilutive)",
+    "equity": "No equity — non-dilutive prize funding",
+    "programLength": "Six weeks of training and coaching culminating in a live pitch event",
+    "format": "In-person (Tulsa, OK), with structured workshops and 1:1 coaching",
+    "eligibility": "7-9 Tulsa, OK-based female-identifying founders of tech or tech-enabled startups under 5 years old with an MVP already built",
+    "applicationDeadline": "Closed for 2026 — next window TBA",
+    "applicationWindow": "Annual",
+    "applyLink": "https://buildintulsa.com/program/female-founders-pitch-night-application",
+    "website": "https://buildintulsa.com/program/female-founders-pitch-night-powered-by-build-in-tulsa",
+    "description": "Female Founders Pitch Night is a six-week, cohort-based coaching program from Build in Tulsa for a small group of Tulsa-based female founders with functional tech products, culminating in a live pitch competition for non-dilutive cash prizes.",
+    "highlights": [
+      "Small cohort of 7-9 founders per round",
+      "$10,000 top prize, non-dilutive",
+      "Seven structured workshops plus 8 hours of 1:1 coaching",
+      "Requires an MVP already built (post-idea stage)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "connect-springboard",
+    "name": "CONNECT Springboard",
+    "category": "Incubator",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No cost, no fees — advising/mentoring program, not a capital provider",
+    "equity": "No equity, no fees",
+    "programLength": "Flexible/customized, ongoing advisory (not a fixed-length cohort)",
+    "format": "In-person (San Diego, UCSD Park & Market) plus advisory sessions",
+    "eligibility": "Serious life-science/hi-tech innovation entrepreneurs who have made some progress growing and funding their company",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://connect.org/springboard/",
+    "website": "https://connect.org/springboard/",
+    "description": "CONNECT's flagship no-cost mentoring/advisory program pairing life-science and hi-tech founders with experienced C-level executive mentors to sharpen commercialization strategy and pitch, operating since 2005.",
+    "highlights": [
+      "No equity, no fees — free advisory program",
+      "Alumni include DTx Pharma (acquired by Novartis), FormAlloy, Qubitekk",
+      "Part of the San Diego & Imperial SBDC Network",
+      "Operating since 2005"
+    ],
+    "notableAlumni": [
+      "DTx Pharma",
+      "FormAlloy",
+      "Qubitekk"
+    ],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "sdsu-zip-launchpad",
+    "name": "SDSU ZIP Launchpad (Zahn Innovation Platform)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "No direct check size disclosed; seed funding opportunities, scholarships, and competition prizes available ($201K+ won in competitions cumulatively)",
+    "equity": "No equity taken (free program)",
+    "programLength": "5-week admission workshop series, then incubator runs each semester all year long",
+    "format": "In-person at SDSU",
+    "eligibility": "SDSU students (all majors), staff, faculty, and researchers — no prior experience required",
+    "applicationDeadline": "Fall 2026 closed Sept 10, 2026 — Spring 2027 sign-up opens Jan 1, 2027",
+    "applicationWindow": "Twice yearly (Fall and Spring)",
+    "applyLink": "https://ziplaunchpad.sdsu.edu/apply",
+    "website": "https://ziplaunchpad.sdsu.edu/",
+    "description": "SDSU's free, extracurricular on-campus incubator supporting students, staff, faculty and researchers from any department in validating and launching startups, with weekly advising, mentorship, and access to a prototyping lab.",
+    "highlights": [
+      "$73M+ raised cumulatively by ZIP-affiliated teams",
+      "1,300+ students engaged; 550+ ventures supported; 49+ companies launched",
+      "Multiple entry tracks including paid internships and Social Venture Challenge",
+      "No equity taken"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "the-basement-ucsd",
+    "name": "The Basement (UC San Diego)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "No direct equity terms disclosed; incubator students eligible for seed funding via affiliated resources (amount unknown)",
+    "equity": "Unknown — not fully disclosed",
+    "programLength": "Basement LaunchPad Incubator is year-long; also runs Seekers (exploratory) and i4X (multi-quarter industry-partnered) tracks",
+    "format": "In-person at Mandeville Center, UC San Diego (houses up to 16 student teams)",
+    "eligibility": "Open to all UC San Diego students and recent graduates, regardless of school/department",
+    "applicationDeadline": "Opens early Fall Quarter each year",
+    "applicationWindow": "Annual",
+    "applyLink": "https://thebasement.ucsd.edu/programs/index.html",
+    "website": "https://thebasement.ucsd.edu/",
+    "description": "UC San Diego's on-campus student incubator/accelerator (est. 2015, seeded by alumni VCs including Mark Suster), offering coworking space, mentorship, business development support, and an accelerator track to help teams raise capital.",
+    "highlights": [
+      "470+ teams formed; 57+ companies formed",
+      "$10.5M total funds raised by alumni ventures",
+      "700+ mentor hours accessed",
+      "Capacity for 16 teams at Mandeville Center"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "startblue-ocean-enterprise-accelerator",
+    "name": "StartBlue Ocean Enterprise Accelerator (UC San Diego)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No cost, no equity; startups supporting the NOAA Ocean Enterprise Initiative can access up to $200K in non-dilutive funding",
+    "equity": "No equity taken",
+    "programLength": "Intensive fall-based accelerator plus one year of complimentary TMA BlueTech membership post-program",
+    "format": "Hybrid (classroom training, site visits, workshops, mentorship, and pitch events at UC San Diego)",
+    "eligibility": "Ocean/blue economy tech startups — ocean data, coastal resilience, maritime security, aquaculture, ocean biotech",
+    "applicationDeadline": "Unknown — annual fall cohort",
+    "applicationWindow": "Annual",
+    "applyLink": "https://startblue.ucsd.edu/",
+    "website": "https://startblue.ucsd.edu/",
+    "description": "A UC San Diego (Rady School Sullivan Center) accelerator for ocean/blue-economy startups, funded in part by a $13.5M NOAA Ocean Enterprise Initiative award, offering no-cost/no-equity training, mentorship, and non-dilutive funding access.",
+    "highlights": [
+      "5 cohorts run to date",
+      "$13.5M in NOAA funding secured to support the program",
+      "Up to $200K in non-dilutive funding available to qualifying participants",
+      "40+ partner organizations in network"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "ige-medtech-accelerator",
+    "name": "IGE MedTech Accelerator (UC San Diego)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Unknown — not disclosed on official page",
+    "equity": "Unknown — not disclosed",
+    "programLength": "3 stages: Stage 1 (12 weeks incl. NSF I-Corps), Stage 2 (6-9 months), Stage 3 (specialized clinical/regulatory track)",
+    "format": "In-person at UC San Diego",
+    "eligibility": "Team-based; requires a UC San Diego-affiliated lead applicant, medtech/digital health focus",
+    "applicationDeadline": "September 16, 2026 (Fall 2026 cohort)",
+    "applicationWindow": "Fall and spring cohorts",
+    "applyLink": "https://bit.ly/MTAFall26Application",
+    "website": "https://ige.ucsd.edu/medtech-accelerator",
+    "description": "A three-stage medtech accelerator run by UC San Diego's Institute for the Global Entrepreneur, helping UCSD-affiliated teams move medical innovations toward market through mentorship, investor/corporate connections, and clinical resource access.",
+    "highlights": [
+      "Alumni companies: Cari Health, LIMBER, Melio, Mercury Alert, Dermose",
+      "Structured 3-stage pipeline from I-Corps foundation through clinical/regulatory acceleration",
+      "Requires UCSD-affiliated lead applicant"
+    ],
+    "notableAlumni": [
+      "Cari Health",
+      "LIMBER",
+      "Melio"
+    ],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "launch-factory-san-diego",
+    "name": "Launch Factory",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Reportedly up to $300,000 in seed funding per third-party sources; not independently confirmed on the official site — verify directly",
+    "equity": "Unknown — not confirmed on official site",
+    "programLength": "Unknown — not disclosed in accessible content",
+    "format": "In-person (San Diego, CA)",
+    "eligibility": "Pre-seed/seed tech startups including research-derived (university spinout) ventures; recent focus on SDSU faculty/researcher-derived deep-tech ventures",
+    "applicationDeadline": "Unknown",
+    "applicationWindow": "Unknown",
+    "applyLink": "https://launchfactory.com/",
+    "website": "https://launchfactory.com/",
+    "description": "A San Diego startup studio and venture firm founded 2018 by SDSU alumnus Brad Chisum, building and investing in tech startups; in May 2026 announced a formal partnership with SDSU to help commercialize university research into venture-backed companies.",
+    "highlights": [
+      "Formal SDSU partnership announced May 2026",
+      "Founding team includes SDSU alumni with a prior successful exit (Lumedyne to Google)",
+      "Previously evaluated proposals for SDSU's Pilot Innovation Fund",
+      "Will hold office hours within SDSU's Division of Research and Innovation"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "acceleratenv-startupnv",
+    "name": "AccelerateNV (StartUpNV)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Las Vegas, NV, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$200,000 total investment ($100,000 from FundNV pre-seed fund + $100,000 matched by Nevada SSBCI)",
+    "equity": "Unknown — investment-based; specific equity terms not publicly disclosed",
+    "programLength": "6 months",
+    "format": "In-person (Las Vegas/Reno, NV; pitch sessions and ongoing coaching)",
+    "eligibility": "Nevada-based (or committed to relocating to Nevada) scalable B2B/enterprise startups; consumer-facing businesses not eligible",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; roughly 1 in 10 pitching founders invited to join",
+    "applyLink": "https://lp.startupnv.org/-fnv2_app",
+    "website": "https://startupnv.org/startups/startups-acceleratenv/",
+    "description": "AccelerateNV is StartUpNV's flagship six-month accelerator for Nevada-based, scalable B2B and enterprise startups, providing a $200,000 investment combining StartUpNV's FundNV pre-seed fund with a matching Nevada SSBCI award.",
+    "highlights": [
+      "$200,000 investment combining FundNV and Nevada SSBCI matching funds",
+      "6-month structured program with dedicated coaches and mentors",
+      "Only Nevada-based or Nevada-relocating startups eligible",
+      "About 1 in 10 pitching founders are accepted"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "incubatenv-startupnv",
+    "name": "IncubateNV (StartUpNV)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Las Vegas, NV, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "None — free educational platform; no direct funding provided",
+    "equity": "No equity taken",
+    "programLength": "Self-paced",
+    "format": "Remote (self-paced online platform)",
+    "eligibility": "Open to aspiring and early-stage founders, especially first-time and underrepresented entrepreneurs",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling enrollment via online registration",
+    "applyLink": "https://share.hsforms.com/13yjAk1l6TySP2BYdRAuipA1em26",
+    "website": "https://startupnv.org/startups/incubatenv/",
+    "description": "IncubateNV is StartUpNV's free, self-paced online incubator platform that helps early-stage and first-time founders build a business foundation, especially accessible to underserved and underrepresented entrepreneurs.",
+    "highlights": [
+      "Self-paced online curriculum",
+      "No cost, no equity taken",
+      "Aimed at first-time and underrepresented founders",
+      "Run by Nevada's statewide startup organization StartUpNV"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "zero-labs-innovation-launchpad",
+    "name": "Zero Labs Innovation Launchpad",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Las Vegas, NV, USA",
+    "focusAreas": [
+      "Gaming/Media",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "None — free program; no cost to apply or participate",
+    "equity": "No equity taken",
+    "programLength": "3 days",
+    "format": "In-person (Las Vegas, NV)",
+    "eligibility": "Startup founders building for the gaming, casino, sports, hospitality, and entertainment industries",
+    "applicationDeadline": "Closed — runs two themed cohorts per year (Sports Innovation in July; Casino & Gaming in September)",
+    "applicationWindow": "Twice yearly",
+    "applyLink": "https://zerolabs.io/apply/launchpad",
+    "website": "https://zerolabs.io/launchpad",
+    "description": "Zero Labs' Innovation Launchpad is a free, equity-free 3-day accelerator connecting gaming, casino, sports, and hospitality startup founders with industry operators, mentors, and investors in Las Vegas.",
+    "highlights": [
+      "3-day intensive program with 1:1 mentorship and a demo day",
+      "No equity taken; founders retain full IP ownership",
+      "200+ founders supported across 9 cohorts",
+      "Runs themed cohorts: Sports Innovation and Casino & Gaming Innovation"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "lighthouse-labs-accelerator-richmond",
+    "name": "Lighthouse Labs Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Richmond, VA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Fintech",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$20,000 equity-free investment per startup",
+    "equity": "Equity-free (no equity taken)",
+    "programLength": "11 weeks",
+    "format": "Hybrid (in-person in Richmond, VA during first and last weeks; virtual in between)",
+    "eligibility": "US-headquartered, early-stage startups able to attend in-person sessions in Richmond during the first and last weeks",
+    "applicationDeadline": "Rolling — roughly two cohorts per year (spring and fall)",
+    "applicationWindow": "Twice yearly",
+    "applyLink": "https://www.lighthousenetwork.co/lighthouse-labs-accelerator",
+    "website": "https://www.lighthousenetwork.co/lighthouse-labs-accelerator",
+    "description": "Lighthouse Labs (operated by Lighthouse Network) is an 11-week, equity-free startup accelerator based in Richmond, Virginia, providing $20,000 in seed funding to 6-10 early-stage startups per cohort, with $132M+ in follow-on VC raised by alumni since 2012.",
+    "highlights": [
+      "$20,000 equity-free per startup",
+      "6-10 startups selected per cohort, roughly twice yearly",
+      "$132M+ in VC raised by alumni since 2012",
+      "Particular focus on high-tech, healthcare, and fintech startups"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "frontier-biohealth-activation-capital",
+    "name": "Frontier BioHealth (Activation Capital)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Richmond, VA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "None disclosed — no direct investment; program funded in part by an SBA grant",
+    "equity": "No equity taken (no fees or equity required to participate)",
+    "programLength": "Unknown — structured, time-bound asynchronous cohorts with rolling admissions",
+    "format": "Hybrid (flexible online and in-person engagement in Richmond, VA)",
+    "eligibility": "Life sciences, biotech, medical device, and health-focused consumer product companies with a direct presence in Virginia",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling/asynchronous admissions",
+    "applyLink": "https://activation.capital/programs/frontierbiohealth/",
+    "website": "https://activation.capital/programs/frontierbiohealth/",
+    "description": "Frontier BioHealth is Activation Capital's selective, no-equity accelerator for Virginia-connected life sciences and healthcare companies, offering coaching on commercialization strategy, regulatory pathways, and venture fundraising.",
+    "highlights": [
+      "No fees or equity required to participate",
+      "Revamped in 2026 to rolling, asynchronous admissions",
+      "Focus on commercialization, regulatory pathway, and fundraising coaching",
+      "Operated by Activation Capital, Virginia's state-created innovation authority"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "startup-virginia-incubator",
+    "name": "Startup Virginia Incubator",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Richmond, VA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "None disclosed — no direct cash investment; provides subsidized office/workspace and support services",
+    "equity": "Unknown",
+    "programLength": "Unknown — ongoing incubator membership, not a fixed-length cohort",
+    "format": "In-person (Richmond, VA; subsidized office/workspace)",
+    "eligibility": "Companies with a product, service, or vetted business idea addressing a large, scalable market, with a founder actively participating in Virginia",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling admissions",
+    "applyLink": "https://startupvirginia.org/incubator-application/",
+    "website": "https://startupvirginia.org/incubator/",
+    "description": "Startup Virginia is a Richmond-based nonprofit business incubator offering founders individualized strategic guidance, fundraising support, and subsidized office space, backed by a network of mentors, investors, and corporate partners.",
+    "highlights": [
+      "On-staff advisors and experienced founder mentors",
+      "Hands-on fundraising support including pitch practice and investor introductions",
+      "Subsidized office and workspace in Richmond",
+      "Nonprofit hub connecting founders to donors and corporate partners"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "gbeta-milwaukee",
+    "name": "gBETA Milwaukee",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Milwaukee, WI, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "None — no investment; program is free to participate",
+    "equity": "No equity taken",
+    "programLength": "7 weeks",
+    "format": "Hybrid (in-person cohort programming with 1:1 coaching in Milwaukee, WI)",
+    "eligibility": "Early-stage companies with local roots in Milwaukee, Wisconsin, able to commit 85%+ attendance",
+    "applicationDeadline": "Closed — check gener8tor's site for the next open window",
+    "applicationWindow": "Multiple 7-week cohorts per year (up to 5 companies per cohort)",
+    "applyLink": "https://www.gener8tor.com/gbeta/milwaukee",
+    "website": "https://www.gener8tor.com/gbeta/milwaukee",
+    "description": "gBETA Milwaukee is gener8tor's free, equity-free, seven-week pre-accelerator for early-stage companies rooted in Milwaukee, selecting up to five companies per cohort, focused on coaching, mentor connections, and investor pitch practice.",
+    "highlights": [
+      "Free program; no equity taken",
+      "Up to 5 companies selected per cohort",
+      "Week 7 culminates in 25+ investor pitch meetings and a showcase",
+      "$1M+ in vendor deals/perks for participating companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "scale-up-milwaukee-growth-accelerator",
+    "name": "Scale Up Milwaukee Growth Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Milwaukee, WI, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No investment provided; program costs $5,000 to participate (scholarships available), including a year of membership",
+    "equity": "No equity taken (fee-based program, not an investment)",
+    "programLength": "~5 months (August-December), 100 hours of curriculum total",
+    "format": "Hybrid (in-person and virtual sessions)",
+    "eligibility": "Established Wisconsin businesses approaching or exceeding $1 million in annual revenue seeking structured growth support",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Annual cohort, August-December",
+    "applyLink": "https://thebusinesscouncilmke.com/programs/",
+    "website": "https://thebusinesscouncilmke.com/programs/",
+    "description": "Scale Up Milwaukee's Growth Accelerator, an initiative of the nonprofit Greater Milwaukee Committee (now under The Business Council), is a paid ~5-month growth program for established Wisconsin businesses nearing or exceeding $1 million in revenue.",
+    "highlights": [
+      "100 hours of curriculum on sales, marketing, finance, and operations",
+      "Costs $5,000 with some scholarships available",
+      "85 companies completed since 2013, averaging 25%+ revenue growth",
+      "Targets revenue-stage (not early-seed) businesses"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "techfw-fort-worth",
+    "name": "TechFW",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Fort Worth, TX, USA",
+    "focusAreas": [
+      "General/Any",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct investment; program fees apply (ThinkLab $1,000 total; SmartStart $1,250/quarter; FastForward $1,500/quarter)",
+    "equity": "No equity taken (equity-free)",
+    "programLength": "ThinkLab: 8 weeks; SmartStart: 24 weeks (extendable); FastForward: quarterly, milestone-based",
+    "format": "In-person (Fort Worth, TX at the James E. Guinn Campus, with some hybrid/self-guided elements)",
+    "eligibility": "Early- through growth-stage tech and biotech founders in North Texas; track depends on company stage",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling admissions",
+    "applyLink": "https://forms.clickup.com/9013732664/f/8cm599r-7233/796F3ZYXMXG23PQ91V",
+    "website": "https://www.techfortworth.org",
+    "description": "TechFW is a Fort Worth-based, equity-free nonprofit startup accelerator and incubator founded in 1998 through a public-private partnership with the City of Fort Worth and the University of North Texas, running a three-track pathway from idea validation to growth-stage scaling.",
+    "highlights": [
+      "Equity-free across all three program tracks",
+      "Three-stage pathway from idea validation to growth scaling",
+      "Founded 1998 as a public-private partnership with the City of Fort Worth",
+      "Connects founders with Cowtown Angels investors"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "tmc-innovation-healthtech",
+    "name": "TMC Innovation HealthTech (formerly TMCx)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Houston, TX, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Unknown — not publicly disclosed",
+    "equity": "Unknown — Bootcamp phase described as 'no strings attached'; Accelerator-phase equity terms not disclosed",
+    "programLength": "6-month Accelerator phase, preceded by a Bootcamp selection phase",
+    "format": "In-person (Texas Medical Center campus, Houston, TX)",
+    "eligibility": "Digital health and medical device startups with demonstrated proof of concept",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Two-phase Bootcamp-then-Accelerator selection process",
+    "applyLink": "https://www.tmc.edu/innovation/accelerator-healthtech/",
+    "website": "https://www.tmc.edu/innovation/accelerator-healthtech/",
+    "description": "TMC Innovation's HealthTech accelerator (formerly TMCx) is Texas Medical Center's six-month program connecting digital health and medical device startups with clinical champions, mentors, and corporate partners across the world's largest medical city.",
+    "highlights": [
+      "Two-phase model: Bootcamp then 6-month Accelerator",
+      "Access to Texas Medical Center's network of hospitals and clinical partners",
+      "Part of a broader TMC Innovation portfolio of 400+ active life science startups that have raised $5.8B+ collectively"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "halliburton-labs",
+    "name": "Halliburton Labs",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Houston, TX, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Unknown — not publicly disclosed; program provides in-kind engineering, supply chain, manufacturing, and market-entry support rather than a standard cash check",
+    "equity": "Unknown — not publicly disclosed; does not take board seats, commercial rights, or IP rights",
+    "programLength": "Unknown — ongoing program with twice-yearly Pitch Day selection milestones",
+    "format": "Hybrid (online application; in-person and virtual Pitch Day events)",
+    "eligibility": "Early-stage hard tech energy startups; evaluated on mission, customer pain point, team, and market opportunity",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Year-round; finalists selected twice yearly via Pitch Day events",
+    "applyLink": "https://www.halliburtonlabs.com/content/halliburtonlabs/us/en/home/apply.html",
+    "website": "https://www.halliburtonlabs.com",
+    "description": "Halliburton Labs is Halliburton's corporate accelerator for early-stage hard tech energy ventures, headquartered in Houston, TX, providing hands-on de-risking, commercialization, and scaling support through the company's global industrial capabilities.",
+    "highlights": [
+      "Corporate accelerator backed by Halliburton's global industrial capabilities",
+      "Does not take board seats, commercial rights, or IP rights",
+      "Applications accepted year-round with twice-yearly Pitch Day selection",
+      "Support includes engineering, supply chain, manufacturing, and investor connections"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "chevron-studio",
+    "name": "Chevron Studio",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Golden, CO, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Unknown — not publicly disclosed; the program funds company formation in the Scale-Up Phase with possible additional funding in the Field Trial Phase",
+    "equity": "Unknown — equity terms not publicly disclosed",
+    "programLength": "Discovery Phase (duration not disclosed), followed by a Scale-Up Phase of 12–24 months, with an optional Field Trial Phase",
+    "format": "Hybrid",
+    "eligibility": "Experienced U.S.-based entrepreneurs interested in building a new company around Chevron-curated intellectual property developed at partner national laboratories and universities",
+    "applicationDeadline": "October 16, 2026 (Cohort 9)",
+    "applicationWindow": "Twice yearly (entrepreneurs selected in two cohorts per year)",
+    "applyLink": "https://chevronstudio.com/apply/",
+    "website": "https://chevronstudio.com/",
+    "description": "Chevron Studio is a startup studio run by Chevron Technology Ventures in partnership with the National Laboratory of the Rockies (NLR, formerly NREL) that pairs entrepreneurs with lower-carbon technology IP developed at national labs and universities to build new companies. Entrepreneurs move through Discovery, Scale-Up, and Field Trial phases, with potential pilot opportunities at Chevron facilities.",
+    "highlights": [
+      "Twice-yearly cohorts open to U.S.-based entrepreneurs",
+      "Builds new companies around Chevron-curated national lab and university IP",
+      "Three-phase structure: Discovery, Scale-Up, Field Trial",
+      "Potential pilot opportunities at Chevron facilities",
+      "Cohort 9 applications close October 16, 2026; info webinars held September 21 and October 5, 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "shell-gamechanger-accelerator-gcxn",
+    "name": "Shell GameChanger Accelerator (GCxN), Powered by NLR",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Golden, CO, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$250,000 in non-dilutive funding per company",
+    "equity": "No equity — 100% non-dilutive funding",
+    "programLength": "Multi-phase, multi-year technology maturation program (cohort length varies by technology readiness)",
+    "format": "Hybrid",
+    "eligibility": "Early-stage energy technology startups; candidates are typically nominated through GCxN's network of 63 cleantech Channel Partners (incubators, accelerators, and universities) rather than applying directly",
+    "applicationDeadline": "Rolling nomination via Channel Partners; no fixed public deadline identified",
+    "applicationWindow": "Ongoing/rolling; new cohorts announced periodically (7th cohort launched September 2025)",
+    "applyLink": "https://gcxnlr.com/",
+    "website": "https://gcxnlr.com/",
+    "description": "The Shell GameChanger Accelerator, powered by the National Laboratory of the Rockies (NLR, formerly NREL), provides early-stage energy technology companies up to $250,000 in non-dilutive funding plus access to national lab facilities, equipment, and technical experts. Candidates enter through a network of 63 cleantech Channel Partners rather than a direct open application. Since 2018, GCxN portfolio companies have collectively raised more than $1 billion.",
+    "highlights": [
+      "$250,000 in non-dilutive funding per company",
+      "Access to national lab facilities, equipment, and technical experts",
+      "Portfolio companies have raised over $1 billion collectively since 2018",
+      "7th cohort (6 companies) launched September 2025, focused on future feedstocks and electrochemical fuel pathways",
+      "Entry via nomination from a network of 63 cleantech Channel Partners rather than direct application"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "target-takeoff",
+    "name": "Target Takeoff",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Minneapolis, MN, USA",
+    "focusAreas": [
+      "Consumer"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No direct cash funding — a retail partnership and shelf-placement program rather than an investment vehicle",
+    "equity": "No equity — Target does not take an equity stake; this is a retail buyer/education program, not an investment accelerator",
+    "programLength": "Unknown — ongoing Learning Center education plus periodic in-person events (e.g., Discovery Days)",
+    "format": "Hybrid",
+    "eligibility": "Emerging, retail-ready consumer packaged goods (CPG) businesses in Food & Beverage and Beauty/Essentials categories seeking distribution at Target",
+    "applicationDeadline": "Rolling general interest form; the Essentials & Beauty Discovery Day event has a separate application, scheduled for November 12, 2026",
+    "applicationWindow": "Rolling, with periodic Discovery Day events",
+    "applyLink": "https://accelerators.target.com/programs/target-takeoff/",
+    "website": "https://accelerators.target.com/",
+    "description": "Target Takeoff is Target's program to help emerging, retail-ready CPG brands (food & beverage and beauty) scale onto Target's shelves, offering retail education, buyer connections, and in-person Discovery Day pitch events at Target's Minneapolis headquarters. Over 150 brands have participated since the program launched in 2017.",
+    "highlights": [
+      "Over 150 CPG brands supported since 2017",
+      "Free Learning Center education on retail fundamentals, packaging, and customer insights",
+      "In-person Discovery Day pitch events with Target buyers (next: Essentials & Beauty, November 12, 2026)",
+      "No equity taken — retail partnership rather than an investment program",
+      "Focused on Food & Beverage and Beauty categories"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "walmart-start",
+    "name": "Walmart Start",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Bentonville, AR, USA",
+    "focusAreas": [
+      "Consumer"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No direct cash investment — a retail brand-placement program offering a potential launch in 1,000+ Walmart stores",
+    "equity": "No equity — retail brand-placement program, not an investment vehicle",
+    "programLength": "Roughly one year, from selection through onboarding and the first year of Walmart placement",
+    "format": "Hybrid",
+    "eligibility": "Beauty-category brands (hair, skin, cosmetics, nails, fragrance, beauty accessories) with a market-ready physical product and the manufacturing/supply-chain capability to launch in 1,000+ stores; requires a Federal Tax ID, $5M+ liability insurance, D&B number, EDI capability, GS1 membership, and no existing Walmart shelf placement",
+    "applicationDeadline": "Closed for the 2026 class; next application window not yet announced as of this verification",
+    "applicationWindow": "Annual cycle",
+    "applyLink": "https://corporate.walmart.com/suppliers/walmart-start",
+    "website": "https://corporate.walmart.com/suppliers/walmart-start",
+    "description": "Walmart Start is Walmart's beauty brand accelerator, helping emerging hair, skin, cosmetics, and fragrance brands launch and scale in Walmart stores through virtual retail education, one-on-one merchant mentorship, and marketing support on Walmart.com. The most recent class was set to launch in Walmart stores between December 2025 and March 2026.",
+    "highlights": [
+      "Beauty-focused retail accelerator run directly by Walmart",
+      "Potential launch in 1,000+ Walmart stores",
+      "Virtual education plus one-on-one merchant mentorship",
+      "No equity taken — retail placement program, not an investment vehicle",
+      "2026 class applications are closed; program runs on an annual cycle"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "state-farm-startup-pitch-competition",
+    "name": "State Farm Startup Pitch Competition (at ITC Vegas)",
+    "category": "Competition",
+    "region": "US",
+    "country": "Las Vegas, NV, USA",
+    "focusAreas": [
+      "Fintech",
+      "Enterprise"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No cash prize disclosed; the winner receives a complimentary exhibitor kiosk at ITC Vegas the following year and stage exposure",
+    "equity": "No equity — pitch competition, not an investment program",
+    "programLength": "Single competition event (same-day pitches and Q&A)",
+    "format": "In-person",
+    "eligibility": "Early-stage insurtech/fintech startups; ten finalists are selected from thousands of applicants by State Farm and the ITC Vegas team",
+    "applicationDeadline": "Unknown — 2026 finalists already selected as of this verification; applications for the next cycle typically open ahead of the following year's ITC Vegas",
+    "applicationWindow": "Annual, tied to the ITC Vegas conference",
+    "applyLink": "https://vegas.insuretechconnect.com/agenda-speakers/pitch-competition",
+    "website": "https://ventures.statefarm.com/",
+    "description": "The State Farm Startup Pitch Competition is an annual insurtech/fintech pitch competition held at the ITC Vegas conference, in its fifth year in 2026. Ten finalists pitch live on the ITC Vegas Main Stage with an in-person audience vote deciding the winner, who receives a complimentary exhibitor kiosk at the following year's event.",
+    "highlights": [
+      "Fifth annual competition, held September 29, 2026 in Las Vegas",
+      "Ten finalists pitch live on the ITC Vegas Main Stage",
+      "Winner chosen by in-person audience vote",
+      "Run by State Farm Ventures in partnership with ITC Vegas",
+      "2026 finalists included Fair, Friendly, InQuery, Phyll, Prediction Lab, Producerflow, Salvato Auctions, Structify, Trussed AI, and Warrant"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "loreal-laccelerator",
+    "name": "L'Oréal L'AcceleratOR",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Cambridge, UK (global program, open to US-based applicants)",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Backed by a €100 million L'Oréal investment through 2030; per-startup funding amount not publicly disclosed",
+    "equity": "Unknown — equity terms not publicly disclosed",
+    "programLength": "12-week acceleration program",
+    "format": "Hybrid",
+    "eligibility": "Growth-stage startups, SMEs, and innovative companies worldwide (including the US) with ready-to-pilot sustainability solutions in low-carbon technology, alternative ingredients, plastic reduction, water resilience, nature-based solutions, or inclusive business models",
+    "applicationDeadline": "Closed for the 2026 cohort (deadline was May 11, 2026); next cohort expected in 2027",
+    "applicationWindow": "Annual",
+    "applyLink": "https://cambridge.smapply.org/prog/laccelerator_cohort_2/",
+    "website": "https://www.sustainableinnovationaccelerator.com/",
+    "description": "L'AcceleratOR is a global sustainability accelerator backed by a five-year, €100 million L'Oréal investment and run in partnership with the University of Cambridge Institute for Sustainability Leadership (CISL). It runs a 12-week program for growth-stage startups and SMEs with ready-to-pilot sustainability solutions, drawing applicants from over 100 countries including the US. NOTE: this is a global program, not US-exclusive — include only if a global-but-US-eligible program fits the dataset's intent.",
+    "highlights": [
+      "€100 million L'Oréal investment through 2030",
+      "Run in partnership with the Cambridge Institute for Sustainability Leadership",
+      "12-week acceleration program for growth-stage startups",
+      "First cohort: 13 companies selected from nearly 1,000 applicants across 101 countries",
+      "Open globally, including to US-based startups, though not US-exclusive"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "yale-tsai-city-summer-fellowship",
+    "name": "Tsai CITY Summer Fellowship (Yale Ventures)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New Haven, CT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$20,000 grant per team",
+    "equity": "no equity taken — grant funding, not an investment",
+    "programLength": "Multi-week, full-time summer program (in-person intensive phase followed by a virtual phase)",
+    "format": "Hybrid (in-person intensive at Yale followed by a virtual phase)",
+    "eligibility": "Team must include at least one current Yale undergraduate or graduate student; venture must show traction (functional pilot/active users, sustainable model); at least one founder must participate full-time",
+    "applicationDeadline": "Rolling — application opens during spring semester annually; exact 2027 dates not yet published",
+    "applicationWindow": "Annual, one cohort per summer",
+    "applyLink": "https://city.yale.edu/programs/vdp/summer_fellowship",
+    "website": "https://city.yale.edu/",
+    "description": "Tsai CITY's Summer Fellowship is Yale's full-time summer accelerator for student-led ventures and nonprofits, providing $20,000 in funding plus mentorship and venture-development training. Teams culminate the program with a Demo Day pitch to the Yale and New Haven innovation community.",
+    "highlights": [
+      "$20,000 in funding per team",
+      "Full-time, multi-week program with 24/7 building access",
+      "Culminates in a public Demo Day",
+      "Requires at least one current Yale student on the founding team"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "princeton-elab-summer-accelerator",
+    "name": "eLab Summer Accelerator (Princeton Keller Center)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Princeton, NJ, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$5,000 stipend per team member, plus a business expense account and covered housing/meals",
+    "equity": "no equity taken — stipend-based funding",
+    "programLength": "9 weeks (summer)",
+    "format": "In-person (Princeton Entrepreneurial Hub, with required on-campus residency)",
+    "eligibility": "Currently enrolled Princeton undergraduates (first-year through junior) and graduate students at time of application; graduate students need faculty advisor approval; teams of 3-5 Princeton students; must be on campus full-time for the program",
+    "applicationDeadline": "Closed for 2026 cohort (opened Nov 3, 2025; deadline Dec 15, 2025); next cycle notification signup open on program page",
+    "applicationWindow": "Annual (application opens each fall for the following summer)",
+    "applyLink": "https://kellercenter.princeton.edu/programs/elab-accelerator-incubator-programs/details/elab-summer-accelerator",
+    "website": "https://kellercenter.princeton.edu/",
+    "description": "eLab Summer Accelerator is a 9-week launch pad for Princeton student startups, combining a 3-day bootcamp, weekly mentorship, and workshops taught by Keller Center faculty and entrepreneurs. Teams live and work together at the Princeton Entrepreneurial Hub and pitch at two Demo Day showcases.",
+    "highlights": [
+      "$5,000 stipend per team member",
+      "On-campus housing and business account funding provided",
+      "Teams of 3-5 currently enrolled Princeton students",
+      "Ends with two investor Demo Day showcases"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "duke-melissa-doug-entrepreneurs",
+    "name": "Melissa & Doug Entrepreneurs Program (Duke I&E)",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Durham, NC, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$5,000 in funding, with potential for an additional $5,000",
+    "equity": "no equity taken — grant funding",
+    "programLength": "9-month, year-long non-credit program (begins with an August welcome workshop)",
+    "format": "In-person (Duke campus, Durham, NC)",
+    "eligibility": "Current Duke students (undergraduate, master's, or MBA) actively building a venture (revenue not required); must be in good academic standing; up to 10 spots selected from roughly 15 interviewees",
+    "applicationDeadline": "Unknown — interviews conducted mid-May annually; program begins with an August workshop",
+    "applicationWindow": "Annual",
+    "applyLink": "https://entrepreneurship.duke.edu/programs/melissa-doug-entrepreneurs/",
+    "website": "https://entrepreneurship.duke.edu/",
+    "description": "Melissa & Doug Entrepreneurs is Duke I&E's premier, highly selective year-long program for student founders actively building ventures, pairing them with mentors, executive coaching, and two all-expenses-paid trips. To date, its 128 alumni founders have collectively raised more than $150 million, with 12 companies exited.",
+    "highlights": [
+      "$5,000 in funding (with potential for $5,000 more)",
+      "Only 10 spots per year, selected from ~15 interviewees",
+      "Monthly mentor meetings and two executive coaching sessions per semester",
+      "Alumni have raised over $150M and produced 12 exits"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "purdue-innovates-accelerator",
+    "name": "Purdue Innovates Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "West Lafayette, IN, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "Biotech/Health",
+      "Agtech/Foodtech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $100,000 investment via SAFE",
+    "equity": "Dilutive — investment structured as a SAFE (specific cap/discount terms not publicly disclosed)",
+    "programLength": "3 months (three phases: foundation analysis, market execution, investor readiness)",
+    "format": "Hybrid (remote work with required in-person milestones/events in West Lafayette, IN)",
+    "eligibility": "Purdue-connected teams — at least one core founder must be a current Purdue student, faculty/staff member, alumnus, or hold a Purdue IP license; program prioritizes teams with traction",
+    "applicationDeadline": "December 20, 2026, 11:59 PM ET",
+    "applicationWindow": "Annual cohort",
+    "applyLink": "https://purdueinnovates.org/incubator/accelerator/",
+    "website": "https://purdueinnovates.org/",
+    "description": "Purdue Innovates Accelerator is a three-month, investment-based program for Purdue-connected founders spanning MedTech, AgTech, HardTech, and digital technology, offering up to $100K via SAFE alongside mentorship and investor introductions. It launched its inaugural cohort in Spring 2025.",
+    "highlights": [
+      "Up to $100,000 investment via SAFE",
+      "Open to students, faculty, staff, alumni, and Purdue IP licensees",
+      "3-month structured program with investor-readiness milestones",
+      "Part of the broader Purdue Innovates ecosystem, which has helped launch 370+ startups"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "asu-venture-devils",
+    "name": "ASU Venture Devils",
+    "category": "Competition",
+    "region": "US",
+    "country": "Tempe, AZ, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Seed grants of roughly $1,000-$20,000 per Demo Day; over $300,000 awarded at the Spring 2026 Demo Day; 130+ companies backed with $450,000+ awarded per year historically",
+    "equity": "no equity taken — grant funding",
+    "programLength": "Ongoing program with bi-annual (fall and spring) Pitch Playoffs and Demo Day competitions",
+    "format": "Hybrid (in-person pitch competitions with a virtual attendance option)",
+    "eligibility": "Currently enrolled Arizona State University or Maricopa Community Colleges students; ventures that have already raised $50K+ in funding are no longer eligible to compete",
+    "applicationDeadline": "Rolling enrollment; Fall 2026 Demo Day held November 14, 2026",
+    "applicationWindow": "Bi-annual (fall and spring cohorts/competitions)",
+    "applyLink": "https://entrepreneurship.asu.edu/programs/venture-devils/",
+    "website": "https://entrepreneurship.asu.edu/",
+    "description": "ASU Venture Devils is Arizona State's flagship venture-support program, providing mentorship, coaching, and non-dilutive seed funding to student and Maricopa Community College entrepreneurs through bi-annual Pitch Playoffs and Demo Days. The program has backed more than 130 companies and awards several hundred thousand dollars in grants annually.",
+    "highlights": [
+      "Bi-annual Demo Day funding pool (Spring 2026: $300,000+)",
+      "Individual seed grants of roughly $1,000-$20,000",
+      "Open to ASU and Maricopa Community College students",
+      "130+ companies backed since launch"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "ucsd-basement-launchpad",
+    "name": "Basement LaunchPad (UC San Diego)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Proof-of-concept prototyping funds (amount subject to availability) plus $50,000+ in Demo Day prizes, including a $1,000 Audience Choice Award",
+    "equity": "no equity taken — university program funding",
+    "programLength": "8 months (fall, winter, and spring quarters; Fall 2025 cohort ran October 2025-May 2026)",
+    "format": "Hybrid (in-person and online curriculum components)",
+    "eligibility": "Current UC San Diego undergraduate and graduate students in good academic standing, any major; founder/co-founder must be a current UCSD student",
+    "applicationDeadline": "Closed for current cohort (was October 7, 2025); next cycle applications expected fall 2026",
+    "applicationWindow": "Annual (fall cohort start)",
+    "applyLink": "https://thebasement.ucsd.edu/programs/basement-launchpad/index.html",
+    "website": "https://thebasement.ucsd.edu/",
+    "description": "The Basement LaunchPad is UC San Diego's flagship student incubator, guiding undergraduate and graduate founders through a multi-quarter curriculum of mentorship, workshops, and pitch prep culminating in a Demo Day with $50,000+ in prizes. It is open to students of any major or industry focus.",
+    "highlights": [
+      "$50,000+ in Demo Day prizes",
+      "8-month, three-quarter curriculum (fall-spring)",
+      "Open to all majors and industries",
+      "Housed in UC San Diego's dedicated student startup incubator space"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "utah-lassonde-company-launch",
+    "name": "Company Launch (Lassonde Entrepreneur Institute, University of Utah)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Non-dilutive, non-competitive Bridge Grants (exact dollar amounts not publicly disclosed); program funds every applicant who demonstrates readiness",
+    "equity": "no equity taken — non-dilutive, non-competitive grant funding",
+    "programLength": "15 weeks across two sprints (Validation Sprint and Launch Sprint)",
+    "format": "Hybrid (weekly in-person Friday sessions plus occasional events/intensives)",
+    "eligibility": "Founders actively executing on a venture (not idea-stage); commit to 90 minutes every Friday; run through the University of Utah's Lassonde Entrepreneur Institute",
+    "applicationDeadline": "Rolling — applications open roughly 2 months before each fall and spring semester",
+    "applicationWindow": "Twice yearly (fall and spring cohorts)",
+    "applyLink": "https://eccles.qualtrics.com/jfe/form/SV_2c3R0kWcerPdzqB",
+    "website": "https://lassonde.utah.edu/launch/",
+    "description": "Company Launch is the Lassonde Entrepreneur Institute's non-dilutive accelerator for founders who are already executing, taking teams from early traction to an evidence-based, durable company through a 15-week, two-sprint curriculum. Non-competitive Bridge Grants fund every team that demonstrates readiness rather than a select few.",
+    "highlights": [
+      "Non-dilutive, non-competitive Bridge Grant funding",
+      "15-week program across two sprints",
+      "Runs twice a year (fall and spring)",
+      "Part of the 10-year-old Lassonde Studios ecosystem at the University of Utah"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "byu-rollins-center-grants",
+    "name": "Rollins Center Validation & Traction Grants (BYU)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Provo, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $28,000 total — Validation Grants reimburse up to $500 for customer discovery/prototyping; Traction Grants provide $2,000, then $5,000, then two $10,000 grants",
+    "equity": "no equity taken — grants funded by the Larry H. and Gail Miller Family Foundation",
+    "programLength": "Rolling, staged grant program (no fixed cohort length)",
+    "format": "In-person (BYU campus, Provo, UT)",
+    "eligibility": "BYU students and affiliated founders with startup ideas or growing businesses; contact byumillergrants@gmail.com for current specific requirements",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Ongoing",
+    "applyLink": "https://rollins.byu.edu/resources/other-resources/grants/",
+    "website": "https://rollins.byu.edu/",
+    "description": "BYU's Rollins Center for Entrepreneurship & Technology offers up to $28,000 in staged, equity-free funding — from small Validation Grants for early customer discovery to larger Traction Grants for investor-ready businesses — funded by the Larry H. and Gail Miller Family Foundation.",
+    "highlights": [
+      "Up to $28,000 in equity-free funding",
+      "Staged from $500 Validation Grants to $10,000 Traction Grants",
+      "Funded by the Larry H. and Gail Miller Family Foundation",
+      "Paired with BYU's Venture Mentoring Services and the largest private new venture competition in the US"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "penn-wharton-innovation-fund",
+    "name": "Penn Wharton Innovation Fund (Venture Lab)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$1,000 (Design Award), $2,000 (Build Award), or $5,000 (Boost Award)",
+    "equity": "no equity taken — grant funding",
+    "programLength": "Rolling, multiple award cycles per academic year",
+    "format": "In-person (Tangen Hall / Venture Lab, University of Pennsylvania) with online application",
+    "eligibility": "Currently enrolled University of Pennsylvania students (Bachelor's, Master's, or Doctorate); alumni are not eligible for this specific fund",
+    "applicationDeadline": "2026-2027 cycle deadlines: October 4, 2026; November 1, 2026; January 24, 2027; March 14, 2027 (11:59 PM ET)",
+    "applicationWindow": "Multiple cycles per academic year",
+    "applyLink": "https://venturelab.smapply.io/prog/lst/",
+    "website": "https://entrepreneurship.wharton.upenn.edu/innovation-fund/",
+    "description": "The Penn Wharton Innovation Fund provides tiered, equity-free grants ($1K-$5K) to current Penn students building early-stage ventures, while giving a student investment team hands-on early-stage investing experience. It runs through Venture Lab, the university-wide entrepreneurship hub at Penn.",
+    "highlights": [
+      "Tiered grants: $1,000 / $2,000 / $5,000",
+      "No equity taken",
+      "Multiple application cycles per academic year",
+      "Run by a student investment team as part of Venture Lab"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "columbia-startup-lab",
+    "name": "Columbia Startup Lab",
+    "category": "Incubator",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No direct capital funding provided",
+    "equity": "no equity taken — CSL does not provide funding or take equity in any company",
+    "programLength": "Up to 1 year in the space (renewable), minimum 4-month commitment",
+    "format": "In-person (SoHo, NYC, plus an Uptown location on the Morningside campus)",
+    "eligibility": "At least one founding team member must be a Columbia University (including Barnard) graduate prior to move-in, or a current EMBA candidate working full-time on the venture",
+    "applicationDeadline": "Closed for 2026-2027 cohort; next cycle applications reopen March 2027 (waitlist available)",
+    "applicationWindow": "Annual",
+    "applyLink": "https://columbiastartups.wufoo.com/forms/columbia-startup-lab-application/",
+    "website": "https://entrepreneurship.columbia.edu/startup-lab/",
+    "description": "Columbia Startup Lab is a subsidized co-working incubator for Columbia-alumni-founded startups, offering workspace, workshops, mentors-in-residence, and community programming rather than direct capital or equity investment. Members pay a discounted monthly per-seat fee.",
+    "highlights": [
+      "Subsidized co-working space in SoHo, NYC",
+      "No equity taken; space-and-mentorship model, not a direct funding program",
+      "Requires at least one Columbia (or Barnard) alumni founder",
+      "Renewable membership for multiple years"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "rice-summer-venture-studio",
+    "name": "Summer Venture Studio (Rice Lilie / Liu Idea Lab)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Houston, TX, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$15,000 in equity-free funding per venture",
+    "equity": "no equity taken — equity-free funding",
+    "programLength": "12 weeks (mid-May to early August)",
+    "format": "In-person (Rice University, Houston, TX)",
+    "eligibility": "Lead team member must be a current Rice University student (additional team members need not be Rice-affiliated); teams of up to 5; students graduating in May when the program begins are eligible; solo founders welcome",
+    "applicationDeadline": "Rolling — apply via interest form; exact date not publicly listed",
+    "applicationWindow": "Annual (summer cohort)",
+    "applyLink": "https://entrepreneurship.rice.edu/rice-startup-accelerator",
+    "website": "https://entrepreneurship.rice.edu/",
+    "description": "Rice's Summer Venture Studio, run by the Liu Idea Lab for Innovation & Entrepreneurship, is a selective 12-week summer accelerator offering $15,000 in equity-free funding, coworking space, and individualized mentorship. Since launching in 2023, more than half of participating startups have gone on to raise pre-seed or seed financing, and alumni have been accepted into Y Combinator.",
+    "highlights": [
+      "$15,000 equity-free funding per venture",
+      "12-week intensive summer program with a Demo Day",
+      "2026 cohort included 9 ventures spanning health care, AI, robotics, agtech, and defense tech",
+      "Alumni company Norra was accepted into Y Combinator"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "vanderbilt-wondry-impact-program",
+    "name": "IMPACT Program (Vanderbilt Wond'ry)",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Nashville, TN, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Unknown — program includes a funding component; exact amount not publicly disclosed",
+    "equity": "no equity taken — university commercialization program",
+    "programLength": "3-year intensive program (curricular and extracurricular coursework, internships, and funding)",
+    "format": "Hybrid (in-person Vanderbilt campus programming combined with coursework)",
+    "eligibility": "Vanderbilt undergraduates seeking to commercialize research into a scalable venture",
+    "applicationDeadline": "September 1, 2026",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.vanderbilt.edu/the-wondry/impact-program/",
+    "website": "https://www.vanderbilt.edu/the-wondry/",
+    "description": "The Wond'ry's IMPACT Program helps Vanderbilt undergraduates convert research into human-centered, scalable commercialization over a three-year arc of coursework, internships, funding, and commercialization support. It sits within Vanderbilt's Wond'ry innovation center, which recently integrated into the School of Engineering.",
+    "highlights": [
+      "3-year structured commercialization pathway",
+      "Combines coursework, internships, and funding",
+      "Open specifically to Vanderbilt undergraduates",
+      "Part of the Wond'ry, Vanderbilt's central innovation and entrepreneurship hub"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "techstars-emory-founder-catalyst",
+    "name": "Techstars Emory Founder Catalyst",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Atlanta, GA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct funding — free, community-driven pre-accelerator program",
+    "equity": "no equity taken — free program, no investment or equity stake taken",
+    "programLength": "10 weeks",
+    "format": "Hybrid (Atlanta-based with Techstars mentor network)",
+    "eligibility": "Emory University undergraduate/graduate students, faculty, staff, and alumni; founders should have domain expertise, a clear customer problem, and have raised less than $400,000 to date",
+    "applicationDeadline": "Closed for 2026 cohort (December 5, 2025); next cycle reopens fall 2026",
+    "applicationWindow": "Annual",
+    "applyLink": "https://hatchery.emory.edu/programs/tefc.html",
+    "website": "https://hatchery.emory.edu/",
+    "description": "Techstars Emory Founder Catalyst is a free, 10-week pre-accelerator run jointly by Techstars, The Hatchery at Emory, and the Goizueta Center for Entrepreneurship & Innovation, helping early-stage Emory-affiliated founders become investor-ready. The 2026 cohort selected 20 ventures from 71 applicants.",
+    "highlights": [
+      "Free program — no equity or fees",
+      "10-week pre-accelerator with the Techstars mentor network",
+      "2026 cohort: 20 ventures selected from 71 applicants",
+      "Open to students, faculty, staff, and alumni across Emory"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "uw-comotion-innovation-gap-fund",
+    "name": "CoMotion Innovation Gap Fund (University of Washington)",
+    "category": "Grant",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Biotech/Health",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $75,000 per project team, drawn from an annual pool exceeding $1 million",
+    "equity": "no equity taken — non-dilutive gap funding",
+    "programLength": "Competitive application cycle with deliverable development phases culminating in an investment-style pitch",
+    "format": "Hybrid",
+    "eligibility": "UW faculty, postdoctoral researchers, graduate students, or undergraduate students; student/postdoc applicants need a UW faculty fiscal sponsor with PI status; project must involve a UW-disclosed innovation; at least one team member must complete UW I-Corps or receive CoMotion approval",
+    "applicationDeadline": "Fall 2026 cycle: September 8, 2026, 5:00 PM; spring cycle typically late February",
+    "applicationWindow": "Twice yearly (fall and spring cycles)",
+    "applyLink": "https://depts.washington.edu/uwc4c/uwcommunity/Submit_an_Innovation/Submit_an_Innovation_UWCoMotion.php",
+    "website": "https://comotion.uw.edu/funding-and-competitions/programs/comotion-innovation-gap-fund/",
+    "description": "The CoMotion Innovation Gap Fund provides up to $75,000 in non-dilutive proof-of-concept and business development funding to University of Washington innovators in life sciences, engineering, software/IT, and social impact, drawn from an annual pool of $1M+. Funded teams complete customer research, market validation, and prototyping en route to a final investment-style pitch.",
+    "highlights": [
+      "Up to $75,000 per team",
+      "Annual funding pool exceeding $1 million",
+      "Twice-yearly application cycles (fall and spring)",
+      "Requires UW I-Corps participation or CoMotion approval"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "uiuc-iventure-accelerator",
+    "name": "iVenture Accelerator (University of Illinois Gies College of Business)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Champaign, IL, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$10,000 in capacity funding plus $2,500 stipends for up to 4 full-time team members, and up to $20,000 in additional non-dilutive funding",
+    "equity": "no equity taken — non-dilutive funding",
+    "programLength": "Academic-year program with wave-based cohort admission",
+    "format": "In-person (Champaign, IL, with exposure to the Chicago entrepreneurial ecosystem)",
+    "eligibility": "University of Illinois Urbana-Champaign students (current), run through Gies College of Business",
+    "applicationDeadline": "Wave 2 applications close March 2026 (annual cycle)",
+    "applicationWindow": "Annual, with multiple application waves",
+    "applyLink": "https://iventure.illinois.edu/apply",
+    "website": "https://iventure.illinois.edu/",
+    "description": "iVenture Accelerator is Gies College of Business's flagship non-dilutive accelerator for University of Illinois Urbana-Champaign student founders, providing capacity funding, team stipends, free office space and makerspace access, and exposure to Chicago's startup ecosystem. Its 12th cohort included 30 students across 15 teams, over half building AI solutions.",
+    "highlights": [
+      "$10,000 capacity funding + $2,500/member stipends",
+      "Up to $20,000 in additional non-dilutive funding",
+      "Free office space, food, and makerspace access",
+      "12th cohort: 15 teams, majority building AI products"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "bu-innovate-summer-accelerator",
+    "name": "Summer Accelerator (Innovate@BU / BUild Lab)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $10,000 stipend per participant",
+    "equity": "no equity taken — stipend funding",
+    "programLength": "10 weeks (summer, full-time)",
+    "format": "In-person (BUild Lab IDG Capital Student Innovation Center, Boston University)",
+    "eligibility": "Current Boston University students and alumni who graduated within the past year",
+    "applicationDeadline": "Closed for Summer 2026; Summer 2027 applications not yet open",
+    "applicationWindow": "Annual (summer cohort)",
+    "applyLink": "https://www.bu.edu/innovate/programs-competitions/summer-accelerator/",
+    "website": "https://www.bu.edu/innovate/",
+    "description": "Innovate@BU's Summer Accelerator is a 10-week, full-time program based at the BUild Lab that provides up to $10,000 per participant along with twice-weekly workshops, mentorship, and a final investor/community presentation. It is part of Innovate@BU's broader $20M+ entrepreneurship initiative.",
+    "highlights": [
+      "Up to $10,000 stipend per participant",
+      "10-week, full-time summer program",
+      "Based at the BUild Lab IDG Capital Student Innovation Center",
+      "Open to current BU students and recent (within one year) alumni"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "northeastern-idea-venture-accelerator",
+    "name": "IDEA: Northeastern University's Venture Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Up to $30,000 in non-equity Gap Fund financing per venture; $2.8M+ awarded to date",
+    "equity": "no equity taken — non-equity Gap Fund financing",
+    "programLength": "Self-paced, three-stage program (Ready, Set, Go)",
+    "format": "Hybrid (monthly in-person orientation on Boston campus, or virtual via Zoom)",
+    "eligibility": "Northeastern University affiliation required — students, alumni, or faculty/staff of any academic discipline; graduate students in eligible programs may earn academic credit",
+    "applicationDeadline": "Rolling — applications open each semester; monthly orientation sessions",
+    "applicationWindow": "Rolling, semester-based intake",
+    "applyLink": "https://www.ideaneu.com/get-involved/venture",
+    "website": "https://www.ideaneu.com/",
+    "description": "IDEA is Northeastern's student-run venture accelerator, guiding founders through a three-stage (Ready, Set, Go) pipeline from ideation to launch, culminating in up to $30,000 of non-equity Gap Fund financing. IDEA ventures have collectively raised more than $833 million.",
+    "highlights": [
+      "Up to $30,000 in non-equity Gap Fund financing",
+      "$2.8M+ awarded to ventures to date",
+      "Open to Northeastern students, alumni, and faculty/staff",
+      "Ventures have collectively raised $833M+"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "jhu-fastforward-u-fuel-accelerator",
+    "name": "FastForward U Fuel Accelerator (Johns Hopkins)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Baltimore, MD, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$1,000 grant upon acceptance, plus up to $4,000 additional funding upon completion of milestones (up to $5,000 total); $10,000 Demo Day prize available",
+    "equity": "no equity taken — grant funding",
+    "programLength": "9 weeks (offered fall and spring)",
+    "format": "In-person (Baltimore, MD)",
+    "eligibility": "Students across all Johns Hopkins University schools; up to 5 student ventures accepted per cohort",
+    "applicationDeadline": "Unknown — rolling per cohort; check program page for the current cycle",
+    "applicationWindow": "Twice yearly (fall and spring)",
+    "applyLink": "https://ventures.jhu.edu/programs-services/fastforward-u/accelerator/",
+    "website": "https://ventures.jhu.edu/",
+    "description": "FastForward U's Fuel Accelerator is Johns Hopkins' 9-week student accelerator, providing an initial $1,000 grant plus up to $4,000 more in milestone funding, mentorship matched to each team's stage and industry, and a Demo Day with a $10,000 prize. It runs twice yearly and accepts up to five student ventures per cohort.",
+    "highlights": [
+      "Up to $5,000 in staged grant funding",
+      "9-week program offered each fall and spring",
+      "$10,000 Demo Day prize",
+      "Open to students across all Johns Hopkins schools"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "uva-ilab-incubator",
+    "name": "i.Lab Incubator (UVA Darden Batten Institute)",
+    "category": "Incubator",
+    "region": "US",
+    "country": "Charlottesville, VA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Baseline grant funding available for current student teams (exact amount not publicly disclosed)",
+    "equity": "no equity taken — grant funding",
+    "programLength": "10 weeks (summer), combining virtual orientation, in-person intensive weeks, and hybrid coworking",
+    "format": "Hybrid",
+    "eligibility": "Open to all UVA students, alumni, and faculty; for multi-founder ventures, at least one co-founder must be UVA-affiliated; requires a 35-40 hours/week commitment",
+    "applicationDeadline": "Round 1: February 8, 2027; Round 2: March 1, 2027 (applications open January 15, 2027)",
+    "applicationWindow": "Annual (summer cohort, two application rounds)",
+    "applyLink": "https://www.darden.virginia.edu/batten-institute/entrepreneurship/ilab/apply",
+    "website": "https://www.darden.virginia.edu/batten-institute/entrepreneurship/ilab",
+    "description": "The i.Lab Incubator at UVA's Darden Batten Institute is a 10-week summer program guiding UVA-affiliated entrepreneurs from idea to market readiness through the Build, Pilot, and Launch stages, with baseline grant funding, mentorship, and workshops culminating in a Demo Night.",
+    "highlights": [
+      "Baseline grant funding for student teams",
+      "10-week hybrid summer program",
+      "Open to UVA students, alumni, and faculty",
+      "Historically emphasizes life sciences and healthcare ventures"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "cu-boulder-new-venture-challenge",
+    "name": "New Venture Challenge (CU Boulder Leeds School of Business)",
+    "category": "Competition",
+    "region": "US",
+    "country": "Boulder, CO, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$336,000 awarded across the 2026 NVC Finals (from D4 Investments, Buff Gold Ventures, Campus Founders Fund, Venture Partners at CU Boulder, and the I&E Initiative); $2.15M+ awarded cumulatively since inception",
+    "equity": "no equity taken — competition prize funding",
+    "programLength": "Year-round program culminating in an April Finals showcase",
+    "format": "In-person (Boulder, CO)",
+    "eligibility": "CU Boulder students and the broader Boulder community; specific student/alumni eligibility rules are set per competition track and not fully detailed publicly",
+    "applicationDeadline": "Registration typically closes early February; 2026 Finals were held April 22, 2026",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.colorado.edu/nvc/",
+    "website": "https://www.colorado.edu/nvc/",
+    "description": "The New Venture Challenge is CU Boulder's year-round venture competition connecting campus and community entrepreneurs through mentorship, team formation, and events, culminating in a Finals pitch for a share of $200,000+ in annual prize funding. Six ventures competed for $336,000 at the 2026 Finals.",
+    "highlights": [
+      "$336,000 awarded at the 2026 Finals",
+      "$2.15M+ awarded cumulatively since inception",
+      "Connects the CU Boulder campus with the Boulder startup community",
+      "Year-round mentorship and team-formation programming"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "dartmouth-diadh-accelerator",
+    "name": "Dartmouth Innovation Accelerator for Digital Health (DIADH)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Hanover, NH, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $100,000 upon completion of the program",
+    "equity": "no equity taken — non-dilutive award through Dartmouth's Magnuson Center",
+    "programLength": "Cohort-based program (per-cycle length not fully disclosed publicly); Winter 2026 cohort applications closed February 15, 2026",
+    "format": "Hybrid",
+    "eligibility": "Dartmouth-affiliated innovators (students, faculty, researchers) working on digital health ventures",
+    "applicationDeadline": "February 15, 2026 (most recent Winter 2026 cohort); next cycle date not yet announced",
+    "applicationWindow": "Periodic cohorts under the Magnuson Center's Accelerate initiative",
+    "applyLink": "https://magnuson.dartmouth.edu/diadh",
+    "website": "https://magnuson.dartmouth.edu/",
+    "description": "DIADH is one of the Magnuson Center's Accelerate programs, helping Dartmouth innovators turn digital health research into real-world solutions with funding up to $100,000, mentorship, and expert support. It runs alongside sister programs DIAC (cancer) and DIAEn (engineering) under Dartmouth's Accelerate initiative.",
+    "highlights": [
+      "Up to $100,000 in funding upon program completion",
+      "Focused specifically on digital health ventures",
+      "Part of Dartmouth's broader Accelerate initiative (alongside DIAC and DIAEn)",
+      "Combines funding with mentorship and expert support"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "nar-reach-real-estate-accelerator",
+    "name": "REACH (NAR REACH Real Estate Technology Accelerator)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "Proptech",
+      "Fintech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Not publicly disclosed; investment terms are negotiated individually with each selected company by Second Century Ventures",
+    "equity": "Unknown (terms negotiated individually per company; not publicly disclosed)",
+    "programLength": "Approximately 6 months (May–November cohort cycle)",
+    "format": "Hybrid (in-person kickoff and Demo Day at NAR NXT, virtual monthly sessions)",
+    "eligibility": "Early- to growth-stage technology companies serving the residential (or commercial, via the separate REACH Commercial track) real estate industry and adjacent markets",
+    "applicationDeadline": "February 10, 2026 (2026 US Residential cohort application window)",
+    "applicationWindow": "Annual cycle; application window typically opens each November and closes in February",
+    "applyLink": "https://www.nar-reach.com/us-residential",
+    "website": "https://www.nar-reach.com/",
+    "description": "REACH is the National Association of REALTORS'/Second Century Ventures flagship real estate technology accelerator, connecting proptech startups with NAR's network of over 1.5 million real estate professionals. Since 2013 it has run separate US Residential, US Commercial, and international tracks and has accelerated more than 300 technology companies globally.",
+    "highlights": [
+      "Run by Second Century Ventures, one of the most active real estate tech-focused venture funds",
+      "Direct access to NAR's network of 1.5M+ REALTORS and brokerage/MLS partners",
+      "2026 cohort of 6 companies announced for the Scale-Up track",
+      "Separate US Residential and US Commercial accelerator tracks",
+      "Demo Day held at NAR NXT, the industry's largest annual conference"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "moderne-ventures-passport",
+    "name": "Moderne Ventures Passport",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "Proptech",
+      "Fintech",
+      "Climate/Impact"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "No direct investment; fee-based industry immersion program (Moderne Ventures may separately invest but investment is not a required part of the program)",
+    "equity": "No equity taken as a condition of participation (fee-based program)",
+    "programLength": "6 months",
+    "format": "Hybrid",
+    "eligibility": "Growth-stage technology companies in real estate, insurance, finance, and sustainability with proven product-market fit and a national, scalable product; many participants have already raised Series A, B, or C",
+    "applicationDeadline": "July 30, 2026 (Summer 2026 cohort)",
+    "applicationWindow": "Rolling applications, with cohorts launching roughly twice a year",
+    "applyLink": "https://www.moderneventures.com/passport",
+    "website": "https://www.moderneventures.com/",
+    "description": "Moderne Passport is a six-month industry immersion program run by Moderne Ventures that gives growth-stage real estate, insurance, and fintech startups direct access to a proprietary network of 1,500+ executives and corporations to drive customer growth and distribution. Its most recent class was its 27th, and more than 160 companies have gone through the program to date.",
+    "highlights": [
+      "27th cohort completed as of 2026, 160+ alumni companies",
+      "Stage-agnostic: many participants have already raised Series A-C",
+      "Access to 1,500+ executive network across real estate, insurance, and finance",
+      "Fee-based model rather than a standard equity-for-cash accelerator"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "metaprop-accelerator-columbia",
+    "name": "MetaProp Accelerator at Columbia University",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Proptech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $250,000 in financing",
+    "equity": "Unknown (not publicly disclosed)",
+    "programLength": "22 weeks",
+    "format": "Hybrid (in-person programming in New York City with virtual components)",
+    "eligibility": "Early-stage proptech startups",
+    "applicationDeadline": "Rolling; Cohort 10 ran in 2025, next cohort dates not yet published",
+    "applicationWindow": "Annual cohort cycle",
+    "applyLink": "https://www.metaprop.com/accelerator",
+    "website": "https://www.metaprop.com/",
+    "description": "MetaProp Accelerator, operated in partnership with Columbia University, is a 22-week program offering up to $250,000 in financing plus mentorship from MetaProp's RE200 network of C-level real estate executives, along with Pilot Days and Demo Days for early-stage proptech founders.",
+    "highlights": [
+      "Up to $250K in financing per company",
+      "Access to MetaProp's RE200 network of real estate executives",
+      "22-week program culminating in Demo Day",
+      "10 cohorts completed as of 2025"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "suffolk-technologies-boost",
+    "name": "BOOST (Suffolk Technologies)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Proptech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$150,000 via a post-money SAFE",
+    "equity": "4.5% equity (via post-money SAFE)",
+    "programLength": "8 weeks (BOOST 7 ran September 28–November 18, 2026)",
+    "format": "Hybrid (primarily virtual, with mandatory in-person Pre-Launch and Demo Day events in Boston)",
+    "eligibility": "Early-stage startups in construction, architecture, engineering, infrastructure, or real estate technology, with at least one full-time founder and a prototype or developed product",
+    "applicationDeadline": "Closed for BOOST 7 (2026 cohort); future cohort dates not yet published",
+    "applicationWindow": "Annual cohort cycle",
+    "applyLink": "https://suffolktech.com/boost/",
+    "website": "https://suffolktech.com/",
+    "description": "BOOST is Suffolk Technologies' construction and built-environment tech accelerator, investing $150,000 via a post-money SAFE for 4.5% equity in an 8-week hybrid program. Since 2020, BOOST has supported 38 companies that have collectively raised $730M.",
+    "highlights": [
+      "$150K investment for 4.5% equity via SAFE",
+      "38 companies supported since 2020; alumni have raised $730M",
+      "85% of alumni companies raise follow-on funding within 18 months",
+      "Backed by Suffolk Construction, one of the largest US builders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "imagine-h2o-us-accelerator",
+    "name": "Imagine H2O Accelerator (U.S.)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No direct equity investment; pilot co-funding of up to $150,000 available",
+    "equity": "No equity taken (equity-free program)",
+    "programLength": "Several months, culminating in a cohort showcase/demo event",
+    "format": "Hybrid",
+    "eligibility": "Water technology startups that have raised less than $10M in equity funding and are less than 7 years old",
+    "applicationDeadline": "Unknown (2026 cohort of 18 startups already announced; next cycle deadline not yet published)",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.imagineh2o.org/",
+    "website": "https://www.imagineh2o.org/",
+    "description": "Imagine H2O runs a zero-equity U.S. accelerator (alongside a parallel Imagine H2O Asia track) for water-tech startups tackling treatment, reuse, climate resilience, and ocean health, offering mentorship, industry pilot access, and up to $150K in pilot co-funding. The 2026 cohort included 18 startups from eight countries.",
+    "highlights": [
+      "Equity-free accelerator; Imagine H2O takes no ownership stake",
+      "Pilot co-funding up to $150,000",
+      "Direct access to water utilities and industry partners for pilots",
+      "Complements the already-listed Techstars WaterTech & Sustainability program with a non-dilutive alternative"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "asu-gsv-cup",
+    "name": "GSV Cup (ASU+GSV Summit)",
+    "category": "Competition",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "EdTech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No cash prize disclosed; benefit is complimentary ASU+GSV Summit access, visibility, and investor/demo exposure rather than direct funding",
+    "equity": "No equity taken (recognition/visibility competition, not an equity investment)",
+    "programLength": "Year-round nomination and selection process culminating in a Demo Day at the ASU+GSV Summit",
+    "format": "In-person (Demo Day at the ASU+GSV Summit) with virtual nomination process",
+    "eligibility": "Pre-seed and seed-stage EdTech startups building solutions for PreK-12, higher education, or workforce/adult learning; global eligibility including US startups",
+    "applicationDeadline": "Unknown (2026 cohort selected from 3,000+ nominations; 2027 nomination window not yet published)",
+    "applicationWindow": "Annual nomination cycle",
+    "applyLink": "https://cvjey6x7.paperform.co/",
+    "website": "https://asugsvsummit.com/gsv-cup",
+    "description": "The GSV Cup is an annual global competition for early-stage EdTech startups held at the ASU+GSV Summit (April 2026, San Diego), providing selected companies visibility, demo opportunities in front of investors and education leaders, and inclusion in the GSV Cup Startup Index. The 2026 cohort was selected from over 3,000 nominations.",
+    "highlights": [
+      "Selected from 3,000+ global nominations in 2026",
+      "Demo Day at the ASU+GSV Summit, one of the largest EdTech investor gatherings",
+      "No equity taken; visibility- and network-focused",
+      "2026 cohort spans PreK-12, higher ed, and workforce/adult learning segments"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "asu-scaleu",
+    "name": "ASU ScaleU",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Tempe, AZ, USA",
+    "focusAreas": [
+      "EdTech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Unknown (program is structured around paid pilots with ASU rather than a disclosed direct investment amount)",
+    "equity": "Unknown (not publicly disclosed; program does not appear to follow a standard equity-for-cash structure)",
+    "programLength": "Unknown (phased pilot program: alignment review, executive alignment, operational validation, enterprise conversion)",
+    "format": "Hybrid",
+    "eligibility": "Early-stage education technology startups with a product that can be piloted at Arizona State University (190,000+ students, 4,000+ faculty, 20,000+ staff)",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://scaleu.org/",
+    "website": "https://scaleu.org/",
+    "description": "ASU ScaleU is Arizona State University's EdTech accelerator, which puts early-stage education startups through paid pilots inside ASU's 190,000-student ecosystem as a pathway toward university-wide adoption and enterprise contracts.",
+    "highlights": [
+      "Direct paid-pilot access to ASU's 190,000+ students and 20,000+ staff",
+      "University-backed validation and enterprise adoption pathway",
+      "Four-stage program from pilot to enterprise-wide deployment"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "starburst-innovation-corridor-defense-accelerator",
+    "name": "Innovation Corridor Defense Accelerator (Starburst)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Marcos, TX, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Unknown (not publicly disclosed)",
+    "equity": "Unknown (not publicly disclosed)",
+    "programLength": "Unknown (inaugural cohort program length not publicly disclosed)",
+    "format": "In-person (San Marcos, Texas)",
+    "eligibility": "Early-stage aerospace, defense, and space technology startups; inaugural cohort included drone detection, quantum sensing, and edge AI companies",
+    "applicationDeadline": "Unknown (inaugural cohort launched 2026; next cycle not yet published)",
+    "applicationWindow": "Unknown",
+    "applyLink": "https://starburst.aero/accelerator-program/",
+    "website": "https://starburst.aero/",
+    "description": "The Innovation Corridor Defense Accelerator is a Starburst-operated program strengthening the aerospace, defense, and space ecosystem between Austin and San Antonio, Texas, supported by the Hays Caldwell Economic Development Partnership and PTC. Its inaugural 2026 cohort included 10 startups working on technologies like drone detection, quantum sensing, and edge AI.",
+    "highlights": [
+      "Run by Starburst, a leading global aerospace/defense accelerator network (distinct from Techstars Space)",
+      "Focused specifically on the Austin–San Antonio defense innovation corridor",
+      "Inaugural 2026 cohort of 10 startups in drone detection, quantum sensing, and edge AI",
+      "Backed by regional economic development and industry partners (PTC)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "comcast-sportstech",
+    "name": "Comcast SportsTech",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "Gaming/Media"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Unknown (not publicly disclosed)",
+    "equity": "Companies provide equity in exchange for participation; exact percentage not publicly disclosed",
+    "programLength": "Unknown (annual cohort program)",
+    "format": "Hybrid",
+    "eligibility": "Sports technology startups; selected annually via application",
+    "applicationDeadline": "Unknown (2025 cohort most recently announced; next cycle deadline not yet published)",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.f6s.com/comcastsportstech/apply",
+    "website": "https://www.comcastsportstech.com/",
+    "description": "Comcast SportsTech is a sports technology accelerator backed by Comcast NBCUniversal, connecting startups with partners including NBC Sports, Sky Sports, Peacock, the Premier League, and the PGA Tour, and providing customized go-to-market strategy and business development support in exchange for equity.",
+    "highlights": [
+      "Backed by Comcast NBCUniversal with access to NBC Sports, Sky Sports, Peacock",
+      "Strategic partnerships with major sports organizations (Premier League, PGA Tour, NASCAR, WWE cited in past cohorts)",
+      "Annual cohort model, running since multiple prior years",
+      "Focus on human performance, fan experience, and future-of-media sports technology"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "mhub-accelerator",
+    "name": "mHUB Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "Hardware",
+      "Deep Tech",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$200,000 total ($142,500 in cash plus $60,000 in services, programming, and hardware access)",
+    "equity": "6.5% equity",
+    "programLength": "6 months, plus 18 months of follow-on support",
+    "format": "In-person (Chicago, IL)",
+    "eligibility": "Early-stage startups building a physical product/hardware solution in one of mHUB's focus tracks: Energy Tech, MedTech, or Sustainable Manufacturing",
+    "applicationDeadline": "Rolling; separate cycles for Energy Tech, MedTech, and Sustainable Manufacturing tracks",
+    "applicationWindow": "Multiple cohorts per year across three sector-specific tracks",
+    "applyLink": "https://mhub.org/",
+    "website": "https://mhub.org/",
+    "description": "mHUB is a Chicago-based manufacturing and hardware innovation center running sector-specific accelerator tracks (Energy Tech, MedTech, and Sustainable Manufacturing) that invest $200K total ($142.5K cash plus $60K in services/hardware access) for 6.5% equity, with access to $6M of prototyping equipment across 11 micro-labs and 50+ industry mentors.",
+    "highlights": [
+      "$200K total investment (cash + in-kind) for 6.5% equity",
+      "Access to $6M of manufacturing/prototyping equipment across 11 micro-labs",
+      "Three sector-specific tracks: Energy Tech, MedTech, Sustainable Manufacturing",
+      "6-month core program plus 18 months of follow-on support"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "ebv-entrepreneurship-bootcamp-veterans",
+    "name": "Entrepreneurship Bootcamp for Veterans (EBV)",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Syracuse, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No direct funding; the entire program, including travel and lodging, is provided at no cost to participating veterans",
+    "equity": "No equity taken (free program, equity-free)",
+    "programLength": "30-day online coursework (Phase I), 9-day in-person residency (Phase II), and 12 months of post-program mentorship (Phase III)",
+    "format": "Hybrid (online coursework plus in-person residency at a consortium university)",
+    "eligibility": "Post-9/11 veterans with honorable discharge, active-duty service members within 180 days of separation, or National Guard/Reserve members with post-9/11 service, who are within roughly 12-24 months of launching a business or have a strong business concept close to launch",
+    "applicationDeadline": "Varies by consortium university cohort (e.g., Texas A&M Winter 2026 cohort Phase I runs November 10–December 10, 2026); most 2026 cohorts already closed",
+    "applicationWindow": "Multiple cohorts per year across consortium universities nationwide",
+    "applyLink": "https://ivmf.syracuse.edu/programs/entrepreneurship/ebv/",
+    "website": "https://ivmf.syracuse.edu/programs/entrepreneurship/ebv/",
+    "description": "EBV is a free entrepreneurship training program for post-9/11 veterans, administered by Syracuse University's Institute for Veterans and Military Families (IVMF) through a consortium of universities nationwide. It combines 30 days of online coursework, a 9-day in-person residency, and 12 months of post-program mentorship, with all costs covered for participants.",
+    "highlights": [
+      "Entirely free to participants, including travel and lodging",
+      "Delivered through a nationwide consortium of universities",
+      "12 months of post-program mentorship and business support",
+      "Specifically targets post-9/11 veterans, transitioning service members, and Guard/Reserve members"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "vetsintech-pitch-contest",
+    "name": "VetsinTech Pitch Contest",
+    "category": "Competition",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$40,000 in total prizes (2026 edition)",
+    "equity": "No equity taken (equity-free pitch competition)",
+    "programLength": "Single-day live pitch event",
+    "format": "In-person",
+    "eligibility": "Veteran-, military-, and military spouse-owned startups",
+    "applicationDeadline": "Unknown (2026 event held August 20, 2026; next cycle date not yet published)",
+    "applicationWindow": "Annual",
+    "applyLink": "https://www.vetsintech.co/",
+    "website": "https://www.vetsintech.co/",
+    "description": "VetsinTech's annual Pitch Contest brings finalist veteran-, military-, and military-spouse-owned startups together to compete live for cash prizes in front of venture capital and technology industry judges. The 2026 edition awarded $40,000 in total prizes across five finalists.",
+    "highlights": [
+      "$40,000 in total prizes awarded in the 2026 edition",
+      "Judged by venture capital and technology industry leaders",
+      "Run by VetsinTech, a national nonprofit network for veteran technologists and founders",
+      "Equity-free competition format"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-09-14"
   }
 ];

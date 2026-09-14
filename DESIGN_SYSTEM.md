@@ -200,7 +200,7 @@ decision, not an oversight.
 - **Centered modals:** for small confirmations only, `fixed inset-0 flex items-center justify-center`, also portaled.
 - **Panel header:** icon chip + title/subtitle + close (X) button, `border-b`, `px-5 py-4`.
 - **Panel sections:** use a repeatable `Section` wrapper — `px-5 py-4 border-b border-[#F5F5F5] dark:border-[#1E1E1E]` with a small uppercase label (`text-[10px] font-bold text-[#A3A3A3] uppercase tracking-wider`) above the content.
-
+F
 ---
 
 ## 8. Animation system
