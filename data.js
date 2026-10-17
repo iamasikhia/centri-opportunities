@@ -18,7 +18,7 @@ window.OPPORTUNITIES = [
     "programLength": "3 months (batch), ongoing alumni support after",
     "format": "In-person, San Francisco, CA (3-day kickoff plus weekly in-person events)",
     "eligibility": "Founders (individuals or teams) at any stage from idea to early revenue, building a technology company; open globally but founders must relocate to San Francisco for the batch.",
-    "applicationDeadline": "July 27, 2026, 8:00 PM PT (Fall 2026 batch on-time deadline; late applications still reviewed)",
+    "applicationDeadline": "November 2, 2026, 8:00 PM PT (Winter 2027 batch on-time deadline; decisions by December 11; late applications still considered)",
     "applicationWindow": "Quarterly batches (Winter, Spring, Summer, Fall)",
     "applyLink": "https://www.ycombinator.com/apply",
     "website": "https://www.ycombinator.com",
@@ -36,7 +36,7 @@ window.OPPORTUNITIES = [
       "DoorDash",
       "Instacart"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "sequoia-arc",
@@ -92,7 +92,7 @@ window.OPPORTUNITIES = [
     "programLength": "3 months",
     "format": "In-person, varies by program (20+ city/vertical-specific accelerators worldwide, e.g., NYC, Boulder, Anywhere/remote-friendly track)",
     "eligibility": "Early-stage founders/teams with at least an MVP; specific programs have vertical or geographic focus (e.g., healthcare, fintech, specific cities). Selection is based on team, market, and coachability.",
-    "applicationDeadline": "Rolling — varies by individual program; Fall 2026 cohort applications largely closed by mid-2026, check techstars.com/accelerators for the next open program",
+    "applicationDeadline": "November 18, 2026 (Spring 2027 programs final deadline; applications opened August 24, 2026; programs start March 8, 2027, Demo Day June 3, 2027; later applications go to a general pool)",
     "applicationWindow": "Multiple cohorts per year across 20+ city- and vertical-specific accelerators (roughly Spring and Fall waves per program)",
     "applyLink": "https://apply.techstars.com",
     "website": "https://www.techstars.com/",
@@ -110,7 +110,7 @@ window.OPPORTUNITIES = [
       "PillPack",
       "Chainalysis"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "techstars-columbus-ohio-state",
@@ -165,7 +165,7 @@ window.OPPORTUNITIES = [
     "programLength": "4 months",
     "format": "In-person, Palo Alto/Silicon Valley, CA (relocation required)",
     "eligibility": "Early-stage tech startups globally, generally with an MVP and some early traction; founders must be able to relocate to Palo Alto for the duration of the program.",
-    "applicationDeadline": "August 31, 2026 (Batch 31, Fall 2026 cohort; program runs Oct 7, 2026 – Feb 28, 2027)",
+    "applicationDeadline": "Rolling — accepting applications for Batch 37 now (no deadline posted on application portal)",
     "applicationWindow": "Rolling applications accepted year-round via flagship.aplica.500.co, with 2 flagship batches per year (Spring and Fall)",
     "applyLink": "https://flagship.aplica.500.co/",
     "website": "https://500.co/",
@@ -183,7 +183,7 @@ window.OPPORTUNITIES = [
       "Talkdesk",
       "Grab"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "hf0",
@@ -264,12 +264,12 @@ window.OPPORTUNITIES = [
       "Consumer"
     ],
     "stage": "Pre-seed",
-    "fundingAmount": "Up to $1M ($500K for 10% upfront via SAFE + $500K in next round within 18 months); plus $5M-$8M+ in cloud/AI/software credits (reported range varies by cohort/source)",
+    "fundingAmount": "Up to $1M; plus $10M+ in credits from 200+ partners via the speedrun Marketplace",
     "equity": "10% equity (for initial $500K tranche)",
     "programLength": "12 weeks",
     "format": "In-person, San Francisco, CA",
     "eligibility": "Early-stage (pre-seed/seed) founders worldwide, originally gaming-focused but now majority AI/software companies; a Global Founders Program assists with visas and relocation. Highly selective, with an acceptance rate under 0.4%.",
-    "applicationDeadline": "SR007 cohort deadline closed May 17, 2026 (cohort runs July 27–October 11, 2026); next cohort not yet announced — check website",
+    "applicationDeadline": "November 1, 2026 (SR008 cohort; runs February 1–April 16, 2027 in San Francisco; later applications considered for the following cohort)",
     "applicationWindow": "Roughly 2-3 cohorts per year (e.g., SR006, SR007)",
     "applyLink": "https://speedrun.a16z.com/apply",
     "website": "https://speedrun.a16z.com/",
@@ -285,7 +285,7 @@ window.OPPORTUNITIES = [
       "August",
       "Third Space"
     ],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "plug-and-play-tech-center",
@@ -342,7 +342,7 @@ window.OPPORTUNITIES = [
     "programLength": "4 months",
     "format": "Hybrid — optional in-person residency at MassChallenge hubs (Boston, Austin, Houston, Dallas, Providence, Switzerland, Israel, UK, Mexico, etc.)",
     "eligibility": "Early-stage startups globally, generally with under $1M in prior equity funding and under $2M annual revenue for flagship early-stage tracks (higher thresholds for vertical programs like HealthTech/FinTech); no equity or fees required to apply.",
-    "applicationDeadline": "Not currently open — check website (application windows vary by location/program, generally opening in Q1 for programs starting mid-year)",
+    "applicationDeadline": "Not currently open — site says \"Please check back for upcoming programming\" (interest form available for notification of new programs)",
     "applicationWindow": "Annual cycles per location (applications typically open Jan–Mar, programs run through the year)",
     "applyLink": "https://accelerate.masschallenge.org/",
     "website": "https://masschallenge.org/",
@@ -359,7 +359,7 @@ window.OPPORTUNITIES = [
       "Flywire",
       "Handy"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "founder-institute",
@@ -377,7 +377,7 @@ window.OPPORTUNITIES = [
     "programLength": "~14 weeks (varies by chapter; part-time format)",
     "format": "Hybrid — local in-person chapters in 200+ cities plus virtual/remote program options",
     "eligibility": "Idea-stage and pre-seed founders, including solo founders, part-time founders, and first-timers without a co-founder or technical background; open to career changers and technical/non-technical applicants alike.",
-    "applicationDeadline": "July 28, 2026 (Silicon Valley Fall 2026 cohort early-bird pricing deadline; entrance fee $799 before, $1,199 after)",
+    "applicationDeadline": "November 3, 2026 (San Francisco Fall 2026 and Oakland - San Francisco Fall 2026 cohorts; Silicon Valley Fall 2026 closed October 6, 2026)",
     "applicationWindow": "Rolling — new cohorts launch continuously across 200+ cities worldwide",
     "applyLink": "https://fi.co/join",
     "website": "https://fi.co/",
@@ -394,7 +394,7 @@ window.OPPORTUNITIES = [
       "ClassPass",
       "Udemy"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "embed-by-conviction",
@@ -449,7 +449,7 @@ window.OPPORTUNITIES = [
     "programLength": "6 months",
     "format": "Hybrid — SF Bay Area (optional co-working) + virtual; founders can participate from anywhere",
     "eligibility": "Technical founding teams (2-3 co-founders preferred, solo founders accepted at a higher bar) building enterprise-monetized (B2B or B2B2C) AI/SaaS or deep-tech startups; open globally.",
-    "applicationDeadline": "Rolling",
+    "applicationDeadline": "Rolling — apply anytime; applications are reviewed at the next application date with a response within about three weeks",
     "applicationWindow": "Multiple cohorts per year (rolling deadlines)",
     "applyLink": "https://www.alchemistaccelerator.com/apply",
     "website": "https://www.alchemistaccelerator.com/",
@@ -466,7 +466,7 @@ window.OPPORTUNITIES = [
       "LaunchDarkly",
       "Rigetti Computing"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "neo-accelerator",
@@ -519,8 +519,8 @@ window.OPPORTUNITIES = [
     "programLength": "6-week intensive residency (Antler Residency US)",
     "format": "In-person — San Francisco, New York, or Austin, TX; shared virtual programming links all three US cities",
     "eligibility": "Individuals ready to build a company from scratch, with or without a cofounder or idea. At least one cofounder needs independent, indefinite, unrestricted US work authorization (US citizen, permanent resident, or equivalent) — Antler does not sponsor visas.",
-    "applicationDeadline": "Rolling — varies by location",
-    "applicationWindow": "Rolling, location-dependent cohort start dates",
+    "applicationDeadline": "Rolling — year-round intake in the US (San Francisco, Austin, New York City)",
+    "applicationWindow": "Rolling year-round in US locations",
     "applyLink": "https://www.antler.co/apply",
     "website": "https://www.antler.co/",
     "description": "Antler runs a US-specific Residency in San Francisco, New York, and Austin — three cities on a shared 6-week timeline and curriculum, helping individual founders find a cofounder, validate an idea, and raise a pre-seed round, all without leaving the country. (Antler also runs 25+ programs internationally, but those require relocating abroad and are not included here.)",
@@ -536,7 +536,7 @@ window.OPPORTUNITIES = [
       "Wrtn",
       "Capsa AI"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "entrepreneur-first",
@@ -555,7 +555,7 @@ window.OPPORTUNITIES = [
     "programLength": "~9 months (varies by track; e.g. 'The Bridge' residency is 8 weeks)",
     "format": "In-person — San Francisco, CA",
     "eligibility": "Exceptional individuals (with or without a cofounder or idea) able to relocate to San Francisco, CA for the program; a track record of outperformance and prior product/startup-building experience is expected.",
-    "applicationDeadline": "August 4, 2026 (Spring '26 London-to-SF track) / August 30, 2026 (Bridge Residency Fall '26)",
+    "applicationDeadline": "Rolling — U.S. Funding & Fellowships applications reviewed on a rolling basis (international cohorts such as Bangalore/London not applicable)",
     "applicationWindow": "Multiple cohorts per year, per city",
     "applyLink": "https://apply.joinef.com",
     "website": "https://www.joinef.com/",
@@ -572,7 +572,7 @@ window.OPPORTUNITIES = [
       "Neptune Robotics",
       "Omnea"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "south-park-commons",
@@ -591,7 +591,7 @@ window.OPPORTUNITIES = [
     "programLength": "6 months (Residency); Founder Fellowship runs a ~2-month bootcamp plus a residency phase",
     "format": "In-person — San Francisco, New York, Bangalore",
     "eligibility": "Talented technologists and founders in the 'exploration' (pre-idea to pre-launch) phase; the Founder Fellowship targets those ready to commit full-time to finding their next big idea.",
-    "applicationDeadline": "Rolling (Member Residency); Founder Fellowship cycles (Feb 1 / Aug 2, 2026) have closed — next cycle TBA",
+    "applicationDeadline": "Founder Fellowship Fall 2026 closed (August 2, 2026); Spring 2027 Fellowship applications to open later in 2026 — date TBA",
     "applicationWindow": "Rolling for Residency; biannual (Spring/Fall) for Founder Fellowship",
     "applyLink": "https://www.southparkcommons.com/apply/",
     "website": "https://www.southparkcommons.com",
@@ -610,7 +610,7 @@ window.OPPORTUNITIES = [
       "Baseten",
       "Clerk"
     ],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "nfx-fast",
@@ -630,7 +630,7 @@ window.OPPORTUNITIES = [
     "programLength": "~9-day decision process (not a multi-week cohort program)",
     "format": "Remote",
     "eligibility": "Founders building network-effects businesses in the US, Israel, LatAm or Europe; sector- and university-specific FAST tracks (Israel, Harvard, Stanford, Women's Health, Generative Tech, etc.) carry their own criteria. Excludes semiconductors, medical devices, and pure pharma/hardware.",
-    "applicationDeadline": "Not currently open — check website (most 2026 FAST tracks closed April 2026; new cycles launch periodically)",
+    "applicationDeadline": "Not currently open — 2026 FAST Israel closed April 20, 2026; no FAST tracks listed as opening soon as of October 2026",
     "applicationWindow": "Multiple themed/geographic FAST tracks launched throughout the year",
     "applyLink": "https://fast.nfx.com",
     "website": "https://www.nfx.com",
@@ -647,7 +647,7 @@ window.OPPORTUNITIES = [
       "Patreon",
       "Poshmark"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "pearx",
@@ -661,12 +661,12 @@ window.OPPORTUNITIES = [
       "B2B SaaS"
     ],
     "stage": "Pre-seed",
-    "fundingAmount": "$250K-$2M",
+    "fundingAmount": "$500K-$2M",
     "equity": "Not publicly disclosed (varies by deal)",
     "programLength": "12 weeks",
     "format": "In-person — San Francisco & Menlo Park, CA (relocation required)",
     "eligibility": "Any founder starting a company, including solo founders and idea-stage teams as well as those with early traction; companies that have previously raised up to $2M are still eligible.",
-    "applicationDeadline": "Not currently open — check website (S26 regular deadline closed April 12, 2026)",
+    "applicationDeadline": "W27 regular deadline closed October 4, 2026; later applications reviewed on a rolling basis (PearX accepts applications year-round)",
     "applicationWindow": "Biannual — Summer (S) and Winter (W) cohorts",
     "applyLink": "https://pear.vc/pearx-application/",
     "website": "https://pear.vc/pearx/",
@@ -683,7 +683,7 @@ window.OPPORTUNITIES = [
       "Nova Credit",
       "Cardless"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "pear-vc-fellowship",
@@ -700,7 +700,7 @@ window.OPPORTUNITIES = [
     "programLength": "2 semesters (academic year), part-time (~5 hrs/week)",
     "format": "Remote — weekly virtual sessions for students at 40+ US universities",
     "eligibility": "Entrepreneurial students at 40+ partner US universities interested in venture investing and deal-sourcing; no salary or carry, cost-free to participate.",
-    "applicationDeadline": "Rolling — check website for current cycle",
+    "applicationDeadline": "2026–2027 cohort applications closed August 9, 2026; next cohort dates not yet announced",
     "applicationWindow": "Annual, two-semester cohort",
     "applyLink": "https://pear.vc/fellows-application/",
     "website": "https://pear.vc/fellows-application/",
@@ -712,7 +712,7 @@ window.OPPORTUNITIES = [
       "15+ alumni have gone on to raise Pear pre-seed capital for their own startups"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "ai2-incubator",
@@ -761,12 +761,12 @@ window.OPPORTUNITIES = [
       "Deep Tech"
     ],
     "stage": "Seed",
-    "fundingAmount": "$200,000 investment (via SAFE, ~$2.5-2.6M valuation cap)",
+    "fundingAmount": "$210,000 investment from the Berkeley SkyDeck Fund",
     "equity": "7.5% equity (SAFE) + $7.5K program fee for Cohort track",
     "programLength": "6 months",
     "format": "In-person (Berkeley, CA) for Cohort track; Hybrid for Pad-13 track",
     "eligibility": "Open to startups worldwide, industry-agnostic; UC-affiliated and international startups are a priority but not required.",
-    "applicationDeadline": "August 21, 2026 (application window opens July 20, 2026)",
+    "applicationDeadline": "Not currently open — Batch 23 window (July 20 – August 21, 2026) closed; site says applications for Batch 24 open in January",
     "applicationWindow": "Twice yearly (Spring and Fall cohorts)",
     "applyLink": "https://skydeck.berkeley.edu/apply/",
     "website": "https://skydeck.berkeley.edu/",
@@ -784,7 +784,7 @@ window.OPPORTUNITIES = [
       "Mammoth Biosciences",
       "Poshmark"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "startx",
@@ -1073,7 +1073,7 @@ window.OPPORTUNITIES = [
     "programLength": "16 weeks",
     "format": "Hybrid (hubs in Toronto, New York City, and San Francisco; remote participation welcome)",
     "eligibility": "Pre-seed B2B/enterprise software companies with less than $500K in prior funding and an MVP built or about to launch, founders with strong founder-market fit.",
-    "applicationDeadline": "Rolling — cohorts fill on a rolling basis (e.g., Summer 2026 cohort applications ran roughly February-April 2026)",
+    "applicationDeadline": "Rolling — Winter 2027 cohort applications open now (investment decisions through Q4 2026; program kicks off January 2027)",
     "applicationWindow": "Multiple cohorts per year with rolling admissions",
     "applyLink": "https://www.forumvc.com/pitch-us",
     "website": "https://www.forumvc.com/accelerator",
@@ -1085,7 +1085,7 @@ window.OPPORTUNITIES = [
       "Portfolio has raised $1B+ in follow-on funding"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "era-entrepreneurs-roundtable-accelerator",
@@ -1104,7 +1104,7 @@ window.OPPORTUNITIES = [
     "programLength": "4 months",
     "format": "In-person (New York City)",
     "eligibility": "Tech or tech-enabled companies in any vertical (industry-agnostic); ideally with a founding team, product, and early customers or revenue; must be (or convert to) a U.S. C Corporation, including international startups.",
-    "applicationDeadline": "Not currently open — Summer 2026 cohort applications have closed; Winter 2027 applications not yet open",
+    "applicationDeadline": "November 2, 2026 (Winter 2027 cohort)",
     "applicationWindow": "Twice yearly (Winter and Summer cohorts)",
     "applyLink": "https://www.eranyc.com/apply/",
     "website": "https://www.eranyc.com",
@@ -1122,7 +1122,7 @@ window.OPPORTUNITIES = [
       "Scentbird",
       "TripleLift"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "sosv-hax",
@@ -1804,7 +1804,7 @@ window.OPPORTUNITIES = [
     "programLength": "10-12 weeks (~3 months)",
     "format": "In-person (San Francisco, CA and New York, NY)",
     "eligibility": "Early-stage startups from anywhere in the world, any industry, with a founding team able to relocate to SF or NYC for the program. Extremely selective (accepts ~15 teams per cohort, <1% acceptance rate).",
-    "applicationDeadline": "Not currently open — check website (applications closed as of research date; enter email for notification of next cycle)",
+    "applicationDeadline": "Not currently open — site says \"The application is currently closed\"; enter email for notification of next cohort",
     "applicationWindow": "Twice per year (biannual cohorts, SF and NYC)",
     "applyLink": "https://angelpad.com/#apply",
     "website": "https://angelpad.com/",
@@ -1821,7 +1821,7 @@ window.OPPORTUNITIES = [
       "Vungle",
       "Iterable"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "rock-health",
@@ -2519,7 +2519,7 @@ window.OPPORTUNITIES = [
     "programLength": "3 months",
     "format": "In-person — Baltimore, MD",
     "eligibility": "AI-driven health tech startups (clinical decision support, revenue cycle, payer/provider workflow, digital health operations) able to demonstrate measurable commercial traction; benefits most from teams that can leverage anchor partnerships with Johns Hopkins, CareFirst BlueCross BlueShield, MedStar Health, and University of Maryland Medical System/UMB.",
-    "applicationDeadline": "Not currently open — check website",
+    "applicationDeadline": "November 18, 2026 (2027 cohort; program starts March 8, 2027, Demo Day June 3, 2027)",
     "applicationWindow": "Annual cohort (2026 class: applications opened Mar 2, 2026, deadline Jun 10, 2026; program runs Sept 8–Dec 3, 2026)",
     "applyLink": "https://apply.techstars.com?source=nav&accelerator=baltimore-ai-health",
     "website": "https://www.techstars.com/accelerators/baltimore-ai-health",
@@ -2533,7 +2533,7 @@ window.OPPORTUNITIES = [
     "notableAlumni": [
       "AidRx"
     ],
-    "lastVerified": "2026-07-13"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "techstars-alabama-energytech",
@@ -2586,8 +2586,8 @@ window.OPPORTUNITIES = [
     "programLength": "3 months",
     "format": "Remote",
     "eligibility": "Companies operating in US/American time zones, any industry (recent thesis interest includes robotics, energy, applied/physical AI, and materials science); teams must be able to attend three mandatory in-person offsites during the program.",
-    "applicationDeadline": "Not currently open — check website",
-    "applicationWindow": "Annual cohort (2026 class: applications opened Mar 2, 2026, deadline Jun 10, 2026; program runs Sept 8–Dec 10, 2026)",
+    "applicationDeadline": "November 18, 2026 (Spring 2027 cohort)",
+    "applicationWindow": "Spring 2027 cohort: applications opened Aug 24, 2026, final deadline Nov 18, 2026; program starts Mar 8, 2027, Demo Day Jun 3, 2027",
     "applyLink": "https://apply.techstars.com?source=nav&accelerator=anywhere",
     "website": "https://www.techstars.com/accelerators/anywhere",
     "description": "Techstars' remote-first, industry-agnostic accelerator, delivering the full Techstars mentorship and investor-network experience without requiring relocation, punctuated by three in-person offsites in startup hubs. Best fit for US founders not based near a physical Techstars hub city.",
@@ -2603,7 +2603,7 @@ window.OPPORTUNITIES = [
       "Forecastr",
       "Echo3D"
     ],
-    "lastVerified": "2026-07-13"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "techstars-boston",
@@ -2623,8 +2623,8 @@ window.OPPORTUNITIES = [
     "programLength": "3 months",
     "format": "In-person — Boston, MA",
     "eligibility": "Early-stage startups with a working product in healthtech, climate/sustainability, proptech/built environment, future of work, AI/ML, or B2B SaaS; founding teams should include at least one technical builder.",
-    "applicationDeadline": "Not currently open — check website",
-    "applicationWindow": "Twice yearly (Spring cohort: opens ~Aug, deadline ~Nov, runs Mar–Jun; Fall cohort: opens ~Mar/Apr, deadline ~Jun, runs Sept–Dec). Both 2026 application windows had closed as of this writing.",
+    "applicationDeadline": "November 18, 2026 (Spring 2027 cohort)",
+    "applicationWindow": "Spring 2027 cohort: applications opened Aug 24, 2026, final deadline Nov 18, 2026; program starts Mar 8, 2027, Demo Day Jun 3, 2027",
     "applyLink": "https://apply.techstars.com?source=nav&accelerator=boston",
     "website": "https://www.techstars.com/accelerators/boston",
     "description": "One of Techstars' longest-running US programs (launched 2009), Techstars Boston taps the region's dense biotech, healthtech, and B2B SaaS ecosystem — including MIT, Harvard, and Boston's hospital systems — to support founders through intensive mentorship and investor access.",
@@ -2641,7 +2641,7 @@ window.OPPORTUNITIES = [
       "CareAcademy",
       "Rocketbook"
     ],
-    "lastVerified": "2026-07-13"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "techstars-boulder",
@@ -2658,8 +2658,8 @@ window.OPPORTUNITIES = [
     "programLength": "3 months",
     "format": "In-person — Boulder, CO",
     "eligibility": "Any industry; ambitious pre-seed founders building companies with large-scale potential. Note: the original Boulder program ended its 17-year run in 2024 and was relaunched in 2026 via a new CU Boulder partnership — the 2026 cohort is effectively the first class of the revived program.",
-    "applicationDeadline": "Not currently open — check website",
-    "applicationWindow": "Annual cohort (2026 relaunch class: applications opened Mar 17, 2026, deadline Jun 10, 2026; program runs Sept 14–Dec 10, 2026)",
+    "applicationDeadline": "Not currently open — Fall 2026 cohort deadline was June 10, 2026 (program runs Sept 8–Dec 7, 2026); no Spring 2027 cohort dates listed on the Boulder page as of October 2026",
+    "applicationWindow": "Annual cohort (2026 class: applications opened Mar 2, 2026, deadline Jun 10, 2026; program starts Sept 8, 2026, Demo Day Dec 7, 2026)",
     "applyLink": "https://apply.techstars.com?source=nav&accelerator=boulder-accelerator",
     "website": "https://www.techstars.com/accelerators/boulder-accelerator",
     "description": "Techstars' founding program and the birthplace of the entire Techstars model. The original Boulder cohort ended in 2024 after 17 years; the program was relaunched in 2026 through a new CU Boulder partnership. Industry-agnostic and founder-centric, it draws on Boulder/Denver's dense investor and mentor community.",
@@ -2674,7 +2674,7 @@ window.OPPORTUNITIES = [
       "DigitalOcean",
       "Sphero"
     ],
-    "lastVerified": "2026-07-13"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "techstars-chicago",
@@ -2691,8 +2691,8 @@ window.OPPORTUNITIES = [
     "programLength": "3 months",
     "format": "In-person — Chicago, IL",
     "eligibility": "Any industry; founders should show a validated problem with a clear ICP, an MVP/prototype, early usage/pilots or signed LOIs, and at least one technical co-founder.",
-    "applicationDeadline": "Not currently open — check website",
-    "applicationWindow": "Annual cohort (2026 class: applications opened Aug 25, 2025, deadline Nov 19, 2025; program ran March 9–June 2, 2026); next class not yet announced as of July 2026",
+    "applicationDeadline": "November 18, 2026 (Spring 2027 cohort)",
+    "applicationWindow": "Spring 2027 cohort: applications opened Aug 24, 2026, final deadline Nov 18, 2026; program starts Mar 8, 2027, Demo Day Jun 3, 2027",
     "applyLink": "https://apply.techstars.com?source=nav&accelerator=chicago",
     "website": "https://www.techstars.com/accelerators/chicago",
     "description": "Techstars' flagship Midwest accelerator, run in partnership with Long Chicago (an early-stage venture fund). Industry-agnostic, it pairs the standard 3-month mentorship program with a full year of free dedicated office space in downtown Chicago, aiming to be founders' most trusted early advisor in the Midwest startup scene.",
@@ -2705,7 +2705,7 @@ window.OPPORTUNITIES = [
     "notableAlumni": [
       "Sendoso"
     ],
-    "lastVerified": "2026-07-13"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "techstars-future-of-food",
@@ -2792,8 +2792,8 @@ window.OPPORTUNITIES = [
     "programLength": "3 months",
     "format": "In-person, New York, NY",
     "eligibility": "Open to founders across sectors (health, climate, AI/ML, fintech, supply chain, future of work, enterprise SaaS) who deeply understand their customer's pain and are building toward a $1B+ revenue market; requires full-time commitment with no other work/academic obligations during the program.",
-    "applicationDeadline": "Not currently open — check website (Fall 2026 cohort deadline was June 10, 2026; program starts Sept 8, 2026, Demo Day Dec 10, 2026; next application cycle not yet announced)",
-    "applicationWindow": "Twice yearly (Spring and Fall cohorts)",
+    "applicationDeadline": "November 18, 2026 (Spring 2027 cohort)",
+    "applicationWindow": "Spring 2027 cohort: applications opened Aug 24, 2026, final deadline Nov 18, 2026; program starts Mar 8, 2027, Demo Day Jun 3, 2027",
     "applyLink": "https://apply.techstars.com?source=nav&accelerator=nyc",
     "website": "https://www.techstars.com/accelerators/nyc",
     "description": "Techstars' flagship generalist New York program, running since 2011, giving founders access to NYC's dense fintech, media, and enterprise-SaaS investor and customer base. Sector-agnostic but especially strong for fintech, enterprise SaaS, and healthtech founders wanting Northeast market access. One of Techstars' longest-running and most established city programs.",
@@ -2809,7 +2809,7 @@ window.OPPORTUNITIES = [
       "Aunt Flow",
       "LendAPI"
     ],
-    "lastVerified": "2026-07-13"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "techstars-san-francisco",
@@ -2828,7 +2828,7 @@ window.OPPORTUNITIES = [
     "programLength": "3 months (13 weeks)",
     "format": "In-person, San Francisco, CA",
     "eligibility": "Startups building in Deep Tech, AI, or Enterprise SaaS; founders must be willing to relocate to San Francisco for the duration of the program.",
-    "applicationDeadline": "Not currently open — check website (last confirmed cohort was Spring 2025, Demo Day May 29, 2025; no Fall 2025 or 2026 cohort could be confirmed as of verification, so current cadence/next deadline is unclear)",
+    "applicationDeadline": "Not currently open — techstars.com/accelerators/san-francisco now redirects to the general accelerators index, and San Francisco is not among the listed Techstars accelerators as of October 2026 (no Spring 2027 cohort listed)",
     "applicationWindow": "Historically ~twice yearly (Fall 2024 inaugural class, Spring 2025 class); cadence for 2026 unconfirmed — check techstars.com/accelerators/san-francisco directly",
     "applyLink": "https://apply.techstars.com?source=nav&accelerator=san-francisco",
     "website": "https://www.techstars.com/accelerators/san-francisco",
@@ -2845,7 +2845,7 @@ window.OPPORTUNITIES = [
       "Opal Therapeutics",
       "HealthBlox"
     ],
-    "lastVerified": "2026-07-13"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "techstars-space",
@@ -2999,12 +2999,12 @@ window.OPPORTUNITIES = [
       "General/Any"
     ],
     "stage": "Pre-seed",
-    "fundingAmount": "Up to $500K total ($250K from Betaworks Ventures + up to $250K from syndicate co-investors)",
+    "fundingAmount": "Up to $500K total (up to $250K from Betaworks Ventures on an uncapped SAFE with 25% discount plus 5% common stock, + up to $250K from syndicate partners on uncapped SAFEs)",
     "equity": "~5% common stock (on a $250K uncapped SAFE with 25% discount)",
     "programLength": "12 weeks",
     "format": "Hybrid — based at Betaworks' Meatpacking District office in NYC; in-person required for first and final two weeks, hybrid participation for the middle weeks",
     "eligibility": "Early-stage founders building AI-first products (product not required at time of application); international teams welcome but must be willing to spend time in NYC during the program.",
-    "applicationDeadline": "Not currently open — next window (H2 2026 'AI Camp') applications open June–July 2026; check site for exact close date",
+    "applicationDeadline": "Not currently open — Fall 2026 AI Camp (\"The New Agentic Economy\") application window has closed; program runs Sept 14–Nov 20, 2026 (Demo Day week of Nov 16); next (Spring 2027) camp not yet announced",
     "applicationWindow": "Two cohorts/year — Spring (Mar–May, apps open Dec–Jan) and Fall (Aug–Nov, apps open Jun–Jul)",
     "applyLink": "https://www.betaworks.com/camp/application",
     "website": "https://www.betaworks.com/camp",
@@ -3021,7 +3021,7 @@ window.OPPORTUNITIES = [
       "Chartbeat",
       "Dots"
     ],
-    "lastVerified": "2026-07-24"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "launch-accelerator",
@@ -3280,8 +3280,8 @@ window.OPPORTUNITIES = [
     "programLength": "1 year (12-month remote program)",
     "format": "Remote — fully distributed, with community events like 'Tiny Fest' for in-person networking",
     "eligibility": "B2B SaaS 'bootstrapper' founders who can show product-market signal, typically $500+ MRR; explicitly does NOT invest in pre-revenue or idea-stage companies.",
-    "applicationDeadline": "Not currently open — Spring 2026 window closed February 17, 2026; Fall 2026 applications open in September 2026",
-    "applicationWindow": "Two cohorts/year — Spring (apps open Feb) and Fall (apps open Sep)",
+    "applicationDeadline": "Not currently open — TinySeed skipped the Fall 2026 batch; next accelerator batch is Spring 2027 (application dates not yet announced)",
+    "applicationWindow": "Historically two cohorts/year (Spring and Fall); no Fall 2026 batch — applications resume for Spring 2027",
     "applyLink": "https://apply.tinyseed.com/",
     "website": "https://tinyseed.com/",
     "description": "TinySeed is the leading remote accelerator built specifically for bootstrapped/independent B2B SaaS founders who want to grow a durable, profitable business rather than chase hypergrowth. It provides year-long funding, mentorship, and a tight-knit founder community instead of a short in-person sprint.",
@@ -3297,7 +3297,7 @@ window.OPPORTUNITIES = [
       "Riverside.fm",
       "ScatterSpoke"
     ],
-    "lastVerified": "2026-07-24"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "greentown-labs",
@@ -4174,8 +4174,8 @@ window.OPPORTUNITIES = [
     "programLength": "Full academic-year cycle: Pitch (fall) -> Accelerate (Feb/Mar semifinal) -> Launch (May final)",
     "format": "Hybrid (online applications and pitch submissions; live in-person final \"Launch\" event at MIT in Cambridge, MA)",
     "eligibility": "Teams must include at least one current MIT student (undergraduate or graduate); other team members can be non-MIT-affiliated, including faculty, alumni, and people from outside the MIT community.",
-    "applicationDeadline": "2026 cycle has concluded (Accelerate-round applications were due February 26, 2026; Launch final held in May 2026); 2027 cycle dates (Pitch round typically opens in the fall) not yet announced — check mit100k.org",
-    "applicationWindow": "Annual cycle running fall through spring (Pitch, Accelerate, Launch rounds)",
+    "applicationDeadline": "October 28, 2026 (Pitch 2026 applications open October 14; live Pitch competition December 2, 2026)",
+    "applicationWindow": "October 14–28, 2026 for the Pitch round of the 2026–27 cycle (Accelerate and Launch rounds follow in spring 2027)",
     "applyLink": "https://www.mit100k.org/eligibility-rules",
     "website": "https://www.mit100k.org/",
     "description": "The MIT $100K is a student-run, three-round entrepreneurship competition culminating in a live spring final, awarding close to $1M in non-dilutive prize money and resources annually to teams with at least one MIT student. Winners and participants have collectively launched 160+ companies and raised over $1.3B in venture funding.",
@@ -4190,7 +4190,7 @@ window.OPPORTUNITIES = [
       "Akamai Technologies",
       "HubSpot"
     ],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "hult-prize",
@@ -4209,8 +4209,8 @@ window.OPPORTUNITIES = [
     "programLength": "Multi-stage global cycle: campus/national rounds, Regional Finals, Accelerator, and Global Finals over roughly a year",
     "format": "Hybrid (campus and regional rounds run in-person/online worldwide; Global Finals held in person)",
     "eligibility": "Teams presenting a for-profit business concept or operating venture that supports at least one UN Sustainable Development Goal; at least one team member must be a current university student (full- or part-time, any level) aged 18+ at registration; non-profits are not eligible to enter.",
-    "applicationDeadline": "2026 cycle team registration closed February 28, 2026 (18,000+ teams registered, 2,000 advanced to Nationals); 2027 cycle registration opens on a rolling basis later in the year — check hultprize.org",
-    "applicationWindow": "Annual cycle; team registration typically opens mid-year with a Q1 deadline for the following competition year",
+    "applicationDeadline": "2026–27 (EF Hult Prize 2027) team registration open now; Qualifiers run September 2026–February 2027 (all members must be 18 by February 28, 2027) — no single global deadline posted; campus/local deadlines vary",
+    "applicationWindow": "Qualifiers September 2026–February 2027; Nationals April–May 2027; Digital Incubator June–July 2027; Global Accelerator August 2027; Global Finals September 2027",
     "applyLink": "https://www.hultprize.org/apply-now",
     "website": "https://www.hultprize.org/",
     "description": "The Hult Prize is a global student/early-stage startup competition that awards $1 million in equity-free seed funding to the team building the most promising venture addressing a UN Sustainable Development Goal, following campus, regional, and accelerator rounds culminating in Global Finals.",
@@ -4221,7 +4221,7 @@ window.OPPORTUNITIES = [
       "Requires at least one current university student on the team",
       "Must align with a UN Sustainable Development Goal"
     ],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "techcrunch-disrupt-startup-battlefield",
@@ -4242,7 +4242,7 @@ window.OPPORTUNITIES = [
     "programLength": "Selected companies pitch live during the multi-day TechCrunch Disrupt conference (2026 edition: October 13-15, San Francisco)",
     "format": "In-person finals at TechCrunch Disrupt in San Francisco, CA (application process is online)",
     "eligibility": "Bold early-stage startups with a working MVP; bootstrapped, pre-seed, and seed-stage companies are encouraged to apply, and select Series A startups in capital-intensive sectors may also qualify.",
-    "applicationDeadline": "Closed for the 2026 cycle (deadline extended to June 8, 2026); selected companies notified late August 2026; TechCrunch Disrupt 2026 runs October 13-15, 2026 — check techcrunch.com/startup-battlefield for the next cycle",
+    "applicationDeadline": "Closed for the 2026 cycle (official page as of Oct 2026: \"Applications have closed for 2026, but please consider applying next year!\"); TechCrunch Disrupt 2026 runs October 13-15, 2026 — 2027 dates and application window not yet announced",
     "applicationWindow": "Annual cycle; applications typically open in spring ahead of the October conference",
     "applyLink": "https://techcrunch.com/startup-battlefield/",
     "website": "https://techcrunch.com/startup-battlefield/",
@@ -4262,7 +4262,7 @@ window.OPPORTUNITIES = [
       "Glīd (2025 winner)",
       "Salva Health (2024 winner)"
     ],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "extreme-tech-challenge-xtc",
@@ -4282,7 +4282,7 @@ window.OPPORTUNITIES = [
     "programLength": "Multi-round annual cycle (applications, judging rounds) culminating in a live Startup Showcase/Summit",
     "format": "Hybrid (application and early judging conducted online; live Startup Showcase and Summit held in person in California)",
     "eligibility": "Startups legally incorporated or registered in an eligible country; no restrictions on current revenue level or capital raised to date; 2026 theme (\"AI:360\") includes a special Excellence in Applied AI award alongside the general competition.",
-    "applicationDeadline": "Applications for the 6th edition closed April 1, 2026; Startup Showcase and AI:360 Summit take place in California in November 2026 — check extremetechchallenge.org for the next cycle",
+    "applicationDeadline": "AI:360 Global Startup Competition 2026 applications opened June 16, 2026 (no closing date posted); finalists present at the AI:360 Summit & Startup Showcase, November 19, 2026, Palo Alto — next cycle not yet announced",
     "applicationWindow": "Annual cycle; applications typically open in the first quarter of the year",
     "applyLink": "https://extremetechchallenge.org/",
     "website": "https://extremetechchallenge.org/",
@@ -4299,7 +4299,7 @@ window.OPPORTUNITIES = [
       "Power Ledger",
       "Genecis Bioindustries"
     ],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "thiel-fellowship",
@@ -4338,7 +4338,7 @@ window.OPPORTUNITIES = [
       "Ritesh Agarwal (OYO)",
       "Austin Russell (Luminar Technologies)"
     ],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "echoing-green-fellowship",
@@ -4704,7 +4704,7 @@ window.OPPORTUNITIES = [
     "programLength": "12 weeks total (2-week in-person onboarding + 10-week remote program)",
     "format": "Hybrid — 2-week in-person onboarding in New York City, followed by 10 weeks fully remote",
     "eligibility": "Early-stage crypto/web3 and fintech founders (teams or solo); open globally, with onboarding held in NYC.",
-    "applicationDeadline": "Cohort deadlines vary by cycle (recent cohorts used dates such as September 23 and November 18 for early/regular admission) — check alliance.xyz for the current cohort's exact deadline",
+    "applicationDeadline": "November 18, 2026 (ALL19 regular admission deadline; program starts January 11, 2027 with NYC onboarding)",
     "applicationWindow": "Multiple cohorts per year",
     "applyLink": "https://alliance.xyz/apply",
     "website": "https://alliance.xyz/",
@@ -4717,7 +4717,7 @@ window.OPPORTUNITIES = [
       "Fast process — interview invites typically sent within 1 week of applying"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "revtech-labs-accelerator",
@@ -5719,7 +5719,7 @@ window.OPPORTUNITIES = [
     "programLength": "6-month program (cash award plus ongoing mentorship)",
     "format": "Hybrid (virtual mentorship and support with in-person events)",
     "eligibility": "US-based, Black-led startups (at least one founder or C-level executive identifies as Black); Google prioritizes tech-enabled ventures with demonstrated traction or strong growth potential",
-    "applicationDeadline": "US applications for the current cohort opened March 19, 2026; exact close date not published — confirm current window on the official page",
+    "applicationDeadline": "No open application — official U.S. page describes the fund in the past tense and lists no current application window (as of October 2026)",
     "applicationWindow": "Annual cohort cycle",
     "applyLink": "https://startup.google.com/programs/black-founders-fund/united-states/",
     "website": "https://startup.google.com/programs/black-founders-fund/united-states/",
@@ -5731,7 +5731,7 @@ window.OPPORTUNITIES = [
       "No pitch deck or product required to start the application"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "google-for-startups-latino-founders-fund",
@@ -6295,7 +6295,7 @@ window.OPPORTUNITIES = [
     "programLength": "Not a fixed-length cohort — ongoing campus membership; applicants first build on campus for 1-2 weeks before an investment decision",
     "format": "In-person, San Francisco, CA (42,000 sq ft Fort Mason campus with desk, hardware lab, and on-site resources)",
     "eligibility": "Early-stage founders solving hard problems in emerging domains (AI, AR/VR, B2B, hardware, robotics, and more); many members also go through other accelerators like YC and return to F.Inc's campus afterward",
-    "applicationDeadline": "Rolling — reviewed on a rolling basis; typical response within about a month",
+    "applicationDeadline": "No fixed deadline posted — Blueprint II cohort has already started (fall 2026); general applications via f.inc with a response within about a month",
     "applicationWindow": "Rolling, year-round",
     "applyLink": "https://f.inc/apply",
     "website": "https://f.inc/",
@@ -6307,7 +6307,7 @@ window.OPPORTUNITIES = [
       "Many founders cycle through YC or other accelerators and return to F.Inc afterward"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "greylock-edge",
@@ -6338,7 +6338,7 @@ window.OPPORTUNITIES = [
       "Access to Greylock's AI Researchers in Residence and hiring/customer support"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "seedcamp",
@@ -7014,8 +7014,8 @@ window.OPPORTUNITIES = [
     "programLength": "12 weeks",
     "format": "In-person (San Francisco, though the program has historically rotated to other cities for some cohorts)",
     "eligibility": "Early-stage founders building with blockchain/crypto technologies; highly competitive with roughly a 3% acceptance rate",
-    "applicationDeadline": "Rolling — twice-yearly cohorts; most recent cohort (CSX 04) applications closed February 7, 2026, next cohort TBD",
-    "applicationWindow": "Twice yearly (Spring and Fall cohorts)",
+    "applicationDeadline": "Not currently open — most recent cohort (CSX 04, San Francisco, Apr–Jun 2025) applications closed February 7, 2025; official CSX page shows no open application and no newer cohort announced as of October 2026",
+    "applicationWindow": "Historically twice yearly (Spring 2024 London, Fall 2024 NYC, Spring 2025 San Francisco); no cohort announced since CSX 04",
     "applyLink": "https://a16zcrypto.com/accelerator/",
     "website": "https://a16zcrypto.com/accelerator/",
     "description": "a16z CSX (formerly Crypto Startup School) is a16z crypto's intensive, in-person accelerator for early-stage web3/crypto founders, evolved from a free educational program into a full accelerator with investment terms. Cohorts of early-stage crypto companies get $500K for 7% equity plus mentorship, technical workshops, and go-to-market support.",
@@ -7026,7 +7026,7 @@ window.OPPORTUNITIES = [
       "Runs twice per year (Spring/Fall cohorts)"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "ai-grant",
@@ -7043,7 +7043,7 @@ window.OPPORTUNITIES = [
     "programLength": "Culminates in an AI Grant Summit weekend and Demo Day in San Francisco; exact duration between application and summit not disclosed",
     "format": "Hybrid (remote application/building, in-person Summit and Demo Day in San Francisco)",
     "eligibility": "No credentials required; must have an actionable AI product idea and be willing to form a Delaware C-corp if accepted",
-    "applicationDeadline": "Applications for Batch 4 are closed; no reopening date publicly announced as of research date",
+    "applicationDeadline": "Applications for Batch 4 are closed; no next batch or reopening date announced on site as of October 2026",
     "applicationWindow": "Periodic batches (roughly annual)",
     "applyLink": "https://aigrant.com/",
     "website": "https://aigrant.com/",
@@ -7055,7 +7055,7 @@ window.OPPORTUNITIES = [
       "Batch 4 applications currently closed; program run periodically"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "activate-fellowship-berkeley",
@@ -7074,7 +7074,7 @@ window.OPPORTUNITIES = [
     "programLength": "2 years",
     "format": "In-person (Berkeley, partnered with Lawrence Berkeley National Laboratory / Cyclotron Road)",
     "eligibility": "Bachelor's degree plus at least 4 years post-graduate research/technology development experience; must be leading commercial development of a hardware-based innovation for the first time; full-time commitment; must be authorized to work in the US",
-    "applicationDeadline": "Cohort 2026 applications closed October 28, 2025; next cycle deadlines typically announced ~1 year ahead",
+    "applicationDeadline": "October 30, 2026, 12:00 PM PT (2027 U.S. cohort, across Anywhere, Berkeley, Boston, Houston and New York communities; hardware/hard-tech projects only)",
     "applicationWindow": "Annual",
     "applyLink": "https://activate.org/apply",
     "website": "https://activate.org/",
@@ -7086,7 +7086,7 @@ window.OPPORTUNITIES = [
       "Focused on hard tech for climate, energy, manufacturing, and food systems"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "restive-ventures-fintech-cohort",
@@ -7133,7 +7133,7 @@ window.OPPORTUNITIES = [
     "programLength": "5 weeks",
     "format": "In-person (OpenAI San Francisco HQ), with some remote workshops/office hours",
     "eligibility": "Technical talent at the very earliest ('pre-idea') stage of building an AI company; approximately 15 participants selected per cohort",
-    "applicationDeadline": "Most recent cohort applications closed January 12, 2026 (program ran Jan 22–Feb 27, 2026); next cohort date TBD",
+    "applicationDeadline": "Most recent cohort (Cohort 2) applications closed January 12, 2026 (program ran Jan 22–Feb 27, 2026); no next cohort announced as of October 2026",
     "applicationWindow": "Periodic cohorts (multiple times per year)",
     "applyLink": "https://openai.com/index/openai-grove/",
     "website": "https://openai.com/index/openai-grove/",
@@ -7145,7 +7145,7 @@ window.OPPORTUNITIES = [
       "Mentorship and early access from OpenAI researchers/technical leaders"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-15"
   },
   {
     "id": "fogarty-innovation",
@@ -11314,5 +11314,11915 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "open-accelerator-residency",
+    "name": "The Open Accelerator (TOA) Residency",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Enterprise",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "No cash from program; optional funding via separate IBM Ventures opt-in (amount not disclosed)",
+    "equity": "No equity taken",
+    "programLength": "16 weeks (Cycle 2 starts February 1, 2027)",
+    "format": "In person in Fort Point, Boston, 4 days/week for the full 16 weeks; one year of Massachusetts presence required if accepted",
+    "eligibility": "Companies building AI products or AI-native services for business customers (consumer out of scope); must have an MVP/working prototype and be pre-repeatable-revenue. Revenue, prior funding and a co-founder are not required.",
+    "applicationDeadline": "October 25, 2026",
+    "applicationWindow": "Cycle 2 applications close October 25, 2026 at 11:59 PM ET; decisions by December 18, 2026; up to 12 companies",
+    "applyLink": "https://red.ht/toa-residency-apply",
+    "website": "https://the-open-accelerator.com/residency/",
+    "description": "The Open Accelerator Residency is a free, equity-free 16-week in-person program in Boston for enterprise AI startups, backed by Red Hat, IBM and the Massachusetts AI Hub. Founders get paired technical and business mentors, architecture red-team reviews from Red Hat/IBM engineers, state AI compute access, and enterprise customer and investor introductions.",
+    "highlights": [
+      "No equity and no fee",
+      "Architecture 'Red Team' reviews by Red Hat and IBM field engineers",
+      "Access to Massachusetts AI computing resources",
+      "Bi-weekly customer insight sessions with enterprise executives",
+      "Founders' Premiere on May 24, 2027"
+    ],
+    "source": "https://the-open-accelerator.com/residency/",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "menlo-anthology-fund",
+    "name": "Anthology Fund (Menlo Ventures x Anthropic)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "San Francisco / Menlo Park, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Biotech/Health",
+      "Fintech",
+      "Consumer",
+      "Cybersecurity"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Investments starting at $100,000; plus $25,000-$30,000 in Anthropic credits (page lists both figures)",
+    "equity": "Equity investment (Pre-Seed, Seed, Series A as lead or participating investor); terms not disclosed",
+    "programLength": "N/A — investment plus ongoing support (quarterly deep dives, biannual demo days)",
+    "format": "Rolling investment; fractional workspace available in Menlo's San Francisco and Menlo Park offices; no fixed cohort relocation",
+    "eligibility": "AI startups (infrastructure, frontier applications, consumer AI, trust & safety, societal-benefit AI); U.S.-based preferred, exceptional international companies considered; building on Claude not required; may reapply after 3 months",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; response within ~2 weeks",
+    "applyLink": "https://menlovc.com/anthology-fund-application/",
+    "website": "https://menlovc.com/anthology-fund/",
+    "description": "The Anthology Fund is a $100M vehicle created by Menlo Ventures and Anthropic to back AI startups from pre-seed through Series A, with checks starting at $100K. Portfolio companies receive Anthropic model access and credits, Menlo's platform support, quarterly deep dives with Anthropic, and biannual demo days.",
+    "highlights": [
+      "$100M fund from Menlo Ventures and Anthropic",
+      "Checks start at $100K",
+      "Free Anthropic API credits and Anthropic Advantage resources",
+      "Biannual demo days and quarterly deep dives",
+      "Rolling applications with ~2-week response"
+    ],
+    "source": "https://menlovc.com/anthology-fund/",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "together-ai-startup-accelerator",
+    "name": "Together AI Startup Accelerator",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "Remote (Together AI, San Francisco, CA, USA)",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Up to $15K (Build, <$5M raised) / $30K (Scale, $5M-$10M) / $50K (Grow, >$10M) in platform credits plus 3/6/10 hours of forward-deployed engineering",
+    "equity": "Not disclosed (no equity mentioned)",
+    "programLength": "Not disclosed",
+    "format": "Remote, selection-based program",
+    "eligibility": "AI-native startups building on Together AI; tier based on total funding raised; open worldwide",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling (no deadline stated)",
+    "applyLink": "https://www.together.ai/startup-accelerator",
+    "website": "https://www.together.ai/startup-accelerator",
+    "description": "Together AI's Startup Accelerator gives AI-native startups inference/fine-tuning credits, forward-deployed engineering hours, and go-to-market support scaled by how much they have raised. Members also get co-marketing to Together's 800K+ developers, community events, and VC introductions.",
+    "highlights": [
+      "Up to $50K in credits depending on tier",
+      "Forward-deployed engineering hours",
+      "Joint go-to-market and co-selling to 800K+ developers",
+      "Introductions to VC network"
+    ],
+    "notableAlumni": [
+      "Corridor",
+      "PlayerZero"
+    ],
+    "source": "https://www.together.ai/startup-accelerator",
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "z-fellows",
+    "name": "Z Fellows",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Remote (final day in San Francisco or New York)",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "$10,000 (optional)",
+    "equity": "Optional $10,000 investment at a $1B valuation cap, converting at next priced round; can join without taking money",
+    "programLength": "1 week (support continues afterwards)",
+    "format": "Mostly virtual cohort of ~10 builders; final day in person in SF or NYC; participants can live anywhere",
+    "eligibility": "Technical builders of any age with a side project or startup, solo or with co-founders; no company required; no need to quit job or drop out",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; multiple cohorts per year; rejected applicants may reapply",
+    "applyLink": "https://docs.google.com/forms/u/0/d/1z5HG9Pj0hIxS2oZL_wcJS5QqDZlcVbkhYGHp5Kp_IGM/viewform",
+    "website": "https://www.zfellows.com/",
+    "description": "Z Fellows is a one-week, mostly virtual fellowship for very early technical builders, offering an optional $10K investment at a $1B cap. Its alumni include founders and early builders from Cursor, Cognition and Etched, with mentors such as Naval Ravikant, Dylan Field and Guillermo Rauch.",
+    "highlights": [
+      "$10K at a $1B cap — near-zero dilution",
+      "One-week program, mostly remote",
+      "No company or idea maturity required",
+      "Rolling applications, cohorts several times a year"
+    ],
+    "notableAlumni": [
+      "Cursor",
+      "Cognition",
+      "Etched",
+      "Whop",
+      "Aaru"
+    ],
+    "source": "https://www.zfellows.com/",
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "upfront-founder-fellows",
+    "name": "Upfront Founder Fellows",
+    "category": "Fellowship",
+    "region": "US",
+    "country": "Los Angeles, CA, USA (events in LA, NYC, SF, Boston, Philadelphia)",
+    "focusAreas": [
+      "AI/ML",
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "$75,000+ when you incorporate a venture-backable startup",
+    "equity": "Not disclosed",
+    "programLength": "8 weeks",
+    "format": "Hybrid — Upfront Summit attendance, fireside chats, 1:1 investor mentorship; year-round events in LA, NYC, SF, Boston, Philly",
+    "eligibility": "Technical builders and researchers: graduating students with hyper-growth startup internships, dropouts who joined a leading AI lab, or recent grads working at hyper-growth startups",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "2nd cohort applications open now; no deadline listed",
+    "applyLink": "https://gs6r4manvfu.typeform.com/to/z66H0SVp",
+    "website": "https://fellows.upfront.com/",
+    "description": "Upfront Ventures' Founder Fellows is an 8-week program for young technical builders and AI-lab researchers considering starting a company, with $75K+ available upon incorporating a venture-backable startup. Fellows get 1:1 investor mentorship and access to the Upfront Summit and community events.",
+    "highlights": [
+      "$75K+ for fellows who incorporate",
+      "1:1 mentorship from Upfront investors",
+      "Upfront Summit attendance",
+      "Second cohort now accepting applications"
+    ],
+    "source": "https://fellows.upfront.com/",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "google-ai-futures-fund",
+    "name": "Google AI Futures Fund",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "Remote (Google Labs / Google DeepMind)",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Google Cloud credits and possible direct equity investment; amounts not disclosed",
+    "equity": "Optional equity investment for select startups; terms not disclosed",
+    "programLength": "N/A — rolling, no batch/cohort model",
+    "format": "Remote; collaboration with Google DeepMind and Google Labs teams",
+    "eligibility": "AI startups at various stages in any location where Gemini is available",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; no fixed application window",
+    "applyLink": "https://labs.google/aifuturesfund",
+    "website": "https://labs.google/aifuturesfund",
+    "description": "Google's AI Futures Fund backs AI startups building with Google DeepMind tools, offering early access to models like Gemini, Imagen and Veo, hands-on help from Google researchers and engineers, Cloud credits, and potential direct investment. It runs on a rolling basis with no cohorts.",
+    "highlights": [
+      "Early access to Gemini, Veo and Imagen models",
+      "Hands-on support from Google DeepMind and Labs staff",
+      "Google Cloud credits and technical support",
+      "Potential direct equity investment from Google"
+    ],
+    "notableAlumni": [
+      "Toonsutra",
+      "Viggle",
+      "Rooms"
+    ],
+    "source": "https://blog.google/technology/google-labs/ai-futures-fund/",
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "cpa-com-startup-accelerator",
+    "name": "AICPA & CPA.com Startup Accelerator (2027 Cohort)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "USA",
+    "focusAreas": [
+      "AI/ML",
+      "Fintech",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$25,000 grant",
+    "equity": "Not disclosed (grant-based)",
+    "programLength": "Not disclosed (cohort announced early 2027)",
+    "format": "Not disclosed; showcases at AICPA ENGAGE and CPA.com Digital CPA conference",
+    "eligibility": "Early-stage companies building (especially AI-powered) solutions for accounting, audit, tax or advisory; working product with active users; generally seed or pre-Series A",
+    "applicationDeadline": "November 30, 2026",
+    "applicationWindow": "2027 cohort applications open through November 30, 2026",
+    "applyLink": "https://accelerator.cpa.com/",
+    "website": "https://accelerator.cpa.com/",
+    "description": "Now in its ninth year, the AICPA & CPA.com Startup Accelerator supports early-stage startups building AI tools for the accounting profession. Selected companies receive a $25K grant, mentorship from profession leaders, direct engagement with CPAs, and showcases at major accounting conferences.",
+    "highlights": [
+      "$25,000 grant",
+      "Direct access to accounting firms and AICPA network",
+      "Showcase at AICPA ENGAGE and Digital CPA",
+      "Ninth annual cohort"
+    ],
+    "notableAlumni": [
+      "Kintsugi AI"
+    ],
+    "source": "https://www.cpapracticeadvisor.com/2026/08/04/aicpa-and-cpa-com-open-applications-for-2027-startup-accelerator/187919/",
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "elevenlabs-startup-grants",
+    "name": "ElevenLabs Startup Grants",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Remote",
+    "focusAreas": [
+      "AI/ML",
+      "Consumer",
+      "Gaming/Media"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "33M characters (~680 hours of Agents usage, $5,500+ value) of free platform access over 12 months",
+    "equity": "None",
+    "programLength": "12 months",
+    "format": "Remote; credits applied to applicant's ElevenLabs account",
+    "eligibility": "Startups with fewer than 25 employees and a business/monetization plan building long-term products; agencies, consultancies and SMBs ineligible; not for existing enterprise customers",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; decision within one week",
+    "applyLink": "https://elevenlabs.io/grants-application",
+    "website": "https://elevenlabs.io/startup-grants",
+    "description": "ElevenLabs Startup Grants give early-stage companies 12 months of free access to ElevenLabs' voice AI platform, worth over $5,500. It is useful for startups building voice agents, audio or conversational AI products.",
+    "highlights": [
+      "12 months free platform access",
+      "33M characters / ~680 hours of Agents usage",
+      "No equity",
+      "Decision within a week"
+    ],
+    "source": "https://elevenlabs.io/startup-grants",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "snowflake-startup-accelerator",
+    "name": "Snowflake Startup Accelerator",
+    "category": "Accelerator",
+    "region": "Global",
+    "country": "Remote (Snowflake, Bozeman, MT / San Mateo, CA, USA)",
+    "focusAreas": [
+      "AI/ML",
+      "Enterprise",
+      "B2B SaaS"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Snowflake credits; investment access via Snowflake Ventures and partner VCs (amounts not disclosed)",
+    "equity": "Not disclosed",
+    "programLength": "Up to 6 months (many graduate in under 3 months)",
+    "format": "Remote with dedicated partner engineers; VC Demo Days",
+    "eligibility": "Startups building customer-facing applications on Snowflake's AI Data Cloud; small, selective cohort",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling admission",
+    "applyLink": "https://www.snowflake.com/en/why-snowflake/startup-program/startup-accelerator/",
+    "website": "https://www.snowflake.com/en/why-snowflake/startup-program/startup-accelerator/",
+    "description": "The Snowflake Startup Accelerator helps AI and data startups build and sell applications on Snowflake's AI Data Cloud, with dedicated partner engineers, credits, co-marketing, access to Snowflake sales teams, and VC demo days with firms like Redpoint and Altimeter.",
+    "highlights": [
+      "Dedicated partner engineers from design to launch",
+      "Co-marketing and Snowflake sales team access",
+      "VC Demo Days with Snowflake Ventures, Redpoint, Altimeter and others",
+      "Rolling admission"
+    ],
+    "notableAlumni": [
+      "Lang.AI",
+      "Genesis Computing",
+      "DeepTempo",
+      "Superduper.io"
+    ],
+    "source": "https://www.snowflake.com/en/why-snowflake/startup-program/startup-accelerator/",
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "focal-founder-residency",
+    "name": "Focal Founder Residency",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Miami, FL, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Not disclosed",
+    "equity": "Not disclosed (described as 'without the heavy dilution')",
+    "programLength": "3+ months (next batch January 2027)",
+    "format": "Fully in person in Miami with The LAB Miami, 6+ days/week; relocation to Miami required (costs partly offset)",
+    "eligibility": "Early technical founders building AI; 'no too early' — drive, an idea and ability to ship quickly",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Applications for January 2027 batch opening October 2026; no deadline published",
+    "applyLink": "https://focal.vc/residency",
+    "website": "https://focal.vc/residency",
+    "description": "Focal's Founder Residency is an intensive in-person program in Miami for about 10 technical AI founders, run with The LAB Miami. Founders get mentorship from founders of companies like DigitalOcean, Mural and Papa, with accelerator-style support and light dilution.",
+    "highlights": [
+      "~10-company cohort",
+      "Mentors include founders of DigitalOcean, Mural, Papa, Quicknode",
+      "Hosted at The LAB Miami",
+      "January 2027 batch"
+    ],
+    "source": "https://focal.vc/residency",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "sxsw-pitch",
+    "name": "SXSW Pitch 2027",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS",
+      "Deep Tech",
+      "Biotech/Health",
+      "Fintech",
+      "Cybersecurity",
+      "Climate/Impact",
+      "Gaming/Media"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "No cash prize disclosed (showcase to judges and investors)",
+    "equity": "None",
+    "programLength": "Two-day live pitch event, March 16-17, 2027",
+    "format": "In-person finals at SXSW in Austin, TX; online application",
+    "eligibility": "Product/service not launched before Jan 1, 2024; company has raised no more than $10M combined; founders retain ownership; legally registered; fits one of the SXSW Pitch categories (incl. Emerging & Frontier Tech, SaaS/Enterprise/Developer Platforms, Smart Data/Security/FinTech, Life Sciences/Healthcare, Sustainability, Mobility, Media; plus student track). $225 non-refundable application fee.",
+    "applicationDeadline": "November 13, 2026 (FAQ also lists Nov 11, 2026 11:59pm PT; confirm in portal)",
+    "applicationWindow": "Opened June 23, 2026; regular entry Sept 14 - Nov 13, 2026",
+    "applyLink": "https://cart.sxsw.com/products/acceleratorapp",
+    "website": "https://sxsw.com/pitch/",
+    "description": "SXSW Pitch is SXSW's flagship startup showcase, where selected finalists pitch to a panel of industry experts, early adopters and investors during SXSW in Austin. AI is covered across several tracks, including AI infrastructure, MLOps and LLM orchestration under SaaS/Enterprise, and AI chips/autonomous systems under Emerging & Frontier Tech.",
+    "highlights": [
+      "Finals March 16-17, 2027 during SXSW in Austin",
+      "Multiple AI-relevant tracks (SaaS/Enterprise/Dev Platforms, Emerging & Frontier Tech)",
+      "SXSW says 74% of past participants went on to secure funding",
+      "Cap: under $10M raised; product launched on/after Jan 1, 2024",
+      "$225 application fee; non-selected applicants get an SXSW registration coupon"
+    ],
+    "source": "https://sxsw.com/pitch/",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "sxsw-edu-launch",
+    "name": "SXSW EDU Launch Startup Competition 2027",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "EdTech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Not disclosed (Launch Award, Impact Award and Community Choice Award; prize values not stated)",
+    "equity": "None",
+    "programLength": "Pitch competition March 14-15, 2027 (SXSW EDU March 13-16, 2027)",
+    "format": "In-person finals in Austin, TX; online application",
+    "eligibility": "Early-stage education-market startups with a management team, public website, sustainable business model and demonstrated user traction; raised no more than $8M combined; past Launch finalists/semifinalists ineligible; may compete in only one of SXSW Pitch or SXSW EDU Launch. Final-entry fee $100.",
+    "applicationDeadline": "November 1, 2026",
+    "applicationWindow": "Early entry June 23 - Sept 11, 2026 ($60); final entry Sept 12 - Nov 1, 2026 ($100)",
+    "applyLink": "https://cart.sxsw.com/participate#launchapp",
+    "website": "https://sxswedu.com/competitions/",
+    "description": "SXSW EDU's Launch competition showcases early-stage education technology startups, with finalists pitching live at SXSW EDU in Austin. Finalists receive SXSW EDU and Platinum credentials, bootcamp access, coaching and mentorship.",
+    "highlights": [
+      "Finalists get 2 SXSW EDU 2027 + 2 SXSW Platinum credentials",
+      "Startup Bootcamp, coaching and mentorship",
+      "Awards: Launch Award, Impact Award, Community Choice Award",
+      "Funding cap $8M"
+    ],
+    "source": "https://sxswedu.com/competitions/",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "rsac-innovation-sandbox",
+    "name": "RSAC Innovation Sandbox Contest 2027",
+    "category": "Competition",
+    "region": "Global",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Cybersecurity",
+      "AI/ML",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$5,000,000 uncapped SAFE investment for each Top 10 finalist (awarded to 2026 finalists per RSAC; 2027 terms per official page once published)",
+    "equity": "Uncapped SAFE (equity)",
+    "programLength": "Live contest at RSAC Conference 2027",
+    "format": "In-person finals at RSAC Conference, San Francisco; online submission with video pitch",
+    "eligibility": "Cybersecurity startups with a product launched between Dec 1, 2025 and Jan 10, 2027 (per RSAC 2027 page); full criteria published at submission opening.",
+    "applicationDeadline": "Not disclosed (submissions open Dec 1, 2026; a third-party listing reports Jan 14, 2027)",
+    "applicationWindow": "Opens December 1, 2026",
+    "applyLink": "https://www.rsaconference.com/usa/programs/innovation-sandbox",
+    "website": "https://www.rsaconference.com/usa/programs/innovation-sandbox",
+    "description": "RSAC Innovation Sandbox is the best-known cybersecurity startup contest, where 10 finalists pitch on the main stage at RSAC Conference and one is named Most Innovative Startup. Since 2025, each Top 10 finalist has received a $5M uncapped SAFE investment. Relevant for AI security products.",
+    "highlights": [
+      "$5M uncapped SAFE to each Top 10 finalist (2026 cycle)",
+      "Main-stage pitch at RSAC Conference",
+      "Submissions for 2027 open December 1, 2026",
+      "Companion RSAC Launch Pad contest for earlier-stage companies"
+    ],
+    "source": "https://www.rsaconference.com/usa/programs/innovation-sandbox",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "the-pitch-show",
+    "name": "The Pitch (podcast) - Live Investor Pitch Taping",
+    "category": "Competition",
+    "region": "Global",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Investor checks from ~$25K angel checks to $500K+ VC leads (founders have raised $50K-$1.4M from the room)",
+    "equity": "Negotiated with participating investors; no fee or equity taken to pitch",
+    "programLength": "~30-minute recorded pitch session (Fall 2026 taping, November 2026)",
+    "format": "In-person live taping in San Francisco; recorded and may be published as a podcast episode",
+    "eligibility": "Pre-seed or seed (not Series A+), incorporated entity in any country, actively fundraising with at least $300K left to raise, any sector, available for the November 2026 SF taping, comfortable being recorded.",
+    "applicationDeadline": "Not disclosed (Fall 2026 cohort applications open)",
+    "applicationWindow": "Fall 2026 cohort open now; ~5-min online application, 1-2 week review, 20-min interview",
+    "applyLink": "https://thepitch.show/apply/",
+    "website": "https://www.thepitch.show/",
+    "description": "The Pitch is a long-running startup podcast where founders pitch a panel of active VCs who can invest on the spot. The Fall 2026 cohort will tape live in San Francisco with 18 startups and 10 VCs; the show reports $26.3M invested in 74 startups to date.",
+    "highlights": [
+      "18 startup spots, 10 VCs actively deploying",
+      "Free to apply and pitch",
+      "Checks from ~$25K to $500K+",
+      "Past panelists include Precursor, Hustle Fund and Flybridge partners",
+      "Podcast exposure to a large listener-investor audience"
+    ],
+    "source": "https://thepitch.show/apply/",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "nba-all-star-pitch",
+    "name": "NBA Foundation All-Star Pitch Competition 2027",
+    "category": "Competition",
+    "region": "US",
+    "country": "Arizona, USA (NBA All-Star 2027)",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Not disclosed for 2027 (funding and resources; a past edition awarded $10K)",
+    "equity": "None",
+    "programLength": "Multi-round pitch during NBA All-Star",
+    "format": "In-person pitch rounds at NBA All-Star; online application",
+    "eligibility": "Ambitious early-stage entrepreneurs; the 2027 edition highlights Arizona entrepreneurs (no explicit residency rule stated).",
+    "applicationDeadline": "October 23, 2026",
+    "applicationWindow": "Open now through October 23",
+    "applyLink": "https://nbafoundation.nba.com/all-star-pitch-competition/",
+    "website": "https://nbafoundation.nba.com/all-star-pitch-competition/",
+    "description": "The NBA Foundation's All-Star Pitch Competition lets early-stage entrepreneurs pitch to business leaders from across the NBA family during All-Star, competing for funding and resources. The 2027 edition highlights Arizona entrepreneurs.",
+    "highlights": [
+      "Pitch during NBA All-Star weekend",
+      "Feedback from NBA-family business leaders",
+      "2027 theme spotlights Arizona founders",
+      "Deadline Oct 23"
+    ],
+    "source": "https://nbafoundation.nba.com/all-star-pitch-competition/",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "fintech-meetup-pitch",
+    "name": "Fintech Meetup 2027 Startup Pitch Competition",
+    "category": "Competition",
+    "region": "US",
+    "country": "Las Vegas, NV, USA",
+    "focusAreas": [
+      "Fintech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Two winners each receive a $50,000 SAFE note",
+    "equity": "SAFE (equity)",
+    "programLength": "Live pitch at Fintech Meetup 2027",
+    "format": "In-person at Fintech Meetup; online application",
+    "eligibility": "Early-stage fintech startups (further criteria to be published when applications open).",
+    "applicationDeadline": "Not disclosed (applications open later in 2026)",
+    "applicationWindow": "Opening soon",
+    "applyLink": "https://fintechmeetup.com/startup-pitch",
+    "website": "https://fintechmeetup.com/startup-pitch",
+    "description": "Fintech Meetup's Startup Pitch Competition puts selected early-stage fintech startups on stage at one of the largest US fintech networking conferences. Two winners each receive a $50K SAFE note. 2027 applications have not opened yet.",
+    "highlights": [
+      "Two $50K SAFE notes",
+      "Stage at Fintech Meetup 2027",
+      "Partners listed include J.P. Morgan, Mastercard, Commerce Ventures",
+      "Applications opening later in 2026"
+    ],
+    "source": "https://fintechmeetup.com/startup-pitch",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "humanx-pitch",
+    "name": "HumanX 2027 Pitch Competitions",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Las Vegas, NV, USA",
+    "focusAreas": [
+      "AI/ML",
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Not disclosed for 2027 (cash rewards, cloud credits and complimentary legal services in past editions)",
+    "equity": "None disclosed",
+    "programLength": "Pitch rounds during HumanX, March 7-10, 2027",
+    "format": "In-person at Mandalay Bay, Las Vegas; online application",
+    "eligibility": "AI startups; past tracks: Main Pitch (Seed to Series A, presented by Google Cloud) and Mayfield AI Garage (inception/ideation stage). 2027 criteria not yet published.",
+    "applicationDeadline": "Not disclosed (2027 details 'coming soon')",
+    "applicationWindow": "Opening soon",
+    "applyLink": "https://www.humanx.co/pitch-competitions",
+    "website": "https://www.humanx.co/pitch-competitions",
+    "description": "HumanX is a large AI-industry conference that runs AI startup pitch competitions, including a Main Pitch presented by Google Cloud and the Mayfield AI Garage for very early teams. 2027 competition details are listed as coming soon ahead of the March 2027 event in Las Vegas.",
+    "highlights": [
+      "AI-only conference competition",
+      "Main Pitch presented by Google Cloud; AI Garage presented by Mayfield",
+      "Covers pre-seed through Series A",
+      "HumanX 2027: March 7-10, Las Vegas"
+    ],
+    "source": "https://www.humanx.co/pitch-competitions",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "snowflake-startup-challenge",
+    "name": "Snowflake Startup Challenge 2027",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Remote (finals at Snowflake Summit, USA)",
+    "focusAreas": [
+      "AI/ML",
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Winner considered for potential Snowflake Ventures investment of up to $1M (not guaranteed; subject to due diligence)",
+    "equity": "Equity investment if made (not a contest prize)",
+    "programLength": "Multi-round challenge culminating at Snowflake Summit",
+    "format": "Remote submissions (demo video); finalists present at Snowflake Summit",
+    "eligibility": "Startup has built an application that depends on Snowflake as a core part of its architecture; has not raised Series B or later; see official rules.",
+    "applicationDeadline": "Not disclosed (2027 registration of interest open)",
+    "applicationWindow": "Register interest now; dates TBA",
+    "applyLink": "https://www.snowflake.com/en/startup-challenge/#form",
+    "website": "https://www.snowflake.com/en/startup-challenge/",
+    "description": "Snowflake's annual Startup Challenge selects data and AI startups building on Snowflake; finalists present at Snowflake Summit and the winner may receive up to $1M from Snowflake Ventures. Registration of interest for the 2027 challenge is open.",
+    "highlights": [
+      "Up to $1M potential Snowflake Ventures investment for winner",
+      "Present at Snowflake Summit + 2 passes",
+      "Mentorship from an NYSE-listed company leader; chance to ring the NYSE bell",
+      "Remote application via demo video"
+    ],
+    "source": "https://www.snowflake.com/en/startup-challenge/",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "microsoft-imagine-cup",
+    "name": "Microsoft Imagine Cup 2027",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Remote (global)",
+    "focusAreas": [
+      "AI/ML",
+      "EdTech",
+      "Fintech",
+      "Biotech/Health",
+      "Consumer",
+      "Cybersecurity"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "2026 structure: $100,000 USD Scale World Champion; $50,000 USD Launch winners; Azure credits (2027 amounts TBA)",
+    "equity": "None",
+    "programLength": "Multi-round (MVP submission, semifinals, World Championship)",
+    "format": "Remote submissions; select finalists may attend Microsoft Build",
+    "eligibility": "Student teams of 1-4 (18+, enrolled at an accredited institution during the eligibility window); must use at least two Microsoft AI services. Scale track: up to $5M total funding; Launch track: no dilutive funding.",
+    "applicationDeadline": "Not disclosed (2027 'coming soon'; third-party listing reports Jan 8, 2027)",
+    "applicationWindow": "Opening soon",
+    "applyLink": "https://imaginecup.microsoft.com/en-us",
+    "website": "https://imaginecup.microsoft.com/en-us",
+    "description": "Imagine Cup is Microsoft's global student startup competition for AI-powered products built on Microsoft cloud and AI services. Only relevant if a Centri founder is a currently enrolled student; the 2027 edition is listed as coming soon.",
+    "highlights": [
+      "$100K Scale World Champion prize + mentoring with Satya Nadella (2026 structure)",
+      "Fully remote submissions",
+      "Requires student founders",
+      "Must use 2+ Microsoft AI services"
+    ],
+    "source": "https://imaginecup.microsoft.com/en-us/support/faq",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "nia-start-up-challenge",
+    "name": "2027 NIA Start-Up Challenge and Accelerator",
+    "category": "Competition",
+    "region": "US",
+    "country": "Remote (USA)",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Up to $994,000 total: up to 21 Stage 1 finalists get $24,000 each; up to 7 Stage 2 winners get an additional $70,000 each",
+    "equity": "None (non-dilutive federal prize)",
+    "programLength": "Five-month accelerator (June-Nov 2027, ~6-8 hrs/week, two in-person events)",
+    "format": "Mostly virtual accelerator with two in-person events",
+    "eligibility": "People new to entrepreneurship; individuals/team leads must be US citizens or permanent residents; must form a US small business by Nov 1, 2027; not PI on an active NIH SBIR/STTR award; ideas addressing aging-related diseases (incl. Alzheimer's/ADRD), healthy aging and caregiving; NIH notes interest in AI-based approaches.",
+    "applicationDeadline": "January 15, 2027",
+    "applicationWindow": "Submissions Dec 1, 2026 - Jan 15, 2027 (webinar Dec 3, 2026)",
+    "applyLink": "https://www.nih.gov/challenges/2027-nia-start-challenge-accelerator",
+    "website": "https://www.nia.nih.gov/research/sbir/start-challenge",
+    "description": "The National Institute on Aging's Start-Up Challenge is a federal prize competition and accelerator for new entrepreneurs building aging- and dementia-related health technologies. It awards up to $994K in non-dilutive prizes and explicitly welcomes AI-based approaches.",
+    "highlights": [
+      "Up to $994K in non-dilutive prizes",
+      "$24K per Stage 1 finalist + $70K per Stage 2 winner",
+      "No equity taken",
+      "Interest in AI-based approaches to aging/caregiving",
+      "Pathway to NIH SBIR funding"
+    ],
+    "source": "https://www.nih.gov/challenges/2027-nia-start-challenge-accelerator",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "hello-tomorrow-global-challenge",
+    "name": "Hello Tomorrow Global Challenge (12th edition)",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Remote application (finals in Amsterdam, Netherlands)",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML",
+      "Cybersecurity",
+      "Biotech/Health",
+      "Climate/Impact",
+      "Hardware"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "EUR 200K equity prize from DeepBright Ventures; Spinout Breakthroughs Prize for idea/pre-seed teams (amount not disclosed)",
+    "equity": "Equity prize (EUR 200K)",
+    "programLength": "Selection Nov 2026 - Jun 2027; finals at Hello Tomorrow Summit June 2-3, 2027",
+    "format": "Remote application; Deep Tech Pioneers and finalists travel to Amsterdam for the summit (no relocation)",
+    "eligibility": "Early-stage through Series B deep tech startups based on new technology, a scientific discovery or complex engineering; team of at least 2; not a subsidiary/spin-off of an existing company; open internationally incl. US.",
+    "applicationDeadline": "November 30, 2026",
+    "applicationWindow": "Sept 23 - Nov 30, 2026",
+    "applyLink": "https://hello-tomorrow.org/global-challenge/",
+    "website": "https://hello-tomorrow.org/global-challenge/",
+    "description": "Hello Tomorrow's Global Challenge is a major international deep tech startup competition with 13 tracks, several focused on AI (foundation models, agentic AI, industrial AI). 70 Deep Tech Pioneers are selected in February and finalists pitch at the Amsterdam summit, with an Investor Day of 350+ VCs/CVCs.",
+    "highlights": [
+      "EUR 200K equity prize from DeepBright Ventures",
+      "AI & ML subtrack (foundation models, agentic AI) under Next-Gen Computing & Cybersecurity",
+      "70 Deep Tech Pioneers selected Feb 2027",
+      "Investor Day June 1, 2027 with 350+ VCs/CVCs",
+      "Requires travel to Amsterdam for finals only"
+    ],
+    "source": "https://hello-tomorrow.org/global-challenge/",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "global-ai-builders-cup",
+    "name": "Global AI Builders Cup",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Remote launch round; US city hubs (SF, NYC, Boston, Seattle, LA, Chicago, Austin)",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$50,000-$250,000 investment from Chief in Tech Capital (at investor's discretion, subject to due diligence)",
+    "equity": "Equity investment (not a cash grant); terms provided after award",
+    "programLength": "Local, regional and global rounds (Season 1)",
+    "format": "Virtual worldwide launch round with a 2-minute pre-screen (no deck); local/regional rounds in city hubs",
+    "eligibility": "AI-native startups worldwide; US eligible. No entry fee.",
+    "applicationDeadline": "Not disclosed (applications open January 2027)",
+    "applicationWindow": "Opens January 2027",
+    "applyLink": "https://aibuilderscup.com/united-states/austin",
+    "website": "https://aibuilderscup.com/",
+    "description": "The Global AI Builders Cup is a new AI-only startup pitch competition run by Humenta with AI Builders Network, offering a $50K-$250K investment prize from Chief in Tech Capital. It is free to enter, with a virtual worldwide launch round and US hubs in major cities, plus a Women in AI Founders track with WomenTech Network.",
+    "highlights": [
+      "AI-native startups only",
+      "$50K-$250K investment prize (Chief in Tech Capital)",
+      "Free: no entry or finale fee",
+      "2-minute pre-screen, no pitch deck needed",
+      "Women in AI Founders track"
+    ],
+    "source": "https://aibuilderscup.com/united-states/austin",
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15"
+  },
+  {
+    "id": "fintech-innovation-lab-new-york",
+    "name": "FinTech Innovation Lab New York",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Fintech",
+      "Enterprise",
+      "B2B SaaS"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Not disclosed (non-dilutive program; no investment)",
+    "equity": "None — non-dilutive, no equity, no application fee",
+    "programLength": "12 weeks (March–June 2027)",
+    "format": "Hybrid; core team members must attend in-person NYC events during working hours (travel not reimbursed)",
+    "eligibility": "Fintech/enterprise tech companies with at least a beta product, a deployable solution and a track record of customer integrations; generally pre-seed through Series B; must be authorized to work in the US (no visa sponsorship)",
+    "applicationDeadline": "November 25, 2026",
+    "applicationWindow": "Open now for the 2027 class until Nov 25; finalists notified mid-January; Shark Tank Day Feb 2 and Demo Fair Feb 4",
+    "applyLink": "https://portal.fintechinnovationlab.com/signup",
+    "website": "https://fintechinnovationlab.com/apply/new-york/",
+    "description": "Co-founded by Accenture and the Partnership Fund for New York City, the FinTech Innovation Lab is a 12-week program that pairs fintech and enterprise technology startups with senior executives from leading banks, insurers and asset managers. It is non-dilutive and focused on pilots and customer development with major financial institutions.",
+    "highlights": [
+      "No equity taken, no application fee",
+      "Mentorship from executives at major global financial institutions",
+      "Pre-seed to Series B companies eligible",
+      "Strong path to enterprise pilots with banks and insurers"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://fintechinnovationlab.com/apply/new-york/"
+  },
+  {
+    "id": "robin-hood-blue-ridge-labs-catalyst",
+    "name": "Catalyst by Blue Ridge Labs at Robin Hood",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Social Impact",
+      "Fintech",
+      "AI/ML",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100,000 (investment for for-profits; grant for nonprofits)",
+    "equity": "Not disclosed on official page (2025 cohort terms: 5.5% equity for the $100K investment)",
+    "programLength": "16 weeks (Feb–June 2027)",
+    "format": "In person at Robin Hood's Union Square HQ, NYC; Phase 1 (10 weeks, Feb–Mar, includes SXSW trip) and Phase 2 (6 weeks, Apr–Jun) ending in demo day",
+    "eligibility": "Pre-seed startups or tech nonprofits with an MVP and traction, building scalable tech for low-income New Yorkers/Americans; <=$150K revenue in any 12 months and <=$500K raised (excluding grants); technical founder able to build the product; must incorporate if accepted",
+    "applicationDeadline": "November 13, 2026",
+    "applicationWindow": "Open now for the 2027 cohort until Nov 13, 2026",
+    "applyLink": "https://airtable.com/appW2tVQHHmkQzmJY/pagt4mhD514yASlk6/form",
+    "website": "https://robinhood.org/our-work/blue-ridge-labs/catalyst",
+    "description": "Catalyst is Robin Hood's 16-week in-person accelerator for early-stage ventures using software, AI and data to advance economic mobility for low-income people. Selected ventures receive $100,000 plus coaching and feedback from Robin Hood's Design Insight Group of 5,000+ New Yorkers.",
+    "highlights": [
+      "$100K per venture, possible follow-on funding",
+      "16 weeks in NYC with SXSW trip and demo day",
+      "User research access via 5,000+ member Design Insight Group",
+      "Open to solo founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://robinhood.org/our-work/blue-ridge-labs/catalyst"
+  },
+  {
+    "id": "breakthrough-energy-fellows",
+    "name": "Breakthrough Energy Fellows (Cohort 7)",
+    "category": "Fellowship",
+    "region": "Global",
+    "country": "Remote (US-based organization; occasional in-person events)",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $500,000 R&D funding for Innovator Fellows (per Cohort 7 program materials as reported; not stated on application portal)",
+    "equity": "Reported as investment via SAFE for Innovator Fellows",
+    "programLength": "12 months full-time (+~3 months close-out)",
+    "format": "Remote-friendly; no relocation required; occasional in-person events",
+    "eligibility": "Climate technologies (roughly TRL 1-4) that could cut/capture >=500 Mt GHG per year at scale or meaningfully address adaptation; typically < $2M dilutive funding raised; company incorporated before Sept 2027; full-time commitment",
+    "applicationDeadline": "November 2, 2026",
+    "applicationWindow": "Concept papers through Nov 2, 2026; then full application and deep-dive interviews; Cohort 7 begins Sept 2027",
+    "applyLink": "https://befellows.smapply.org/",
+    "website": "https://www.breakthroughenergy.org/fellows-projects",
+    "description": "Breakthrough Energy Fellows, part of Bill Gates' Breakthrough Energy, supports very early-stage climate technology innovators with R&D funding, curriculum, 1:1 mentorship and access to its global network. Cohort 7's Innovator Fellowship is accepting concept papers now.",
+    "highlights": [
+      "Concept paper first stage (low-lift initial application)",
+      "Backed by Breakthrough Energy network",
+      "No relocation required",
+      "Business Fellows and Explorers considered on rolling basis"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://befellows.smapply.org/"
+  },
+  {
+    "id": "vedder-biotechnology-accelerator",
+    "name": "VEDDER Biotechnology Accelerator (D!NG / U.S. Army)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Indiana, USA (national, mostly remote)",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Biotech/Health",
+      "AI/ML",
+      "Hardware"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Milestone-based prototype agreements sized to proposed work (Cohort 1 range not yet published)",
+    "equity": "None stated — prototype agreements (not grants); companies keep background IP and generally foreground IP",
+    "programLength": "Not disclosed",
+    "format": "Mostly remote with periodic in-person events",
+    "eligibility": "U.S.-organized, U.S.-owned and controlled companies (biotech startups and nontraditional innovators) responsive to Cohort 1 challenges: rapid small-molecule design for CBRN countermeasures, or low-SWaP distributed sensing with on-device edge AI",
+    "applicationDeadline": "October 30, 2026",
+    "applicationWindow": "Cohort 1 submissions close Oct 30, 2026 11:59pm ET; interest list for future cohorts",
+    "applyLink": "https://www.dingusa.org/vedder/apply",
+    "website": "https://www.dingusa.org/",
+    "description": "VEDDER is a new U.S. Army-backed biotechnology and dual-use accelerator operated by the nonprofit Defense Innovation Networking Group (D!NG). Selected companies receive milestone-based prototype agreements plus contracting, legal, mentorship and capital-network support, with paths to follow-on production.",
+    "highlights": [
+      "New program launched 2026 ($8M first-year award, up to $500M production ceiling)",
+      "Edge-AI sensing challenge open to AI/hardware startups",
+      "Founders retain IP",
+      "Open to applicants in any US state"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://prnewswire.com/news-releases/vedder-biotechnology-accelerator-opens-applications-for-inaugural-cohort-302907513.html"
+  },
+  {
+    "id": "ai-2030-accelerator",
+    "name": "AI 2030 Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Fintech",
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Not disclosed",
+    "equity": "Not disclosed",
+    "programLength": "~3 months per track (FinTech Dec 1, 2026–Feb 28, 2027; LegalTech Jan 21–Apr 14, 2027; Healthcare Mar 1–May 14, 2027)",
+    "format": "Not disclosed (Chicago-based organization; applications via F6S)",
+    "eligibility": "High-potential AI startups, with tracks for FinTech, LegalTech and Healthcare (regulated markets)",
+    "applicationDeadline": "Not disclosed",
+    "applicationWindow": "Applications opened Sept 9, 2026 for the 2026-27 cycle",
+    "applyLink": "https://www.f6s.com/2026-ai-2030-accelerator-cohort-2",
+    "website": "https://ai2030.org/accelerator/",
+    "description": "AI 2030's accelerator supports AI startups in regulated markets through sector tracks in FinTech, LegalTech and Healthcare, offering fundraising support, introductions to 50+ venture fund partners and cloud credits via AWS Activate and the NVIDIA VC Alliance.",
+    "highlights": [
+      "Sector tracks for FinTech, LegalTech, Healthcare",
+      "Introductions to 50+ VC partners",
+      "AWS Activate and NVIDIA VC Alliance credits"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://ai2030.org/accelerator/"
+  },
+  {
+    "id": "conquer-fintech-accelerator-msu",
+    "name": "Conquer FinTech Accelerator (MSU Research Foundation & MSUFCU)",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "East Lansing, MI, USA",
+    "focusAreas": [
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Not disclosed (graduates may receive investment from Red Cedar Ventures)",
+    "equity": "Not disclosed",
+    "programLength": "10 weeks (Spring term, Jan–Apr 2027)",
+    "format": "Hybrid; first week in person in East Lansing, Michigan",
+    "eligibility": "Early-stage finance and insurance startups; MSU affiliation not required; 5 startups per cohort",
+    "applicationDeadline": "Not disclosed",
+    "applicationWindow": "Applications open now for the 4th cohort starting January 2027",
+    "applyLink": "https://www.msufoundation.org/conquer-accelerator",
+    "website": "https://www.msufoundation.org/conquer-accelerator",
+    "description": "The Conquer FinTech Accelerator, a partnership of the MSU Research Foundation, MSU Federal Credit Union and MSU, is a highly selective 10-week hybrid program for fintech and insurtech startups, with potential post-program investment from Red Cedar Ventures. A sister Conquer Healthcare program runs in Detroit.",
+    "highlights": [
+      "Only 5 startups per cohort",
+      "Potential investment from Red Cedar Ventures",
+      "Credit union partner access (MSUFCU)",
+      "No MSU affiliation required"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://www.msufoundation.org/conquer-accelerator"
+  },
+  {
+    "id": "dirigo-labs-accelerator",
+    "name": "Dirigo Labs Accelerator",
+    "category": "Accelerator",
+    "region": "US",
+    "country": "Waterville, ME, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Not disclosed (page mentions capital investment without an amount)",
+    "equity": "Not disclosed",
+    "programLength": "16 weeks (Feb 1 – late May 2027)",
+    "format": "Hybrid: virtual sessions plus in-person events in Waterville, Maine; ends with a pitch competition",
+    "eligibility": "Startups with early traction (revenue, customers/users, funded R&D, grants, investor interest or prior startup success) based in Maine or relocating to Maine by Feb 2027",
+    "applicationDeadline": "January 8, 2027",
+    "applicationWindow": "Applications open now through Jan 8, 2027; decisions by end of January",
+    "applyLink": "https://www.dirigolabs.org/accelerator-application/",
+    "website": "https://www.dirigolabs.org/",
+    "description": "Dirigo Labs runs a 16-week accelerator for Maine-based startups with early traction, combining virtual business-model sessions with in-person Build and Raise workshops in Waterville and a closing pitch competition.",
+    "highlights": [
+      "No application fee",
+      "Hybrid format",
+      "Culminates in pitch competition (2026 prize pool $25K)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://www.dirigolabs.org/accelerator-application/"
+  },
+  {
+    "id": "google-for-startups-cloud-program-ai",
+    "name": "Google for Startups Cloud Program (AI Startup Program)",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global (remote; US startups eligible)",
+    "focusAreas": [
+      "AI/ML",
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $350,000 in Google Cloud credits over 2 years for AI-first startups (Year 1: 100% of usage up to $250,000); up to $200,000 for non-AI startups",
+    "equity": "None — cloud credits, no equity",
+    "programLength": "2 years (credit period)",
+    "format": "Remote — online application",
+    "eligibility": "AI-first startups that use or plan to use Gemini as a foundation of their primary product; raised Pre-Seed/Seed within the last 5 years or Series A within the last 12 months; founded within the last 5 years",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://cloud.google.com/startup/ai",
+    "website": "https://cloud.google.com/startup",
+    "description": "Google Cloud's startup program gives AI-first startups up to $350K in Google Cloud credits over two years, plus training, dedicated support, and access to Google's AI ecosystem and foundation models. It is a non-dilutive way to cover compute and Gemini/Vertex AI costs for early-stage AI companies.",
+    "highlights": [
+      "Up to $350K in cloud credits for AI startups",
+      "Year 1 covers 100% of usage up to $250K for AI-first startups",
+      "Dedicated support, training and Google AI ecosystem access",
+      "Invitations to the Gemini Startup Forum for seed to Series A founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://cloud.google.com/startup/ai"
+  },
+  {
+    "id": "aws-activate",
+    "name": "AWS Activate",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global (remote; US startups eligible)",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Founders tier: up to $5,000 in AWS credits; Portfolio tier: up to $200,000 (via an Activate Provider); AWS Credits for AI Startups: $200,000+ (invite-only)",
+    "equity": "None — promotional credits, no equity",
+    "programLength": "Credits subject to AWS Promotional Credit Terms",
+    "format": "Remote — online application with AWS Builder ID",
+    "eligibility": "Founders tier: bootstrapped/self-funded startups. Portfolio tier: pre-Series B, founded within the last 10 years, backed by an Activate Provider (VC, accelerator, angel), AWS account on a paid tier plan",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling; decisions in 5-10 business days",
+    "applyLink": "https://aws.amazon.com/startups/credits",
+    "website": "https://aws.amazon.com/startups",
+    "description": "AWS Activate provides non-dilutive AWS credits to startups, from up to $5K for self-funded founders to up to $200K for startups backed by an Activate Provider, with an invite-only AI tier above $200K. Applications are reviewed on a rolling basis.",
+    "highlights": [
+      "Up to $5K for bootstrapped founders, applied directly",
+      "Up to $200K with an Activate Provider Org ID",
+      "Invite-only $200K+ tier for scaling AI startups",
+      "Decisions within 5-10 business days"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://aws.amazon.com/startups/credits"
+  },
+  {
+    "id": "cloudflare-for-startups",
+    "name": "Cloudflare for Startups",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global (remote; US startups eligible)",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Tier 3: $10,000 (bootstrapped, under $1M raised); Tier 2: $100,000 (under $5M raised, affiliated partner); Tier 1: $350,000 ($5M+ raised, affiliated partner) in Cloudflare credits",
+    "equity": "None — credits, no equity",
+    "programLength": "1 year (or until credits are used)",
+    "format": "Remote — online application; review typically within 48 hours",
+    "eligibility": "Incorporated within 10 years; funded up to Series B with funding in the last 12 months (bootstrapped eligible for Tier 3); actively building a tech product; live website and public LinkedIn/X/GitHub presence; first-time applicant; business email",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://www.cloudflare.com/lp/startups",
+    "website": "https://www.cloudflare.com/forstartups/",
+    "description": "Cloudflare for Startups gives up to $350K in one-year credits across Cloudflare's developer platform, including Workers AI, R2 and other services. Bootstrapped startups with under $1M raised can get $10K, and partner-backed startups qualify for larger tiers.",
+    "highlights": [
+      "$10K tier open to bootstrapped startups",
+      "Up to $350K for partner-backed startups",
+      "Workers AI credits included (capped per tier)",
+      "Solutions Architect office hours at top tier"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://www.cloudflare.com/forstartups/"
+  },
+  {
+    "id": "digitalocean-hatch",
+    "name": "DigitalOcean Hatch",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global (remote; US startups eligible)",
+    "focusAreas": [
+      "AI/ML",
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Not disclosed — credit amount set at onboarding and varies by partner (12 months of credits, $10,000 monthly usage limit); separate GPU credits by invitation",
+    "equity": "None — credits, no equity",
+    "programLength": "12 months",
+    "format": "Remote — online application (Typeform) or via portfolio partner",
+    "eligibility": "Priority to AI-native startups; raised $10M or less; company website and matching business email; new to DigitalOcean credits; service businesses (agencies, consultancies) not eligible",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://www.digitalocean.com/hatch",
+    "website": "https://www.digitalocean.com/hatch",
+    "description": "DigitalOcean Hatch gives startups 12 months of DigitalOcean infrastructure credits, with priority for AI-native companies. Selected startups may be invited to apply for separate GPU credits. Founders without a partner VC or accelerator can apply directly.",
+    "highlights": [
+      "12 months of infrastructure credits",
+      "Priority for AI-native startups",
+      "Separate GPU credits by invitation",
+      "Open to startups without a partner VC"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://www.digitalocean.com/hatch"
+  },
+  {
+    "id": "mongodb-for-startups",
+    "name": "MongoDB for Startups",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global (remote; US startups eligible)",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Not disclosed — tiered Atlas credits (Inspire, Grow, Innovate, Scale) plus Voyage AI tokens",
+    "equity": "None — credits, no equity",
+    "programLength": "12 months to use credits once activated",
+    "format": "Remote — online application",
+    "eligibility": "Less than 7 years old and Series A or earlier (base tier); single software product (dev shops/agencies ineligible); not previously accepted; active website and LinkedIn profile; new and existing Atlas users eligible",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://www.mongodb.com/solutions/startups",
+    "website": "https://www.mongodb.com/solutions/startups",
+    "description": "MongoDB for Startups gives Atlas credits and Voyage AI tokens, technical guidance and go-to-market opportunities, in tiers from bootstrapped (Inspire) to scaling VC-backed (Scale). It suits AI apps that need vector search and an operational database.",
+    "highlights": [
+      "Inspire tier for bootstrapped startups",
+      "Atlas credits plus Voyage AI embedding tokens",
+      "Built-in vector search for AI apps",
+      "Existing Atlas users can apply"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://www.mongodb.com/solutions/startups"
+  },
+  {
+    "id": "modal-for-startups",
+    "name": "Modal for Startups",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global (remote; US startups eligible)",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Not disclosed — \"thousands of free GPU credits\" (one-time grant)",
+    "equity": "None — credits, no equity",
+    "programLength": "One-time credit grant",
+    "format": "Remote — online application",
+    "eligibility": "New to Modal; Seed-Series A tier requires any VC funding from Modal's partner network or more than $1M raised from any fund; scaling tier requires $30M+ raised or post-Series B with partner VC",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://modal.com/startups#apply",
+    "website": "https://modal.com/startups",
+    "description": "Modal for Startups gives serverless GPU credits to AI startups running inference, fine-tuning and batch jobs. Seed to Series A startups qualify through Modal's VC partner network or after raising more than $1M from any fund.",
+    "highlights": [
+      "Serverless GPU credits for AI workloads",
+      "Seed to Series A tier",
+      "Open via partner VC or $1M+ raised from any fund"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://modal.com/startups"
+  },
+  {
+    "id": "fireworks-ai-for-startups",
+    "name": "Fireworks for Startups",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global (remote; US startups eligible)",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Not disclosed — Fireworks inference credits (expire after 1 year)",
+    "equity": "None — credits, no equity",
+    "programLength": "1 year (credit expiry)",
+    "format": "Remote — online form",
+    "eligibility": "Registered, privately held for-profit company with a functional website; founded within the last 5 years; venture-backed with more than $500K in funding; not Series D or later",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://fireworks.ai/startups",
+    "website": "https://fireworks.ai/startups",
+    "description": "Fireworks AI's startup program gives venture-backed AI startups credits on its fast open-model inference platform for prototyping and scaling, plus priority access to new features and higher rate limits.",
+    "highlights": [
+      "Inference credits valid for 1 year",
+      "Priority access to new models and features",
+      "Options for higher limits and reserved capacity"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://fireworks.ai/startups"
+  },
+  {
+    "id": "emergent-ventures",
+    "name": "Emergent Ventures (Mercatus Center)",
+    "category": "Fellowship",
+    "region": "Global",
+    "country": "Global (remote; US founders eligible)",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech",
+      "Social Impact"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Not disclosed (varies by project)",
+    "equity": "None — grants and fellowships",
+    "programLength": "Not disclosed",
+    "format": "Remote — online application",
+    "eligibility": "Open to \"thinkers and doers worldwide\" aged 13+; one application per applicant/project; applications drafted with AI (beyond proofreading) are rejected",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling (no stated deadline)",
+    "applyLink": "https://www.mercatus.org/emergent-ventures",
+    "website": "https://www.mercatus.org/emergent-ventures",
+    "description": "Emergent Ventures, run by the Mercatus Center at George Mason University, makes fast, low-bureaucracy grants and fellowships to ambitious individuals and early projects, including founders at the idea stage. Dedicated tranches include U.S. Science Policy.",
+    "highlights": [
+      "Equity-free grants for individuals and early projects",
+      "Pre-idea founders eligible",
+      "Short application",
+      "Note: applications written with AI are rejected"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://www.mercatus.org/emergent-ventures"
+  },
+  {
+    "id": "foresight-ai-science-safety-nodes",
+    "name": "Foresight Institute AI for Science & Safety Grants (Nodes)",
+    "category": "Grant",
+    "region": "Global",
+    "country": "San Francisco, CA, USA (also Berlin)",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Cybersecurity"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Typically $30,000-$100,000 per grant (larger possible), plus access to private compute at Foresight Nodes",
+    "equity": "None — grant (funded work must be open-sourced)",
+    "programLength": "Not disclosed",
+    "format": "Hybrid — in-person contributors at the San Francisco hub strongly prioritized; no remote track stated",
+    "eligibility": "Individuals, teams and organizations, nonprofit or for-profit (for-profits must justify the need for grant funding); funded work product must be open-sourced; due diligence required",
+    "applicationDeadline": "October 31, 2026",
+    "applicationWindow": "Closes October 31, 2026, 23:59 PDT; decisions ~3 months after deadline",
+    "applyLink": "https://foresight.org/grants/ai-science-safety-nodes-rfp/",
+    "website": "https://foresight.org/grants/",
+    "description": "Foresight Institute funds AI projects that advance science and safety, covering security, privacy, local compute, coordination and accountability, and AI-first bio, neuro and nano science. Grantees can work from its San Francisco node with access to private compute clusters.",
+    "highlights": [
+      "$30K-$100K typical grants",
+      "For-profit teams eligible",
+      "Private compute access at SF node",
+      "Deadline Oct 31, 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://foresight.org/grants/ai-science-safety-nodes-rfp/"
+  },
+  {
+    "id": "arpa-h-mission-office-iso",
+    "name": "ARPA-H Mission Office Innovative Solutions Openings (ISO)",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA (remote submission)",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Not disclosed (varies by award; contracts/other transactions)",
+    "equity": "None — non-dilutive federal R&D award",
+    "programLength": "Not disclosed (project-based)",
+    "format": "Remote — Solution Summary via ARPA-H Solutions portal, then full proposal after written feedback",
+    "eligibility": "Researchers and companies proposing health R&D outside existing ARPA-H programs; must submit a Solution Summary and receive written ARPA-H feedback before a full proposal",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — four Mission Office ISOs (Health Science Futures, Proactive Health, Resilient Systems, Scalable Solutions)",
+    "applyLink": "https://arpa-h.gov/explore-funding/open-funding-opportunities",
+    "website": "https://arpa-h.gov/",
+    "description": "ARPA-H's Mission Office ISOs take rolling proposals for breakthrough health research outside its formal programs, including AI-enabled health systems, data and scalable care. The process starts with a short Solution Summary.",
+    "highlights": [
+      "Rolling submissions across four mission offices",
+      "Short Solution Summary first",
+      "Fits AI for healthcare systems and data",
+      "Non-dilutive federal funding"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://arpa-h.gov/explore-funding/open-funding-opportunities"
+  },
+  {
+    "id": "openai-cybersecurity-grant-program",
+    "name": "OpenAI Cybersecurity Grant Program",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Global (remote; US founders eligible)",
+    "focusAreas": [
+      "Cybersecurity",
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Originally $10,000 increments from a $1M fund (API credits, direct funding and/or equivalents); Feb 2026 expansion committed $10M in API credits",
+    "equity": "None — grants/API credits",
+    "programLength": "Not disclosed",
+    "format": "Remote — online application",
+    "eligibility": "Projects using AI to strengthen cyber defense; offensive-security projects not considered",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling",
+    "applyLink": "https://openai.com/form/cybersecurity-grant-program/",
+    "website": "https://openai.com/index/openai-cybersecurity-grant-program/",
+    "description": "OpenAI's Cybersecurity Grant Program funds defensive security projects that use AI, with API credits and direct funding. In February 2026 it shifted toward large-scale deployment of OpenAI models for cyber defense, alongside Trusted Access for Cyber, and committed $10M in API credits.",
+    "highlights": [
+      "Rolling applications",
+      "$10M in API credits committed (Feb 2026)",
+      "Defensive security focus",
+      "Startups and researchers eligible"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://openai.com/index/openai-cybersecurity-grant-program/"
+  },
+  {
+    "id": "nase-growth-grants",
+    "name": "NASE Growth Grants",
+    "category": "Grant",
+    "region": "US",
+    "country": "USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Up to $4,000",
+    "equity": "None — grant (requires paid NASE membership)",
+    "programLength": "N/A — one-time grant",
+    "format": "Remote — online application portal",
+    "eligibility": "Members in good standing of the National Association for the Self-Employed (Annual, Veteran and Gold members eligible immediately; Monthly members after 90 days); funds can't go to existing debt or rent/mortgage",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Quarterly reviews: Oct-Dec 2026 applications reviewed in January 2027",
+    "applyLink": "https://www.nase.org/become-a-member/member-benefits/business-resources/growth-grants",
+    "website": "https://www.nase.org/",
+    "description": "NASE Growth Grants give small-business members up to $4,000 for marketing, part-time hires, equipment, software, websites and similar costs. Applications are reviewed quarterly, and more than $1M has been awarded since 2006.",
+    "highlights": [
+      "Up to $4,000",
+      "Reviewed four times a year",
+      "Covers software, hires, marketing",
+      "Requires NASE membership"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-15",
+    "source": "https://www.nase.org/become-a-member/member-benefits/business-resources/growth-grants"
+  },
+  {
+    "id": "worldbuild",
+    "name": "Worldbuild",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Deep Tech, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:sumeet@worldbuild.vc",
+    "website": "https://worldbuild.vc",
+    "description": "Thesis-driven early-stage firm founded in 2025 by former a16z partner Sumeet Singh that partners with creative technologists at company formation. Theses center on AI infrastructure (compute, data, energy, security) and new AI-native workflows.",
+    "highlights": [
+      "Raised $30M Worldbuild I (announced May 2026)",
+      "Portfolio includes San Francisco Compute Company, Browserbase, Truffle, Fractal Power",
+      "Founder Sumeet Singh was an a16z partner (2021–2024)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://worldbuild.vc",
+      "https://www.upstartsmedia.com/p/sumeet-singh-worldbuild-30m-a16z",
+      "https://sumeetsingh.substack.com"
+    ]
+  },
+  {
+    "id": "thefoundervc",
+    "name": "TheFounderVC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100K–$250K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:team@thefounder.vc",
+    "website": "https://thefounder.vc",
+    "description": "Seattle and San Francisco pre-seed/seed fund backing US founders building vertical AI companies, usually investing alongside a venture-led round. Led by Mia Lewin, Paul Longhenry and Shail Kaveti with CTO Jay Bartot.",
+    "highlights": [
+      "Launched inaugural $5M fund (March 2026)",
+      "Plans 25–30 investments with $100K–$250K initial checks",
+      "Portfolio includes Daydream, Potato, Liminary, Planette, Catchouse"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://thefounder.vc",
+      "https://www.geekwire.com/2026/seattles-newest-early-stage-fund-makes-a-bet-on-vertical-ai-startups/",
+      "https://letsdatascience.com/news/tfvc-launches-5-million-vertical-ai-fund-8a76ba6a"
+    ]
+  },
+  {
+    "id": "valkyrie",
+    "name": "Valkyrie",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K+",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Deep Tech, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:valkyrieventures@gmail.com",
+    "website": "https://www.valkyrie.vc",
+    "description": "Solo-GP fund from Beth Turner, formerly a managing partner at SV Angel, investing at the earliest stages in foundational software companies in AI, infrastructure and critical industries.",
+    "highlights": [
+      "$45M Fund I raised in ~5 weeks (2025); Ron Conway among LPs",
+      "Aims to back ~80 companies over two years via pre-seed/seed checks",
+      "Portfolio includes Periodic Labs, Icarus, ACRONYM"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.valkyrie.vc",
+      "https://www.forbes.com/sites/phoebeliu/2025/12/04/this-sv-angel-is-going-solo-with-a-45-million-venture-fund/",
+      "https://www.everythingstartups.com/vc-funds/valkyrie"
+    ]
+  },
+  {
+    "id": "founders-co-op",
+    "name": "Founders' Co-op",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$1M–$1.5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.founderscoop.com/apply",
+    "website": "https://www.founderscoop.com",
+    "description": "Seattle seed fund led by Chris DeVore and Aviel Ginzburg that backs pre-product, pre-revenue technical founding teams, with 80–90% of investments in the Pacific Northwest.",
+    "highlights": [
+      "$50M sixth fund announced Nov 2025 (~30 companies)",
+      "Average initial checks $1M–$1.5M",
+      "Has backed hundreds of founding teams since 2008"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.founderscoop.com",
+      "https://www.geekwire.com/2025/seattle-vc-firm-founders-co-op-raises-50m-for-new-fund-to-back-more-pacific-northwest-founders/",
+      "https://pulse2.com/founders-co-op-sixth-fund-launched-at-50-million-to-support-pacific-northwest-startups"
+    ]
+  },
+  {
+    "id": "propel-venture-partners",
+    "name": "Propel Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Fintech",
+      "B2B SaaS",
+      "Web3/Crypto"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$4M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, B2B SaaS, Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.propel.vc/raising/",
+    "website": "https://www.propel.vc",
+    "description": "San Francisco seed firm investing in the infrastructure, enablers and adjacencies of financial services, led by Jay Reinemann and David Mort (ex-BBVA, SVB, Visa).",
+    "highlights": [
+      "Closed $100M Fund V (July 2025); $436M+ total commitments",
+      "Portfolio includes Coinbase, Groww, Neon, Guideline (acq. by Gusto)",
+      "Writes $1–4M checks at pre-seed/seed"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.propel.vc",
+      "https://www.businesswire.com/news/home/20250710777747/en/Propel-Venture-Partners-Closes-$100M-Fund-V-to-Expand-its-Global-Investments-in-Technologies-Transforming-the-Financial-Services-Ecosystem",
+      "https://pulse2.com/propel-venture-partners-100-million-fund-v-closed/"
+    ]
+  },
+  {
+    "id": "dynamo-ventures",
+    "name": "Dynamo Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chattanooga, TN, USA",
+    "focusAreas": [
+      "Hardware",
+      "Deep Tech",
+      "Climate/Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$2.5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Hardware, Deep Tech, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.dynamo.vc/request-for-startups",
+    "website": "https://www.dynamo.vc",
+    "description": "Chattanooga-based pre-seed and seed firm investing in the physical economy: supply chain, logistics, mobility, manufacturing, energy, robotics and space, often before product or team is in place.",
+    "highlights": [
+      "Closed $54M Fund III (May 2025)",
+      "Portfolio includes Gatik, Stord, Manna",
+      "Kline Hill bought a stake in $18M Fund I at 4x+ returns"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.dynamo.vc",
+      "https://www.axios.com/pro/supply-chain-deals/2025/05/14/dynamo-ventures-54m-fund-deal-kline-hill-partners",
+      "https://pulse2.com/dynamo-ventures-54-million-fund-iii-closed/"
+    ]
+  },
+  {
+    "id": "pillar-vc",
+    "name": "Pillar VC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Biotech/Health",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Biotech/Health, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://pillar.vc/connect/",
+    "website": "https://www.pillar.vc",
+    "description": "Boston early-stage firm partnering at inception with technical founders building breakthroughs, especially in AI, biology and healthcare; about three-quarters of deals are in the Boston area.",
+    "highlights": [
+      "$175M Fund IV announced March 2025 (largest to date)",
+      "Portfolio includes Abridge, Asimov, PathAI, Neural Magic (acq. by Red Hat)",
+      "Runs the Encode program for AI x bio founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.pillar.vc",
+      "https://www.fortune.com/2025/03/17/pillar-venture-capital-175-million-fund-boston-tech",
+      "https://jobs.orbit.mit.edu/companies/pillar-vc/jobs/85854747-investing-analyst"
+    ]
+  },
+  {
+    "id": "bbg-ventures",
+    "name": "BBG Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Consumer",
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Consumer, Biotech/Health, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://947689.typeform.com/to/FPR7znn6",
+    "website": "https://www.bbgventures.com",
+    "description": "Pre-seed and seed firm backing founders who know the problem from the inside, investing across health, work, vertical AI, consumer, fintech and climate. Expanded from female founders to diverse founders in 2024.",
+    "highlights": [
+      "Raised $60M fund in Oct 2024 (~$130M AUM)",
+      "2025–26 deals include SuperCircle, MaxHome, Climatic",
+      "Portfolio includes Spring Health, Starface, Blueland, HopSkipDrive"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.bbgventures.com",
+      "https://fortune.com/2024/10/30/exclusive-bbg-ventures-raises-60-million-fund-and-expands-from-backing-female-founders-to-diverse-founders/",
+      "https://f4.fund/firms/bbg-ventures"
+    ]
+  },
+  {
+    "id": "swift-ventures",
+    "name": "Swift Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Lafayette, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@swift.vc",
+    "website": "https://www.swift.vc",
+    "description": "Founder-led early-stage firm investing in AI and automation companies with B2B models, emphasizing hands-on company-building help from fellow entrepreneurs.",
+    "highlights": [
+      "Early investor in Arize AI (site cites $1B Dynatrace acquisition)",
+      "Portfolio includes Bluefish, GrayMatter Robotics, Superhuman",
+      "Fund I targeted $20M per SEC filing"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.swift.vc",
+      "https://venturecapitaljournal.com/swift-ventures-targets-20m-for-maiden-fund",
+      "https://www.cbinsights.com/investor/swift-ventures"
+    ]
+  },
+  {
+    "id": "underscore-vc",
+    "name": "Underscore VC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@underscore.vc",
+    "website": "https://underscore.vc",
+    "description": "Boston pre-seed and seed firm backing founders applying AI to real-world problems, with a community-driven model; Fund III is more geography-agnostic than prior Boston-only funds.",
+    "highlights": [
+      "$58M Fund III (April 2024)",
+      "Portfolio includes CloudZero, Hi Marley, Slang, Salsify",
+      "Follow-ons in 2026 (Slang AI Series B)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://underscore.vc",
+      "https://www.gunder.com/en/news-insights/client-news/boston-based-underscore-vc-announces-dollar58m-fund-iii",
+      "https://www.cbinsights.com/investor/underscore-vc"
+    ]
+  },
+  {
+    "id": "overture",
+    "name": "Overture",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Govtech/Defense",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, Govtech/Defense, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@overture.vc",
+    "website": "https://www.overture.vc",
+    "description": "Early-stage fund investing in energy, AI, resilience and industrial transformation, uniquely pairing each portfolio company with in-kind government-affairs support from Boundary Stone Partners.",
+    "highlights": [
+      "$60M debut fund (2024)",
+      "Portfolio includes Antora Energy, Bedrock Energy, PHNX Materials",
+      "2025 deals include Glacier Series A and ChemFinity seed"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.overture.vc",
+      "https://seedtable.com/investors/overture-vc",
+      "https://www.cbinsights.com/investor/overture-vc"
+    ]
+  },
+  {
+    "id": "wonder-ventures",
+    "name": "Wonder Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$1M–$1.5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://wondervc.com/contact",
+    "website": "https://wondervc.com",
+    "description": "Southern California pre-seed firm led by Dustin Rosen that aims to be the first check into LA's best founders, often before product; also runs an opportunity fund for Series A follow-ons.",
+    "highlights": [
+      "$102M raised in 2024: $57M Fund IV (pre-seed) + $45M opportunity fund",
+      "Backed most LA unicorns incl. Honey, Whatnot, Tala",
+      "80+ portfolio companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://wondervc.com",
+      "https://techcrunch.com/2024/02/05/pre-seed-investor-wonder-ventures-102m"
+    ]
+  },
+  {
+    "id": "prudence",
+    "name": "Prudence",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Proptech",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Proptech, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.prudence.vc",
+    "website": "https://www.prudence.vc",
+    "description": "Early-stage VC investing in AI and software companies transforming construction, real estate and infrastructure. Closed an $80M Fund III in March 2024 (total AUM ~$230M).",
+    "highlights": [
+      "$80M Fund III closed Mar 2024",
+      "Invests seed to Series B; leads/co-leads, 10–15 companies per fund",
+      "Portfolio includes Compass, Crexi, Propexo, VendorPM, Uniti AI"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.prudence.vc",
+      "https://www.businesswire.com/news/home/20240307527488/en/Prudence-Closes-Its-80mm-Fund-III-To-Invest-In-Technology-Companies-Transforming-The-Built-World"
+    ]
+  },
+  {
+    "id": "interplay",
+    "name": "Interplay",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "$500K–$2M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.interplay.vc/engage",
+    "website": "https://www.interplay.vc",
+    "description": "NYC venture firm and startup ecosystem (studio, accelerator, ventures, secondaries) that co-invests in high-growth startups, with a focus on B2B marketplaces and vertical software. Closed a $45M Fund III in Nov 2023.",
+    "highlights": [
+      "$45M Fund III (Nov 2023), ~20 companies at $1M–$2M per check",
+      "Co-invests only and never leads",
+      "Also runs an accelerator and studio"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.interplay.vc",
+      "https://techcrunch.com/2023/11/13/interplay-fund-venture-capital-b2b-marketplaces-vertical-software/"
+    ]
+  },
+  {
+    "id": "unshackled-ventures",
+    "name": "Unshackled Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Social Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$300K–$500K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Social Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.unshackledvc.com/pitch-us",
+    "website": "https://www.unshackledvc.com",
+    "description": "Inception-stage VC writing the first check into technical founders before product or revenue, with dedicated immigration support for immigrant founders. Closed a $35M Fund III in 2023.",
+    "highlights": [
+      "$35M Fund III (2023)",
+      "Has supported 200+ founders with visa and immigration help",
+      "Pitch form requires no warm intro or deck"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.unshackledvc.com",
+      "https://techcrunch.com/2023/06/27/unshackled-ventures-35m-immigrant-founders/",
+      "https://fi.co/insight/unshackled-ventures-pre-seed-high-conviction-and-immigrant-founded"
+    ]
+  },
+  {
+    "id": "red-beard-ventures",
+    "name": "Red Beard Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Web3/Crypto",
+      "Gaming/Media"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100K–$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Web3/Crypto, Gaming/Media; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://redbeard.ventures/general-inquiries/",
+    "website": "https://redbeard.ventures",
+    "description": "Early-stage Web3 and frontier-tech VC with a fund, an AngelList syndicate and the Denarii Labs tokenomics accelerator. Closed a $25M Fund I in June 2023.",
+    "highlights": [
+      "$25M Fund I (2023), backed by Animoca Brands, Marc Andreessen and Chris Dixon",
+      "Portfolio includes Dapper Labs and The Sandbox",
+      "2025 newsletter announced Fund II"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://redbeard.ventures",
+      "https://pulse2.com/red-beard-ventures-25-million-funding/",
+      "https://redbeardventures.beehiiv.com/p/rbv-denarii-labs-weekly-newsletter-week-of-09-25-25"
+    ]
+  },
+  {
+    "id": "courtside-ventures",
+    "name": "Courtside Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Consumer",
+      "Gaming/Media"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, Gaming/Media; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@courtsidevc.com",
+    "website": "https://www.courtsidevc.com",
+    "description": "Early-stage fund focused on sports, lifestyle and gaming. Announced a $100M Fund III in Feb 2023 (more than $200M AUM across 3 funds).",
+    "highlights": [
+      "$100M Fund III (2023)",
+      "Exits include The Athletic (NYT) and Beam (Microsoft)",
+      "Investments in 2025 include Baller League, Fanstake and Eternal"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.courtsidevc.com",
+      "https://www.courtsidevc.com/contact",
+      "https://cooley.com/news/coverage/2023/2023-02-13-courtside-ventures-announces-100-million-fund-iii"
+    ]
+  },
+  {
+    "id": "banana-capital",
+    "name": "Banana Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Ann Arbor, MI, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $250K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Consumer, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:turner@bananacapital.vc",
+    "website": "https://bananacapital.vc",
+    "description": "Solo-GP early-stage fund run by Turner Novak, investing in pre-seed and seed rounds, currently from its third fund.",
+    "highlights": [
+      "Fund I $9.99M (2021)",
+      "Site says it is investing from Fund III",
+      "Portfolio includes Chainguard, Secureframe and BeReal"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://bananacapital.vc",
+      "https://techcrunch.com/2021/04/27/banana-capitals-fund-1-turner-novak"
+    ]
+  },
+  {
+    "id": "6th-man-ventures",
+    "name": "6th Man Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Web3/Crypto",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$2M–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Web3/Crypto, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:join@6thman.ventures",
+    "website": "https://www.6thman.ventures",
+    "description": "Founder-run NYC firm leading or co-leading seed and Series A rounds in emerging technologies and platform shifts, with deep roots in crypto. Raised a $145M Fund II in 2022.",
+    "highlights": [
+      "$145M Fund II (2022)",
+      "Fund III Form D filed Dec 2025",
+      "Leads/co-leads with $2M–$5M average checks"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.6thman.ventures",
+      "https://www.theblock.co/post/146332/6th-man-ventures-is-raising-145-million-for-a-second-crypto-fund",
+      "https://filingflow.app/filings/0001231919-25-000620"
+    ]
+  },
+  {
+    "id": "script-capital",
+    "name": "Script Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K–$500K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@script.capital",
+    "website": "https://www.script.capital",
+    "description": "Pre-seed and seed fund backing technical founders of early-stage internet and software startups. Formerly 122West Ventures; raised a $38M Fund II in Dec 2021.",
+    "highlights": [
+      "$38M Fund II (Dec 2021)",
+      "Rebranded from 122West Ventures",
+      "Portfolio news in 2026 includes Pangram, Tolmo and Elroy Air"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.script.capital",
+      "https://pulse2.com/script-capital-raises-38-million-for-pre-seed-fund/amp/"
+    ]
+  },
+  {
+    "id": "aperture-venture-capital",
+    "name": "Aperture Venture Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "Fintech",
+      "Social Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$250K–$2M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Social Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://aperturevc.com/pitch",
+    "website": "https://aperturevc.com",
+    "description": "Early-stage fintech VC investing in companies that increase the ubiquity, movement and security of capital, with an emphasis on diverse ('multicultural mainstream') founders. Launched with a $75M Corporate Diversity Fund in July 2021.",
+    "highlights": [
+      "$75M Corporate Diversity Fund (2021)",
+      "Founded by William Crowder and Garnet Heraman",
+      "Corporate LPs include Bank of America and Truist"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://aperturevc.com",
+      "https://about.bankofamerica.com/en/making-an-impact/investing-in-minority-and-women-led-funds/aperture-venture-capital",
+      "https://f4.fund/firms/aperture-venture-capital"
+    ]
+  },
+  {
+    "id": "framework-ventures",
+    "name": "Framework Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Web3/Crypto",
+      "AI/ML",
+      "Hardware"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "$5M–$50M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Web3/Crypto, AI/ML, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@framework.ventures",
+    "website": "https://www.framework.ventures",
+    "description": "San Francisco VC that leads early-stage rounds in emerging technologies. Started in crypto/DeFi and is expanding into AI and robotics with a $400M Fund IV (June 2026).",
+    "highlights": [
+      "$400M Fund IV announced Jun 2026",
+      "~$1.28B AUM (Dec 2025 SEC filing)",
+      "Led Ultra Robotics $50M Series A (Oct 2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.framework.ventures",
+      "https://www.framework.ventures/contact",
+      "https://fortune.com/2026/06/26/framework-ventures-fourth-fund-400-million-frontier-technology-vance-spencer-michael-anderson/"
+    ]
+  },
+  {
+    "id": "ludlow-ventures",
+    "name": "Ludlow Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Detroit, MI, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.ludlowventures.com",
+    "website": "https://www.ludlowventures.com",
+    "description": "Detroit-based early-stage VC (est. 2010) that invests based on people rather than themes. Was closing a ~$65M Fund IV in early 2021.",
+    "highlights": [
+      "Fund IV ~$65M (2021)",
+      "Portfolio includes Deepgram, StockX, Honey, May Mobility",
+      "Founded 2010 by Jonathon Triest and Brett deMarrais"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.ludlowventures.com",
+      "https://techcrunch.com/2021/01/07/detroits-ludlow-ventures-goes-for-fund-four/"
+    ]
+  },
+  {
+    "id": "bullpen-capital",
+    "name": "Bullpen Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@bullpencap.com",
+    "website": "https://www.bullpencap.com",
+    "description": "Post-seed VC backing companies that have found product-market fit but are overlooked by large VCs. Raised a $145M Fund VI in late 2022.",
+    "highlights": [
+      "$145M Fund VI (2022); $130M Fund V (2020)",
+      "100+ companies funded over the last decade",
+      "Post-seed focus for companies that raised ~$5M seed"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.bullpencap.com",
+      "https://www.crowdfundinsider.com/2022/12/200512-bullpen-finalizes-145m-round-to-support-innovative-startups/",
+      "https://techcrunch.com/2020/10/01/bullpen-capital-raises-130-million-more-to-fund-the-far-afield-and-misunderstood"
+    ]
+  },
+  {
+    "id": "rethink-impact",
+    "name": "Rethink Impact",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Washington, DC, USA",
+    "focusAreas": [
+      "Social Impact",
+      "Biotech/Health",
+      "Climate/Impact"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Social Impact, Biotech/Health, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.rethinkimpact.com",
+    "website": "https://www.rethinkimpact.com",
+    "description": "Billed as the largest US venture fund backing women-led companies that use technology to solve major social and environmental problems, mainly at Series A/B. Raised a $250M Fund III in 2024.",
+    "highlights": [
+      "$250M Fund III (2024); $182M Fund II (2020)",
+      "Invests in women-led companies in health, education, climate and financial services",
+      "Portfolio includes Spring Health, Solv, Incredible Health"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.rethinkimpact.com",
+      "https://www.businesswire.com/news/home/20200709005479/en/Rethink-Impact-Closes-182M-Fund-II-Making",
+      "https://femwealth.substack.com/p/jenny-abramson-and-heidi-patels-rethink"
+    ]
+  },
+  {
+    "id": "zetta-venture-partners",
+    "name": "Zetta Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Deep Tech, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.zettavp.com",
+    "website": "https://www.zettavp.com",
+    "description": "San Francisco early-stage firm that was among the first funds focused only on AI. It now describes itself as 'day zero capital' for scientific founders working on AI for science.",
+    "highlights": [
+      "Fund III closed at $180M (AUM ~$365M at the time)",
+      "Portfolio includes Databricks, Weaviate, MotherDuck, CodeRabbit, Periodic Labs",
+      "Office at 168 South Park, San Francisco"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.zettavp.com",
+      "https://pulse2.com/zetta-venture-partners-announces-180-million-ai-fund/",
+      "https://f4.fund/firms/zetta-venture-partners"
+    ]
+  },
+  {
+    "id": "boldstart-ventures",
+    "name": "Boldstart Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Enterprise",
+      "Cybersecurity",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$15M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Enterprise, Cybersecurity, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://boldstart.vc/contact-us/",
+    "website": "https://boldstart.vc",
+    "description": "New York 'inception-stage' firm that backs technical enterprise founders, often before the company exists. Its current themes are cybersecurity, AI infrastructure, agents and physical AI.",
+    "highlights": [
+      "$250M Fund VII announced July 2025",
+      "$175M Opportunities III fund for follow-ons",
+      "Early backer of Snyk, BigID, Protect AI"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://boldstart.vc",
+      "https://www.gunder.com/en/news-insights/client-news/boldstart-ventures-announces-dollar250m-fund-vii",
+      "https://pulse2.com/boldstart-ventures-250-million-fund-vii-launched-for-investing-in-autonomous-enterprise-companies/amp/"
+    ]
+  },
+  {
+    "id": "bfg-partners",
+    "name": "BFG Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boulder, CO, USA",
+    "focusAreas": [
+      "Consumer",
+      "Agtech/Foodtech"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Consumer, Agtech/Foodtech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:dealteam@bfgpartners.com",
+    "website": "https://www.bfgpartners.com",
+    "description": "Boulder, Colorado firm that invests in better-for-you consumer brands in food, beverage, personal care, pet and home. It usually looks for about $1M or more in trailing revenue.",
+    "highlights": [
+      "BFG II closed oversubscribed at over $100M (2019)",
+      "Early investor in Olipop",
+      "Site active with 2026 news; 'Pitch us' points to dealteam@bfgpartners.com"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.bfgpartners.com",
+      "https://globalaginvesting.com/boulder-food-group-closes-bfg-ii-oversubscribed-100m/"
+    ]
+  },
+  {
+    "id": "zigg-capital",
+    "name": "Zigg Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Proptech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Proptech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://ziggcap.com",
+    "website": "https://ziggcap.com",
+    "description": "New York venture firm investing in real estate technology across construction, real estate and retail. Its stated mission is 'accelerating the combination of real property and technology.'",
+    "highlights": [
+      "Fund I ~$100M (2018); Fund II $225M (2021, UChicago among LPs)",
+      "Portfolio/activity cited by aggregators includes Juniper Square, VTS, Spruce (sold to Zillow)",
+      "Aggregator reports 2025–2026 deals (e.g., Nooks Series A lead)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "http://ziggcap.com/",
+      "http://ziggcap.com/fund.html",
+      "https://globalventuring.com/university/zigg-builds-225m-uchicago-backed-fund/?format=md",
+      "https://f4.fund/firms/zigg-capital"
+    ]
+  },
+  {
+    "id": "unusual-ventures",
+    "name": "Unusual Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "Enterprise",
+      "B2B SaaS",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Enterprise, B2B SaaS, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://unusual.vc/contact-us/",
+    "website": "https://www.unusual.vc",
+    "description": "Early-stage firm founded by AppDynamics founder Jyoti Bansal and John Vrionis. It backs technical enterprise founders and gives hands-on go-to-market help.",
+    "highlights": [
+      "Fund III $485M; AUM over $1B",
+      "2025 year-in-review reports new investments",
+      "Portfolio: Robinhood, Harness, Arctic Wolf, PostHog, Resolve AI"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.unusual.vc",
+      "https://unusual.vc/contact-us/",
+      "https://www.unusual.vc/unusual-ventures-our-2025-year-in-review/"
+    ]
+  },
+  {
+    "id": "casa-verde-capital",
+    "name": "Casa Verde Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "Consumer",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://casaverdecapital.com/contact/",
+    "website": "https://www.casaverdecapital.com",
+    "description": "Cannabis-focused venture firm co-founded by Snoop Dogg, Ted Chung and Karan Wadhera. It backs companies building the cannabis ecosystem, from software to marketplaces.",
+    "highlights": [
+      "Second fund ~$100M",
+      "Portfolio includes Dutchie, Metrc, LeafLink",
+      "Led £4.5M round in Mamedica (Sept 2025)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.casaverdecapital.com",
+      "https://casaverdecapital.com/contact/",
+      "https://techcrunch.com/?p=2089886",
+      "https://www.cbinsights.com/investor/casa-verde-capital"
+    ]
+  },
+  {
+    "id": "bonfire-ventures",
+    "name": "Bonfire Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$2M–$6M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://bonfireventures.fillout.com/submission1026",
+    "website": "https://www.bonfirevc.com",
+    "description": "Los Angeles seed firm that leads rounds in AI-native B2B software companies. It leads about 95% of its rounds and takes a board seat.",
+    "highlights": [
+      "$245M Fund IV closed Feb 2025; ~$1B AUM",
+      "Backs 10–12 companies per year",
+      "Exits include TaxJar, MNTN, Scopely"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.bonfirevc.com",
+      "https://www.fortune.com/2025/02/20/exclusive-bonfire-ventures-seed-stage-vc-firm-focused-on-b2b-software-raises-245-million-fourth-fund"
+    ]
+  },
+  {
+    "id": "defy",
+    "name": "Defy",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Woodside, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$3M–$10M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://defy.vc/contact/",
+    "website": "https://defy.vc",
+    "description": "Early-stage venture firm co-founded by Trae Vassallo (ex-Kleiner Perkins) and Neil Sequeira (ex-General Catalyst). It backs early-stage founders across sectors.",
+    "highlights": [
+      "Fund I $151M; Fund II $262M (oversubscribed)",
+      "PitchBook lists 2025 deals (e.g., Synthpop, Rocksalt)",
+      "Contact: hello@defy.vc"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://defy.vc",
+      "https://pitchbook.com/profiles/investor/161595-82",
+      "https://techcrunch.com/?p=1809906",
+      "https://www.cbinsights.com/investor/defy-partners"
+    ]
+  },
+  {
+    "id": "costanoa-ventures",
+    "name": "Costanoa Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "Enterprise",
+      "B2B SaaS",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$2M–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Enterprise, B2B SaaS, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@costanoa.vc",
+    "website": "https://www.costanoa.vc",
+    "description": "Early-stage firm investing at seed and Series A, aiming for concentrated ownership in about 35 companies per fund. It backs companies taking on 'big, hard problems.'",
+    "highlights": [
+      "Closed $275M Fund V + $119M Opportunity Fund III (Sept 2024)",
+      "Co-led $32M Series A for Smack Technologies (Mar 2026)",
+      "Offices in Palo Alto and San Francisco"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.costanoa.vc",
+      "https://finder.techleap.nl/news/note/costanoa-ventures-closes-394m-dual-fund",
+      "https://f4.fund/firms/costanoa-ventures"
+    ]
+  },
+  {
+    "id": "origin-ventures",
+    "name": "Origin Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Govtech/Defense"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Deep Tech, Govtech/Defense; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:inquire@originventures.com",
+    "website": "https://www.originventures.com",
+    "description": "Chicago early-stage firm that has led seed and Series A rounds for over 25 years. Its current themes are AI infrastructure, AI-native software and frontier tech such as robotics, defense and electrification.",
+    "highlights": [
+      "$140M Fund VI closed Oct 2025 (largest to date)",
+      "AUM ~$500M",
+      "Investors across Chicago, SF, LA, NYC, DC, Salt Lake City"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.originventures.com",
+      "https://www.cbinsights.com/investor/origin-ventures",
+      "https://techcrunch.com/?p=2231348"
+    ]
+  },
+  {
+    "id": "blumberg-capital",
+    "name": "Blumberg Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Fintech",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Fintech, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@blumbergcapital.com",
+    "website": "https://www.blumbergcapital.com",
+    "description": "Early-stage firm led by David Blumberg that makes initial investments mostly at seed in companies using AI and other transformative technologies. It also runs a Venture Growth fund.",
+    "highlights": [
+      "Fund V closed at $225M (2021), ~90% seed-focused",
+      "Led $6M seed for Anchor (Oct 2025)",
+      "Early investor in 10 unicorns incl. DoubleVerify"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.blumbergcapital.com",
+      "https://calcalistech.com/ctech/articles/0,7340,L-3917971,00.html",
+      "https://startupintros.com/news/2025-10-01-anchor-seed-5"
+    ]
+  },
+  {
+    "id": "samsung-next",
+    "name": "Samsung NEXT",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Mountain View, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$50K–$25M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in AI/ML, Deep Tech, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.samsungnext.com/pitch-us",
+    "website": "https://www.samsungnext.com",
+    "description": "Samsung's corporate venture arm, investing across all stages as a minority, non-lead investor. Its sectors are AI, robotics, digital health, blockchain/media services and frontier tech.",
+    "highlights": [
+      "Launched with a $150M NEXT Ventures fund (2017)",
+      "350+ portfolio companies since 2012",
+      "Site says 'Now taking meetings · Q2 2026'"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.samsungnext.com",
+      "https://venturebeat.com/business/samsungs-150-million-bet-to-find-the-next-big-startup",
+      "https://www.cbinsights.com/investor/samsung-next"
+    ]
+  },
+  {
+    "id": "elephant",
+    "name": "Elephant",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Enterprise",
+      "B2B SaaS",
+      "Consumer"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Enterprise, B2B SaaS, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.elephantvc.com/",
+    "website": "https://www.elephantvc.com/",
+    "description": "Boston-based VC firm (formerly Elephant Partners) founded in 2015 by Andrew Hunt and Jeremiah Daly. It invests in fast-growing, capital-efficient technology companies.",
+    "highlights": [
+      "Formerly Elephant Partners; founded 2015",
+      "Led Park Loyalty's Series A (Nov 2025)",
+      "Focus on enterprise software and consumer internet"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.elephantvc.com/",
+      "https://venturecapitalarchive.com/venture-funds/elephant-elephantvc-com",
+      "https://seedtable.com/investors/elephant"
+    ]
+  },
+  {
+    "id": "liquid-2-ventures",
+    "name": "Liquid 2 Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K–$500K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@liquid2.vc",
+    "website": "https://liquid2.vc/",
+    "description": "San Francisco generalist tech fund co-founded by Joe Montana, Michael Ma and Michael Miller. It backs pre-seed and seed founders and runs a separate growth fund from Series B.",
+    "highlights": [
+      "Early-stage median check $250K–$500K; growth checks $2M–$5M",
+      "800+ portfolio companies, including GitLab, Rappi and Anduril",
+      "Covered by Fortune in Feb 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://liquid2.vc/",
+      "https://en.wikipedia.org/wiki/Liquid_2_Ventures",
+      "https://fortune.com/2026/02/08/nfl-legend-joe-montana-venture-capital-liquid-2-silicon-valley-investor/"
+    ]
+  },
+  {
+    "id": "draper-associates",
+    "name": "Draper Associates",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Mateo, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Web3/Crypto",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Web3/Crypto, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.draper.vc/contact?autoclick=intro",
+    "website": "https://www.draper.vc/",
+    "description": "Tim Draper's early-stage venture firm, which has backed iconoclastic founders at the earliest stages since 1985.",
+    "highlights": [
+      "Fund VIII launched at $300M in June 2026",
+      "Focus: AI/robotics, crypto, healthcare/biotech, aerospace",
+      "About $2B AUM per the firm"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.draper.vc/",
+      "https://www.draper.vc/newsroom/draper-associates-launches-fund-8",
+      "https://fortune.com/crypto/2025/07/24/tim-draper-bitcoin-eight-fund-200-million-draper-associates"
+    ]
+  },
+  {
+    "id": "greycroft",
+    "name": "Greycroft",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Consumer",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Consumer, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.greycroft.com/",
+    "website": "https://www.greycroft.com/",
+    "description": "Venture firm with offices in New York, Los Angeles and San Francisco. It invests from seed through growth in technology, sustainability and consumer brands.",
+    "highlights": [
+      "Closed $1B+ in 2023, including the seed-focused Partners VII and Growth IV",
+      "Continued seed deals in late 2025 (e.g., Dazzle AI)",
+      "Sectors: AI/tech, sustainability, consumer brands"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.greycroft.com/",
+      "https://www.businesswire.com/news/home/20230425006100/en/Greycroft-Closes-On-More-Than-1-Billion-To-Back-the-Next-Generation-of-Category-Defining-Companies",
+      "https://seedtable.com/investors/greycroft-2/portfolio"
+    ]
+  },
+  {
+    "id": "illuminate-ventures",
+    "name": "Illuminate Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Oakland, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://illuminate.com/contact/",
+    "website": "https://illuminate.com/",
+    "description": "Seed-stage firm founded by Cindy Padnos that invests exclusively in B2B and enterprise software, especially data- and AI-driven platforms.",
+    "highlights": [
+      "Often the first institutional investor ('Series Seed' sweet spot)",
+      "Led Intelo.ai's $2M round (Oct 2025) and Labra.io's seed (Apr 2025)",
+      "Women-led firm"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://illuminate.com/",
+      "https://f4.fund/firms/illuminate-ventures",
+      "https://strictlyvc.com/?p=750"
+    ]
+  },
+  {
+    "id": "a-capital-ventures",
+    "name": "A.Capital Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Web3/Crypto",
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Web3/Crypto, General/Any; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:zach@acapital.com",
+    "website": "https://acapital.com/",
+    "description": "Early-stage firm founded by Ronny Conway (ex-a16z) that backs companies 'revolutionizing the way we live, work, and play' and can lead rounds.",
+    "highlights": [
+      "Debut fund $51M (2014); targeted $140M for Fund III (2019)",
+      "Portfolio includes Anthropic, OpenAI, Hugging Face, Notion and Coinbase",
+      "Offices in Menlo Park and San Francisco (per TechCrunch 2019)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://acapital.com/",
+      "https://techcrunch.com/2019/08/08/a-capital-partners-founded-by-ronny-conway-targets-140-million-for-its-third-fund/",
+      "https://venturebeat.com/2014/02/14/ronny-conway-raising-up-to-51m-fund-plus-another-19m-in-parallel-funds"
+    ]
+  },
+  {
+    "id": "liveoak-venture-partners",
+    "name": "LiveOak Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise",
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$10M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise, General/Any; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://liveoak.vc/connect/",
+    "website": "https://liveoak.vc/",
+    "description": "Austin-based early-stage VC that invests exclusively in Texas-based founders building tech and tech-enabled service companies, from pre-seed to Series B.",
+    "highlights": [
+      "$210M Fund III (Nov 2021); about $500M AUM",
+      "Texas-only focus",
+      "Pre-seed to Series B"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://liveoak.vc/",
+      "https://www.businesswire.com/news/home/20211117005369/en",
+      "https://f4.fund/firms/liveoak-venture-partners"
+    ]
+  },
+  {
+    "id": "captain-ventures",
+    "name": "Captain Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "~$750K average",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.captain.vc/",
+    "website": "https://www.captain.vc/",
+    "description": "Seed-stage firm operating between Salt Lake City and San Francisco, founded by former Pelion partner Tyler Hogge; co-invests alongside lead investors in competitive rounds.",
+    "highlights": [
+      "Debut ~$33M Seed Fund I (2026)",
+      "Plans 25–30 companies; does not lead rounds"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.captain.vc/",
+      "https://www.everythingstartups.com/vc-funds/captain-ventures"
+    ]
+  },
+  {
+    "id": "haystack",
+    "name": "Haystack",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$1M–$3M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, B2B SaaS, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://haystack.vc/",
+    "website": "https://haystack.vc/",
+    "description": "Semil Shah's early-stage firm backing software and technology startups at the initial chapters of formation; leads or participates in first rounds.",
+    "highlights": [
+      "Closed $85M Haystack VIII and $25M Needles III in 2026",
+      "Early investor in DoorDash"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://haystack.vc/",
+      "https://semilshah.com/2026/04/26/new-funds-for-haystack/"
+    ]
+  },
+  {
+    "id": "also-capital",
+    "name": "Also Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Deep Tech, Hardware, General/Any; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@alsocapital.com",
+    "website": "https://www.alsocapital.com/",
+    "description": "Mike Annunziata's pre-seed fund backing founders who intentionally choose hard problems.",
+    "highlights": [
+      "Raised $50M Fund II (2026)",
+      "Leads pre-seed rounds",
+      "Portfolio includes K2 Space"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.alsocapital.com/",
+      "https://www.alsoblogposts.com/p/announcing-also-capitals-50m-second"
+    ]
+  },
+  {
+    "id": "anti-fund",
+    "name": "Anti Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Govtech/Defense",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in AI/ML, Govtech/Defense, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:founders@antifund.com",
+    "website": "https://antifund.com/",
+    "description": "Venture firm co-founded by Geoffrey Woo and Jake Paul (Logan Paul joined as GP) backing technical founders from pre-seed through growth in AI, robotics, defense, energy and frontier infrastructure.",
+    "highlights": [
+      "Closed ~$30M oversubscribed Fund I (Dec 2025)",
+      "Portfolio includes Anduril, Cognition, Physical Intelligence, Etched"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://antifund.com/",
+      "https://en.wikipedia.org/wiki/Geoffrey_Woo"
+    ]
+  },
+  {
+    "id": "engineering-capital",
+    "name": "Engineering Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Enterprise",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Enterprise, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.engineeringcapital.com/contact",
+    "website": "https://www.engineeringcapital.com/",
+    "description": "Ashmeet Sidana's seed fund that leads rounds in technically driven companies defining new categories in information technology, investing before traditional VCs.",
+    "highlights": [
+      "Leads seed rounds",
+      "Closed fifth fund (Nov 2025 per profiles)",
+      "Fund III was $60M (2020)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.engineeringcapital.com/",
+      "https://techcrunch.com/2020/07/08/this-vc-just-closed-on-60-million-to-fund-technical-risk-saying-other-vcs-rarely-do-the-same/"
+    ]
+  },
+  {
+    "id": "sarah-smith-fund",
+    "name": "Sarah Smith Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K+",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.sarahsmith.fund/#contact",
+    "website": "https://www.sarahsmith.fund/",
+    "description": "Solo-GP pre-seed and seed fund from ex-Bain Capital Ventures investor Sarah Smith, backing 'irrationally intense' founder CEOs, about half with Stanford ties.",
+    "highlights": [
+      "$16M Fund I final close (July 2025)",
+      "Average check ~$250K",
+      "Portfolio includes Pika, Casca"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.sarahsmith.fund/",
+      "https://femwealth.substack.com/p/solo-gp-sarah-smith-launches-16m"
+    ]
+  },
+  {
+    "id": "browder-capital",
+    "name": "Browder Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.browdercapital.com/",
+    "website": "https://www.browdercapital.com/",
+    "description": "Solo-GP fund run by DoNotPay founder Joshua Browder, investing at pre-seed/seed, often in young founders.",
+    "highlights": [
+      "Launched institutional Fund IV with AngelList (June 2025)",
+      "LPs reportedly include Sequoia and Cendana"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://blog.angellist.com/blog/case-study-browder-capital",
+      "https://www.vcsheet.com/fund/browder-capital"
+    ]
+  },
+  {
+    "id": "atria-ventures",
+    "name": "Atria Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K–$2M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Biotech/Health, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://atria.vc/",
+    "website": "https://atria.vc/",
+    "description": "Pre-seed and seed firm writing first checks for founders at the frontier of computation and life sciences, led by GP Chris Leiter.",
+    "highlights": [
+      "Fund I (2024 vintage, ~$20–25M)",
+      "Named in STAT's 2025 next-gen biotech VC list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://atria.vc/",
+      "https://www.statnews.com/2025/02/27/who-to-know-series-highlights-next-generation-biotech-venture-capital-firms/"
+    ]
+  },
+  {
+    "id": "fika-ventures",
+    "name": "Fika Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Fintech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.fika.vc/",
+    "website": "https://www.fika.vc/",
+    "description": "LA-based seed fund leading rounds in B2B software, fintech and vertical AI companies built by subject-matter experts.",
+    "highlights": [
+      "$160M Fund IV (Sept 2024)",
+      "SGNL acquired by CrowdStrike for $740M (Jan 2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.fika.vc/",
+      "https://f4.fund/firms/fika-ventures"
+    ]
+  },
+  {
+    "id": "the-westly-group",
+    "name": "The Westly Group",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "AI/ML",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, AI/ML, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://westlygroup.com/contact/",
+    "website": "https://westlygroup.com/",
+    "description": "Backs AI-native software and hardware founders transforming energy, mobility, reindustrialization/robotics and cybersecurity; has a dedicated seed fund.",
+    "highlights": [
+      "Raised $100M seed fund (2024)",
+      "$800M+ AUM; 9 IPOs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://westlygroup.com/",
+      "https://westlygroup.com/contact/"
+    ]
+  },
+  {
+    "id": "hyde-park-venture-partners",
+    "name": "Hyde Park Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $2M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://hydeparkvp.com/contact.html",
+    "website": "https://hydeparkvp.com/",
+    "description": "Early-stage fund investing pre-seed through early Series A in AI, software and tech-enabled services companies with ties to the Midwest, Toronto or the Southeast.",
+    "highlights": [
+      "Closed $98M Fund IV (2024)",
+      "Portfolio exits include G2, FourKites"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://hydeparkvp.com/",
+      "https://techcrunch.com/2024/05/01/hyde-park-venture-partners-98m"
+    ]
+  },
+  {
+    "id": "audacious-ventures",
+    "name": "Audacious Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "AI/ML",
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, AI/ML, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.audacious.co/",
+    "website": "https://www.audacious.co/",
+    "description": "Nakul Mandan's pre-seed/seed firm helping founders recruit, build a repeatable go-to-market engine and remove capital constraints.",
+    "highlights": [
+      "$150M Fund II (2024) dedicated to pre-seed/seed",
+      "Early backer of WorkOS and Reflection AI"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.audacious.co/",
+      "https://signal.nfx.com/firms/audacious-ventures"
+    ]
+  },
+  {
+    "id": "basis-set-ventures",
+    "name": "Basis Set Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$2M–$3M initial (up to $10M)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.basisset.com/",
+    "website": "https://www.basisset.com/",
+    "description": "AI-native venture fund since 2017, often the first capital into AI infrastructure, applications and robotics startups.",
+    "highlights": [
+      "Closed $250M Fund IV (Jan 2026)",
+      "Portfolio includes Quince, OpenArt"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.basisset.com/",
+      "https://en.wikipedia.org/wiki/Basis_Set_Ventures"
+    ]
+  },
+  {
+    "id": "the-house-fund",
+    "name": "The House Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Berkeley, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, AI/ML, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:build@thehouse.fund",
+    "website": "https://thehouse.fund/",
+    "description": "Invests at inception in UC Berkeley-affiliated founders (alumni, faculty, students).",
+    "highlights": [
+      "$115M Fund III (2023)",
+      "Form D for House Fund IV filed Nov 2025"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://thehouse.fund/",
+      "https://techcrunch.com/2023/10/25/the-house-fund-aims-to-invest-a-fresh-115m-in-berkeley-affiliated-startups/"
+    ]
+  },
+  {
+    "id": "kindred-ventures",
+    "name": "Kindred Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://kindredventures.com/",
+    "website": "https://kindredventures.com/",
+    "description": "Steve Jang and Kanyi Maqubela's early-stage firm backing founders building with technology and science, from AGI to decentralized systems and electric transport.",
+    "highlights": [
+      "$200M Fund III plus Selector Fund (2023)",
+      "100+ startups backed; $200B+ aggregate portfolio market cap"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://kindredventures.com/",
+      "https://kindredventures.medium.com/announcing-kindred-ventures-iii-and-selector-i-2c6f2005ea64"
+    ]
+  },
+  {
+    "id": "everywhere-ventures",
+    "name": "Everywhere Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://airtable.com/appeY02X0EMCQQ19G/shrjpNqWOj0SJP1ix",
+    "website": "https://www.everywhere.vc/",
+    "description": "Founder-backed pre-seed fund (Jenny Fielding, Scott Hartley, Anna Barber) investing in founders anywhere in the world.",
+    "highlights": [
+      "Invests $250K into pre-seed rounds",
+      "300 portfolio companies; 500 founder LPs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.everywhere.vc/"
+    ]
+  },
+  {
+    "id": "not-boring-capital",
+    "name": "Not Boring Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "~$100K+",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Deep Tech, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.notboring.co/",
+    "website": "https://www.notboring.co/",
+    "description": "Packy McCormick's fund investing in 'worldbuilder' founders, mainly seed through Series B.",
+    "highlights": [
+      "Fund III (~$30M, 2023)",
+      "Backed by Thrive Capital as anchor LP of Fund I"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.notboring.co/p/introducing-not-boring-capital"
+    ]
+  },
+  {
+    "id": "true-wealth-ventures",
+    "name": "True Wealth Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Biotech/Health",
+      "Social Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, Biotech/Health, Social Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://truewealthvc.com/contact-us/",
+    "website": "https://truewealthvc.com/",
+    "description": "Invests in early-stage women-led companies improving human and/or environmental health.",
+    "highlights": [
+      "$35M Fund II (2022)",
+      "Portfolio news dated July 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://truewealthvc.com/"
+    ]
+  },
+  {
+    "id": "valia-ventures",
+    "name": "Valia Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$50K–$250K (pre-seed); $250K–$1.5M (seed/A)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Deep Tech, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://airtable.com/appZJ7YRLWoy9SJ2S/shrkwh8LIuO0FtdS8/tblnWGiof2NaVJS4Q/viwFiz48YAcyKMk3z",
+    "website": "https://www.valia.vc/",
+    "description": "Backs founders building iconic companies via pre-seed, early-stage and opportunity funds.",
+    "highlights": [
+      "$50M Fund II (2022), backed by Tiger",
+      "Portfolio includes Superpower, Valar Atomics, Built Robotics"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.valia.vc/"
+    ]
+  },
+  {
+    "id": "burnt-island-ventures",
+    "name": "Burnt Island Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.burntislandventures.com/founders",
+    "website": "https://www.burntislandventures.com/",
+    "description": "Early-stage fund dedicated to water technology founders.",
+    "highlights": [
+      "$30M Fund I (2022)",
+      "Water-focused thesis: 'climate change is water change'"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.burntislandventures.com/"
+    ]
+  },
+  {
+    "id": "fifty-years",
+    "name": "Fifty Years",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Biotech/Health",
+      "Climate/Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Deep Tech, Biotech/Health, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://fiftyyears.com/",
+    "website": "https://fiftyyears.com/",
+    "description": "Backs scientist-founders translating breakthrough science into companies; runs the 5050 deep-tech founder program.",
+    "highlights": [
+      "Backed 72 PhD founders",
+      "5050 program next cohort April 2027"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://fiftyyears.com/"
+    ]
+  },
+  {
+    "id": "multicoin-capital",
+    "name": "Multicoin Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Web3/Crypto"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://multicoin.capital/contact/",
+    "website": "https://multicoin.capital/",
+    "description": "Thesis-driven crypto investment firm with a hedge fund and venture funds backing crypto companies and protocols.",
+    "highlights": [
+      "Accepts crypto project pitches via contact form",
+      "Founded 2017"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://multicoin.capital/",
+      "https://multicoin.capital/contact/"
+    ]
+  },
+  {
+    "id": "silicon-road-ventures",
+    "name": "Silicon Road Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Atlanta, GA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@siliconroad.vc",
+    "website": "https://www.siliconroad.vc/",
+    "description": "Atlanta VC focused on commerce tech: payments, retail, logistics and shipping, with an India office.",
+    "highlights": [
+      "$31M Fund I (2021)",
+      "Offices in Atlanta and Mumbai"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.siliconroad.vc/",
+      "https://www.siliconroad.vc/contactus"
+    ]
+  },
+  {
+    "id": "define-ventures",
+    "name": "Define Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.definevc.com/contact",
+    "website": "https://www.definevc.com/",
+    "description": "Early-stage digital health firm partnering with companies defining the future of healthcare.",
+    "highlights": [
+      "$800M under management",
+      "Portfolio includes Hims & Hers, Cohere Health"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.definevc.com/"
+    ]
+  },
+  {
+    "id": "conductive-ventures",
+    "name": "Conductive Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Mountain View, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Hardware",
+      "B2B SaaS"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in General/Any, Hardware, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://conductive.vc/contact/",
+    "website": "https://conductive.vc/",
+    "description": "Generalist firm investing mostly at Series A and B in capital-efficient emerging category leaders, often overlooked founders.",
+    "highlights": [
+      "$150M Fund II (2020)",
+      "Portfolio company Ambiq listed on NYSE"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://conductive.vc/"
+    ]
+  },
+  {
+    "id": "rise-of-the-rest-seed-fund-revolution",
+    "name": "Rise of the Rest Seed Fund (Revolution)",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Washington, DC, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.revolution.com/contact",
+    "website": "https://www.revolution.com/venture-capital",
+    "description": "Steve Case's Revolution seed fund backing startups outside Silicon Valley, New York and Boston.",
+    "highlights": [
+      "$150M Fund II (2019)",
+      "Part of Revolution's family of funds"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.revolution.com/venture-capital"
+    ]
+  },
+  {
+    "id": "one-way-ventures",
+    "name": "One Way Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.onewayvc.com/pitch-us",
+    "website": "https://www.onewayvc.com/",
+    "description": "Backs exceptional immigrant founders at early stages.",
+    "highlights": [
+      "Runs annual One Way Summit (2026)",
+      "Portfolio includes Tive, Chipper Cash"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.onewayvc.com/"
+    ]
+  },
+  {
+    "id": "congruent-ventures",
+    "name": "Congruent Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@congruentvc.com",
+    "website": "https://www.congruentvc.com/",
+    "description": "Early-stage climate tech investor backing North American teams innovating across atoms, bits and business models, from formation through Series A.",
+    "highlights": [
+      "Publishes annual '50 by 2050' list",
+      "$92M Fund I (2018)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.congruentvc.com/"
+    ]
+  },
+  {
+    "id": "anterra-capital",
+    "name": "Anterra Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Amsterdam, Netherlands / Boston, MA, USA",
+    "focusAreas": [
+      "Agtech/Foodtech"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Agtech/Foodtech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://anterracapital.com/contact/",
+    "website": "https://anterracapital.com/",
+    "description": "Invests in technology for a safe, sustainable and resilient food system: farming, animal health and nutrition.",
+    "highlights": [
+      "$200M Fund I (2018)",
+      "Portfolio includes Enko, ProducePay"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://anterracapital.com/"
+    ]
+  },
+  {
+    "id": "lrvhealth",
+    "name": "LRVHealth",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://lrvhealth.com/contact",
+    "website": "https://lrvhealth.com/",
+    "description": "Healthcare venture platform investing alongside health systems in founders changing healthcare.",
+    "highlights": [
+      "$100M Fund IV (2018)",
+      "LPs are healthcare organizations"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://lrvhealth.com/"
+    ]
+  },
+  {
+    "id": "seventysix-capital",
+    "name": "SeventySix Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Conshohocken, PA, USA",
+    "focusAreas": [
+      "Gaming/Media",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Gaming/Media, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.seventysixcapital.com/apply-for-investment",
+    "website": "https://www.seventysixcapital.com/",
+    "description": "Sports tech and sports betting focused VC with an athlete venture group.",
+    "highlights": [
+      "Runs Athlete Venture Group",
+      "Apply-for-investment form on site"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.seventysixcapital.com/"
+    ]
+  },
+  {
+    "id": "third-prime",
+    "name": "Third Prime",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Fintech",
+      "Proptech",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Proptech, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:founders@thirdprime.vc",
+    "website": "https://www.thirdprime.vc/",
+    "description": "Concentrated early-stage firm investing in paradigm shifts in fintech, energy and industrial software.",
+    "highlights": [
+      "Portfolio includes Octane, Everstar, Moonware",
+      "$36M Fund I (2017)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.thirdprime.vc/"
+    ]
+  },
+  {
+    "id": "pantera-capital",
+    "name": "Pantera Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "Web3/Crypto"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:pitch@panteracapital.com",
+    "website": "https://panteracapital.com/",
+    "description": "Crypto/blockchain investment firm with venture, token and hedge funds backing founders at the frontier of the digital economy.",
+    "highlights": [
+      "First US cryptocurrency fund (2013)",
+      "Venture Fund V"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://panteracapital.com/",
+      "https://panteracapital.com/contact/"
+    ]
+  },
+  {
+    "id": "the-engine",
+    "name": "The Engine",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Cambridge, MA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Climate/Impact",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Climate/Impact, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://engine.xyz/landing/contact",
+    "website": "https://engine.xyz/",
+    "description": "MIT-founded platform with venture funds and a nonprofit incubator supporting Tough Tech startups.",
+    "highlights": [
+      "$150M Fund I (2017)",
+      "Residency program with wet labs and engineering space"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://engine.xyz/"
+    ]
+  },
+  {
+    "id": "nyca-partners",
+    "name": "Nyca Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@nyca.com",
+    "website": "https://www.nyca.com/",
+    "description": "Fintech venture firm investing seed through Series B in payments, infrastructure, capital markets and embedded finance.",
+    "highlights": [
+      "Hosts Nyca Fintech Demo Day (Oct 2026)",
+      "$125M Fund II (2017)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.nyca.com/"
+    ]
+  },
+  {
+    "id": "digitalis-ventures",
+    "name": "Digitalis Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@digitalisventures.com",
+    "website": "https://www.digitalisventures.com/",
+    "description": "Invests in biotechnology and tech-enabled health companies, plus animal health via Companion Funds.",
+    "highlights": [
+      "Human and animal health strategies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.digitalisventures.com/"
+    ]
+  },
+  {
+    "id": "caffeinated-capital",
+    "name": "Caffeinated Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.caffeinated.com/",
+    "website": "https://www.caffeinated.com/",
+    "description": "Raymond Tonsing's firm leading seed and Series A rounds and investing through the life of technology companies.",
+    "highlights": [
+      "Seed co-lead in Airtable",
+      "Portfolio includes Varda Space"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.caffeinated.com/"
+    ]
+  },
+  {
+    "id": "initialized-capital",
+    "name": "Initialized Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://initialized.com/",
+    "website": "https://initialized.com/",
+    "description": "Early-stage firm investing across sectors in founders working on hard problems.",
+    "highlights": [
+      "Early investor in Coinbase, Instacart"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://initialized.com/"
+    ]
+  },
+  {
+    "id": "s28-capital",
+    "name": "S28 Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:vic@s28capital.com",
+    "website": "https://www.s28capital.com/",
+    "description": "Entrepreneur-led fund backing early-stage software companies.",
+    "highlights": [
+      "$170M Fund I (2016)",
+      "Multiple exited portfolio companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.s28capital.com/"
+    ]
+  },
+  {
+    "id": "forerunner-ventures",
+    "name": "Forerunner Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Consumer",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:investments@forerunnerventures.com",
+    "website": "https://www.forerunnerventures.com/",
+    "description": "Early-stage firm backing category-defining consumer founders.",
+    "highlights": [
+      "$3B AUM",
+      "Portfolio includes Chime, Oura, Glossier, Warby Parker"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.forerunnerventures.com/"
+    ]
+  },
+  {
+    "id": "clear-ventures",
+    "name": "Clear Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Enterprise",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Enterprise, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://clear.ventures/contact/",
+    "website": "https://clear.ventures/",
+    "description": "Founder-led early-stage firm, typically first investor, backing B2B tech: networking, semiconductors, AI.",
+    "highlights": [
+      "~90% of 70+ companies had Clear as first investor",
+      "Portfolio includes Arrcus, Atmosic"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://clear.ventures/"
+    ]
+  },
+  {
+    "id": "playground-global",
+    "name": "Playground Global",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@playground.global",
+    "website": "https://www.playground.vc/",
+    "description": "Backs scientists and engineers turning breakthrough science into companies: compute, automation and more.",
+    "highlights": [
+      "Founded by Andy Rubin; now deep-tech VC"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.playground.vc/"
+    ]
+  },
+  {
+    "id": "alsop-louie-partners",
+    "name": "Alsop Louie Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Cybersecurity"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Cybersecurity; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.alsop-louie.com/contact",
+    "website": "https://www.alsop-louie.com/",
+    "description": "Early-stage, risk-oriented technology venture firm.",
+    "highlights": [
+      "$100M Fund III (2014)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.alsop-louie.com/"
+    ]
+  },
+  {
+    "id": "arthur-ventures",
+    "name": "Arthur Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Minneapolis, MN, USA",
+    "focusAreas": [
+      "B2B SaaS"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.arthurventures.com/",
+    "website": "https://www.arthurventures.com/",
+    "description": "Early growth capital firm leading investments in B2B software companies across the US and Canada.",
+    "highlights": [
+      "$2B AUM",
+      "Led TJM Labs Series A (Jan 2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.arthurventures.com/"
+    ]
+  },
+  {
+    "id": "wing-venture-capital",
+    "name": "Wing Venture Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Enterprise"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in AI/ML, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@wing.vc",
+    "website": "https://www.wing.vc/",
+    "description": "Early-stage venture for founders building the AI-first economy.",
+    "highlights": [
+      "Focus on enterprise AI and AI infrastructure"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.wing.vc/"
+    ]
+  },
+  {
+    "id": "adverb-ventures",
+    "name": "Adverb Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Consumer, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.adverb.vc",
+    "website": "https://www.adverb.vc",
+    "description": "Early-stage firm led by operators from Twitter, Slack and Robinhood that backs founders from pre-seed through Series A.",
+    "highlights": [
+      "Closed $75M debut fund in 2023",
+      "Portfolio includes Granola, Particle News, Elpha, Le Walk",
+      "Co-led Le Walk's $4.1M seed (Sept 2025)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.adverb.vc; https://cooley.com/news/coverage/2023/2023-07-11-womenfounded-adverb-ventures-closes-75-million-debut-fund"
+  },
+  {
+    "id": "humbition",
+    "name": "Humbition",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Deep Tech, AI/ML, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://humbition.com",
+    "website": "https://humbition.com",
+    "description": "Early-stage deep tech fund built by founders (Cyrus Massoumi of Zocdoc, Slava Rubin of Indiegogo) that invests at inception and pre-seed.",
+    "highlights": [
+      "Invests at inception/pre-seed, often before companies are formed",
+      "Portfolio includes Chef Robotics",
+      "Pre-seed deal reported Oct 2025 (Previvor Edge)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://humbition.com; https://www.cbinsights.com/company/humbition/financials"
+  },
+  {
+    "id": "snak-venture-partners",
+    "name": "SNAK Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.snak.vc",
+    "website": "https://www.snak.vc",
+    "description": "Chicago seed fund backing B2B marketplaces that digitize legacy sectors like construction, manufacturing and supply chain, led by former Pritzker Group VC partners Sonia Nagar and Adam Koopersmith.",
+    "highlights": [
+      "Closed oversubscribed $50M Fund I (Feb 2026), anchored by Pritzker Group",
+      "Fund I portfolio includes BigRentals, Ruck, Repackify, APFusion",
+      "Plans 20+ seed investments"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.snak.vc; https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/; https://pulse2.com/snak-venture-partners-50-million-debut-fund/"
+  },
+  {
+    "id": "female-founders-fund",
+    "name": "Female Founders Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Consumer, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://femalefoundersfund.typeform.com/pitches",
+    "website": "https://femalefoundersfund.com",
+    "description": "Seed-stage fund investing only in female-founded companies. It's sector-agnostic, with depth in consumer tech, digital health, fintech and enterprise software.",
+    "highlights": [
+      "Closed $29M Fund IV (Dec 2025); $140M AUM across five funds",
+      "Exits include Billie (sold to Edgewell for $310M), Eloquii, BentoBox",
+      "LPs include Pivotal Ventures"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://femalefoundersfund.com/about/; https://fortune.com/2025/12/01/female-founders-fund-fourth-fund-emerging-managers-milestone/"
+  },
+  {
+    "id": "crystal-venture-partners",
+    "name": "Crystal Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Fintech",
+      "AI/ML",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, AI/ML, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:deals@crystalventurepartners.com",
+    "website": "https://www.crystalventurepartners.com",
+    "description": "NYC fund founded by former insurance executive Jonathan Crystal. It backs startups using AI to transform insurance, risk and adjacent financial services.",
+    "highlights": [
+      "Closed $33M Fund I (Oct 2025)",
+      "Early bets include Bright Harbor and Sixfold",
+      "Plans ~15 investments from Fund I"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.crystalventurepartners.com; https://fortune.com/2025/10/06/crystal-venture-partners-insurance-ai-venture-capital-new-york/"
+  },
+  {
+    "id": "counterpart-ventures",
+    "name": "Counterpart Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Enterprise",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Enterprise, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:team@counterpart.vc",
+    "website": "https://counterpart.vc",
+    "description": "Run by former corporate-VC leaders. Invests at seed and Series A in AI-native enterprise software and connects founders with corporate customers through its CVC community, Counter Club.",
+    "highlights": [
+      "Closed $132M Fund III (June 2025)",
+      "Founded by Patrick Eggen (ex-Qualcomm Ventures) and Joe Saijo",
+      "Seed–Series A; $1–5M checks"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://counterpart.vc/about-us; https://fortune.com/2025/06/25/exclusive-counterpart-ventures-closes-132-million-third-fund-to-link-cvcs-and-startups/"
+  },
+  {
+    "id": "work-bench",
+    "name": "Work-Bench",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, Enterprise, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@work-bench.com",
+    "website": "https://www.work-bench.com",
+    "description": "New York's B2B software seed fund. Leads pre-seed and seed rounds in applied AI and infrastructure software companies.",
+    "highlights": [
+      "Leads pre-seed and seed rounds",
+      "Founded in 2013 in NYC",
+      "$160M Fund IV (2025) per source list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.work-bench.com"
+  },
+  {
+    "id": "resiliencevc",
+    "name": "ResilienceVC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Fintech",
+      "Social Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Social Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.resilience.vc/contact",
+    "website": "https://www.resilience.vc",
+    "description": "Seed-stage venture firm backing embedded fintech startups that build financial resilience for Americans.",
+    "highlights": [
+      "Unveiled $56M debut fund (Feb 2025)",
+      "Focus on embedded fintech and financial inclusion"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.resilience.vc; https://techcrunch.com/2025/02/27/resiliencevc-bucks-trend-unveils-56m-fund-to-back-fintechs-working-on-financial-inclusion/"
+  },
+  {
+    "id": "initiate-ventures",
+    "name": "INITIATE Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-idea startups in Biotech/Health, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:team@initiate.vc",
+    "website": "https://www.initiate.vc",
+    "description": "Funds and co-founds AI-native healthcare companies from inception, working with both serial and first-time founders.",
+    "highlights": [
+      "Co-founds companies from idea stage",
+      "Thesis: AI-native healthcare",
+      "$45M Fund I (2024) per source list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.initiate.vc"
+  },
+  {
+    "id": "asylum-ventures",
+    "name": "Asylum Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Brooklyn, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.asylum.vc",
+    "website": "https://www.asylum.vc",
+    "description": "Brooklyn firm led by Nick Chirls (formerly of Notation Capital) that backs founders at the earliest stage of company creation.",
+    "highlights": [
+      "$55M Fund I (2024) per source list",
+      "Thesis: 'Artists not assets', backing unconventional founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.asylum.vc; https://x.com/nchirls/status/1831694207737610285"
+  },
+  {
+    "id": "day-one-ventures",
+    "name": "Day One Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://dayoneventures.com",
+    "website": "https://dayoneventures.com",
+    "description": "Early-stage firm founded by Masha Bucher that pairs investment with hands-on communications and storytelling support for mission-driven founders.",
+    "highlights": [
+      "Raised $150M Fund III (2024)",
+      "Leads press and comms for its portfolio",
+      "Backed Tools for Humanity (Alex Blania)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://dayoneventures.com; https://www.forbes.com/sites/dariashunina/2024/06/11/masha-buchers-day-one-ventures-raises-150m-fund-iii/"
+  },
+  {
+    "id": "renegade-partners",
+    "name": "Renegade Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Fintech"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "$2M–$10M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in General/Any, AI/ML, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.renegadepartners.com/contact",
+    "website": "https://www.renegadepartners.com",
+    "description": "Early-stage firm focused on Series A. Makes 6–7 concentrated investments a year across AI, fintech, infrastructure, vertical SaaS and consumer.",
+    "highlights": [
+      "Raised $128M Renegade II (2024)",
+      "6–7 investments per year, $2–10M checks"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.renegadepartners.com; https://www.renegadepartners.com/blog/introducing-renegade-ii"
+  },
+  {
+    "id": "bluestein-ventures",
+    "name": "Bluestein Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "Agtech/Foodtech",
+      "Biotech/Health",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Agtech/Foodtech, Biotech/Health, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.bluesteinventures.com/work-with-us",
+    "website": "https://www.bluesteinventures.com",
+    "description": "Family-backed Chicago firm founded in 2014 that invests seed to Series A in food, health and wellbeing companies.",
+    "highlights": [
+      "Raised $45M Fund III (Feb 2024)",
+      "Backed Factor 75 (acquired by HelloFresh for $277M)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.bluesteinventures.com; https://techcrunch.com/2024/02/20/bluestein-ventures-45m-food-tech-fund/"
+  },
+  {
+    "id": "alt-capital",
+    "name": "Alt Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$1M–$10M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.altcap.com",
+    "website": "https://www.altcap.com",
+    "description": "Jack Altman's generalist early-stage firm. Builds a concentrated portfolio with $1–10M checks from inception through Series A.",
+    "highlights": [
+      "$150M Fund I (2024) per source list",
+      "Invests inception through Series A"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.altcap.com"
+  },
+  {
+    "id": "springdale-ventures",
+    "name": "Springdale Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Consumer",
+      "Agtech/Foodtech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "~$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, Agtech/Foodtech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://springdaleventures.com",
+    "website": "https://springdaleventures.com",
+    "description": "Austin firm investing seed to Series A in consumer brands across food, beverage, pet, health and beauty.",
+    "highlights": [
+      "Closed $40M Fund II (2023)",
+      "Portfolio includes Nectar, Big Nose Kate, BloxSnacks",
+      "Recent investment: Oddball World (Nov 2025)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://agfundernews.com/springdale-ventures-closes-40m-fund-for-early-stage-consumer-brands-as-investors-were-here-to-help-remove-obstacles; https://hub.waveup.com/funds/springdale-ventures"
+  },
+  {
+    "id": "bee-partners",
+    "name": "Bee Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Deep Tech, AI/ML, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://beepartners.vc",
+    "website": "https://beepartners.vc",
+    "description": "Conviction-first pre-seed fund for technical founders working on biological machines, human-machine interaction and machine learning.",
+    "highlights": [
+      "Raised $50M Fund IV (2023)",
+      "Nearly 100 portfolio companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://beepartners.vc; https://techcrunch.com/2023/11/01/bee-partners-venture-capital-pre-seed-deep-tech/"
+  },
+  {
+    "id": "uncork-capital",
+    "name": "Uncork Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:pitches@uncorkcapital.com",
+    "website": "https://uncorkcapital.com",
+    "description": "Seed-stage firm that backs founders from zero, with a current focus on AI-native companies.",
+    "highlights": [
+      "Portfolio includes Tailscale, GPTZero, Human Interest",
+      "Raised $400M across funds in 2023"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://uncorkcapital.com; https://medium.com/uncorkcapital/uncork-raises-400m-to-invest-in-and-support-seed-stage-startups-from-inception-through-growth-9316a6599780"
+  },
+  {
+    "id": "ensemble-vc",
+    "name": "Ensemble VC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Deep Tech",
+      "Biotech/Health"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in General/Any, Deep Tech, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.ensemble.vc",
+    "website": "https://www.ensemble.vc",
+    "description": "Data-driven venture firm that picks startups based on the strength of their teams, using proprietary talent data.",
+    "highlights": [
+      "Raised $100M debut fund (2023)",
+      "Data-driven team assessment"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.ensemble.vc; https://techcrunch.com/2023/04/04/ensemble-raises-100m-debut-fund-to-bet-on-startup-teams-but-not-in-the-way-you-think/"
+  },
+  {
+    "id": "cake-ventures",
+    "name": "Cake Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Consumer, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://cake.vc/apply",
+    "website": "https://cake.vc",
+    "description": "Pre-seed and seed firm founded by Monique Woodard, investing in companies shaped by demographic change.",
+    "highlights": [
+      "$17M debut fund (2023)",
+      "Online application form for founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://cake.vc; https://cake.vc/apply; https://www.forbes.com/sites/alexkonrad/2023/01/12/monique-woodard-new-fund-cake-ventures/"
+  },
+  {
+    "id": "streamlined-ventures",
+    "name": "Streamlined Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, B2B SaaS, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.streamlined.vc/get-in-touch",
+    "website": "https://www.streamlined.vc",
+    "description": "Seed-stage firm partnering with founders to build exceptional companies.",
+    "highlights": [
+      "Portfolio includes DoorDash, AppLovin, Addepar, Rigetti",
+      "$140M Fund V (2022) per source list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.streamlined.vc"
+  },
+  {
+    "id": "mindset-ventures",
+    "name": "Mindset Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "AI/ML",
+      "Fintech",
+      "Cybersecurity"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Fintech, Cybersecurity; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://mindset.ventures/contact-us/",
+    "website": "https://mindset.ventures",
+    "description": "Global early-stage VC investing in AI-native B2B startups in financial services, healthcare, cybersecurity and enterprise software, and helping them expand into Latin America.",
+    "highlights": [
+      "Helps portfolio companies expand into Latin America",
+      "Portfolio company acquired by Upstart",
+      "$40M Fund IV (2022) per source list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://mindset.ventures"
+  },
+  {
+    "id": "shine-capital",
+    "name": "Shine Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:contact@shine.vc",
+    "website": "https://www.shine.vc",
+    "description": "Early-stage firm partnering with creative, relentless entrepreneurs to build iconic businesses. Offices in New York and San Francisco.",
+    "highlights": [
+      "$200M Fund II (2022) per source list",
+      "Offices in NYC and SF"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.shine.vc"
+  },
+  {
+    "id": "bull-city-venture-partners",
+    "name": "Bull City Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Durham, NC, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.bcvp.com/contact",
+    "website": "https://www.bcvp.com",
+    "description": "Durham-based firm that partners with software founders and supplies capital, expertise and network to help them scale.",
+    "highlights": [
+      "$120M assets under management",
+      "21 exits, including 3 IPOs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.bcvp.com"
+  },
+  {
+    "id": "variant",
+    "name": "Variant",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Web3/Crypto",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Web3/Crypto, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@variant.fund",
+    "website": "https://variant.fund",
+    "description": "NYC venture firm investing in markets, infrastructure and applications that increase user ownership and agency, mainly in crypto.",
+    "highlights": [
+      "Published new investment posts through Oct 2026 (e.g., Prism, Tenor)",
+      "$110M Fund II (2021) per source list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://variant.fund"
+  },
+  {
+    "id": "moxxie-ventures",
+    "name": "Moxxie Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Consumer, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@moxxie.vc",
+    "website": "https://www.moxxie.vc",
+    "description": "Early-stage firm founded by Katie Stanton that backs courageous founders building a better future.",
+    "highlights": [
+      "Portfolio includes August Health, Carta, Heirloom Carbon, Calm",
+      "$85M Fund II (2021) per source list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.moxxie.vc"
+  },
+  {
+    "id": "primary-venture-partners",
+    "name": "Primary Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:founders@primary.vc",
+    "website": "https://www.primary.vc",
+    "description": "NYC seed-stage firm backing founders building things the world hasn't seen yet.",
+    "highlights": [
+      "Has announced Fund V",
+      "Has invested in Etched in every round"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.primary.vc"
+  },
+  {
+    "id": "tech-square-ventures",
+    "name": "Tech Square Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Atlanta, GA, USA",
+    "focusAreas": [
+      "Enterprise",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Enterprise, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://techsquareventures.com/contact/",
+    "website": "https://techsquareventures.com",
+    "description": "Atlanta-based firm investing in early-stage founders building the future of enterprise.",
+    "highlights": [
+      "Portfolio includes Slip Robotics and The Mom Project",
+      "$25M Fund II (2020)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://techsquareventures.com; https://www.bizjournals.com/atlanta/news/2020/07/03/tech-square-ventures-second-investment-fund.html"
+  },
+  {
+    "id": "coefficient-capital",
+    "name": "Coefficient Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Consumer",
+      "Agtech/Foodtech"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Consumer, Agtech/Foodtech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://coefficientcap.com",
+    "website": "https://coefficientcap.com",
+    "description": "New York growth-oriented firm investing in consumer and tech-enabled brands, mostly at Series A and B.",
+    "highlights": [
+      "Closed $290M Fund II plus $240M Apex Fund (2026); AUM above $800M",
+      "Backed Kate Farms (acquired by Danone in 2025)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://pulse2.com/coefficient-capital-500-million-raised-across-funds-for-consumer-growth-investing; https://www.bevnet.com/news/2020/new-fund-coefficient-capital-to-back-omnichannel-businesses"
+  },
+  {
+    "id": "base10-partners",
+    "name": "Base10 Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Enterprise",
+      "B2B SaaS"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in AI/ML, Enterprise, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:partners@base10.vc",
+    "website": "https://base10.vc",
+    "description": "San Francisco firm investing in automation for the real economy and donating 50% of its carry to the next generation of founders.",
+    "highlights": [
+      "Donates 50% of carry",
+      "$180M Fund II (2019) per source list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://base10.vc"
+  },
+  {
+    "id": "active-capital",
+    "name": "Active Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Antonio, TX, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "AI/ML",
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100K–$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, AI/ML, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:team@active.vc",
+    "website": "https://active.vc",
+    "description": "Pre-seed firm led by Pat Matthews that backs technical US founders rebuilding business software and infrastructure for an AI-native world.",
+    "highlights": [
+      "Typical first check of $500K; leads or co-invests",
+      "Welcomes cold emails"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://active.vc; https://therivardreport.com/local-vc-firm-active-capital-announces-debut-fund-of-20-million/"
+  },
+  {
+    "id": "atomic",
+    "name": "Atomic",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-idea startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@atomic.vc",
+    "website": "https://www.atomic.vc",
+    "description": "Venture studio that co-founds companies with entrepreneurs, combining ideas, capital and a company-building team.",
+    "highlights": [
+      "Co-founds companies from the idea stage",
+      "Founders can apply as co-founders on its site"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.atomic.vc; https://www.forbes.com/sites/alexkonrad/2018/10/10/atomic-startup-studio-new-fund/"
+  },
+  {
+    "id": "white-star-capital",
+    "name": "White Star Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "Fintech",
+      "Web3/Crypto"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in General/Any, Fintech, Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.whitestarcapital.com",
+    "website": "https://www.whitestarcapital.com",
+    "description": "Global multi-stage technology investment platform with Venture, Digital Asset and North American Seed funds. Featured founders are in Toronto, Montreal, New York, London, Paris and Lisbon.",
+    "highlights": [
+      "Runs a dedicated North American Seed Fund",
+      "Also runs a Digital Asset fund"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.whitestarcapital.com"
+  },
+  {
+    "id": "firebrand-ventures",
+    "name": "Firebrand Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Kansas City, MO, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.firebrandvc.com",
+    "website": "https://www.firebrandvc.com",
+    "description": "Seed fund for founders in up-and-coming US and Canadian communities underserved by VC, especially the Midwest, Texas and the Rockies.",
+    "highlights": [
+      "Writes $500K–$1M seed checks; leads or co-invests",
+      "Fund I backed 27 companies; also runs The Hill Fund"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.firebrandvc.com/investment-criteria; https://www.firebrandvc.com/about"
+  },
+  {
+    "id": "ai-fund",
+    "name": "AI Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Pre-idea",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-idea startups in AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://aifund.ai/contact/",
+    "website": "https://aifund.ai",
+    "description": "Andrew Ng's venture studio, which co-founds AI companies from idea to impact with entrepreneurs and corporate partners.",
+    "highlights": [
+      "Venture studio that co-builds companies",
+      "Founded by Andrew Ng"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://aifund.ai"
+  },
+  {
+    "id": "anzu-partners",
+    "name": "Anzu Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Washington, DC, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Climate/Impact",
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Deep Tech, Climate/Impact, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.anzupartners.com/contact/",
+    "website": "https://www.anzupartners.com",
+    "description": "Investment firm backing clean tech, industrial and life science technology companies through venture, private credit and public structures.",
+    "highlights": [
+      "About $1B AUM",
+      "Invests in industrial, clean tech and life science"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.anzupartners.com"
+  },
+  {
+    "id": "first-star-ventures",
+    "name": "First Star Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Deep Tech, AI/ML, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:contact@firststar.vc",
+    "website": "https://firststar.vc",
+    "description": "Pre-seed fund backing visionary, research-driven technical founders in robotics, genomics, AI, energy and cybersecurity.",
+    "highlights": [
+      "Portfolio includes Jellyfish and Zanskar",
+      "$25M Fund II (2017) per source list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://firststar.vc"
+  },
+  {
+    "id": "bullish",
+    "name": "Bullish",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hey@bullish.co",
+    "website": "https://www.bullish.co",
+    "description": "Marketing operating partner that combines capital, consulting and creative work to build consumer brands.",
+    "highlights": [
+      "Recent investment: Cob Foods",
+      "Offers creative, consulting and capital"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.bullish.co"
+  },
+  {
+    "id": "laconia",
+    "name": "Laconia",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "AI/ML",
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K–$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, AI/ML, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdq04YGq8Bg46gJ1hLMvx41LFchTap0qJYSy22-arznda48GA/viewform",
+    "website": "https://www.laconiacapitalgroup.com",
+    "description": "NYC seed firm investing in serious founders building must-have applied AI and B2B software for enduring industries.",
+    "highlights": [
+      "Pre-seed and seed checks of $250K–$1M; happy to lead",
+      "Portfolio includes Ocrolus and Brooklyn Health"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.laconiacapitalgroup.com"
+  },
+  {
+    "id": "sv-angel",
+    "name": "SV Angel",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "~$200K (seed fund)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://svangel.com",
+    "website": "https://svangel.com",
+    "description": "San Francisco firm led by Ron Conway with a Seed Fund (typically $200K) and a Growth Fund (Series B+).",
+    "highlights": [
+      "Seed Fund typically invests $200K",
+      "Founders usually reach out at pre-seed/seed"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://svangel.com/faq"
+  },
+  {
+    "id": "healthx-ventures",
+    "name": "HealthX Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Madison, WI, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:contact@healthxventures.com",
+    "website": "https://www.healthxventures.com",
+    "description": "Madison-based digital health VC investing in companies that make healthcare more accessible, efficient and affordable.",
+    "highlights": [
+      "Based near Epic Systems HQ",
+      "Portfolio includes CancerIQ"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.healthxventures.com"
+  },
+  {
+    "id": "first-round-capital",
+    "name": "First Round Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.firstround.com",
+    "website": "https://www.firstround.com",
+    "description": "Invests exclusively at the earliest stages of company building, often pre-product.",
+    "highlights": [
+      "Portfolio includes Notion, Square, Roblox, Verkada",
+      "Publishes the First Round Review"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.firstround.com"
+  },
+  {
+    "id": "indie-vc",
+    "name": "Indie.vc",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K–$2M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@indie.vc",
+    "website": "https://www.indie.vc",
+    "description": "Bryce Roberts' founder-focused generalist fund, a stand-alone fund since 2023, that is usually the first investor on the cap table.",
+    "highlights": [
+      "$250K–$2M checks via SAFEs or equity",
+      "Prefers to lead; no board seat required"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.indie.vc/facts"
+  },
+  {
+    "id": "upside-partnership",
+    "name": "Upside Partnership",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "~$500K initial",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@upsidevc.com",
+    "website": "https://upsidevc.com",
+    "description": "Seed and pre-seed firm founded by Kent Goldman, with 70% of each fund reserved for follow-ons.",
+    "highlights": [
+      "Typical initial check $500K",
+      "70% of fund reserved for follow-ons"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://upsidevc.com"
+  },
+  {
+    "id": "ff-venture-capital",
+    "name": "ff Venture Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Hardware",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Hardware, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://ffvc.com/contact/",
+    "website": "https://ffvc.com",
+    "description": "NYC seed and early-stage firm founded in 2008, focused on AI, manufacturing, energy, robotics and security.",
+    "highlights": [
+      "Founded 2008",
+      "Focus on AI, robotics, energy and security"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://ffvc.com"
+  },
+  {
+    "id": "upfront-ventures",
+    "name": "Upfront Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://upfront.com",
+    "website": "https://upfront.com",
+    "description": "Los Angeles–based early-stage venture firm investing at seed and Series A.",
+    "highlights": [
+      "One of LA's largest early-stage firms"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://upfront.com"
+  },
+  {
+    "id": "thrive-capital",
+    "name": "Thrive Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in General/Any, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.thrivecap.com",
+    "website": "https://www.thrivecap.com",
+    "description": "NYC firm that builds and invests in internet, software and technology-enabled companies.",
+    "highlights": [
+      "Backs internet, software and tech-enabled companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.thrivecap.com"
+  },
+  {
+    "id": "discipulus-ventures",
+    "name": "Discipulus Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "El Segundo, CA, USA",
+    "focusAreas": [
+      "Hardware",
+      "Govtech/Defense",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Hardware, Govtech/Defense, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.discipulusventures.com",
+    "website": "https://www.discipulusventures.com",
+    "description": "El Segundo-based fund and residency program backing young technical founders building hardware for American industry (mining, energy, manufacturing, defense).",
+    "highlights": [
+      "Runs a live-in founder residency with cohorts; site shows applications open",
+      "Portfolio includes Durin, Rune Technologies and Aleph",
+      "Sheet lists $30M fund in 2026 (Axios reported a Fund II)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.discipulusventures.com; https://www.axios.com/pro/climate-deals/2026/06/29/discipulus-ventures-jakob-diepenbrock-fund-ii; https://traded.co/vc/deal/jakob-diepenbrock-backs-12-companies-rebuilding-american-industry-with-investments-from-a16z-and-lux-capital/"
+  },
+  {
+    "id": "oncology-ventures",
+    "name": "Oncology Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://oncologyvc.com",
+    "website": "https://oncologyvc.com",
+    "description": "Austin-based venture firm investing in commercially validated cancer-care startups (diagnostics, care coordination, data infrastructure); Texas Oncology is its anchor LP.",
+    "highlights": [
+      "Closed oversubscribed $62M Fund II in April 2026",
+      "Fund I was $32M",
+      "LPs include Texas Oncology, Moffitt, City of Hope, Fred Hutch"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.biospace.com/press-releases/oncology-ventures-announces-oversubscribed-62-million-fund-ii-to-accelerate-the-future-of-cancer-care"
+  },
+  {
+    "id": "better-tomorrow-ventures",
+    "name": "Better Tomorrow Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Fintech",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$4M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Fintech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://btv.vc",
+    "website": "https://btv.vc",
+    "description": "Pre-seed/seed fund that leads rounds in fintech and adjacent software companies, founded by former founders.",
+    "highlights": [
+      "Closed $140M Fund III in 2025",
+      "Leads pre-seed/seed rounds with $500K–$4M checks",
+      "Previously raised $225M fintech fund (2022)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://btv.vc; https://techcrunch.com/2025/10/01/better-tomorrow-ventures-closes-140m-remains-bullish-on-fintech/"
+  },
+  {
+    "id": "seven-stars",
+    "name": "Seven Stars",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@sevenstars.vc",
+    "website": "https://www.sevenstars.vc",
+    "description": "San Francisco firm founded by ex-SV Angel partner Steven Lee backing AI application companies at pre-seed and seed.",
+    "highlights": [
+      "Debut $40M fund (June 2025), oversubscribed in five weeks",
+      "Plans 35–45 investments per year",
+      "Founder backed ElevenLabs, Mercor, Captions early"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.sevenstars.vc; https://www.businesswire.com/news/home/20250611134321/en/Seven-Stars-Announces-First-Fund-to-Back-the-Visionaries-Shaping-AIs-Future"
+  },
+  {
+    "id": "cherryrock-capital",
+    "name": "Cherryrock Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech",
+      "Biotech/Health"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in B2B SaaS, Fintech, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.cherryrockcapital.com",
+    "website": "https://www.cherryrockcapital.com",
+    "description": "Founded by former TaskRabbit CEO Stacy Brown-Philpot, Cherryrock backs underinvested founders building software companies at Series A/B with early product-market fit.",
+    "highlights": [
+      "$172M debut Fund I (2025)",
+      "Led Certiverse $11M Series A (2025); co-led Coactive AI Series B",
+      "LPs include JPMorgan, Goldman Sachs, Pivotal Ventures"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.cherryrockcapital.com; https://impactalpha.com/cherryrock-capital-raises-172-million-for-growth-stage-startups-led-by-underinvested-founders/"
+  },
+  {
+    "id": "portal-ventures",
+    "name": "Portal Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Web3/Crypto"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://portal.vc",
+    "website": "https://portal.vc",
+    "description": "Leads pre-seed checks into blockchain businesses before product-market fit; founded by ex-Insight Partners investor Evan Fisher.",
+    "highlights": [
+      "Raised $75M Fund II (2024)",
+      "Leads first checks at pre-seed"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://portal.vc; https://x.com/PortalVentures/status/1857073723813040390"
+  },
+  {
+    "id": "wischoff-ventures",
+    "name": "Wischoff Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Nashville, TN, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$750K–$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:deals@wischoff.com",
+    "website": "https://www.wischoff.com",
+    "description": "Solo-GP fund led by Nichole Wischoff investing at pre-seed/seed in vertical SaaS, fintech, supply chain and B2B infrastructure.",
+    "highlights": [
+      "Raised $50M Fund III (2024)",
+      "Fund II was $20M, backed by Peter Thiel",
+      "Portfolio exit: MoneyKit acquired by Array (2025)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.wischoff.com; https://techcrunch.com/2022/12/16/solo-gp-nichole-wischoff-raises-20m-fund-backed-by-peter-thiel-to-invest-in-unsexy-businesses/; https://www.forbes.com.au/?p=111317"
+  },
+  {
+    "id": "collaborative-fund",
+    "name": "Collaborative Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Consumer",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, Consumer, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://collabfund.com",
+    "website": "https://collabfund.com",
+    "description": "NYC-based firm funding seed through growth across AI, consumer, money, health and energy, with a focus on companies pushing the world forward.",
+    "highlights": [
+      "Raised $125M fund in 2024 for climate, health and food",
+      "Early investor in Reddit and Scopely"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://collabfund.com; https://techcrunch.com/2024/06/10/after-hits-like-reddit-and-scopley-collaborative-fund-easily-raised-a-125m-fund-to-tackle-climate-health-and-food/"
+  },
+  {
+    "id": "eniac-ventures",
+    "name": "Eniac Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.eniac.vc",
+    "website": "https://www.eniac.vc",
+    "description": "NYC seed-stage firm that partners with founders from 0 to 1 across software and consumer tech.",
+    "highlights": [
+      "Raised $220M across two funds in 2024",
+      "Leads seed rounds"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.eniac.vc; https://techcrunch.com/2024/04/24/seed-stage-firm-eniac-ventures-raises-220m-across-two-funds/"
+  },
+  {
+    "id": "sunna-ventures",
+    "name": "Sunna Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:contact@sunna.vc",
+    "website": "https://sunna.vc",
+    "description": "Early-stage firm investing in companies advancing the energy transition and industrial decarbonization across the US and Latin America.",
+    "highlights": [
+      "Debut $40M fund (2024)",
+      "Led BackChannel seed round (March 2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://sunna.vc; https://www.lavca.org/people/luisa-sucre/; https://seedtable.com/investors/sunna-ventures"
+  },
+  {
+    "id": "equal-ventures",
+    "name": "Equal Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Fintech",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, Fintech, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.equal.vc",
+    "website": "https://www.equal.vc",
+    "description": "NYC seed firm 'bridging the digital divide' by backing founders deploying technology in legacy industries such as climate, insurance & benefits, retail and supply chain.",
+    "highlights": [
+      "Announced $175M of new capital (Fund II era, 2024)",
+      "Thesis based on Carlota Perez tech-cycle research"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.equal.vc; https://medium.com/@EqualVentures/announcing-175m-more-to-bridge-the-digital-divide-5f5ac816ebed"
+  },
+  {
+    "id": "new-north-ventures",
+    "name": "New North Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Manchester, NH, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Govtech/Defense, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://newnorthvc.com/pitch-us",
+    "website": "https://newnorthvc.com",
+    "description": "Defense-tech venture capital firm backing early-stage companies building for national security.",
+    "highlights": [
+      "Debut $22M Fund I (2024)",
+      "Has an online pitch form"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://newnorthvc.com"
+  },
+  {
+    "id": "climactic",
+    "name": "Climactic",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@climactic.vc",
+    "website": "https://www.climactic.vc",
+    "description": "Climate-focused early-stage fund investing in physical AI, energy tech and waste-to-value startups.",
+    "highlights": [
+      "$65M Fund I (2023)",
+      "Offices in SF and NYC; hosts Climate Week events"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.climactic.vc"
+  },
+  {
+    "id": "shield-capital",
+    "name": "Shield Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "AI/ML",
+      "Cybersecurity"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Govtech/Defense, AI/ML, Cybersecurity; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://shieldcap.com/contact",
+    "website": "https://shieldcap.com",
+    "description": "Venture firm investing in early-stage companies building national-security-relevant technology in AI, autonomy, cybersecurity and space.",
+    "highlights": [
+      "Closed $186M inaugural fund (2023)",
+      "Veteran national-security team"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://shieldcap.com; https://shieldcap.com/announcements/shield-capital-closes-186-million-inaugural-venture-capital-fund"
+  },
+  {
+    "id": "hash3",
+    "name": "Hash3",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Web3/Crypto"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:contact@hash3.xyz",
+    "website": "https://hash3.xyz",
+    "description": "Pre-seed/seed crypto-native fund investing in companies and protocols globally, pairing capital with incentivized advisors.",
+    "highlights": [
+      "$29M Fund I (2023)",
+      "Invests at pre-seed and seed"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://hash3.xyz"
+  },
+  {
+    "id": "race-capital",
+    "name": "Race Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Enterprise",
+      "Web3/Crypto"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Enterprise, Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://race.capital/contact",
+    "website": "https://race.capital",
+    "description": "Early-stage fund led by Alfred Chuang (BEA Systems co-founder) backing pre-seed/seed infrastructure software companies.",
+    "highlights": [
+      "Early investor in Databricks and Solana",
+      "$181M Fund II per sheet",
+      "Co-invested in seed rounds such as SkyPilot (2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://race.capital; https://medium.com/racecapital/race-capital-fund-ii-building-the-next-generation-software-infrastructure-fd3a7fb0fa4c; https://www.caplight.com/investor/race"
+  },
+  {
+    "id": "propeller-ventures",
+    "name": "Propeller Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://propellervc.com/pitch",
+    "website": "https://propellervc.com",
+    "description": "Early-stage fund investing in startups building at the ocean's edge (ocean/blue-economy climate solutions).",
+    "highlights": [
+      "$100M Fund I (2022)",
+      "Has an online pitch form"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://propellervc.com; https://www.propellervc.com/blog/introducingpropeller"
+  },
+  {
+    "id": "canonical",
+    "name": "Canonical",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Web3/Crypto"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$1.5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Deep Tech, Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.canonical.cc",
+    "website": "https://www.canonical.cc",
+    "description": "Solo-GP fund (Anand Iyer, ex-Microsoft/Pear) writing first checks into deeply technical, pre-product founders building infrastructure for a post-AGI world.",
+    "highlights": [
+      "$20M inaugural fund (2022), originally web3-focused (Canonical Crypto)",
+      "Writes $500K–$1.5M first checks at pre-seed"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.canonical.cc; https://techcrunch.com/2022/06/02/microsoft-web3-solo-gp-venture-fund-backs-crypto-developer-tools-infrastructure/"
+  },
+  {
+    "id": "january-ventures",
+    "name": "January Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://januaryventures.typeform.com/to/CBAt9iIh",
+    "website": "https://www.january.ventures",
+    "description": "Invests from day one in outlier founders transforming traditional industries, backing differentiated expertise over pedigree.",
+    "highlights": [
+      "$21M fund (2022) per sheet",
+      "Runs an operator network for portfolio"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.january.ventures; https://techcrunch.com/2022/04/28/january-ventures-fund-3-early-stage/"
+  },
+  {
+    "id": "tmv",
+    "name": "TMV",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Biotech/Health",
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Biotech/Health, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:team@tmv.vc",
+    "website": "https://www.tmv.vc",
+    "description": "NYC operator-led firm partnering with early-stage founders in AI, healthcare and maritime & logistics.",
+    "highlights": [
+      "$64M Fund II (2022)",
+      "Team of former operators"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.tmv.vc"
+  },
+  {
+    "id": "8-bit-capital",
+    "name": "8-Bit Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Cybersecurity",
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Cybersecurity, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://8bitcapital.com/contact/",
+    "website": "https://8bitcapital.com",
+    "description": "High-conviction investor in inception-stage software startups, co-led by Jonathan Abrams (Friendster, Nuzzel) and Kent Lindstrom.",
+    "highlights": [
+      "Closed $40M Fund I (2021)",
+      "Focus on AI, cybersecurity and fintech"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://8bitcapital.com; https://techcrunch.com/2021/10/04/8-bit-capital-co-led-by-jonathan-abrams-has-closed-its-first-fund-with-40-million/"
+  },
+  {
+    "id": "vine-ventures",
+    "name": "Vine Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://vineventures.com",
+    "website": "https://vineventures.com",
+    "description": "NYC firm backing founders at inception and following on to IPO, with a portfolio across the US, Israel and LatAm.",
+    "highlights": [
+      "$50M Fund I (2021)",
+      "Portfolio includes Carta and Baton"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://vineventures.com; https://ericreinervine.medium.com/vine-ventures-i-lp-2f52279eca57"
+  },
+  {
+    "id": "footwork",
+    "name": "Footwork",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Consumer",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$15M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@footwork.vc",
+    "website": "https://footwork.vc",
+    "description": "SF firm led by Mike Smith (ex-Stitch Fix) and Nikhil Basu Trivedi that leads seed and Series A rounds in consumer tech and consumerized enterprise software.",
+    "highlights": [
+      "$175M Fund I (2021); began investing $225M Fund II in 2025",
+      "Portfolio includes Elicit, WindBorne, Table22"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://footwork.vc"
+  },
+  {
+    "id": "xyz-venture-capital",
+    "name": "XYZ Venture Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Fintech",
+      "Enterprise",
+      "Govtech/Defense"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Enterprise, Govtech/Defense; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.xyz.vc/connect",
+    "website": "https://www.xyz.vc",
+    "description": "Early-stage firm founded by Ross Fubini backing founders in fintech, enterprise and frontier tech.",
+    "highlights": [
+      "$80M Fund II (2020)",
+      "Early investor in Anduril"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.xyz.vc; https://news.crunchbase.com/news/xyz-venture-capital-unveils-80m-second-fund/"
+  },
+  {
+    "id": "xfund",
+    "name": "Xfund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.xfund.com/pitch",
+    "website": "https://www.xfund.com",
+    "description": "Early-stage firm (Harvard SEAS-affiliated roots) backing entrepreneurs who think laterally across disciplines.",
+    "highlights": [
+      "$120M Fund III (2020)",
+      "Online pitch form; also start@xfund.com"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.xfund.com; https://www.seas.harvard.edu/news/2020/09/xfund-celebrates-launch-new-fund"
+  },
+  {
+    "id": "lightship-capital",
+    "name": "Lightship Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Cincinnati, OH, USA",
+    "focusAreas": [
+      "General/Any",
+      "Social Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Social Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.lightship.capital/apply",
+    "website": "https://www.lightship.capital",
+    "description": "Invests in remarkable founders, including underrepresented founders, in emerging US regions outside the coasts, especially the Midwest.",
+    "highlights": [
+      "$22M Fund I (2020)",
+      "Online application on site"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.lightship.capital; https://www.wsj.com/articles/lightship-capital-launches-fund-for-underrepresented-founders-in-the-midwest-11593165601"
+  },
+  {
+    "id": "shrug-capital",
+    "name": "Shrug Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Consumer",
+      "Gaming/Media"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Consumer, Gaming/Media; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.shrug.vc",
+    "website": "https://www.shrug.vc",
+    "description": "Early-stage fund known for creator/consumer bets and network-driven support; portfolio includes Feastables.",
+    "highlights": [
+      "$15M Fund II (2020)",
+      "Backed Night & Feastables (MrBeast ventures)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.shrug.vc"
+  },
+  {
+    "id": "indicator-ventures",
+    "name": "Indicator Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Fintech",
+      "Biotech/Health",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$3M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Biotech/Health, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@indicatorventures.com",
+    "website": "https://indicatorventures.com",
+    "description": "Early-stage firm leading, co-leading or joining seed rounds in fintech, healthcare, commerce and emerging tech.",
+    "highlights": [
+      "60+ companies seeded; $200M+ AUM",
+      "$1–3M initial checks"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://indicatorventures.com"
+  },
+  {
+    "id": "bluerun-ventures",
+    "name": "BlueRun Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "Fintech",
+      "Biotech/Health",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Biotech/Health, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.brv.com/contact",
+    "website": "https://www.brv.com",
+    "description": "Early-stage firm backing founders in fintech, digital health, enterprise software and consumer.",
+    "highlights": [
+      "$130M Fund VI (2019)",
+      "Portfolio includes Jackpocket, Hello Heart, Kitman Labs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.brv.com"
+  },
+  {
+    "id": "silverton-partners",
+    "name": "Silverton Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.silvertonpartners.com/contact/",
+    "website": "https://www.silvertonpartners.com",
+    "description": "Austin-based early-stage venture firm, self-described as the most active VC in Texas.",
+    "highlights": [
+      "75+ portfolio companies, 30+ acquisitions, 4 IPOs",
+      "$108M Fund V (2018)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.silvertonpartners.com"
+  },
+  {
+    "id": "nextgen-venture-partners",
+    "name": "NextGen Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Washington, DC, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$2M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://nextgenvp.com/contact",
+    "website": "https://nextgenvp.com",
+    "description": "Early-stage B2B investor leveraging a large network of venture partners (VP Engine) for warm executive intros.",
+    "highlights": [
+      "$500K–$2M early-stage checks",
+      "$22M fund from 83 investors (2017)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://nextgenvp.com"
+  },
+  {
+    "id": "flyover-capital",
+    "name": "Flyover Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Kansas City, MO, USA",
+    "focusAreas": [
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@flyovercapital.com",
+    "website": "https://www.flyovercapital.com",
+    "description": "Kansas City early-stage firm investing in technology companies applying AI to essential industries between the coasts.",
+    "highlights": [
+      "$46M Fund I (2017)",
+      "Portfolio includes Preczn"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.flyovercapital.com"
+  },
+  {
+    "id": "sound-ventures",
+    "name": "Sound Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Beverly Hills, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Consumer"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in AI/ML, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.soundventures.com/contact",
+    "website": "https://www.soundventures.com",
+    "description": "Ashton Kutcher and Guy Oseary's venture firm investing early and in growth rounds across tech.",
+    "highlights": [
+      "Early- and growth-stage funds",
+      "$130M fund (2016)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.soundventures.com"
+  },
+  {
+    "id": "missionog",
+    "name": "MissionOG",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "Fintech",
+      "B2B SaaS"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Fintech, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://missionog.com/contact-us",
+    "website": "https://missionog.com",
+    "description": "Philadelphia firm partnering with fintech and B2B software companies.",
+    "highlights": [
+      "$35M Fund I (2016)",
+      "Portfolio includes Autobooks, Billd, Onbe"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://missionog.com"
+  },
+  {
+    "id": "tribeca-venture-partners",
+    "name": "Tribeca Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://tribecavp.com/founder-resources/",
+    "website": "https://tribecavp.com",
+    "description": "NYC multi-stage firm backing New York founders building essential technology businesses from early stage through growth.",
+    "highlights": [
+      "Investing since 2011",
+      "$117M Fund II (2016)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://tribecavp.com"
+  },
+  {
+    "id": "reach-capital",
+    "name": "Reach Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "EdTech",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in EdTech, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.reachcapital.com/apply/",
+    "website": "https://www.reachcapital.com",
+    "description": "Early-stage firm backing founders across learning, health and work.",
+    "highlights": [
+      "$53M Fund I (2015)",
+      "Leading edtech-focused VC"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.reachcapital.com"
+  },
+  {
+    "id": "obvious-ventures",
+    "name": "Obvious Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://airtable.com/app80WdtGYIMNfWwf/pag5MXXHRzQict5rX/form",
+    "website": "https://obvious.com",
+    "description": "'World positive' firm co-founded by Ev Williams backing breakthrough solutions in health, sustainability and software.",
+    "highlights": [
+      "$123M Fund I (2015)",
+      "Portfolio includes Beyond Meat, Gusto, Virta Health"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://obvious.com"
+  },
+  {
+    "id": "inventus-capital-partners",
+    "name": "Inventus Capital Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.inventuscap.com/contact",
+    "website": "https://www.inventuscap.com",
+    "description": "Early-stage firm with Silicon Valley and India teams that leads seed rounds for Silicon Valley startups.",
+    "highlights": [
+      "20+ years investing",
+      "Hosts Startup Showcase 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.inventuscap.com"
+  },
+  {
+    "id": "red-sea-ventures",
+    "name": "Red Sea Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Consumer",
+      "Fintech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, Fintech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@redseaventures.com",
+    "website": "https://www.redseaventures.com",
+    "description": "NYC early-stage fund investing in startups building next-generation experiences for consumers and workers.",
+    "highlights": [
+      "$30M Fund I (2013)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.redseaventures.com"
+  },
+  {
+    "id": "mercato-partners",
+    "name": "Mercato Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Consumer"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in B2B SaaS, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.mercatopartners.com/contact",
+    "website": "https://www.mercatopartners.com",
+    "description": "Salt Lake City firm investing in leaders changing how we live, learn and work, with a focus on underserved regions.",
+    "highlights": [
+      "$115M Fund II (2012)",
+      "Portfolio includes Lambda"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.mercatopartners.com"
+  },
+  {
+    "id": "daybreak-ventures",
+    "name": "Daybreak Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$1M (third-party; not on site)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, AI/ML, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.daybreakventures.com",
+    "website": "https://www.daybreakventures.com",
+    "description": "Rex Woodbury's New York early-stage firm that aims to be a founder's first investor, sector-agnostic but focused on AI-fluent founders building companies that could reach $1B+ revenue.",
+    "highlights": [
+      "Launched $75M Fund II plus $25M Daybreak Meridian opportunity vehicle in 2026 ($100M total)",
+      "$33M debut fund announced March 2025",
+      "Portfolio includes Sandstone (AI for in-house legal) and Nourish"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.daybreakventures.com/who-we-work-with ; https://www.digitalnative.tech/p/daybreak-announcing-100m-in-new-funds"
+  },
+  {
+    "id": "collide-capital",
+    "name": "Collide Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Fintech",
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$3M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://airtable.com/appVhr8gVLLbvFxjL/pagcZvSIfH3kiRyTZ/form",
+    "website": "https://collidecap.com",
+    "description": "New York early-stage firm backing pre-seed to Series A founders in fintech, supply chain, and future-of-work software, with an emphasis on founders with unique networks.",
+    "highlights": [
+      "Closed oversubscribed $95M Fund II in April 2026",
+      "75+ portfolio companies and five exits",
+      "Founded 2021 by Brian Hollins and Aaron Samuels (AFROTECH co-founder)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://collidecap.com ; https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups/"
+  },
+  {
+    "id": "deep33-ventures",
+    "name": "Deep33 Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML",
+      "Govtech/Defense"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, AI/ML, Govtech/Defense; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.deep33.com",
+    "website": "https://www.deep33.com",
+    "description": "Deep tech venture fund for the U.S.–Israel corridor backing frontier founders in quantum computing, AI infrastructure, advanced energy, and robotics, with a government relations arm for non-dilutive funding and contracts.",
+    "highlights": [
+      "Emerged January 2026 targeting $150M with $100M first close",
+      "Chaired by Eclipse Ventures founder Lior Susan; GPs Lior Prosor and Michael Broukhim",
+      "Early portfolio includes QuamCore, CyberRidge, Particle Labs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.deep33.com ; https://quantumcomputingreport.com/deep33-ventures-launches-150-million-fund-for-u-s-israel-deep-tech-corridor/ ; https://en.globes.co.il/en/article-1001532520"
+  },
+  {
+    "id": "park-rangers-capital",
+    "name": "Park Rangers Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100K–$200K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://prc.beehiiv.com",
+    "website": "https://prc.beehiiv.com",
+    "description": "Erica Wenger's pre-seed fund with an 'Elephants, Not Unicorns' thesis, backing resilient businesses with solid fundamentals.",
+    "highlights": [
+      "Closed $4.3M Fund I in 2025 from 130 LPs",
+      "Early portfolio includes Superpower, Clay, and Beehiiv",
+      "Founder previously head of platform at Worklife Ventures"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://prc.beehiiv.com/p/announcing-park-rangers-capital-fund-i ; https://fortune.com/2025/11/14/term-sheet-next-erica-wenger-on-elephants-branding-in-vc-and-her-first-fund/"
+  },
+  {
+    "id": "flybridge",
+    "name": "Flybridge",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "AI/ML",
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Up to $250K pre-seed (Next Wave); $1M–$3M seed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.flybridge.com/next-wave",
+    "website": "https://www.flybridge.com",
+    "description": "NYC/Boston seed firm backing AI-powered companies across AI infrastructure, agentic business applications, and AI-native apps; pre-seed via its Next Wave program.",
+    "highlights": [
+      "Announced $100M Flybridge 2025 (seventh seed fund) in Sept 2025",
+      "Leads or co-leads seed rounds with $1M–$3M checks",
+      "$1B+ AUM; offices in NYC and Boston"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.flybridge.com ; https://www.flybridge.com/ideas/the-bow/announcing-flybridge-2025"
+  },
+  {
+    "id": "bloomberg-beta",
+    "name": "Bloomberg Beta",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Enterprise",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Enterprise, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.bloombergbeta.com",
+    "website": "https://www.bloombergbeta.com",
+    "description": "Early-stage venture firm funded solely by Bloomberg LP that invests in companies that 'make work better', publishing its operating manual openly on GitHub.",
+    "highlights": [
+      "Closed $75M fifth fund in 2025 (sole LP: Bloomberg)",
+      "~$450M AUM across five funds since 2013",
+      "Led by Roy Bahat"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.bloombergbeta.com ; https://globalventuring.com/corporate/fundraising/bloomber-beta-75m-fifth-fund/"
+  },
+  {
+    "id": "symphonic-capital",
+    "name": "Symphonic Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Biotech/Health",
+      "Fintech",
+      "Social Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Biotech/Health, Fintech, Social Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://dealflow.symphoniccapital.com/apply",
+    "website": "https://www.symphoniccapital.com",
+    "description": "Pre-seed firm led by Sydney Thomas backing founders closing access gaps in healthcare and financial services, investing in companies with an MVP valued at $10M or less.",
+    "highlights": [
+      "Closed $13.5M debut fund in April 2025",
+      "LPs include Bank of America and Illumen Capital",
+      "Portfolio includes Rocket Doctor, Lovu, Bump, Waverly"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.symphoniccapital.com ; https://www.businesswire.com/news/home/20250410306376/en/"
+  },
+  {
+    "id": "slow-ventures",
+    "name": "Slow Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Consumer",
+      "Gaming/Media"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$3M (Creator Fund, ~10% stake)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, Gaming/Media; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://slow.co/contact/",
+    "website": "https://slow.co",
+    "description": "Slow Ventures' $60M Creator Fund invests in the holding companies of creators with loyal niche audiences who want to build businesses; Slow's core funds back early-stage startups broadly.",
+    "highlights": [
+      "$60M Creator Fund announced February 2025",
+      "Led by Sam Lessin and Megan Lightcap; targets ~20 creators",
+      "Contact page links a seed funding application for cold pitches"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://slow.co/contact/ ; https://www.tubefilter.com/2025/02/12/slow-ventures-60-million-creator-fund-announcement/"
+  },
+  {
+    "id": "infinity-ventures",
+    "name": "Infinity Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "Fintech",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$10M (pre-seed $1–1.5M; seed $2–4M; A $5–10M)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:contact@infinityvc.capital",
+    "website": "https://www.infinityvc.capital",
+    "description": "Operator-led firm founded by former PayPal executives investing pre-seed through Series A in B2B fintech and commerce enablement, in the US and globally.",
+    "highlights": [
+      "Closed $184M Fund II in October 2024",
+      "Offices in the Bay Area and New York",
+      "Portfolio includes Rainforest, Mendel, Pagos, Glean, Skipify"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.infinityvc.capital ; https://www.businesswire.com/news/home/20241022917946/en/"
+  },
+  {
+    "id": "slauson-co",
+    "name": "Slauson & Co.",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Fintech",
+      "Social Impact"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$2M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Fintech, Social Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.slauson.co",
+    "website": "https://www.slauson.co",
+    "description": "Los Angeles pre-seed and seed firm backing US technology founders whose lived experience is a competitive advantage, with a focus on economic inclusion and small business empowerment.",
+    "highlights": [
+      "Closed $100M Fund II in September 2024",
+      "Plans ~30 investments over three years, leading most rounds",
+      "Runs the Friends & Family accelerator ($20K non-dilutive)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.slauson.co ; https://techcrunch.com/2024/09/04/slauson-co-raises-100m-fund-ii-proving-appetite-for-inclusion-persists"
+  },
+  {
+    "id": "contour-venture-partners",
+    "name": "Contour Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.contourventures.com/contact",
+    "website": "https://www.contourventures.com",
+    "description": "New York seed-stage firm investing in enterprise SaaS, vertical B2B SaaS, and financial services software, focused on the NYC ecosystem.",
+    "highlights": [
+      "Raising fifth flagship fund ($42M+ raised per SEC filing)",
+      "Portfolio exits include Movable Ink (to STG, 2025)",
+      "Site shows 2026 portfolio news (Felix, Rylo)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.contourventures.com"
+  },
+  {
+    "id": "behind-genius-ventures",
+    "name": "Behind Genius Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$150K–$250K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.behindgeniusventures.com/contact",
+    "website": "https://www.behindgeniusventures.com",
+    "description": "Paige Finn Doherty's pre-seed and seed firm investing in 'technical storytellers', recently writing about AI-native services companies.",
+    "highlights": [
+      "Raised $8.9M Fund II in April 2024",
+      "Portfolio includes Beacons, Maneva, Intramotev, MoldCo",
+      "Founder is a Forbes 30 Under 30 (VC) honoree"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.behindgeniusventures.com ; https://fortune.com/2024/04/23/behind-genius-ventures-raises-second-fund-8-million"
+  },
+  {
+    "id": "syn-ventures",
+    "name": "SYN Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "West Palm Beach, FL, USA",
+    "focusAreas": [
+      "Cybersecurity",
+      "Govtech/Defense"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Cybersecurity, Govtech/Defense; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://punchteam.wufoo.com/forms/mafrfx010zgdq0",
+    "website": "https://www.synventures.com",
+    "description": "Cybersecurity-focused firm founded by former Fortune 500 CISOs investing from company formation onward in security, industrial security, defense, privacy, compliance, and data governance.",
+    "highlights": [
+      "~$900M AUM across funds",
+      "Fund III reportedly hit $200M target in under seven weeks (Nov 2025)",
+      "Founded by Jay Leek and Patrick Heim"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.synventures.com ; https://www.businesswire.com/news/home/20220525005231/en/"
+  },
+  {
+    "id": "breakwater-ventures",
+    "name": "Breakwater Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, Fintech, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.breakwater.vc",
+    "website": "https://www.breakwater.vc",
+    "description": "Seattle pre-seed and seed firm backing founders in the US and Canada (preferring the Pacific Northwest) across real-economy tech, money movement, and vertical SaaS/AI.",
+    "highlights": [
+      "$10M debut fund (2024)",
+      "Led Upwardli seed round in Nov 2025",
+      "Founders came from SeaChange Fund; past wins include Atomic Alchemy (to Oklo)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.breakwater.vc ; https://www.geekwire.com/2024/meet-seattles-newest-seed-fund-breakwater-ventures-emerges-to-back-early-stage-startups/"
+  },
+  {
+    "id": "ubiquity-ventures",
+    "name": "Ubiquity Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "Hardware",
+      "Deep Tech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$3M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Hardware, Deep Tech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@ubiquity.vc",
+    "website": "https://www.ubiquity.vc",
+    "description": "Seed firm led by Sunil Nagaraj backing technical founders building 'software beyond the screen' — software and AI that reaches into the physical world, including physical AI.",
+    "highlights": [
+      "Raised $75M Fund III in January 2024",
+      "Leads or co-leads pre-seed/seed with $1M–$3M checks",
+      "Portfolio includes Rocket Lab, WindBorne, Loft Orbital, Halter"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.ubiquity.vc ; https://techcrunch.com/2024/01/30/ubiquity-ventures-75m-fund-3-software-beyond-the-screen/"
+  },
+  {
+    "id": "artis-ventures",
+    "name": "ARTIS Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Biotech/Health, AI/ML, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.av.co",
+    "website": "https://www.av.co",
+    "description": "San Francisco firm investing in health and frontier technologies (TechBio), backing founders making health more proactive, personalized, and resilient.",
+    "highlights": [
+      "Portfolio includes Palantir, YouTube, Stemcentrx, Rad AI, Seed Health",
+      "Invested $21M in Luminate Medical (Jan 2026)",
+      "Runs ARTIS Fellows program (2026 cohort)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.av.co"
+  },
+  {
+    "id": "geek-ventures",
+    "name": "Geek Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$200K–$800K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, B2B SaaS, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://form.typeform.com/to/YnYtiJ2k",
+    "website": "https://geek.vc",
+    "description": "NYC pre-seed and seed firm founded by Ihar Mahaniok to back visionary immigrant entrepreneurs in the US with capital and connections.",
+    "highlights": [
+      "Raised $23M Fund I in 2023 from 70 LPs",
+      "55 portfolio companies (e.g., Spike, Poolday.ai, ZeroDrift)",
+      "Filed to raise Fund II (2025 SEC filing)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://geek.vc ; https://techcrunch.com/2023/08/28/geek-ventures-immigrant-venture-capital/"
+  },
+  {
+    "id": "correlation-ventures",
+    "name": "Correlation Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Diego, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://correlationvc.com/contact/",
+    "website": "https://correlationvc.com",
+    "description": "Data-driven co-investor that participates in rounds led by other VCs across sectors, promising investment decisions within days.",
+    "highlights": [
+      "Closed $130M Correlation III in 2023",
+      "2025 deals include AiPrise ($12.5M) and Neura Health",
+      "Uses predictive analytics to make fast co-investment decisions"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://correlationvc.com ; https://www.gunder.com/en/news-insights/client-news/correlation-ventures-announces-130m-fund-formation"
+  },
+  {
+    "id": "jetstream",
+    "name": "Jetstream",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Fintech",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "~$250K (third-party)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Climate/Impact, Fintech, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:team@jetstream.io",
+    "website": "https://www.jetstream.io",
+    "description": "Pre-seed fund run by Tommy Leep investing in startups that help people live healthier, wealthier, and more resilient lives (originally launched as a climate fund).",
+    "highlights": [
+      "Announced $10M climate-focused fund in Dec 2022",
+      "Portfolio includes Mercury, Presto, Bright Harbor, Electric Plant Co",
+      "Invests at the very earliest stages"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.jetstream.io ; https://thebreeze.substack.com/p/the-breeze-announcing-jetstream-a"
+  },
+  {
+    "id": "will-ventures",
+    "name": "Will Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Consumer",
+      "Gaming/Media",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, Gaming/Media, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.willventures.com",
+    "website": "https://www.willventures.com",
+    "description": "Athlete- and team-owner-backed firm investing in category-defining consumer and technology businesses, using sports as a wedge into consumer, health, media, and technology.",
+    "highlights": [
+      "Raised $150M Fund II in October 2022",
+      "2025 deals include Jump Series A and The Snow League",
+      "Primarily seed with selective Series A"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.willventures.com ; https://techcrunch.com/2022/10/18/will-ventures-second-fund-sports-technologies/"
+  },
+  {
+    "id": "animo-ventures",
+    "name": "ANIMO Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Miami, FL, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$2.5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@animo.vc",
+    "website": "https://animo.vc",
+    "description": "Founder-first pre-seed and seed firm started by Latin American immigrant partners investing in US-based companies from ideation to early traction.",
+    "highlights": [
+      "$78M Fund II (closed July 2022); ~$140M AUM",
+      "Partners based in Miami and NYC",
+      "Runs ANIMO Miami community events"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://animo.vc ; https://f4.fund/firms/animo-ventures"
+  },
+  {
+    "id": "hannah-grey",
+    "name": "Hannah Grey",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Consumer",
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$350K–$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, Consumer, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://airtable.com/appP3xzAve61K4T9S/pagHhIGrbE1Kh0gLp/form",
+    "website": "https://www.hannahgrey.com",
+    "description": "Thesis-led pre-seed and seed firm investing in US-incorporated B2B, B2C, and B2B2C companies, often pre-product, and able to lead or co-lead first institutional rounds.",
+    "highlights": [
+      "$52M debut fund (2022)",
+      "Targets 6–8% initial ownership with follow-on reserves",
+      "Prioritizes repeat founders in emerging categories"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.hannahgrey.com ; https://techcrunch.com/2022/05/31/hannah-grey-debut-fund/"
+  },
+  {
+    "id": "expa",
+    "name": "Expa",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Consumer, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@expa.com",
+    "website": "https://www.expa.com",
+    "description": "Company studio co-founded by Garrett Camp that builds and funds startups from inception, providing design, operational support, and capital.",
+    "highlights": [
+      "$200M third fund (2022)",
+      "Portfolio company Torch acquired by OpenAI (Jan 2026)",
+      "Backed Fin.com's $20M seed (Sept 2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.expa.com ; https://www.expa.com/news/200m"
+  },
+  {
+    "id": "array-ventures",
+    "name": "Array Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Enterprise",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K–$3M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Deep Tech, Enterprise, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:deals@array.vc",
+    "website": "https://www.array.vc",
+    "description": "San Francisco pre-seed and early-stage firm 'investing in the infrastructure of everything' — defense, scientific discovery, energy, physical AI, healthcare, logistics, and manufacturing.",
+    "highlights": [
+      "$56M Fund III (Dec 2021)",
+      "Investment process takes 3–4 days",
+      "Portfolio includes HappyRobot, Sapiom, Runable"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.array.vc ; https://techcrunch.com/2021/12/21/array-ventures-raises-56m-to-back-tech-heavy-enterprise-software/"
+  },
+  {
+    "id": "riot-ventures",
+    "name": "Riot Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "Hardware",
+      "Govtech/Defense",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Up to $200M (per site)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Hardware, Govtech/Defense, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://riot.vc",
+    "website": "https://riot.vc",
+    "description": "Venice, CA firm 'modernizing our critical industries,' backing hard-tech companies in defense, space, energy, manufacturing, logistics, and healthcare.",
+    "highlights": [
+      "$90M Fund II (2021); now advertises checks up to $200M",
+      "Portfolio spans defense, space, and energy",
+      "Headquartered on Abbot Kinney Blvd, Venice"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://riot.vc"
+  },
+  {
+    "id": "seven-seven-six",
+    "name": "Seven Seven Six",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://sevensevensix.com",
+    "website": "https://sevensevensix.com",
+    "description": "Alexis Ohanian's venture firm, describing itself as a technology company that deploys venture capital, backing founders from seed onward across sectors.",
+    "highlights": [
+      "$150M debut fund (2021)",
+      "Founded by Reddit co-founder Alexis Ohanian",
+      "Also runs the 776 Foundation fellowship"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.sevensevensix.com"
+  },
+  {
+    "id": "construct-capital",
+    "name": "Construct Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Washington, DC, USA",
+    "focusAreas": [
+      "Hardware",
+      "Govtech/Defense",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Hardware, Govtech/Defense, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:sayhello@constructcap.com",
+    "website": "https://www.constructcap.com",
+    "description": "Early-stage firm led by Dayna Grayson backing founders rebuilding foundational industries such as manufacturing, logistics, defense, and energy.",
+    "highlights": [
+      "Announced $300M Fund III",
+      "$140M debut fund (2021)",
+      "2025 portfolio rounds include Nauta seed and Vammo Series B"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.constructcap.com"
+  },
+  {
+    "id": "bling-capital",
+    "name": "Bling Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, B2B SaaS, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.blingcap.com/contact",
+    "website": "https://www.blingcap.com",
+    "description": "High-conviction pre-seed and seed firm founded by Ben Ling helping founders find product-market fit, backed by a Product Council of 100+ product leaders.",
+    "highlights": [
+      "$113M Fund II (2020)",
+      "Product Council of 100+ product leaders",
+      "Publishes a founders' guide and fellowship"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.blingcap.com"
+  },
+  {
+    "id": "founder-collective",
+    "name": "Founder Collective",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Cambridge, MA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:contact@foundercollective.com",
+    "website": "https://foundercollective.com",
+    "description": "Sector-agnostic, 'anti-thematic' seed and pre-seed firm with offices in Cambridge, MA and New York that leads or participates in rounds without rigid ownership targets.",
+    "highlights": [
+      "$75M Fund IV (2020)",
+      "Early backer of Uber, The Trade Desk, PillPack",
+      "Offices in Harvard Square and SoHo"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://foundercollective.com"
+  },
+  {
+    "id": "cleo-capital",
+    "name": "Cleo Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100K–$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, Fintech, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://forms.gle/a7kRt3ru8HwAmM1T8",
+    "website": "https://www.cleocap.com",
+    "description": "Sarah Kunst's earliest-stage firm backing Delaware C-corp software companies, with theses in future of income, complicated consumer, and decentralized enterprise.",
+    "highlights": [
+      "Portfolio includes FalconX, Ellevest, Hill House Home, KoBold Metals",
+      "Typical checks $100K–$1M",
+      "Founder featured on CNBC (Oct 2025) and Marketplace (Apr 2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.cleocap.com"
+  },
+  {
+    "id": "resolute-ventures",
+    "name": "Resolute Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.resolute.vc",
+    "website": "https://www.resolute.vc",
+    "description": "Leads pre-seed and seed rounds for founders with grit and conviction building new ways for the world to work, with community programs like Camp Resolute.",
+    "highlights": [
+      "$75M Fund IV (2019)",
+      "Portfolio includes Vercel, Opendoor, Greenhouse, Hello Heart",
+      "Leads pre-seed and seed rounds"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.resolute.vc"
+  },
+  {
+    "id": "ground-up-ventures",
+    "name": "Ground Up Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$1.5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:jordan@groundup.vc",
+    "website": "https://www.groundup.vc",
+    "description": "Generalist pre-seed and seed investor backing startups based in the US and Israel.",
+    "highlights": [
+      "$19M Fund I (2018)",
+      "Invests in US and Israeli startups",
+      "Checks $500K–$1.5M"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.groundup.vc"
+  },
+  {
+    "id": "crosscut-ventures",
+    "name": "Crosscut Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Climate/Impact",
+      "Govtech/Defense"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Climate/Impact, Govtech/Defense; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://crosscut.vc/contact/",
+    "website": "https://crosscut.vc",
+    "description": "Los Angeles' longest-running early-stage VC, now focused on frontier technologies including energy transition, space, defense systems, advanced manufacturing, robotics, and reshoring.",
+    "highlights": [
+      "$125M Fund IV (2017)",
+      "Self-described first and longest-enduring early-stage VC in LA",
+      "Current thesis: frontier tech and reshoring supply chains"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://crosscut.vc ; https://techcrunch.com/2017/12/06/with-the-los-angeles-tech-scene-exploding-crosscut-ventures-raises-125-million-to-invest/"
+  },
+  {
+    "id": "leap-global-partners",
+    "name": "Leap Global Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Fintech",
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://leapglobalpartners.com/contact/",
+    "website": "https://leapglobalpartners.com",
+    "description": "Venture firm backing founders in 'Data Flows' (proprietary data, integration, monetization) and 'Money Flows' (embedded finance, payments, financial inclusion) across fintech, commerce, and SaaS.",
+    "highlights": [
+      "$15M Fund I (2017) per sheet",
+      "Invested in InFlow (Dec 2025)",
+      "Portfolio includes Paystand, Caplight, Gusto"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://leapglobalpartners.com"
+  },
+  {
+    "id": "evolution-equity-partners",
+    "name": "Evolution Equity Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Cybersecurity",
+      "Enterprise"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Cybersecurity, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://evolutionequity.com/contact-us/",
+    "website": "https://evolutionequity.com",
+    "description": "Cybersecurity-focused venture investor backing companies from seed to growth stage, with offices in the US and Europe.",
+    "highlights": [
+      "Portfolio includes Island and Armis",
+      "Invests seed through growth in cybersecurity",
+      "Fund sizes now well above the sheet's $125M Fund I"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://evolutionequity.com"
+  },
+  {
+    "id": "serra-ventures",
+    "name": "Serra Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Champaign, IL, USA",
+    "focusAreas": [
+      "Agtech/Foodtech",
+      "B2B SaaS",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Agtech/Foodtech, B2B SaaS, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.serraventures.com/submityourcompany",
+    "website": "https://www.serraventures.com",
+    "description": "Champaign, IL early-stage firm (also in Chicago and Park City) that has funded 100+ US tech startups, with dedicated Ag & Food Tech funds.",
+    "highlights": [
+      "Funds include Serra Ag & Food Tech Fund II and Serra Capital III SBIC",
+      "Over 100 early-stage US startups funded",
+      "Site shows 2025 news (e.g., Verisim Life)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.serraventures.com"
+  },
+  {
+    "id": "cervin-ventures",
+    "name": "Cervin Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "Enterprise",
+      "B2B SaaS",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Enterprise, B2B SaaS, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:neeraj@cervinventures.com",
+    "website": "https://www.cervinventures.com",
+    "description": "Palo Alto early-stage firm backing enterprise software founders in product development and go-to-market, including cloud, AI-powered businesses, networking, and data infrastructure.",
+    "highlights": [
+      "$56M fund (2017)",
+      "Portfolio includes ArmorCode, AiFi, Celona, Paystand",
+      "Partners Neeraj Gupta and Shirish Sathaye"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.cervinventures.com"
+  },
+  {
+    "id": "goahead-ventures",
+    "name": "GoAhead Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$1M typical",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdgZY7ZO4jnyLXNvoBUd0oERppinTuJ-TSVQHkgLInzkp1SEg/viewform",
+    "website": "https://www.goaheadvc.com/en",
+    "description": "Pre-seed and seed firm with US and Japan ties investing across all technology sectors, using a one-way video pitch and next-day decisions with a signable SAFE.",
+    "highlights": [
+      "$250M+ fund size, 30+ deals per year",
+      "Typical $1M check; <24h response time",
+      "~6 days from video pitch to potential offer"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.goaheadvc.com/en"
+  },
+  {
+    "id": "sjf-ventures",
+    "name": "SJF Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Durham, NC, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Climate/Impact, Biotech/Health, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://sjfventures.com/contact-us/",
+    "website": "https://sjfventures.com",
+    "description": "Impact-focused firm backing high-growth companies creating a healthier, smarter, and cleaner future across health, AI, and climate.",
+    "highlights": [
+      "$74M Fund IV (2016)",
+      "Portfolio includes Binti, Zero Homes, Azra AI",
+      "Recent news on digital health and AI portfolio"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://sjfventures.com"
+  },
+  {
+    "id": "progress-ventures",
+    "name": "Progress Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Gaming/Media",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Gaming/Media, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.progressventures.com/contact-us/",
+    "website": "https://www.progressventures.com",
+    "description": "Early-stage, sector-specialized investor in advertising, commerce, marketing, and media B2B technology companies.",
+    "highlights": [
+      "$20M Fund III (2015) per sheet",
+      "Offices in Boston and New York",
+      "Portfolio includes tvScientific, Pixability, Clinch"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.progressventures.com"
+  },
+  {
+    "id": "union-square-ventures",
+    "name": "Union Square Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@usv.com",
+    "website": "https://www.usv.com",
+    "description": "New York generalist firm investing at the earliest stages across AI, robotics, energy, consumer, money, and biotech; the 2014 entry is its Opportunity Fund for later-stage follow-ons.",
+    "highlights": [
+      "2026 investments include Alqem (Seed), Pascal and Gritt (Series A)",
+      "Two-decade track record (Twitter, Etsy, Coinbase)",
+      "Contact page invites founders to email ideas"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.usv.com"
+  },
+  {
+    "id": "pelion-venture-partners",
+    "name": "Pelion Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://pelionvp.com",
+    "website": "https://pelionvp.com",
+    "description": "Utah-based early-stage firm backing B2B and enterprise technology founders, often leading seed rounds.",
+    "highlights": [
+      "$194M Fund V (2013) per sheet",
+      "Recent seed leads include Honey Health; portfolio includes Agree.com, Redo"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://pelionvp.com"
+  },
+  {
+    "id": "gutter-capital",
+    "name": "Gutter Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$300K (Elbow Grease accelerator initial check)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, Fintech, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@gutter.cc",
+    "website": "https://www.gutter.cc",
+    "description": "New York pre-seed/seed firm that runs Elbow Grease, a hands-on 10-week on-site program in Chinatown for startups across software, fintech, AI-native apps, vertical SaaS and consumer.",
+    "highlights": [
+      "Closed $75M Fund III in June 2026",
+      "Elbow Grease accelerator invests $300K per company",
+      "Concentrated portfolios (~14 core companies per fund)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.gutter.cc ; https://pulse2.com/gutter-capital-raises-75-million-fund-iii-and-opens-applications-for-elbow-grease-accelerator/amp/"
+  },
+  {
+    "id": "scout-ventures",
+    "name": "Scout Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Deep Tech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$3M–$6M initial",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Govtech/Defense, Deep Tech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.scout.vc/contact",
+    "website": "https://www.scout.vc",
+    "description": "Early-stage firm backing dual-use and national-security-relevant tech in AI, autonomy, space, cyber, quantum and advanced power; avoids kinetic weapons makers.",
+    "highlights": [
+      "Closed oversubscribed $125M Fund V in March 2026",
+      "Portfolio includes Havoc AI, Swarmbotics AI, Valarian",
+      "Exits include Tomahawk Robotics (to AeroVironment)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.scout.vc ; https://www.businesswire.com/news/home/20260310158864/en/Scout-Ventures-Announces-Oversubscribed-%24125-Million-Fund-V ; https://www.tectonicdefense.com/scout-ventures-raises-125m-fund-v/"
+  },
+  {
+    "id": "virtue",
+    "name": "Virtue",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$4M initial",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://virtuevc.com",
+    "website": "https://virtuevc.com",
+    "description": "Self-described earliest-stage healthcare venture firm backing founders transforming the healthcare system, focused on digital health and healthcare technology.",
+    "highlights": [
+      "Raised ~$56M Fund II (V2), closed January 2025",
+      "Fund I was $31.25M (2021)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://virtuevc.com ; https://f4.fund/firms/virtue-vc"
+  },
+  {
+    "id": "forward-deployed-venture-capital-fdvc",
+    "name": "Forward Deployed Venture Capital (FDVC)",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Deep Tech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Govtech/Defense, Deep Tech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.deployed.vc",
+    "website": "https://www.deployed.vc",
+    "description": "Solo-GP fund led by former Palantir forward-deployed engineer Mark Scianna, investing in mission-critical defense, energy, industrials and AI companies.",
+    "highlights": [
+      "Raised $45M Fund II in August 2025 from ~150 Palantir/SpaceX/Anduril alumni",
+      "Bain Capital Ventures is an institutional LP"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.deployed.vc ; https://www.tectonicdefense.com/forward-deployed-vc-raises-45m-fund-ii/"
+  },
+  {
+    "id": "lerer-hippeau",
+    "name": "Lerer Hippeau",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Consumer, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:contact@lererhippeau.com",
+    "website": "https://www.lererhippeau.com",
+    "description": "New York early-stage firm investing in seed-stage consumer and enterprise startups.",
+    "highlights": [
+      "Closed $200M Fund IX in 2025",
+      "~$1.4B AUM",
+      "Early backer of Warby Parker, Allbirds, Casper"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.lererhippeau.com ; https://www.venturecapitaljournal.com/lerer-hippeau-raises-200m-for-ninth-fund/"
+  },
+  {
+    "id": "avid-ventures",
+    "name": "Avid Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Fintech",
+      "B2B SaaS",
+      "Consumer"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "$0.5M–$8M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Fintech, B2B SaaS, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@avidventures.com",
+    "website": "https://avidventures.com",
+    "description": "Boutique New York firm working hands-on with founders, investing in fintech, software and consumer internet, mostly at Series A/B.",
+    "highlights": [
+      "Raised $87M Fund II in 2024",
+      "Led Supper's $11M seed (late 2025)",
+      "Investor in Basis and Thatch"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://avidventures.com ; https://fortune.com/2024/09/19/avid-ventures-raises-87-million-second-fund/ ; https://seedtable.com/investors/avid-ventures"
+  },
+  {
+    "id": "crucible-capital",
+    "name": "Crucible Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Web3/Crypto",
+      "Climate/Impact",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Web3/Crypto, Climate/Impact, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:admin@cruciblecap.xyz",
+    "website": "https://www.cruciblecap.xyz",
+    "description": "Seed-stage firm founded by Meltem Demirors (ex-CoinShares) investing in digital infrastructure at the intersection of energy, compute and crypto.",
+    "highlights": [
+      "Founded 2024",
+      "2024 filings targeted $75M across Fund I and Fund 1-A"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.cruciblecap.xyz ; https://fortune.com/crypto/2024/08/07/meltem-demirors-venture-capital-crucible-crypto"
+  },
+  {
+    "id": "springtide-ventures",
+    "name": "SpringTide Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://springtide.com/contact-us",
+    "website": "https://springtide.com",
+    "description": "Early-stage healthtech VC leading financings in digital health, medical devices, life sciences and tech-enabled care delivery; offices in Boston, Salt Lake City and San Francisco.",
+    "highlights": [
+      "Closed $65M Fund II in April 2024",
+      "Portfolio includes OpenLoop and Pathology Watch (acquired by Sonic Healthcare)",
+      "Co-invested in Tava Health Series C (2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://springtide.com ; https://www.businesswire.com/news/home/20240417417817/en/SpringTide-Ventures-Announces-the-Close-of-65-Million-Fund-II"
+  },
+  {
+    "id": "westbound-equity-partners",
+    "name": "Westbound Equity Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Fintech",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Fintech, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://westboundequity.com",
+    "website": "https://westboundequity.com",
+    "description": "Early-stage firm (formerly Concrete Rose) backing founders from underrepresented backgrounds.",
+    "highlights": [
+      "Closed oversubscribed $100M Fund II in March 2024",
+      "2025 deals include Laborup, Lava, Manas AI"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://pitchbook.com/profiles/investor/436838-05 ; https://www.forbes.com/sites/alexkonrad/2024/03/14/westbound-raises-100-million-for-underrepresented-founders/"
+  },
+  {
+    "id": "beta-boom",
+    "name": "Beta Boom",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$350K–$500K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in B2B SaaS, Fintech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.betaboom.com/apply",
+    "website": "https://www.betaboom.com",
+    "description": "Pre-seed investor in US software startups outside Silicon Valley across enterprise SaaS, healthcare, cybersecurity, vertical AI, future of work and fintech.",
+    "highlights": [
+      "Closed $14.5M Fund II in 2024",
+      "Open online pitch form"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.betaboom.com/apply ; https://www.prweb.com/releases/beta-boom-closes-14-5-million-fund-ii-to-invest-in-software-solutions-for-fastest-growing-yet-least-served-populations-302060107.html"
+  },
+  {
+    "id": "acadian-ventures",
+    "name": "Acadian Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New Haven, CT, USA",
+    "focusAreas": [
+      "Enterprise",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Enterprise, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.acadianventures.com",
+    "website": "https://www.acadianventures.com",
+    "description": "Future-of-work VC investing in intelligent work applications, work infrastructure, compliance solutions and the global workforce.",
+    "highlights": [
+      "Closed $30M Fund II in January 2024 (anchored by ServiceNow Ventures)",
+      "Recent deals include Kombo and Compa (2025–26)",
+      "Publishes annual Future of Work 100"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.acadianventures.com ; https://venturebeat.com/ai/acadian-ventures-raises-30m-for-vc-fund-focused-on-the-future-of-work/ ; https://f4.fund/firms/acadian-ventures"
+  },
+  {
+    "id": "harpoon-ventures",
+    "name": "Harpoon Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML",
+      "Govtech/Defense"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, AI/ML, Govtech/Defense; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.harpoon.vc/contact-us",
+    "website": "https://www.harpoon.vc",
+    "description": "Firm investing in AI, deep tech, software infrastructure and cybersecurity tied to American technological leadership and government markets.",
+    "highlights": [
+      "Announced Fund IV",
+      "Portfolio includes Astranis, n8n, Solugen, MatX"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.harpoon.vc"
+  },
+  {
+    "id": "grand-ventures",
+    "name": "Grand Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Grand Rapids, MI, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://grandvcp.com",
+    "website": "https://grandvcp.com",
+    "description": "Michigan-based early-stage firm investing in Midwest and broader US startups.",
+    "highlights": [
+      "$50M Fund II announced October 2023",
+      "Still deploying Fund II per its 2025 year in review"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://grandvcp.com/grands-2025-year-in-review/ ; https://techcrunch.com/2023/10/09/michigans-grand-ventures-announces-50m-early-stage-fund/"
+  },
+  {
+    "id": "ansa",
+    "name": "Ansa",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "$5M–$30M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@ansa.co",
+    "website": "https://www.ansa.co",
+    "description": "New York firm making high-conviction investments in Series A and B businesses, pairing capital with go-to-market support (Revenue Council, advisory network).",
+    "highlights": [
+      "Launched with $100M first close of Fund I in 2022 (backed by Princeton endowment, Henry Kravis, George Roberts)",
+      "SEC filing for $200M-target Fund II in May 2026",
+      "Portfolio includes Coram AI ($35M raise)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.ansa.co ; https://www.businesswire.com/news/home/20220422005564/en/Ansa-Capital-Launches-With-Inaugural-Fund-Announces-$100-Million-First-Close ; https://valueaddvc.com/vc/ansa-capital"
+  },
+  {
+    "id": "boulder-ventures",
+    "name": "Boulder Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boulder, CO, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.boulderventures.com/contact",
+    "website": "https://www.boulderventures.com",
+    "description": "Long-running VC investing in IT and biotech companies in Colorado and the Mid-Atlantic.",
+    "highlights": [
+      "Eight funds (I–VIII); $58M Fund VIII closed 2022",
+      "Reported $55M Fund IX close in April 2026",
+      "61 companies, 28 exits, 10 IPOs"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.boulderventures.com ; https://www.boulderventures.com/news ; https://www.bizjournals.com/denver/inno/stories/news/2022/12/07/boulder-ventures-closes-fund-colorado-startup.html"
+  },
+  {
+    "id": "stage-2-capital",
+    "name": "Stage 2 Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$200K–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@stage2.capital",
+    "website": "https://www.stage2.capital",
+    "description": "VC fund led and backed by 1,000+ go-to-market executives, writing pre-seed to Series A checks into B2B and AI startups and helping with GTM.",
+    "highlights": [
+      "$150M Fund III (2022)",
+      "Co-founded by Mark Roberge (ex-HubSpot) and Jay Po",
+      "Exits include Metaplane (to Datadog, 2025)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.stage2.capital ; https://f4.fund/firms/stage-2-capital"
+  },
+  {
+    "id": "protagonist",
+    "name": "Protagonist",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Miami, FL, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Web3/Crypto"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "$1M–$5M (early-stage, per 2022 launch)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in AI/ML, Deep Tech, Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:founders@protagonist.co",
+    "website": "https://protagonist.co",
+    "description": "Founder-led firm that invests in and incubates companies across 'abundance' (AI, compute, energy, defense, robotics) and 'scarcity' (brand, distribution, luxury) themes.",
+    "highlights": [
+      "Launched with $100M fund in 2022 (rebranded from Ship Capital)",
+      "Portfolio includes Tenstorrent, Exowatt, Epirus",
+      "Co-founded by George Bousis and Harry Hurst"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://protagonist.co ; https://www.coindesk.com/business/2022/07/12/solanas-macalinao-brothers-launch-100m-vc-fund/"
+  },
+  {
+    "id": "great-north-ventures",
+    "name": "Great North Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Minneapolis, MN, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.greatnorthventures.com",
+    "website": "https://www.greatnorthventures.com",
+    "description": "Operator-led early-stage fund founded by twin brothers Rob and Ryan Weber investing in capital-efficient vertical AI and embedded finance startups.",
+    "highlights": [
+      "Raised $40M Fund II (2022)",
+      "50+ companies invested across two funds"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.greatnorthventures.com ; https://greatnorthventures.com/great-north-ventures-raises-40-million-fund-ii/"
+  },
+  {
+    "id": "freestyle-capital",
+    "name": "Freestyle Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, B2B SaaS, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://freestyle.vc/contact",
+    "website": "https://freestyle.vc",
+    "description": "Seed-stage firm led by partners Dave Samuel, Jenny Lefcourt and Maria Palma backing early software and internet startups.",
+    "highlights": [
+      "$130M Fund VI (2022)",
+      "Site live in 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://freestyle.vc ; http://techcrunch.com/2015/04/02/freestyle-capital-locks-down-60m-for-its-third-fund-adds-jenny-lefcourt-as-its-third-partner/"
+  },
+  {
+    "id": "stellation-capital",
+    "name": "Stellation Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://stellation.vc",
+    "website": "https://stellation.vc",
+    "description": "Early-stage firm founded by Peter Boyce II (ex-General Catalyst) 'backing founders at first light'.",
+    "highlights": [
+      "Raised $40M Fund I in 2021",
+      "Site republished August 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://stellation.capital ; https://techcrunch.com/2021/07/08/peter-boyce-stellation-capital/"
+  },
+  {
+    "id": "version-one-ventures",
+    "name": "Version One Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Vancouver, BC, Canada",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://versionone.vc",
+    "website": "https://versionone.vc",
+    "description": "Early-stage firm (Vancouver and San Francisco) backing mission-driven founders from day one, often before the category is clear.",
+    "highlights": [
+      "$70M Fund IV (2021)",
+      "Led $4.5M seed in Pilot Protocol (July 2026)",
+      "Led $4.5M pre-Series A in Rio Health (Sept 2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://versionone.vc ; https://techcrunch.com/2021/06/08/version-one-launches-70m-fund-iv-and-30m-opportunities-fund-ii/"
+  },
+  {
+    "id": "mac-venture-capital",
+    "name": "MaC Venture Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Consumer, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://macventurecapital.com/contact/",
+    "website": "https://macventurecapital.com",
+    "description": "Los Angeles seed-stage firm backing founders building companies shaped by shifts in culture and technology.",
+    "highlights": [
+      "$110M inaugural fund (2021)",
+      "Portfolio includes Stoke Space, Pipe, Chef Robotics"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://macventurecapital.com ; https://macventurecapital.com/mac-venture-capital-raises-a-110m-inaugural-fund-to-invest-in-founders-building-the-future-we-want-to-see/"
+  },
+  {
+    "id": "halogen-ventures",
+    "name": "Halogen Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://halogenvc.com/contact",
+    "website": "https://www.halogenvc.com",
+    "description": "Early-stage fund led by Jesse Draper investing in consumer technology companies led by women.",
+    "highlights": [
+      "$21M Fund II (2021)",
+      "Portfolio includes Babylist, Tinted, The Flex"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.halogenvc.com ; https://dot.la/halogen-ventures-2650282655.html"
+  },
+  {
+    "id": "union-labs",
+    "name": "Union Labs",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$1.5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Deep Tech, Hardware, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.unionlabs.com/#contact",
+    "website": "https://www.unionlabs.com",
+    "description": "San Francisco early-stage deep tech VC backing physical-AI companies, bridging lab to launch with operator-led GTM expertise; sister fund to Union Peak.",
+    "highlights": [
+      "$29M Fund I (2020)",
+      "Founded by Nate Williams (ex-Kleiner EIR) and Chris Kim (ex-August CTO)",
+      "Founder pitch form with deck upload on site"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.unionlabs.com ; https://techcrunch.com/2020/11/30/union-labs-believes-uniting-vc-and-corporate-expertise-can-help-startups-solve-hard-tech-problems/"
+  },
+  {
+    "id": "electric-capital",
+    "name": "Electric Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "Web3/Crypto",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Web3/Crypto, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@electriccapital.com",
+    "website": "https://www.electriccapital.com",
+    "description": "Early-stage firm investing in founders building frontier technologies, from crypto/distributed systems to AI.",
+    "highlights": [
+      "$110M Fund II (2020)",
+      "Publishes widely cited Developer Report"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.electriccapital.com/contact/"
+  },
+  {
+    "id": "kickstart",
+    "name": "Kickstart",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Salt Lake City, UT, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://kickstart.com/pitch-us",
+    "website": "https://kickstart.com",
+    "description": "Pre-seed and seed fund since 2008 backing founders in Utah, Colorado and the Mountain West, with offices in Salt Lake City and Denver.",
+    "highlights": [
+      "$110M Fund V (2020)",
+      "Also runs Campus Founders Fund",
+      "Online pitch form"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://kickstart.com ; https://techcrunch.com/2020/04/29/utah-based-seed-fund-kickstart-closes-fifth-fund-worth-110m/"
+  },
+  {
+    "id": "salesforce-ventures",
+    "name": "Salesforce Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Enterprise",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Enterprise, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://airtable.com/app5kO0WaTWMJG0n7/pagIcieB3DVsIxyxp/form",
+    "website": "https://www.salesforceventures.com",
+    "description": "Salesforce's corporate venture arm investing in enterprise software and AI companies, mostly Series A and later.",
+    "highlights": [
+      "Sheet entry is its 2018 Canada-focused fund",
+      "Portfolio includes Airtable, Anthropic, Snowflake"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.salesforceventures.com"
+  },
+  {
+    "id": "bedrock-capital",
+    "name": "Bedrock Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Deep Tech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in General/Any, AI/ML, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:sid@bedrockcap.com",
+    "website": "https://www.bedrockcap.com",
+    "description": "Technology investment firm (Geoff Lewis, Eric Stromberg) seeking 'narrative violations' — contrarian companies across stages.",
+    "highlights": [
+      "$122M Fund I (2018)",
+      "Site lists entrepreneur contact (Sid Vashist)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.bedrockcap.com/contact"
+  },
+  {
+    "id": "kcrise-fund",
+    "name": "KCRise Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Kansas City, MO, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.kcrisefund.com/contact-submission-form",
+    "website": "https://www.kcrisefund.com",
+    "description": "Venture firm investing in early-stage technology companies with a strategic connection to the Kansas City region.",
+    "highlights": [
+      "$19M Fund I (2017)",
+      "Portfolio lists a 2026 initial investment",
+      "Startup submission form on site"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.kcrisefund.com"
+  },
+  {
+    "id": "eclipse",
+    "name": "Eclipse",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "Hardware",
+      "Deep Tech",
+      "Govtech/Defense"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Hardware, Deep Tech, Govtech/Defense; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://eclipse.capital",
+    "website": "https://eclipse.capital",
+    "description": "Operator-led firm (formerly Eclipse Ventures) partnering with founders transforming the physical economy — manufacturing, logistics, energy, defense and critical systems.",
+    "highlights": [
+      "$184M Fund II (2017); now manages far larger funds",
+      "Rebranded from Eclipse Ventures (eclipse.vc redirects to eclipse.capital)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://eclipse.capital"
+  },
+  {
+    "id": "signalfire",
+    "name": "SignalFire",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "B2B SaaS",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, B2B SaaS, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.signalfire.com",
+    "website": "https://www.signalfire.com",
+    "description": "Data-driven VC (Beacon AI platform) investing in AI/ML tools, vertical SaaS, health, dev tools, cybersecurity, fintech and consumer.",
+    "highlights": [
+      "~$3B AUM",
+      "$101M Fund II (2016)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.signalfire.com"
+  },
+  {
+    "id": "compound",
+    "name": "Compound",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Biotech/Health, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.compound.vc",
+    "website": "https://www.compound.vc",
+    "description": "Thesis-driven, research-centric investment firm (formerly Metamorphic Ventures) backing frontier companies in biology, AI/robotics and crypto.",
+    "highlights": [
+      "Rebranded from Metamorphic Ventures with $50M fund (2016)",
+      "Invested in Anagen (June 2026)",
+      "Added Jason Kelly (Ginkgo) as venture partner, Aug 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.compound.vc ; http://www.forbes.com/sites/alexkonrad/2016/10/05/metamorphic-ventures-rebrands-as-compound-with-new-fund/"
+  },
+  {
+    "id": "wi-harper-group",
+    "name": "WI Harper Group",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Biotech/Health",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Biotech/Health, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://wiharper.com/contact/",
+    "website": "https://wiharper.com",
+    "description": "Cross-border early-stage VC (US and Greater China) investing across healthcare, biotech, deep tech, semiconductors, enterprise, AI and sustainability.",
+    "highlights": [
+      "$1B+ committed across 9 funds",
+      "$175M Fund VIII (2016)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://wiharper.com"
+  },
+  {
+    "id": "aligned-partners",
+    "name": "Aligned Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.alignedvc.com/contact-us",
+    "website": "https://www.alignedvc.com",
+    "description": "Early-stage firm investing in capital-efficient information technology companies, emphasizing founder alignment.",
+    "highlights": [
+      "$50M Fund II (2015)",
+      "Site active (©2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.alignedvc.com ; https://www.alignedvc.com/investment-criteria"
+  },
+  {
+    "id": "406-ventures",
+    "name": ".406 Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML",
+      "Cybersecurity"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Biotech/Health, AI/ML, Cybersecurity; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.406ventures.com/contact/",
+    "website": "https://www.406ventures.com",
+    "description": "Boston early-stage VC partnering with founders in healthcare, data + AI, and cybersecurity.",
+    "highlights": [
+      "20 years investing",
+      "$175M Fund II (2012)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.406ventures.com"
+  },
+  {
+    "id": "convective-capital",
+    "name": "Convective Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.convectivecapital.com",
+    "website": "https://www.convectivecapital.com",
+    "description": "Early-stage venture firm led by WePay co-founder Bill Clerico that started with wildfire tech and now backs hardware, software and financial services companies building disaster resilience.",
+    "highlights": [
+      "Raised $85M Fund II in 2026 (Fund I was ~$35M)",
+      "Portfolio includes Pano, BurnBot, Gridware and Seneca",
+      "Thesis expanded from wildfire to broad physical-world resilience"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.convectivecapital.com ; https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/ ; https://convective.substack.com/p/fund-ii-85m-for-disaster-resilience"
+  },
+  {
+    "id": "breakout-ventures",
+    "name": "Breakout Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Biotech/Health, AI/ML, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:contact@breakout.vc",
+    "website": "https://breakout.vc",
+    "description": "Seed-stage firm backing science-driven startups that use AI to commercialize breakthroughs in biology and chemistry.",
+    "highlights": [
+      "Closed $114M Fund III in March 2026",
+      "Originated from a Thiel Foundation grant program; independent since 2016",
+      "Portfolio company Surf Bio agreed to be acquired by Halozyme for up to $400M"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://breakout.vc/contact ; https://www.fiercebiotech.com/biotech/breakout-ventures-launches-114m-ai-focused-fund ; https://www.businesswire.com/news/home/20260310978565/en"
+  },
+  {
+    "id": "nvp-capital",
+    "name": "nvp capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "AI/ML",
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://nvpcap.com/contact/",
+    "website": "https://nvpcap.com",
+    "description": "Seed-stage firm investing in enterprise software and vertical AI founders modernizing under-digitized industries such as healthcare, industrials and financial services.",
+    "highlights": [
+      "Closed $80M Fund II in November 2025 (~$200M AUM)",
+      "Portfolio includes Vulcan Elements, Pair Team, Optimal Dynamics; Podsights acquired by Spotify",
+      "LPs include Prudential, Ford Foundation and Liberty Mutual"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://nvpcap.com ; https://nvpcap.com/blog/nvp-capital-fund-2/ ; https://www.venturecapitaljournal.com/nvp-capital-closes-on-80m-for-fund-ii-backing-vertical-ai-start-ups/"
+  },
+  {
+    "id": "cambrian-ventures",
+    "name": "Cambrian Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$300K–$1M+",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://airtable.com/app3KzoibQbrABDTV/shrROjb4txMGdrx8C",
+    "website": "https://www.cambrian.vc",
+    "description": "Solo-GP fund led by ex-a16z fintech investor Rex Salisbury backing early-stage US fintech founders at pre-seed and seed, as lead, co-lead or participant.",
+    "highlights": [
+      "Raised $20M Fund II in July 2025",
+      "About half of Fund I's 33 companies reportedly raised a Series A",
+      "Portfolio includes OatFi, Keep, Salsa, Paid"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.cambrian.vc ; https://techcrunch.com/2025/07/16/rex-salisburys-cambrian-ventures-raises-new-fund-bucking-fintech-slowdown/"
+  },
+  {
+    "id": "scribble-ventures",
+    "name": "Scribble Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Portola Valley, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "B2B SaaS",
+      "Consumer"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$750K–$1.5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, B2B SaaS, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@scribble.vc",
+    "website": "https://www.scribble.vc",
+    "description": "Pre-seed and seed firm founded by Elizabeth Weil (ex-a16z, Twitter) that pairs capital with a network of operator co-investors ('Scribble Network').",
+    "highlights": [
+      "Raised $80M Fund III in 2025, its largest fund",
+      "Typically decides within 1–2 weeks of first meeting",
+      "Early investor in Whatnot"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.scribble.vc ; https://techcrunch.com/2025/05/21/in-a-crowded-vc-landscape-elizabeth-weils-scribble-ventures-shows-that-networks-still-matter/"
+  },
+  {
+    "id": "sempervirens-venture-capital",
+    "name": "SemperVirens Venture Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Enterprise",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Enterprise, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://sempervirensvc.typeform.com/to/lRePcitm",
+    "website": "https://www.sempervirensvc.com",
+    "description": "Early-stage firm investing in AI-native companies reshaping health, wealth and work, with a focus on helping founders build enterprise distribution.",
+    "highlights": [
+      "Closed $177M in March 2025: $141M Core Fund III + $36M Growth Opportunity Fund II",
+      "Portfolio includes Midi Health, Rula and Multiverse",
+      "Founded 2018; ~65 portfolio companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.sempervirensvc.com ; https://pulse2.com/sempervirens-venture-capital-177-million-closed-across-two-new-funds/ ; https://www.fortune.com/2025/03/19/sempervirens-venture-capital-fundraise-sequoia-dpi-midi-health"
+  },
+  {
+    "id": "gtmfund",
+    "name": "GTMfund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.gtmfund.com/startups/",
+    "website": "https://www.gtmfund.com",
+    "description": "Venture fund backed by 350+ go-to-market executives that invests in B2B startups and helps them with distribution; site currently says 'Now investing — Series A'.",
+    "highlights": [
+      "Raised $54M Fund II in 2025",
+      "LP network of 350+ GTM leaders",
+      "Founded by Max Altschuler; runs GTMnow media"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.gtmfund.com ; https://www.gtmfund.com/contact-us/ ; https://techcrunch.com/2025/02/04/how-max-altschuler-accidentally-founded-a-vc-firm-that-just-raised-another-54m/"
+  },
+  {
+    "id": "the-fintech-fund",
+    "name": "The Fintech Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.thefintechfund.com",
+    "website": "https://www.thefintechfund.com",
+    "description": "Small early-stage fintech fund run by Nik Milanovic (This Week in Fintech) backing fintech infrastructure and financial services startups.",
+    "highlights": [
+      "Raised ~$10M Fund II in 2024",
+      "Portfolio includes Stitch, Ampla, Coast and Syro",
+      "Affiliated with the This Week in Fintech newsletter community"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.thefintechfund.com/portfolio ; https://www.axios.com/pro/fintech-deals/2024/09/18/this-week-in-fintech-nik-milanovic-fund"
+  },
+  {
+    "id": "maven-ventures",
+    "name": "Maven Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "Consumer",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@mavenventures.com",
+    "website": "https://mavenventures.com",
+    "description": "Early-stage firm investing in technical founders building consumer software (now heavily consumer AI) that will improve millions of lives.",
+    "highlights": [
+      "Raised $60M Fund IV in 2024",
+      "Backed Perplexity and Kyle Vogt's The Bot Company in 2024",
+      "Earlier investor in Cruise"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://mavenventures.com ; https://mavenventures.com/team ; https://www.mavenventures.com/about"
+  },
+  {
+    "id": "commerce-ventures",
+    "name": "Commerce Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Fintech",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:startups@commerce.vc",
+    "website": "https://commerce.vc",
+    "description": "Early-stage firm backing entrepreneurs building infrastructure for retail, payments, financial services and insurance.",
+    "highlights": [
+      "Announced oversubscribed Fund V in 2024 (~$150M first close per SEC)",
+      "Portfolio includes Marqeta, Narvar, Vestwell and Snapsheet"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://commerce.vc ; https://www.prweb.com/releases/commerce-ventures-announces-oversubscribed-fund-v-to-continue-investing-in-the-future-of-retail-and-financial-services-302077182.html"
+  },
+  {
+    "id": "aix-ventures",
+    "name": "AIX Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.aixventures.com/contact",
+    "website": "https://www.aixventures.com",
+    "description": "AI-focused fund led by AI practitioners investing pre-seed through Series A in companies where AI is core to the product; leads or co-invests.",
+    "highlights": [
+      "Raised $202M Fund II in 2024",
+      "Portfolio includes Hugging Face, Perplexity, Weights & Biases and Wispr Flow",
+      "Sector-agnostic within AI: consumer, dev tools, healthcare, SaaS"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.aixventures.com ; https://www.aixventures.com/faq ; https://www.aixventures.com/fund-news"
+  },
+  {
+    "id": "ldv-capital",
+    "name": "LDV Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Deep Tech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.ldv.co",
+    "website": "https://www.ldv.co",
+    "description": "Early-stage fund investing in deep technical teams building visual technology businesses using computer vision, machine learning and AI.",
+    "highlights": [
+      "Raised Fund IV (~$31M per sheet) in 2024",
+      "Runs the LDV Vision Summit and publishes visual-tech research",
+      "Recent investment: Resiquant (AI property risk)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.ldv.co ; https://www.ldv.co/blog/ldv-capital-raised-fourth-fund-to-continue-investing-in-people-building-businesses-powered-by-visual-technologies-and-artificial-intelligence"
+  },
+  {
+    "id": "53-stations",
+    "name": "53 Stations",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.53stations.com/contact",
+    "website": "https://www.53stations.com",
+    "description": "Chicago early-stage venture firm backed by The Pritzker Organization that invests flexibly and connects founders to a network of operators and Pritzker portfolio companies.",
+    "highlights": [
+      "Debut fund ~$190M (2023)",
+      "Supported by The Pritzker Organization (Hyatt, Steward Partners, etc.)",
+      "Contact page has an Airtable submission form"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.53stations.com ; https://www.53stations.com/contact"
+  },
+  {
+    "id": "valhalla-ventures",
+    "name": "Valhalla Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY / San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Govtech/Defense",
+      "AI/ML"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $10M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Deep Tech, Govtech/Defense, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.valhalla.ventures",
+    "website": "https://www.valhalla.ventures",
+    "description": "Inception-to-seed firm led by Rohan Pujara and Devan Malhotra backing founders building enduring moats in deep tech, defense, energy and AI.",
+    "highlights": [
+      "Launched $66M Fund I in 2023",
+      "Investments include Biofire, K2 (satellites), Starpath and Deterrence",
+      "Fund II entities reportedly registered in 2025 (unverified)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.valhalla.ventures ; https://www.finsmes.com/2023/07/valhalla-ventures-launches-66m-fund-i.html"
+  },
+  {
+    "id": "sugar-capital",
+    "name": "Sugar Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Consumer",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1.5M–$2M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.sugarcap.com/submit",
+    "website": "https://www.sugarcap.com",
+    "description": "Seed-stage firm from Brian and Lisa Sugar (POPSUGAR founders) writing first checks into consumer brands and commerce software platforms.",
+    "highlights": [
+      "Raised $75M Fund III (2025, per profiles)",
+      "Portfolio includes Grüns, Feastables, Starface, Caraway and Jupiter",
+      "Offers deck submission and office hours for founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.sugarcap.com ; https://www.businessinsider.com/brian-lisa-sugar-capital-launch-avid-capital-advisors-2023-6"
+  },
+  {
+    "id": "fj-labs",
+    "name": "FJ Labs",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Consumer, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.fjlabs.com",
+    "website": "https://www.fjlabs.com",
+    "description": "Highly active global investor ('angel investing at venture scale') focused on marketplaces and network-effect businesses.",
+    "highlights": [
+      "Closed $260M across two vehicles in 2023",
+      "1,000+ companies invested, 30+ unicorns",
+      "Early investor in Alibaba, Coupang, Flexport, Delivery Hero"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.fjlabs.com ; https://techcrunch.com/2023/01/25/most-active-investor-fj-labs-closes-on-260m-across-two-new-vehicles/"
+  },
+  {
+    "id": "coelius-capital",
+    "name": "Coelius Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$200K–$1M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, General/Any; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:zach@coelius.vc",
+    "website": "https://coelius.vc",
+    "description": "Solo-GP firm run by Zach Coelius providing early-stage capital to B2B and B2B2C startups with validated 'weird ideas'.",
+    "highlights": [
+      "Raised ~$33M Fund II in 2022",
+      "Early investor in Cruise, Mercury and Fireflies",
+      "Trackers show seed deals in 2025 (e.g., JotPsych, NiaHealth)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://coelius.vc ; https://www.wsj.com/articles/coelius-capital-founder-is-latest-angellist-investor-to-graduate-to-vc-fund-11594805402"
+  },
+  {
+    "id": "steelsky-ventures",
+    "name": "SteelSky Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Atlanta, GA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:admin@steelskyventures.com",
+    "website": "https://steelskyventures.com",
+    "description": "Healthcare venture fund with an AI focus and emphasis on women's health, maternal and fertility care, virtual/home-based care and behavioral health.",
+    "highlights": [
+      "Raised $72M Fund I in 2022",
+      "2025 investments include Commons Clinic and Posterity Health",
+      "Portfolio includes Midi Health, Zipline and Bend Health (acquired by Lyra, 2025)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://steelskyventures.com ; https://femtechinsider.com/steelsky-ventures-fund-i/"
+  },
+  {
+    "id": "chapter-one",
+    "name": "Chapter One",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "Web3/Crypto"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Consumer, Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hi@chapterone.com",
+    "website": "https://www.chapterone.com",
+    "description": "Seed-stage firm founded by Jeff Morris Jr. (ex-Tinder) that backs product-obsessed founders in their earliest chapters.",
+    "highlights": [
+      "Invested in 11 unicorns at seed stage",
+      "Portfolio includes Mercury, Supabase, Together.ai, Ondo and Mach Industries",
+      "Raised $50M Fund II (2021)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.chapterone.com ; https://mirror.xyz/chapterone.eth/vRrTabwSY_0z5GqPF5piVGIdUuHIPtv41v5VIZKl848"
+  },
+  {
+    "id": "bowery-capital",
+    "name": "Bowery Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "AI/ML",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, AI/ML, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://bowerycap.com",
+    "website": "https://bowerycap.com",
+    "description": "Early-stage firm investing in founders modernizing business through technology, with a current emphasis on vertical and back-office AI.",
+    "highlights": [
+      "Raised $70M Fund III in 2021 and expanded to San Francisco",
+      "Recent investment announcement: Enata",
+      "Known for B2B go-to-market content and podcasts"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://bowerycap.com ; https://www.forbes.com/sites/rebeccaszkutak/2021/03/22/bowery-capital-sets-its-sights-on-san-francisco-with-a-fresh-70-million-fund-and-a-new-partner/"
+  },
+  {
+    "id": "oceans",
+    "name": "Oceans",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://airtable.com/appdcJ3DZOQDqyjVj/shrNS81G4hsU66smN",
+    "website": "https://www.oceans.ventures",
+    "description": "Operator-led New York venture firm that leads and co-leads pre-seed and seed rounds and co-invests at Series A.",
+    "highlights": [
+      "Partners bring 25 years of operating experience at Apple, Facebook and Google",
+      "Leads/co-leads pre-seed and seed rounds",
+      "Raised ~$11M Fund I (2020, per sheet)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.oceans.ventures ; https://www.oceans.ventures/contact"
+  },
+  {
+    "id": "motley-fool-ventures",
+    "name": "Motley Fool Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Alexandria, VA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://foolventures.com/contact",
+    "website": "https://foolventures.com",
+    "description": "Early-stage venture fund powered by The Motley Fool's brand, investing approach and communities.",
+    "highlights": [
+      "Closed ~$146M Fund I in 2019; now investing from Fund II",
+      "Site posts portfolio news through September 2026 (e.g., Micro1, EdVisorly)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://foolventures.com ; http://www.finsmes.com/2019/01/motley-fool-closes-first-venture-capital-fund-at-145-73m.html"
+  },
+  {
+    "id": "revtech-ventures",
+    "name": "RevTech Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Dallas, TX, USA",
+    "focusAreas": [
+      "Consumer",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "~$100K initial (avg.)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Consumer, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://revtechventures.com/contact-us/",
+    "website": "https://revtechventures.com",
+    "description": "Dallas-based VC investing in pre-seed and seed retail technology startups helping brands and retailers better serve customers, often as first institutional investor.",
+    "highlights": [
+      "17 active portfolio companies; 75%+ of recent investments have diverse leadership",
+      "Leads or follows at pre-seed/seed; participates in Series A/B"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://revtechventures.com"
+  },
+  {
+    "id": "homebrew",
+    "name": "Homebrew",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$100K–$500K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hunter@homebrew.co",
+    "website": "https://www.homebrew.co",
+    "description": "Hunter Walk and Satya Patel's firm, now investing their own capital in pre-seed/seed mission-driven founders in North and South America.",
+    "highlights": [
+      "90% of activity is pre-seed/seed checks of $100K–$500K",
+      "Portfolio includes Chime, Plaid, Shield AI, Graphite",
+      "No ownership targets; can be first or last check"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.homebrew.co"
+  },
+  {
+    "id": "social-leverage",
+    "name": "Social Leverage",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "Fintech",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://socialleverage.com/contact",
+    "website": "https://socialleverage.com",
+    "description": "Seed-stage firm founded in 2009 that backs founders who see the world differently, with deep roots in fintech and markets.",
+    "highlights": [
+      "$300M+ AUM, 150+ companies since 2009",
+      "Portfolio includes Robinhood, beehiiv, Kustomer, Manscaped, Alpaca"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://socialleverage.com ; https://socialleverage.com/contact"
+  },
+  {
+    "id": "jump-capital",
+    "name": "Jump Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "Fintech",
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in Fintech, B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://jumpcap.com/contact/",
+    "website": "https://jumpcap.com",
+    "description": "Chicago-based venture firm (affiliated with Jump Trading) investing in fintech and B2B technology, often leading Series A rounds.",
+    "highlights": [
+      "Portfolio includes M1, LogicGate, AcreTrader and Siemplify",
+      "Founders cite Jump as Series A lead"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://jumpcap.com"
+  },
+  {
+    "id": "weekend-fund",
+    "name": "Weekend Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K–$500K",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, Consumer, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:team@weekend.fund",
+    "website": "https://weekend.fund",
+    "description": "Product Hunt founder Ryan Hoover's fund writing early-stage checks globally, from 'weird consumer to boring B2B', alongside 400+ founder and operator LPs.",
+    "highlights": [
+      "Writes $250K–$500K checks",
+      "Backed by 400+ founder/operator LPs",
+      "Builds tools for portfolio founders (Rolodexer, Fast Round)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://weekend.fund"
+  },
+  {
+    "id": "blackhorn-ventures",
+    "name": "Blackhorn Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boulder, CO, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, Deep Tech, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.blackhornvc.com/contact-us",
+    "website": "https://www.blackhornvc.com",
+    "description": "Industrial-impact venture firm backing startups using data, AI and robotics to transform how the world builds, powers and moves.",
+    "highlights": [
+      "Focus on physical infrastructure x digital transformation",
+      "Portfolio includes Formic (robotics-as-a-service)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.blackhornvc.com"
+  },
+  {
+    "id": "benhamou-global-ventures-bgv",
+    "name": "Benhamou Global Ventures (BGV)",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.benhamouglobalventures.com/for-founders",
+    "website": "https://www.benhamouglobalventures.com",
+    "description": "Early-stage firm founded by Eric Benhamou backing AI-native enterprise software builders ('Enterprise 5.0').",
+    "highlights": [
+      "Thesis centered on AI-native enterprise ('Enterprise 5.0')",
+      "Recent portfolio news: EverestLabs agentic AI platform"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.benhamouglobalventures.com ; https://www.pehub.com/2016/09/benhamou-global-ventures-has-first-close-on-75-mln-third-fund/"
+  },
+  {
+    "id": "designer-fund",
+    "name": "Designer Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "Climate/Impact",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Biotech/Health, Climate/Impact, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://apply.designerfund.com",
+    "website": "https://designerfund.com",
+    "description": "Design and venture partner investing in early-stage tech companies with designer founders that use design to improve health, sustainability and prosperity.",
+    "highlights": [
+      "Raised $20M fund in 2016",
+      "Runs the Designer Founders community and resources",
+      "Online application at apply.designerfund.com"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://designerfund.com ; http://techcrunch.com/2016/05/03/designer-fund-which-backs-startups-with-designers-on-their-founding-teams-has-raised-20-million/"
+  },
+  {
+    "id": "cloud-apps-capital-partners",
+    "name": "Cloud Apps Capital Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Enterprise",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Enterprise, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.cloudappscapital.com/contact",
+    "website": "https://www.cloudappscapital.com",
+    "description": "Operator-led firm helping founders and executive teams build global, category-leading cloud and AI software companies.",
+    "highlights": [
+      "Debut fund ~$54M (2015, per sheet)",
+      "Team has investor, software-executive and board experience"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.cloudappscapital.com"
+  },
+  {
+    "id": "crosslink-capital",
+    "name": "Crosslink Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Enterprise",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$9M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Enterprise, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.crosslinkcapital.com/contact-us/",
+    "website": "https://www.crosslinkcapital.com",
+    "description": "San Francisco early-stage firm (founded 1989) partnering with seed and Series A founders building category-defining enterprise and consumer companies.",
+    "highlights": [
+      "$3.4B AUM, 50+ exits including 17 IPOs",
+      "Initial investments $1M–$9M at Seed and Series A",
+      "Portfolio includes Chime, BetterUp, Overjet"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.crosslinkcapital.com"
+  },
+  {
+    "id": "ribbit-capital",
+    "name": "Ribbit Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "Fintech",
+      "Web3/Crypto"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Fintech, Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.ribbitcap.com",
+    "website": "https://www.ribbitcap.com",
+    "description": "Fintech-focused venture firm backing 'rebels' reinventing financial services globally, from early stage through growth.",
+    "highlights": [
+      "Early investor in Robinhood, Coinbase, Nubank and Revolut",
+      "Invests globally across financial services"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.ribbitcap.com"
+  },
+  {
+    "id": "refactor-capital",
+    "name": "Refactor Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1–2M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Hardware, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://refactor.com/contact",
+    "website": "https://refactor.com",
+    "description": "Solo-GP seed fund led by Zal Bilimoria investing in hard tech startups across the US (aerospace, energy, critical materials, AI infra, bio).",
+    "highlights": [
+      "Closed $50M Fund V in 2026 (SEC Form D filed May 2026)",
+      "Manages ~$300M across five funds",
+      "Writes $1–2M seed checks"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://refactor.com; https://filingflow.app/filings/0001231919-26-000458"
+  },
+  {
+    "id": "pax-vc",
+    "name": "Pax VC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Govtech/Defense, Deep Tech, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@pax.vc",
+    "website": "https://pax.vc",
+    "description": "Solo-GP fund from former a16z partner Michelle Volz backing seed-stage founders in defense, aerospace, energy and industrial-base companies.",
+    "highlights": [
+      "Raised $50M debut fund in 2026",
+      "Portfolio includes Northwood Space, Mariana Minerals, Astro Mechanica"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://pax.vc; https://www.venturecapitaljournal.com/new-woman-led-firm-pax-vc-raises-50m-for-debut"
+  },
+  {
+    "id": "root-ventures",
+    "name": "Root Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$3–5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Hardware, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://root.vc",
+    "website": "https://root.vc",
+    "description": "San Francisco deep tech seed fund run by engineers that leads initial rounds for technical founders in hardware, software and science.",
+    "highlights": [
+      "Raised $190M Fund IV (Nov 2025)",
+      "Leads initial funding; keeps ~2/3 of fund in reserve",
+      "Initial checks typically $3–5M"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://root.vc; https://www.newcomer.co/p/exclusive-root-ventures-raises-190"
+  },
+  {
+    "id": "verified-capital",
+    "name": "Verified Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://verified.fund",
+    "website": "https://verified.fund",
+    "description": "Concentrated AI-focused fund from former Coatue/Benchmark investor Kris Fredrickson, making 8–10 investments at any stage.",
+    "highlights": [
+      "Closed $175M debut fund (July 2025)",
+      "LPs include Apoorva Mehta, Brian Armstrong, Adams Street",
+      "Plans only 8–10 core investments"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://verified.fund (redirect from verified.capital); https://traded.co/vc/deal/verified-capital-closes-175-million-fund-with-investors-apoorva-mehta-and-brian-armstrong/"
+  },
+  {
+    "id": "susa-ventures",
+    "name": "Susa Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://susaventures.com",
+    "website": "https://susaventures.com",
+    "description": "Sector-agnostic, software-focused pre-seed and seed firm that invests with conviction regardless of who else is in the round.",
+    "highlights": [
+      "Closed $175M Fund V (March 2025)",
+      "Self-reported ~10% of Fund I/II companies became unicorns"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://susaventures.com; https://susaventures.substack.com/p/susa-ventures-v-175m-for-seed-stage"
+  },
+  {
+    "id": "patron",
+    "name": "Patron",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "Consumer",
+      "Gaming/Media",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, Gaming/Media, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@patron.fund",
+    "website": "https://patron.fund",
+    "description": "Early-stage fund led by Riot Games alumni Jason Yeh and Brian Cho backing consumer technology products that are taste-driven and personal.",
+    "highlights": [
+      "Raised $100M Fund II (2024)",
+      "GPs previously at FirstMark, a16z and Riot Games"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://patron.fund; https://patron.fund/blog/announcing-patron-fund-ii/"
+  },
+  {
+    "id": "starshot-capital",
+    "name": "Starshot Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco Bay Area, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://coda.io/form/Starshot-other-contact-form_dT7nIiY1I-5",
+    "website": "https://starshotcapital.com",
+    "description": "Climate fund backing startups that can avert at least 1 gigaton of emissions, e.g., grid hardware, EV charging and earth systems.",
+    "highlights": [
+      "Launched $35M Fund I (April 2024)",
+      "Site shows 2025–2026 news activity"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://starshotcapital.com; https://www.businesswire.com/news/home/20240422027302/en/"
+  },
+  {
+    "id": "human-ventures",
+    "name": "Human Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Consumer",
+      "Biotech/Health",
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Consumer, Biotech/Health, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:human@human.vc",
+    "website": "https://human.vc",
+    "description": "New York firm that partners with founders at the earliest stages, backing companies meeting essential human needs across health, work and money, connection and media.",
+    "highlights": [
+      "Raised $50M Fund II (2024)",
+      "Portfolio exits include theSkimm and Ludo"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://human.vc"
+  },
+  {
+    "id": "voyager-ventures",
+    "name": "Voyager Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Climate/Impact",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Climate/Impact, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@voyagervc.com",
+    "website": "https://www.voyagervc.com",
+    "description": "Early-stage fund investing in frontier energy, industrial and climate technology companies including energy efficiency and materials production.",
+    "highlights": [
+      "Raised $100M Fund II (2024)",
+      "Offices in San Francisco and New York"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.voyagervc.com; https://www.esgtoday.com/voyager-ventures-raises-100-million-for-climate-tech-vc-fund/"
+  },
+  {
+    "id": "twelve-below",
+    "name": "Twelve Below",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.twelvebelow.co",
+    "website": "https://www.twelvebelow.co",
+    "description": "NYC generalist pre-seed and seed firm that typically leads rounds before Series A.",
+    "highlights": [
+      "Raised $108M across two funds (Nov 2023)",
+      "Typically leads pre-Series A rounds",
+      "Portfolio includes Arya Health, Caladan, Parabolic Auto"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.twelvebelow.co; https://techcrunch.com/2023/11/21/twelve-below-secures-108m-across-two-new-funds/"
+  },
+  {
+    "id": "mxv-capital",
+    "name": "MXV Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://mxv.vc",
+    "website": "https://mxv.vc",
+    "description": "New York venture firm ('Founding and Funding the Future') that launched with a $52M debut fund in 2023.",
+    "highlights": [
+      "Launched with $52M debut fund (2023)",
+      "Website live and current"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://mxv.vc; https://www.prnewswire.com/news-releases/mxv-capital-launches-with-52m-debut-fund-301827865.html"
+  },
+  {
+    "id": "cowboy-ventures",
+    "name": "Cowboy Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Enterprise",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Enterprise, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@cowboy.vc",
+    "website": "https://cowboy.vc",
+    "description": "Seed-stage firm founded by Aileen Lee backing founders across enterprise, consumer, fintech and future of work.",
+    "highlights": [
+      "Raised $260M across Fund IV and an opportunity fund (Jan 2023)",
+      "Coined the term 'unicorn'"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://cowboy.vc; https://techcrunch.com/2023/01/23/cowboy-ventures-goes-bigger-with-260m-across-two-new-funds-including-an-opportunity-fund/"
+  },
+  {
+    "id": "lorimer-ventures",
+    "name": "Lorimer Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Enterprise",
+      "AI/ML",
+      "Deep Tech"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Enterprise, AI/ML, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://lorimerventures.com/contact-us",
+    "website": "https://lorimerventures.com",
+    "description": "NYC operator-led inception-stage fund backing enterprise AI, industrial/physical AI and frontier tech founders.",
+    "highlights": [
+      "Founded 2019",
+      "Portfolio includes Gamma, Formic, OatFi"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://lorimerventures.com"
+  },
+  {
+    "id": "tusk-venture-partners",
+    "name": "Tusk Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Govtech/Defense",
+      "Fintech",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Govtech/Defense, Fintech, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@tusk.vc",
+    "website": "https://www.tusk.vc",
+    "description": "NYC early-stage firm investing in technology companies in highly regulated markets, helping founders manage regulatory risk.",
+    "highlights": [
+      "Raised $140M Fund III (2022)",
+      "Early investor in Uber"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.tusk.vc"
+  },
+  {
+    "id": "torch-capital",
+    "name": "Torch Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Consumer",
+      "B2B SaaS",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer, B2B SaaS, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@torchcapital.vc",
+    "website": "https://torchcapital.vc",
+    "description": "NYC early-stage firm investing in companies that transform how consumers and businesses operate, supported by an operator network.",
+    "highlights": [
+      "Raised $116M Fund II (2021)",
+      "Site shows 2026 activity"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://torchcapital.vc"
+  },
+  {
+    "id": "true-beauty-ventures",
+    "name": "True Beauty Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@truebeautyventures.com",
+    "website": "https://truebeautyventures.com",
+    "description": "Specialist fund backing breakout beauty and wellness brands from Seed to Series B.",
+    "highlights": [
+      "Raised $42M+ debut fund (2021)",
+      "Portfolio includes K18, Moon Juice, Crown Affair"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://truebeautyventures.com"
+  },
+  {
+    "id": "atx-venture-partners",
+    "name": "ATX Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Austin, TX, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Govtech/Defense",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Govtech/Defense, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:submissions@atxventurepartners.com",
+    "website": "https://www.atxventurepartners.com",
+    "description": "Operator-led early-stage firm investing across North America in applied AI for defense and space, industrial operations, healthcare and enterprise.",
+    "highlights": [
+      "Raised $150M Fund III (2021)",
+      "Accepts plans at submissions@ email"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.atxventurepartners.com"
+  },
+  {
+    "id": "ulu-ventures",
+    "name": "Ulu Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Social Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Social Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://uluventures.com/become-an-ulupreneur/",
+    "website": "https://uluventures.com",
+    "description": "Stanford-connected seed fund that actively seeks and funds women and diverse founder teams.",
+    "highlights": [
+      "Raised $138M Fund III (2021)",
+      "Multiple seed-stage funds"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://uluventures.com; https://globalventuring.com/blog/2021/05/18/ulu-ushers-in-138m-for-fund-iii/"
+  },
+  {
+    "id": "pioneer-square-labs",
+    "name": "Pioneer Square Labs",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Seattle, WA, USA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "B2B SaaS"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in General/Any, AI/ML, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hello@psl.com",
+    "website": "https://www.psl.com",
+    "description": "Seattle startup studio and venture fund (PSL Ventures) that co-founds companies and invests in early-stage startups.",
+    "highlights": [
+      "Raised $100M PSL Ventures Fund II (2021)",
+      "Studio spinouts include Tin Can"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.psl.com"
+  },
+  {
+    "id": "nextview-ventures",
+    "name": "NextView Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://nextview.vc",
+    "website": "https://nextview.vc",
+    "description": "High-conviction, hands-on seed investors backing founders across North America, with offices in Boston, New York and San Francisco.",
+    "highlights": [
+      "Raised $100M Fund IV (2021)",
+      "Contact via site form or warm referral"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://nextview.vc"
+  },
+  {
+    "id": "impact-america-fund",
+    "name": "Impact America Fund",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "USA",
+    "focusAreas": [
+      "Social Impact",
+      "Fintech",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Social Impact, Fintech, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://impactamericafund.com/work-with-us",
+    "website": "https://impactamericafund.com",
+    "description": "Invests in companies creating economic agency for people of color in the US, at Seed through Series B plus bridge capital.",
+    "highlights": [
+      "Raised $55M Fund II (2020)",
+      "Portfolio includes SoLo Funds, CareAcademy, Twentyeight Health"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://impactamericafund.com"
+  },
+  {
+    "id": "motivate-venture-capital",
+    "name": "Motivate Venture Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "Fintech",
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$250K–$1M pre-seed; $1.5–3M seed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Fintech, General/Any; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://motivate.vc/contact/",
+    "website": "https://motivate.vc",
+    "description": "Chicago early-stage specialists investing in pre-seed and seed companies and doing new venture creation.",
+    "highlights": [
+      "Raised $43M Fund I (2019)",
+      "Targets $250K–$1M pre-seed and $1.5–3M seed checks"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://motivate.vc"
+  },
+  {
+    "id": "sorenson-capital",
+    "name": "Sorenson Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Lehi, UT, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Cybersecurity",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Cybersecurity, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.sorensoncapital.com/get-in-touch/",
+    "website": "https://www.sorensoncapital.com",
+    "description": "Utah firm with an early-stage venture fund (pre-revenue to <$5M ARR) and growth fund investing in B2B software, cybersecurity, AI and DevOps.",
+    "highlights": [
+      "Raised $110M Sorenson Capital Ventures fund (2019)",
+      "Venture team covers pre-revenue to $5M ARR"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.sorensoncapital.com"
+  },
+  {
+    "id": "blockchain-capital",
+    "name": "Blockchain Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Web3/Crypto"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.blockchaincapital.com/contact-us",
+    "website": "https://www.blockchaincapital.com",
+    "description": "Crypto-focused venture firm partnering with blockchain builders since 2013, from seed to growth.",
+    "highlights": [
+      "Portfolio includes Aave, Anchorage Digital, Circle",
+      "Active blog with Sept 2026 portfolio posts"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.blockchaincapital.com"
+  },
+  {
+    "id": "v1vc",
+    "name": "V1VC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boulder, CO, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Deep Tech, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.v1.vc",
+    "website": "https://www.v1.vc",
+    "description": "Early-stage firm investing at inception in AI-native software and technologies for energy, aerospace, robotics and manufacturing.",
+    "highlights": [
+      "Co-founded 2015 by Brett Jackson",
+      "Portfolio includes Astranis, Loft Orbital, Allbirds"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.v1.vc"
+  },
+  {
+    "id": "floodgate",
+    "name": "Floodgate",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://floodgate.com",
+    "website": "https://floodgate.com",
+    "description": "Micro-VC pioneer led by Mike Maples Jr. and Ann Miura-Ko that seeks to be the first true believers in pattern-breaking founders.",
+    "highlights": [
+      "Raised $131M Fund VI (2017)",
+      "Early backer of Twitter, Lyft, Okta"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://floodgate.com"
+  },
+  {
+    "id": "promus-ventures",
+    "name": "Promus Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, Hardware; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@promusventures.com",
+    "website": "https://promusventures.com",
+    "description": "Chicago- and Luxembourg-based early-stage firm backing DeepTech founders worldwide, notably in space and frontier technologies.",
+    "highlights": [
+      "Offices in Chicago (HQ) and Luxembourg",
+      "Site current as of 2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://promusventures.com"
+  },
+  {
+    "id": "hatteras-venture-partners",
+    "name": "Hatteras Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Durham, NC, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://hatterasvp.com/contact",
+    "website": "https://hatterasvp.com",
+    "description": "Healthcare venture firm investing in biotech, medtech and healthtech companies advancing patient care.",
+    "highlights": [
+      "Raised $150M Fund V (2017)",
+      "Focus on Southeast US life sciences"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://hatterasvp.com"
+  },
+  {
+    "id": "javelin-venture-partners",
+    "name": "Javelin Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any",
+      "Consumer",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$4M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, Consumer, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@javelinvp.com",
+    "website": "https://www.javelinvp.com",
+    "description": "San Francisco firm writing initial checks into late seed and early Series A rounds ('Signal Before Traction').",
+    "highlights": [
+      "Initial checks of $500K–$4M",
+      "Raised $125M Fund IV (2016)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.javelinvp.com"
+  },
+  {
+    "id": "rittenhouse-ventures",
+    "name": "Rittenhouse Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Philadelphia, PA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://rittenhouseventures.com/contact/",
+    "website": "https://rittenhouseventures.com",
+    "description": "Philadelphia emerging-growth venture firm investing in technology businesses since 2008.",
+    "highlights": [
+      "Investing since 2008",
+      "Site shows 2025–2026 news"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://rittenhouseventures.com"
+  },
+  {
+    "id": "moneta-ventures",
+    "name": "Moneta Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Sacramento, CA, USA",
+    "focusAreas": [
+      "Enterprise",
+      "B2B SaaS"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Enterprise, B2B SaaS; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://moneta.vc/get-funding/",
+    "website": "https://moneta.vc",
+    "description": "Sacramento firm investing in mission-critical enterprise technology companies ('Software++').",
+    "highlights": [
+      "Led seed round for Argon Mechatronics (July 2026)",
+      "Named to TIME's 2026 Top VC Firms list"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://moneta.vc"
+  },
+  {
+    "id": "felicis",
+    "name": "Felicis",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Cybersecurity",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Cybersecurity, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.felicis.com",
+    "website": "https://www.felicis.com",
+    "description": "Venture firm backing founders starting at seed, leading or co-leading over 83% of its investments.",
+    "highlights": [
+      "Early backer of Notion, Canva, Shopify, Supabase",
+      "Raised $200M Fund V (2016); now much larger"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.felicis.com"
+  },
+  {
+    "id": "sierra-ventures",
+    "name": "Sierra Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Mateo, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Deep Tech, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.sierraventures.com",
+    "website": "https://www.sierraventures.com",
+    "description": "Firm investing from inception to Series A in AI and deep tech, with a long-running enterprise CXO network.",
+    "highlights": [
+      "Invests inception to Series A",
+      "Raised $170M Fund XI (2016)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.sierraventures.com"
+  },
+  {
+    "id": "tenoneten-ventures",
+    "name": "TenOneTen Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.tenoneten.com/founders",
+    "website": "https://www.tenoneten.com",
+    "description": "LA firm of technical founders backing technical founders at the earliest stages.",
+    "highlights": [
+      "Portfolio news through Sept 2026 (e.g., Meadow AI $7M)",
+      "Raised $18M Fund I (2015)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.tenoneten.com"
+  },
+  {
+    "id": "storm-ventures",
+    "name": "Storm Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Menlo Park, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "AI/ML",
+      "Cybersecurity"
+    ],
+    "stage": "Series A",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Series A startups in B2B SaaS, AI/ML, Cybersecurity; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.stormventures.com",
+    "website": "https://www.stormventures.com",
+    "description": "Early-stage B2B-focused firm investing in disruptive B2B AI software startups in enterprise infrastructure and cybersecurity.",
+    "highlights": [
+      "200+ investments over 23+ years",
+      "Raised $180M Fund V (2015)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.stormventures.com"
+  },
+  {
+    "id": "learn-capital",
+    "name": "Learn Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Mateo, CA, USA",
+    "focusAreas": [
+      "EdTech"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in EdTech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.learn.vc/contact",
+    "website": "https://www.learn.vc",
+    "description": "Backs and builds ventures that help people learn, from edtech to future-of-work.",
+    "highlights": [
+      "Portfolio includes Andela, Amplify",
+      "Site current 2025–2026"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.learn.vc"
+  },
+  {
+    "id": "2048-ventures",
+    "name": "2048 Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY",
+    "focusAreas": [
+      "AI/ML",
+      "Deep Tech",
+      "Biotech/Health"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "$500K–$3M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Deep Tech, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.2048.vc",
+    "website": "https://www.2048.vc",
+    "description": "2048 Ventures is a pre-seed and seed firm that typically writes the first, lead check, investing primarily in NYC and Boston.",
+    "highlights": [
+      "Closed oversubscribed $82M Fund III in 2026",
+      "Focus on vertical AI, deep tech, healthcare and biotech with data moats",
+      "Pre-Seed Fast Track program for rounds up to $1.5M"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.2048.vc; https://www.2048.vc/blog/2048-ventures-fund-iii"
+  },
+  {
+    "id": "97212-ventures",
+    "name": "97212 Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://tally.so/r/3EYPe2",
+    "website": "https://www.97212.vc",
+    "description": "97212 Ventures is a NYC-based seed fund that backs Israeli founders building global companies and expanding into the US via New York.",
+    "highlights": [
+      "Closed $20M Fund I in 2024",
+      "Requires founders to relocate to NYC",
+      "Offers a GTM board of senior executives"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.97212.vc; https://www.calcalistech.com/ctechnews/article/hkzoqb9ga"
+  },
+  {
+    "id": "645-ventures",
+    "name": "645 Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY",
+    "focusAreas": [
+      "Enterprise",
+      "AI/ML",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$1M–$5M (Seed); $5M–$10M (Series A)",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Enterprise, AI/ML, Fintech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://airtable.com/appGb8jJGlicUkjgn/pagSRwwW1RXpwNtZr/form",
+    "website": "https://www.645ventures.com",
+    "description": "645 Ventures is an early-stage firm in New York and San Francisco investing at seed and Series A, including pre-product companies.",
+    "highlights": [
+      "Over $550M AUM across five funds (Dec 2025)",
+      "Led Sequence's $20M round in Dec 2025",
+      "Sectors: enterprise, deep tech, AI infra, fintech, consumer, cyber, health"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.645ventures.com; https://www.goodwinlaw.com/en/news-and-events/news/2025/12/announcements-technology-goodwin-advises-645-ventures-in-leading-sequences"
+  },
+  {
+    "id": "c2-ventures-c2v",
+    "name": "C2 Ventures (C2V)",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Greenwich, CT",
+    "focusAreas": [
+      "B2B SaaS",
+      "Hardware",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Hardware, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.c2ventures.co/contact",
+    "website": "https://www.c2ventures.co",
+    "description": "C2V backs pre-Series A enterprise SaaS and robotics companies modernizing 'dirty, dull, and dangerous' essential industries such as construction, waste and manufacturing.",
+    "highlights": [
+      "Investing from third fund; Form D for C2V Capital Partners III filed 2026",
+      "Tributary Fund for pre-seed investments",
+      "Led Pavewise seed round (Oct 2025, per Caplight)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.c2ventures.co; https://www.adweek.com/adweek-wire/c2-ventures-announces-two-new-funds-c2v-capital-partners-ii-c2v-tributary-fund/"
+  },
+  {
+    "id": "186-ventures",
+    "name": "186 Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA",
+    "focusAreas": [
+      "General/Any",
+      "AI/ML",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in General/Any, AI/ML, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.186ventures.com/contact",
+    "website": "https://www.186ventures.com",
+    "description": "186 Ventures is a Boston-based early-stage firm founded by DraftKings alumni that backs fast-growing founders, including companies changing legacy industries.",
+    "highlights": [
+      "Raised $37M oversubscribed Fund I (Jan 2022)",
+      "Network across New York, Boston and San Francisco",
+      "2025 deals logged by PitchBook (e.g., WhyHowAI seed)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.186ventures.com; https://www.businesswire.com/news/home/20220119005309/en/"
+  },
+  {
+    "id": "1confirmation",
+    "name": "1confirmation",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA",
+    "focusAreas": [
+      "Web3/Crypto",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Web3/Crypto, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.1confirmation.com",
+    "website": "https://www.1confirmation.com",
+    "description": "1confirmation, founded by Nick Tomaino, is a crypto-focused venture firm backing open networks and consumer crypto, and was an early Polymarket backer.",
+    "highlights": [
+      "Began investing from Fund IV in early 2026",
+      "Funds include $45M Fund II, $125M Fund III, $100M NFT fund",
+      "Request for Builders: consumer apps bridging crypto and culture"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.1confirmation.com; https://privateequitylist.com/investors/1confirmation"
+  },
+  {
+    "id": "striker-venture-partners",
+    "name": "Striker Venture Partners",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA",
+    "focusAreas": [
+      "AI/ML",
+      "Cybersecurity",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$5M–$30M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Cybersecurity, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@striker.vc",
+    "website": "https://striker.vc",
+    "description": "Striker, founded in 2025 by ex-CRV partner Max Gazor, makes concentrated day-zero investments in pre-revenue technical founders in AI, cybersecurity and infrastructure software.",
+    "highlights": [
+      "$165M debut fund from 10 LPs (Oct 2025), ~10 investments planned",
+      "Led Elorian's $55M seed",
+      "Up to half of fund may go to Israeli startups"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://striker.vc; https://www.calcalistech.com/ctechnews/article/r1v9fnf411g"
+  },
+  {
+    "id": "gilgamesh-ventures",
+    "name": "Gilgamesh Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY",
+    "focusAreas": [
+      "Fintech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@gilgameshvc.com",
+    "website": "https://gilgameshvc.com",
+    "description": "Gilgamesh Ventures is a NYC early-stage fintech VC founded by Miguel Armaza and Andrew Endicott, investing across the US and Latin America.",
+    "highlights": [
+      "Fund II reportedly closed May 2025 (~$20M)",
+      "Sourcing via the Fintech Leaders podcast",
+      "Portfolio includes Klar, Pomelo, Xepelin"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://gilgameshvc.com; https://www.contxto.com/en/news/gilgamesh-ventures-commits-us9-5-million-for-fintech-in-latam/"
+  },
+  {
+    "id": "swell-vc",
+    "name": "Swell VC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY",
+    "focusAreas": [
+      "AI/ML",
+      "Govtech/Defense",
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in AI/ML, Govtech/Defense, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@swell.vc",
+    "website": "https://www.swell.vc",
+    "description": "Swell VC is a NYC pre-seed and seed fund investing in AI for critical infrastructure across enterprise, space and defense, biology and industrial systems.",
+    "highlights": [
+      "Investing from Fund III",
+      "Offers free Archetype hiring software to portfolio founders"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.swell.vc"
+  },
+  {
+    "id": "exceptional-capital",
+    "name": "Exceptional Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Miami, FL",
+    "focusAreas": [
+      "Enterprise",
+      "B2B SaaS",
+      "Cybersecurity"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Pre-seed startups in Enterprise, B2B SaaS, Cybersecurity; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://exceptionalcap.com",
+    "website": "https://exceptionalcap.com",
+    "description": "Exceptional Capital, founded by Marell Evans, is a pre-seed and seed firm investing in enterprise software across North America and globally.",
+    "highlights": [
+      "$50M inaugural fund reported (May 2024)",
+      "Offices in San Francisco and Miami",
+      "2025–2026 participation in Gradient Labs, AccessGrid, Zipline AI (Seedtable)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://exceptionalcap.com; https://www.forbes.com/sites/rebeccaszkutak/2022/02/15/solo-black-gp-marell-evans-launches-exceptional-capital-to-focus-on-b2b-software/"
+  },
+  {
+    "id": "maveron",
+    "name": "Maveron",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Seattle, WA",
+    "focusAreas": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:maveron@maveron.com",
+    "website": "https://www.maveron.com",
+    "description": "Maveron, co-founded by Dan Levitan and Howard Schultz in 1998, is an early-stage VC investing exclusively in consumer companies.",
+    "highlights": [
+      "Fund 8 of $225M raised in 2021",
+      "Led Kin Health $9M seed (May 2026) and Jampack AI seed (Feb 2026)",
+      "Portfolio includes Allbirds, Pacaso, Keeps"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.maveron.com; https://www.thesaasnews.com/news/kin-health-raises-9m-seed/"
+  },
+  {
+    "id": "lightstone-ventures",
+    "name": "Lightstone Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Portola Valley, CA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.lightstonevc.com/#contact",
+    "website": "https://www.lightstonevc.com",
+    "description": "Lightstone Ventures is a life sciences VC founded in 2012 investing in biopharma and medtech companies from start-up through commercialization.",
+    "highlights": [
+      "Offices in Portola Valley, Boston, Dublin and Singapore",
+      "Funds: $172M Fund I, $250M Fund II, $375M Fund III",
+      "2025–2026 deals logged (e.g., Cerevance, May 2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.lightstonevc.com; http://www.xconomy.com/boston/2014/05/01/lightstone-closes-172m-fund-for-early-stage-biotechs/"
+  },
+  {
+    "id": "dnx-technology-ventures",
+    "name": "DNX Technology Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Mateo, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Cybersecurity",
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Cybersecurity, Deep Tech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://dnxtech.vc/en/contact/",
+    "website": "https://dnxtech.vc/",
+    "description": "Cross-border Silicon Valley/Tokyo VC that invests in B2B startups. Its US arm now operates as DNX Technology Ventures.",
+    "highlights": [
+      "Rebranded Draper Nexus → DNX Ventures → US arm now 'DNX Technology Ventures'",
+      "Raised a $143M 4th US fund (DNX Partners IV), reported Oct 2025",
+      "Focus: cybersecurity, enterprise AI, climate/deep tech, retail, fintech"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://dnxtech.vc/",
+      "https://www.dnx.vc/",
+      "https://finder.techleap.nl/news/feed/dnx-ventures-completes-143m-us-fund",
+      "https://www.azbil.com/press/250317-01.html"
+    ]
+  },
+  {
+    "id": "chicago-ventures",
+    "name": "Chicago Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Fintech",
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Fintech, Consumer; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:info@chicagoventures.com",
+    "website": "https://www.chicagoventures.com/",
+    "description": "Chicago early-stage VC, formerly the i2A Fund (Illinois Innovation Accelerator), that leads seed-to-Series B rounds in overlooked industries.",
+    "highlights": [
+      "i2A launched in 2007 as a $10M seed fund",
+      "Renamed Chicago Ventures in 2013 with a $40M second fund",
+      "Sectors: supply chain, healthcare, fintech, proptech, SMB tools, mobility"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.chicagoventures.com/",
+      "https://www.builtinchicago.org/articles/i2a-fund-closes-new-40-million-fund-and-renames-itself-chicago-ventures",
+      "https://www.iit.edu/news/chicagos-business-leaders-collaborate-create-invest-and-manage-10-million-illinois-innovation"
+    ]
+  },
+  {
+    "id": "visible-ventures",
+    "name": "Visible Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Boston, MA, USA",
+    "focusAreas": [
+      "Fintech",
+      "Consumer",
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Consumer, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://visibleventures.com/pitch",
+    "website": "https://visibleventures.com/",
+    "description": "Invests in companies building better paths to wealth, health and upward mobility for Gen Z.",
+    "highlights": [
+      "Victress Capital raised $22M Fund II (2020)",
+      "Rebranded to Visible Ventures"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://visibleventures.com/"
+    ]
+  },
+  {
+    "id": "tuesday-capital",
+    "name": "Tuesday Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.tuesday.vc/",
+    "website": "https://www.tuesday.vc/",
+    "description": "Early-stage fund; formerly CrunchFund.",
+    "highlights": [
+      "331 companies"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": [
+      "https://www.tuesday.vc/"
+    ]
+  },
+  {
+    "id": "aspenwood-ventures",
+    "name": "Aspenwood Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "B2B SaaS",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in B2B SaaS, Enterprise; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://aspenwoodvc.com/contact/",
+    "website": "https://aspenwoodvc.com",
+    "description": "Early-stage enterprise software investor that provides first institutional capital, previously known as Hummer Winblad Venture Partners and HWVP.",
+    "highlights": [
+      "Now invests as Aspenwood Ventures",
+      "Backed MuleSoft"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://hwvp.com; https://aspenwoodvc.com; https://venturecapitaljournal.com/former-hummer-winblad-team-relaunches-as-aspenwood"
+  },
+  {
+    "id": "age1",
+    "name": "age1",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Biotech/Health"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://age1.com/contact",
+    "website": "https://age1.com",
+    "description": "Laura Deming's Longevity Fund relaunched as age1, funding breakthrough longevity/healthy-lifespan biotech companies.",
+    "highlights": [
+      "Longevity Fund started 2011; relaunched with new fund under name age1 (2023)",
+      "$22M Fund II (2017)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://longevity.vc; https://age1.com"
+  },
+  {
+    "id": "acme-capital",
+    "name": "ACME Capital",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "San Francisco, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Deep Tech, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:funding@acme.vc",
+    "website": "https://www.acme.vc",
+    "description": "Early-stage venture firm investing in frontier technologies before they are mainstream; successor to Sherpa Capital/Ventures.",
+    "highlights": [
+      "Sherpa Ventures rebranded as ACME Capital",
+      "$172M Sherpa Fund II per sheet"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.acme.vc"
+  },
+  {
+    "id": "core-vc",
+    "name": "Core VC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Los Angeles, CA, USA",
+    "focusAreas": [
+      "Fintech",
+      "Biotech/Health",
+      "Proptech"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "$500K–$5M",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Biotech/Health, Proptech; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.corevc.com/pitch-us",
+    "website": "https://www.corevc.com",
+    "description": "Invests pre-seed through Series A in mission-driven founders building wealth for everyday Americans across wealth, health, housing, insurance, SMB enablement, and work.",
+    "highlights": [
+      "Rebranded from Core Innovation Capital to Core VC",
+      "Pitch in 5 minutes, hear back in 24 hours",
+      "Says portfolio has created $415B in wealth for 75M Americans"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.corevc.com"
+  },
+  {
+    "id": "dcvc",
+    "name": "DCVC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Palo Alto, CA, USA",
+    "focusAreas": [
+      "Deep Tech",
+      "AI/ML",
+      "Biotech/Health"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Deep Tech, AI/ML, Biotech/Health; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.dcvc.com",
+    "website": "https://www.dcvc.com",
+    "description": "Deep tech venture firm backing entrepreneurs tackling hard, high-stakes problems with AI and science, including DCVC Bio.",
+    "highlights": [
+      "Data Collective rebranded as DCVC",
+      "Portfolio includes Fervo Energy (Nasdaq: FRVO), Pivot Bio",
+      "Published 2026 Deep Tech Opportunities report"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.dcvc.com"
+  },
+  {
+    "id": "s2g-investments",
+    "name": "S2G Investments",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "Chicago, IL, USA",
+    "focusAreas": [
+      "Agtech/Foodtech",
+      "Climate/Impact"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Agtech/Foodtech, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://www.s2ginvestments.com/contact-us",
+    "website": "https://www.s2ginvestments.com",
+    "description": "Multi-stage venture and growth firm investing across food and agriculture, oceans and energy.",
+    "highlights": [
+      "Rebranded from S2G Ventures",
+      "Closed $1B across strategies (May 2026)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://www.s2ginvestments.com"
+  },
+  {
+    "id": "lifex-ventures",
+    "name": "LifeX Ventures",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "Biotech/Health",
+      "AI/ML"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Stage-agnostic startups in Biotech/Health, AI/ML; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "https://lifex.vc/founders",
+    "website": "https://lifex.vc",
+    "description": "Health-focused fund backing founders using AI and software to advance science, improve care and rethink healthcare delivery and payment.",
+    "highlights": [
+      "Launched $100M longevity fund (2022) as Life Extension Ventures",
+      "Portfolio includes Function Health and Hippocratic AI"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://lifex.vc; https://techcrunch.com/2022/08/18/this-new-100m-fund-plans-to-focus-on-startups-accelerating-the-science-around-longevity/"
+  },
+  {
+    "id": "alpaca-vc",
+    "name": "Alpaca VC",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY, USA",
+    "focusAreas": [
+      "AI/ML",
+      "Proptech",
+      "Climate/Impact"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in AI/ML, Proptech, Climate/Impact; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:hey@alpaca.vc",
+    "website": "https://alpaca.vc",
+    "description": "AI-native seed fund backing companies where AI meets foundational industries such as energy, manufacturing, logistics and real estate.",
+    "highlights": [
+      "Formerly Corigin Ventures ($36M fund, 2020)",
+      "Invests on day one"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://alpaca.vc (coriginventures.com redirects here)"
+  },
+  {
+    "id": "the-venture-dept",
+    "name": "The Venture Dept.",
+    "category": "VC Fund",
+    "region": "US",
+    "country": "New York, NY",
+    "focusAreas": [
+      "Fintech",
+      "Web3/Crypto"
+    ],
+    "stage": "Seed",
+    "fundingAmount": "Check size not disclosed",
+    "equity": "Equity investment (SAFE or priced round); terms negotiated per deal",
+    "programLength": "N/A — venture investment, no program or cohort",
+    "format": "Direct investment — pitch the firm via its website or contact details",
+    "eligibility": "Seed startups in Fintech, Web3/Crypto; see the firm's site for its current thesis",
+    "applicationDeadline": "Rolling",
+    "applicationWindow": "Rolling — pitch any time",
+    "applyLink": "mailto:team@theventuredept.vc",
+    "website": "https://theventuredept.vc",
+    "description": "The Venture Dept. (formerly The Department of XYZ) is a solo-GP fund led by ex-NYDFS regulator Matt Homer, backing founders building financial infrastructure, stablecoins and DeFi.",
+    "highlights": [
+      "Raised $5.1M in 2024 from LPs including the Winklevoss twins and Robert Leshner",
+      "Brings regulatory expertise to portfolio cap tables",
+      "Participated in Rhythmic seed (Feb 2026, per CoinCarp)"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-10-16",
+    "source": "https://theventuredept.vc; https://fortune.com/crypto/2024/05/02/matt-homer-department-xyz-leshner-dfs-winklevoss-venture/"
   }
 ];
