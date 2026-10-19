@@ -531,10 +531,10 @@ html.dark .apply-btn { background: var(--paper); color: var(--ink); }
 }
 .overlay-links a.secondary:hover { background: var(--surface-2); }
 
-/* ---------- Archive ---------- */
+/* ---------- Top list ---------- */
 
 .card-actions { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
-.archive-btn {
+.toplist-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -552,8 +552,14 @@ html.dark .apply-btn { background: var(--paper); color: var(--ink); }
   cursor: pointer;
   transition: background-color 0.12s ease, color 0.12s ease;
 }
-.archive-btn:hover { background: var(--surface-2); color: var(--text); }
-.archive-btn.with-label { margin-left: auto; padding: 0 14px; color: var(--text); }
+.toplist-btn:hover { background: var(--surface-2); color: var(--text); }
+.toplist-btn.with-label { margin-left: auto; padding: 0 14px; color: var(--text); }
+.toplist-btn.active {
+  background: var(--amber-bg);
+  border-color: var(--amber-border);
+  color: var(--amber-text);
+}
+.toplist-btn.active svg { fill: currentColor; }
 .tab-count {
   display: inline-block;
   margin-left: 4px;

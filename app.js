@@ -9,37 +9,38 @@
     region: new Set(),
     equity: new Set(), // "Equity-free" | "Takes equity"
     format: new Set(), // "In-person" | "Remote" | "Hybrid"
-    statusTab: "all", // all | rolling | dated | closed | archived
+    statusTab: "all", // all | rolling | dated | closed | toplist
     sort: "name",
-    archived: loadArchived(), // ids the user has hidden; kept per-browser in localStorage
+    topList: loadTopList(), // ids the user has starred; kept per-browser in localStorage
   };
 
-  function loadArchived() {
+  function loadTopList() {
     try {
-      return new Set(JSON.parse(localStorage.getItem("archivedIds") || "[]"));
+      localStorage.removeItem("archivedIds"); // archive feature was retired; show everything again
+      return new Set(JSON.parse(localStorage.getItem("topListIds") || "[]"));
     } catch (e) {
       return new Set();
     }
   }
 
-  function saveArchived() {
+  function saveTopList() {
     try {
-      localStorage.setItem("archivedIds", JSON.stringify(Array.from(state.archived)));
+      localStorage.setItem("topListIds", JSON.stringify(Array.from(state.topList)));
     } catch (e) {
-      // Storage can be unavailable (private mode); archive still works for this session.
+      // Storage can be unavailable (private mode); the top list still works for this session.
     }
   }
 
-  function toggleArchive(id) {
-    if (state.archived.has(id)) state.archived.delete(id);
-    else state.archived.add(id);
-    saveArchived();
+  function toggleTopList(id) {
+    if (state.topList.has(id)) state.topList.delete(id);
+    else state.topList.add(id);
+    saveTopList();
     renderAll();
   }
 
-  // Archived items only appear on the Archived tab, and only there.
-  function inArchiveScope(item) {
-    return state.archived.has(item.id) === (state.statusTab === "archived");
+  // The Top list tab narrows to starred items; every other tab shows them as usual.
+  function inTabScope(item) {
+    return state.statusTab !== "toplist" || state.topList.has(item.id);
   }
 
   const els = {
@@ -118,7 +119,7 @@
   function renderChipGroup(container, key, values) {
     container.innerHTML = "";
     values.forEach((val) => {
-      const count = DATA.filter((d) => inArchiveScope(d) && matchesSingle(d, key, val)).length;
+      const count = DATA.filter((d) => inTabScope(d) && matchesSingle(d, key, val)).length;
       const chip = document.createElement("button");
       chip.className = "chip" + (state[key].has(val) ? " active" : "");
       chip.innerHTML = `${escapeHtml(val)} <span class="count">${count}</span>`;
@@ -144,7 +145,7 @@
   }
 
   function matchesFilters(item) {
-    if (!inArchiveScope(item)) return false;
+    if (!inTabScope(item)) return false;
     for (const key of ["category", "stage", "focus", "region", "equity", "format"]) {
       const set = state[key];
       if (set.size === 0) continue;
@@ -154,7 +155,7 @@
       }
       if (!ok) return false;
     }
-    if (state.statusTab !== "all" && state.statusTab !== "archived" && classifyDeadline(item) !== state.statusTab) return false;
+    if (state.statusTab !== "all" && state.statusTab !== "toplist" && classifyDeadline(item) !== state.statusTab) return false;
     if (state.search) {
       const hay = [
         item.name, item.description, item.eligibility, item.country, item.region,
@@ -264,15 +265,13 @@
     `;
   }
 
-  const ARCHIVE_ICON =
-    '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="5" rx="1"/><path d="M4 8v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8"/><path d="M10 12h4"/></svg>';
-  const RESTORE_ICON =
-    '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>';
+  const STAR_ICON =
+    '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>';
 
-  function archiveButton(item, withLabel) {
-    const archived = state.archived.has(item.id);
-    const label = archived ? "Restore" : "Archive";
-    return `<button class="archive-btn${withLabel ? " with-label" : ""}" data-archive-id="${escapeHtml(item.id)}" title="${label}" aria-label="${label} ${escapeHtml(item.name)}">${archived ? RESTORE_ICON : ARCHIVE_ICON}${withLabel ? `<span>${label}</span>` : ""}</button>`;
+  function topListButton(item, withLabel) {
+    const listed = state.topList.has(item.id);
+    const label = listed ? "Remove from top list" : "Add to top list";
+    return `<button class="toplist-btn${listed ? " active" : ""}${withLabel ? " with-label" : ""}" data-toplist-id="${escapeHtml(item.id)}" title="${label}" aria-pressed="${listed}" aria-label="${label}: ${escapeHtml(item.name)}">${STAR_ICON}${withLabel ? `<span>${listed ? "On top list" : "Add to top list"}</span>` : ""}</button>`;
   }
 
   function cardTemplate(item) {
@@ -299,7 +298,7 @@
         <div class="card-footer">
           ${deadlineChip(item)}
           <div class="card-actions">
-            ${archiveButton(item, false)}
+            ${topListButton(item, false)}
             <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Apply →</a>
           </div>
         </div>
@@ -354,7 +353,7 @@
       <div class="overlay-links">
         <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer">Apply now →</a>
         <a class="secondary" href="${escapeHtml(item.website || "#")}" target="_blank" rel="noopener noreferrer">Visit website</a>
-        ${archiveButton(item, true)}
+        ${topListButton(item, true)}
       </div>
     `;
   }
@@ -365,9 +364,9 @@
     els.overlayCard.innerHTML = overlayTemplate(item);
     els.overlay.hidden = false;
     document.getElementById("overlayCloseBtn").addEventListener("click", closeDetail);
-    els.overlayCard.querySelector(".archive-btn").addEventListener("click", () => {
-      toggleArchive(id);
-      closeDetail();
+    els.overlayCard.querySelector(".toplist-btn").addEventListener("click", () => {
+      toggleTopList(id);
+      openDetail(id); // re-render so the button reflects the new state
     });
   }
 
@@ -389,7 +388,7 @@
       { key: "rolling", label: "Rolling / Ongoing" },
       { key: "dated", label: "Has a deadline" },
       { key: "closed", label: "Closed / Inactive" },
-      { key: "archived", label: "Archived", count: state.archived.size },
+      { key: "toplist", label: "Top list", count: state.topList.size },
     ];
     els.statusTabs.innerHTML = "";
     tabs.forEach((t) => {
@@ -421,17 +420,17 @@
     els.grid.innerHTML = sorted.map(cardTemplate).join("");
     els.empty.hidden = sorted.length !== 0;
     els.empty.querySelector("p").textContent =
-      state.statusTab === "archived" && state.archived.size === 0
-        ? "Nothing archived yet. Use the archive button on a card to hide opportunities that don't concern you."
+      state.statusTab === "toplist" && state.topList.size === 0
+        ? "Your top list is empty. Tap the star on any opportunity to add it here."
         : "No opportunities match your filters.";
     els.grid.querySelectorAll(".card").forEach((card, i) => {
       card.style.animationDelay = `${(i % 8) * 80}ms`;
       card.addEventListener("click", () => openDetail(card.dataset.id));
     });
-    els.grid.querySelectorAll(".archive-btn").forEach((btn) => {
+    els.grid.querySelectorAll(".toplist-btn").forEach((btn) => {
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
-        toggleArchive(btn.dataset.archiveId);
+        toggleTopList(btn.dataset.toplistId);
       });
     });
   }
