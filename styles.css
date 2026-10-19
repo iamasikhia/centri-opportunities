@@ -531,6 +531,39 @@ html.dark .apply-btn { background: var(--paper); color: var(--ink); }
 }
 .overlay-links a.secondary:hover { background: var(--surface-2); }
 
+/* ---------- Archive ---------- */
+
+.card-actions { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+.archive-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 33px;
+  min-width: 33px;
+  padding: 0 9px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-dim);
+  border-radius: var(--radius-md);
+  font-family: inherit;
+  font-size: 12.5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.12s ease, color 0.12s ease;
+}
+.archive-btn:hover { background: var(--surface-2); color: var(--text); }
+.archive-btn.with-label { margin-left: auto; padding: 0 14px; color: var(--text); }
+.tab-count {
+  display: inline-block;
+  margin-left: 4px;
+  padding: 0 6px;
+  border-radius: var(--radius-full);
+  background: var(--surface-2);
+  font-size: 11px;
+  font-weight: 600;
+}
+
 .footer {
   text-align: center;
   color: var(--text-faint);

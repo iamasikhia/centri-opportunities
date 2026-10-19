@@ -9,9 +9,38 @@
     region: new Set(),
     equity: new Set(), // "Equity-free" | "Takes equity"
     format: new Set(), // "In-person" | "Remote" | "Hybrid"
-    statusTab: "all", // all | rolling | dated | closed
+    statusTab: "all", // all | rolling | dated | closed | archived
     sort: "name",
+    archived: loadArchived(), // ids the user has hidden; kept per-browser in localStorage
   };
+
+  function loadArchived() {
+    try {
+      return new Set(JSON.parse(localStorage.getItem("archivedIds") || "[]"));
+    } catch (e) {
+      return new Set();
+    }
+  }
+
+  function saveArchived() {
+    try {
+      localStorage.setItem("archivedIds", JSON.stringify(Array.from(state.archived)));
+    } catch (e) {
+      // Storage can be unavailable (private mode); archive still works for this session.
+    }
+  }
+
+  function toggleArchive(id) {
+    if (state.archived.has(id)) state.archived.delete(id);
+    else state.archived.add(id);
+    saveArchived();
+    renderAll();
+  }
+
+  // Archived items only appear on the Archived tab, and only there.
+  function inArchiveScope(item) {
+    return state.archived.has(item.id) === (state.statusTab === "archived");
+  }
 
   const els = {
     grid: document.getElementById("cardGrid"),
@@ -89,7 +118,7 @@
   function renderChipGroup(container, key, values) {
     container.innerHTML = "";
     values.forEach((val) => {
-      const count = DATA.filter((d) => matchesSingle(d, key, val)).length;
+      const count = DATA.filter((d) => inArchiveScope(d) && matchesSingle(d, key, val)).length;
       const chip = document.createElement("button");
       chip.className = "chip" + (state[key].has(val) ? " active" : "");
       chip.innerHTML = `${escapeHtml(val)} <span class="count">${count}</span>`;
@@ -115,6 +144,7 @@
   }
 
   function matchesFilters(item) {
+    if (!inArchiveScope(item)) return false;
     for (const key of ["category", "stage", "focus", "region", "equity", "format"]) {
       const set = state[key];
       if (set.size === 0) continue;
@@ -124,7 +154,7 @@
       }
       if (!ok) return false;
     }
-    if (state.statusTab !== "all" && classifyDeadline(item) !== state.statusTab) return false;
+    if (state.statusTab !== "all" && state.statusTab !== "archived" && classifyDeadline(item) !== state.statusTab) return false;
     if (state.search) {
       const hay = [
         item.name, item.description, item.eligibility, item.country, item.region,
@@ -234,6 +264,17 @@
     `;
   }
 
+  const ARCHIVE_ICON =
+    '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="5" rx="1"/><path d="M4 8v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8"/><path d="M10 12h4"/></svg>';
+  const RESTORE_ICON =
+    '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>';
+
+  function archiveButton(item, withLabel) {
+    const archived = state.archived.has(item.id);
+    const label = archived ? "Restore" : "Archive";
+    return `<button class="archive-btn${withLabel ? " with-label" : ""}" data-archive-id="${escapeHtml(item.id)}" title="${label}" aria-label="${label} ${escapeHtml(item.name)}">${archived ? RESTORE_ICON : ARCHIVE_ICON}${withLabel ? `<span>${label}</span>` : ""}</button>`;
+  }
+
   function cardTemplate(item) {
     const tags = (item.focusAreas || []).map((f) => `<span class="tag">${escapeHtml(f)}</span>`).join("");
     return `
@@ -257,7 +298,10 @@
         <div class="card-tags">${tags}</div>
         <div class="card-footer">
           ${deadlineChip(item)}
-          <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Apply →</a>
+          <div class="card-actions">
+            ${archiveButton(item, false)}
+            <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Apply →</a>
+          </div>
         </div>
       </article>
     `;
@@ -310,6 +354,7 @@
       <div class="overlay-links">
         <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer">Apply now →</a>
         <a class="secondary" href="${escapeHtml(item.website || "#")}" target="_blank" rel="noopener noreferrer">Visit website</a>
+        ${archiveButton(item, true)}
       </div>
     `;
   }
@@ -320,6 +365,10 @@
     els.overlayCard.innerHTML = overlayTemplate(item);
     els.overlay.hidden = false;
     document.getElementById("overlayCloseBtn").addEventListener("click", closeDetail);
+    els.overlayCard.querySelector(".archive-btn").addEventListener("click", () => {
+      toggleArchive(id);
+      closeDetail();
+    });
   }
 
   function closeDetail() {
@@ -340,12 +389,13 @@
       { key: "rolling", label: "Rolling / Ongoing" },
       { key: "dated", label: "Has a deadline" },
       { key: "closed", label: "Closed / Inactive" },
+      { key: "archived", label: "Archived", count: state.archived.size },
     ];
     els.statusTabs.innerHTML = "";
     tabs.forEach((t) => {
       const btn = document.createElement("button");
       btn.className = "status-tab" + (state.statusTab === t.key ? " active" : "");
-      btn.textContent = t.label;
+      btn.innerHTML = escapeHtml(t.label) + (t.count ? ` <span class="tab-count">${t.count}</span>` : "");
       btn.addEventListener("click", () => {
         state.statusTab = t.key;
         renderAll();
@@ -370,9 +420,19 @@
     els.resultCount.innerHTML = `Showing <b>${sorted.length}</b> of <b>${DATA.length}</b> opportunities`;
     els.grid.innerHTML = sorted.map(cardTemplate).join("");
     els.empty.hidden = sorted.length !== 0;
+    els.empty.querySelector("p").textContent =
+      state.statusTab === "archived" && state.archived.size === 0
+        ? "Nothing archived yet. Use the archive button on a card to hide opportunities that don't concern you."
+        : "No opportunities match your filters.";
     els.grid.querySelectorAll(".card").forEach((card, i) => {
       card.style.animationDelay = `${(i % 8) * 80}ms`;
       card.addEventListener("click", () => openDetail(card.dataset.id));
+    });
+    els.grid.querySelectorAll(".archive-btn").forEach((btn) => {
+      btn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        toggleArchive(btn.dataset.archiveId);
+      });
     });
   }
 
