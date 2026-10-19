@@ -38,9 +38,12 @@
     renderAll();
   }
 
-  // The Top list tab narrows to starred items; every other tab shows them as usual.
+  // The Top list tab narrows to starred items and the New tab to the latest
+  // batch (entries flagged isNew in data.js); every other tab shows them as usual.
   function inTabScope(item) {
-    return state.statusTab !== "toplist" || state.topList.has(item.id);
+    if (state.statusTab === "toplist") return state.topList.has(item.id);
+    if (state.statusTab === "new") return !!item.isNew;
+    return true;
   }
 
   const els = {
@@ -155,7 +158,7 @@
       }
       if (!ok) return false;
     }
-    if (state.statusTab !== "all" && state.statusTab !== "toplist" && classifyDeadline(item) !== state.statusTab) return false;
+    if (!["all", "toplist", "new"].includes(state.statusTab) && classifyDeadline(item) !== state.statusTab) return false;
     if (state.search) {
       const hay = [
         item.name, item.description, item.eligibility, item.country, item.region,
@@ -383,8 +386,10 @@
   });
 
   function renderStatusTabs() {
+    const newCount = DATA.filter((d) => d.isNew).length;
     const tabs = [
       { key: "all", label: "All" },
+      ...(newCount ? [{ key: "new", label: "New", count: newCount }] : []),
       { key: "rolling", label: "Rolling / Ongoing" },
       { key: "dated", label: "Has a deadline" },
       { key: "closed", label: "Closed / Inactive" },

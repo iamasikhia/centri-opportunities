@@ -27961,7 +27961,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://innovationdepot.org/membership/incubation/"
+    "source": "https://innovationdepot.org/membership/incubation/",
+    "isNew": true
   },
   {
     "id": "missouri-innovation-center",
@@ -27994,7 +27995,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.missouriinnovation.com/"
+    "source": "https://www.missouriinnovation.com/",
+    "isNew": true
   },
   {
     "id": "bounce-innovation-hub-incubator",
@@ -28027,7 +28029,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://bouncehub.org/incubator"
+    "source": "https://bouncehub.org/incubator",
+    "isNew": true
   },
   {
     "id": "sid-martin-biotech-incubator",
@@ -28058,7 +28061,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://innovate.research.ufl.edu/accelerate/apply/"
+    "source": "https://innovate.research.ufl.edu/accelerate/apply/",
+    "isNew": true
   },
   {
     "id": "ohio-university-innovation-center",
@@ -28091,7 +28095,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.ohio.edu/research/innovation/entrepreneurs/apply"
+    "source": "https://www.ohio.edu/research/innovation/entrepreneurs/apply",
+    "isNew": true
   },
   {
     "id": "arrowhead-center-space-incubator",
@@ -28125,7 +28130,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://arrowheadcenter.nmsu.edu/program/space/index.html"
+    "source": "https://arrowheadcenter.nmsu.edu/program/space/index.html",
+    "isNew": true
   },
   {
     "id": "harlem-biospace",
@@ -28156,7 +28162,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.harlembiospace.com/"
+    "source": "https://www.harlembiospace.com/",
+    "isNew": true
   },
   {
     "id": "delaware-innovation-space-labs",
@@ -28189,7 +28196,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://innovationspace.org/lab-space/"
+    "source": "https://innovationspace.org/lab-space/",
+    "isNew": true
   },
   {
     "id": "uconn-technology-incubation-program",
@@ -28222,7 +28230,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://innovation.uconn.edu/incubator/"
+    "source": "https://innovation.uconn.edu/incubator/",
+    "isNew": true
   },
   {
     "id": "ucf-business-incubation-program",
@@ -28253,7 +28262,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://incubator.ucf.edu/launch-your-startup/"
+    "source": "https://incubator.ucf.edu/launch-your-startup/",
+    "isNew": true
   },
   {
     "id": "spark-incubator-ut-research-park",
@@ -28286,7 +28296,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.tnresearchpark.org/spark/incubator"
+    "source": "https://www.tnresearchpark.org/spark/incubator",
+    "isNew": true
   },
   {
     "id": "new-orleans-bioinnovation-center",
@@ -28318,7 +28329,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.neworleansbio.com/leasing"
+    "source": "https://www.neworleansbio.com/leasing",
+    "isNew": true
   },
   {
     "id": "lsu-innovation-park-incubator",
@@ -28350,7 +28362,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.lsu.edu/innovation/innovation-park/space/index.php"
+    "source": "https://www.lsu.edu/innovation/innovation-park/space/index.php",
+    "isNew": true
   },
   {
     "id": "ku-innovation-park-incubator",
@@ -28383,7 +28396,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://kuinnovationpark.com/startup-incubator-in-lawrence"
+    "source": "https://kuinnovationpark.com/startup-incubator-in-lawrence",
+    "isNew": true
   },
   {
     "id": "university-enterprise-labs",
@@ -28414,7 +28428,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.uelmn.org/"
+    "source": "https://www.uelmn.org/",
+    "isNew": true
   },
   {
     "id": "mge-innovation-center",
@@ -28447,7 +28462,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://universityresearchpark.org/property/"
+    "source": "https://universityresearchpark.org/property/",
+    "isNew": true
   },
   {
     "id": "hudsonalpha-primer-lab",
@@ -28479,7 +28495,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.hudsonalpha.org/primerlab/"
+    "source": "https://www.hudsonalpha.org/primerlab/",
+    "isNew": true
   },
   {
     "id": "uaci-university-of-arizona-center-for-innovation",
@@ -28512,7 +28529,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://uaci.com/apply"
+    "source": "https://uaci.com/apply",
+    "isNew": true
   },
   {
     "id": "ann-arbor-spark-incubator",
@@ -28543,7 +28561,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://annarborusa.org/spark-services/startup-services/incubator-programs/"
+    "source": "https://annarborusa.org/spark-services/startup-services/incubator-programs/",
+    "isNew": true
   },
   {
     "id": "techtown-detroit-start-studio",
@@ -28575,7 +28594,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://techtowndetroit.org/what-we-do/tech-programs/start-studio/"
+    "source": "https://techtowndetroit.org/what-we-do/tech-programs/start-studio/",
+    "isNew": true
   },
   {
     "id": "overline",
@@ -28605,7 +28625,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://overline.vc"
+    "source": "https://overline.vc",
+    "isNew": true
   },
   {
     "id": "m25",
@@ -28636,7 +28657,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.m25vc.com/pitch"
+    "source": "https://www.m25vc.com/pitch",
+    "isNew": true
   },
   {
     "id": "xfactor-ventures",
@@ -28666,7 +28688,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.xfactor.ventures/contact"
+    "source": "https://www.xfactor.ventures/contact",
+    "isNew": true
   },
   {
     "id": "matchstick-ventures",
@@ -28696,7 +28719,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.matchstick.vc/connect"
+    "source": "https://www.matchstick.vc/connect",
+    "isNew": true
   },
   {
     "id": "mighty-capital",
@@ -28727,7 +28751,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://mighty.capital/for-founders/"
+    "source": "https://mighty.capital/for-founders/",
+    "isNew": true
   },
   {
     "id": "redbud-vc",
@@ -28757,7 +28782,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://redbud.vc/pitch"
+    "source": "https://redbud.vc/pitch",
+    "isNew": true
   },
   {
     "id": "pebblebed",
@@ -28788,7 +28814,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://pebblebed.com"
+    "source": "https://pebblebed.com",
+    "isNew": true
   },
   {
     "id": "notation-capital",
@@ -28819,7 +28846,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://notation.vc"
+    "source": "https://notation.vc",
+    "isNew": true
   },
   {
     "id": "long-journey-ventures",
@@ -28849,7 +28877,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.longjourney.vc"
+    "source": "https://www.longjourney.vc",
+    "isNew": true
   },
   {
     "id": "flying-fish-ventures",
@@ -28879,7 +28908,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.flyingfish.vc"
+    "source": "https://www.flyingfish.vc",
+    "isNew": true
   },
   {
     "id": "1984-ventures",
@@ -28911,7 +28941,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://1984.vc/apply"
+    "source": "https://1984.vc/apply",
+    "isNew": true
   },
   {
     "id": "boxgroup",
@@ -28941,7 +28972,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.boxgroup.com/about"
+    "source": "https://www.boxgroup.com/about",
+    "isNew": true
   },
   {
     "id": "garuda-ventures",
@@ -28974,7 +29006,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.garuda.vc/faq"
+    "source": "https://www.garuda.vc/faq",
+    "isNew": true
   },
   {
     "id": "fellows-fund",
@@ -29004,7 +29037,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://fellowsfundvc.com"
+    "source": "https://fellowsfundvc.com",
+    "isNew": true
   },
   {
     "id": "rarebreed-ventures",
@@ -29034,7 +29068,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.rarebreed.vc"
+    "source": "https://www.rarebreed.vc",
+    "isNew": true
   },
   {
     "id": "next-frontier-capital",
@@ -29067,7 +29102,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://nextfrontiercapital.com/pitch-us"
+    "source": "https://nextfrontiercapital.com/pitch-us",
+    "isNew": true
   },
   {
     "id": "pareto-holdings",
@@ -29097,7 +29133,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.pareto20.com"
+    "source": "https://www.pareto20.com",
+    "isNew": true
   },
   {
     "id": "bread-and-butter-ventures",
@@ -29129,7 +29166,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.breadandbutterventures.com"
+    "source": "https://www.breadandbutterventures.com",
+    "isNew": true
   },
   {
     "id": "capital-f",
@@ -29161,7 +29199,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.capitalf.vc"
+    "source": "https://www.capitalf.vc",
+    "isNew": true
   },
   {
     "id": "access-venture-partners",
@@ -29193,7 +29232,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://accessvp.com/contact/"
+    "source": "https://accessvp.com/contact/",
+    "isNew": true
   },
   {
     "id": "builders-vc",
@@ -29226,7 +29266,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.builders.vc/contact.html"
+    "source": "https://www.builders.vc/contact.html",
+    "isNew": true
   },
   {
     "id": "alumni-ventures",
@@ -29256,7 +29297,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.av.vc/for-founders"
+    "source": "https://www.av.vc/for-founders",
+    "isNew": true
   },
   {
     "id": "posthog-for-startups",
@@ -29288,7 +29330,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://posthog.com/startups"
+    "source": "https://posthog.com/startups",
+    "isNew": true
   },
   {
     "id": "render-for-startups",
@@ -29320,7 +29363,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://render.com/startups"
+    "source": "https://render.com/startups",
+    "isNew": true
   },
   {
     "id": "github-for-startups",
@@ -29352,7 +29396,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://github.com/enterprise/startups"
+    "source": "https://github.com/enterprise/startups",
+    "isNew": true
   },
   {
     "id": "gitlab-for-startups",
@@ -29383,7 +29428,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://about.gitlab.com/solutions/startups/"
+    "source": "https://about.gitlab.com/solutions/startups/",
+    "isNew": true
   },
   {
     "id": "temporal-cloud-for-startups",
@@ -29415,7 +29461,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://temporal.io/startup"
+    "source": "https://temporal.io/startup",
+    "isNew": true
   },
   {
     "id": "qdrant-for-startups",
@@ -29445,7 +29492,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://qdrant.tech/qdrant-for-startups/"
+    "source": "https://qdrant.tech/qdrant-for-startups/",
+    "isNew": true
   },
   {
     "id": "fly-io-for-startups",
@@ -29477,7 +29525,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://fly.io/startups"
+    "source": "https://fly.io/startups",
+    "isNew": true
   },
   {
     "id": "livekit-startup-program",
@@ -29509,7 +29558,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.livekit.io/startups"
+    "source": "https://www.livekit.io/startups",
+    "isNew": true
   },
   {
     "id": "neo4j-startup-program",
@@ -29541,7 +29591,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://neo4j.com/startups/"
+    "source": "https://neo4j.com/startups/",
+    "isNew": true
   },
   {
     "id": "langsmith-for-startups",
@@ -29571,7 +29622,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.langchain.com/startups"
+    "source": "https://www.langchain.com/startups",
+    "isNew": true
   },
   {
     "id": "runpod-startup-program",
@@ -29601,7 +29653,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.runpod.io/startup-program"
+    "source": "https://www.runpod.io/startup-program",
+    "isNew": true
   },
   {
     "id": "massventures-start-grants",
@@ -29634,7 +29687,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.mass-ventures.com/start-program-info"
+    "source": "https://www.mass-ventures.com/start-program-info",
+    "isNew": true
   },
   {
     "id": "nebraska-sbir-sttr-matching-grant",
@@ -29667,7 +29721,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://opportunity.nebraska.gov/programs/business/sbir-sttr/"
+    "source": "https://opportunity.nebraska.gov/programs/business/sbir-sttr/",
+    "isNew": true
   },
   {
     "id": "solana-foundation-grants",
@@ -29697,7 +29752,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://solana.org/grants-funding"
+    "source": "https://solana.org/grants-funding",
+    "isNew": true
   },
   {
     "id": "darpa-dso-office-wide-baa",
@@ -29730,7 +29786,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.grants.gov/search-results-detail/363738"
+    "source": "https://www.grants.gov/search-results-detail/363738",
+    "isNew": true
   },
   {
     "id": "darpa-ipto-office-wide-baa",
@@ -29763,7 +29820,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.grants.gov/search-results-detail/362905"
+    "source": "https://www.grants.gov/search-results-detail/362905",
+    "isNew": true
   },
   {
     "id": "darpa-tto-office-wide-baa",
@@ -29795,7 +29853,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.grants.gov/search-results-detail/359782"
+    "source": "https://www.grants.gov/search-results-detail/359782",
+    "isNew": true
   },
   {
     "id": "doe-aspect-chemical-scale-up",
@@ -29827,7 +29886,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.grants.gov/search-results-detail/363815"
+    "source": "https://www.grants.gov/search-results-detail/363815",
+    "isNew": true
   },
   {
     "id": "doe-advanced-nuclear-licensing-cost-share",
@@ -29859,7 +29919,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.grants.gov/search-results-detail/358100"
+    "source": "https://www.grants.gov/search-results-detail/358100",
+    "isNew": true
   },
   {
     "id": "nih-blueprint-neurotherapeutics-biologics",
@@ -29889,7 +29950,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.grants.gov/search-results-detail/356610"
+    "source": "https://www.grants.gov/search-results-detail/356610",
+    "isNew": true
   },
   {
     "id": "noaa-bycatch-reduction-engineering-program",
@@ -29921,7 +29983,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.grants.gov/search-results-detail/363692"
+    "source": "https://www.grants.gov/search-results-detail/363692",
+    "isNew": true
   },
   {
     "category": "Competition",
@@ -29954,7 +30017,8 @@ window.OPPORTUNITIES = [
       "Phase 1 needs only a 6-page narrative and short prototype video",
       "AI tools permitted if disclosed"
     ],
-    "source": "https://nourishchallenge.org"
+    "source": "https://nourishchallenge.org",
+    "isNew": true
   },
   {
     "category": "Competition",
@@ -29988,7 +30052,8 @@ window.OPPORTUNITIES = [
       "Scored competition and awards March 2027",
       "Civilian healthcare applications alongside defense use"
     ],
-    "source": "https://www.darpa.mil/research/challenges/surgical"
+    "source": "https://www.darpa.mil/research/challenges/surgical",
+    "isNew": true
   },
   {
     "category": "Competition",
@@ -30021,7 +30086,8 @@ window.OPPORTUNITIES = [
       "Addresses a gap where ~75% of pre-hospital combat care goes unrecorded",
       "Awards announced March 26, 2027"
     ],
-    "source": "https://www.darpa.mil/research/challenges/d2"
+    "source": "https://www.darpa.mil/research/challenges/d2",
+    "isNew": true
   },
   {
     "category": "Competition",
@@ -30052,7 +30118,8 @@ window.OPPORTUNITIES = [
       "Finals tied to the Governor's economic development conference",
       "Connections to South Dakota's entrepreneurial support network"
     ],
-    "source": "https://www.southdakotagiantvision.com/"
+    "source": "https://www.southdakotagiantvision.com/",
+    "isNew": true
   },
   {
     "category": "Competition",
@@ -30084,7 +30151,8 @@ window.OPPORTUNITIES = [
       "Pitch at the International Space Development Conference in Los Angeles",
       "Requires a complete preliminary business plan"
     ],
-    "source": "https://nss.org/nss-congratulates-the-winners-of-the-2026-rothblatt-business-plan-competition/"
+    "source": "https://nss.org/nss-congratulates-the-winners-of-the-2026-rothblatt-business-plan-competition/",
+    "isNew": true
   },
   {
     "category": "Competition",
@@ -30115,7 +30183,8 @@ window.OPPORTUNITIES = [
       "Tiered prizes starting at 250 votes",
       "Builds pitch practice and audience exposure"
     ],
-    "source": "https://www.founderslive.com/"
+    "source": "https://www.founderslive.com/",
+    "isNew": true
   },
   {
     "category": "Competition",
@@ -30147,7 +30216,8 @@ window.OPPORTUNITIES = [
       "Focus on underrepresented, immigrant and refugee entrepreneurs",
       "Finale at MCC Institute for the Culinary Arts, Omaha"
     ],
-    "source": "https://wepitchblack.com/"
+    "source": "https://wepitchblack.com/",
+    "isNew": true
   },
   {
     "category": "Competition",
@@ -30181,7 +30251,8 @@ window.OPPORTUNITIES = [
       "Live finalist pitch in spring 2027",
       "Kickoff networking event October 27, 2026"
     ],
-    "source": "https://queensstartup.org/"
+    "source": "https://queensstartup.org/",
+    "isNew": true
   },
   {
     "id": "blue-ridge-labs-founder-fellowship",
@@ -30223,7 +30294,8 @@ window.OPPORTUNITIES = [
       "Fitalyst"
     ],
     "lastVerified": "2026-10-19",
-    "source": "https://robinhood.org/our-work/blue-ridge-labs/founder-fellowship"
+    "source": "https://robinhood.org/our-work/blue-ridge-labs/founder-fellowship",
+    "isNew": true
   },
   {
     "id": "fifty-years-5050",
@@ -30264,7 +30336,8 @@ window.OPPORTUNITIES = [
       "Powerhouse Bio"
     ],
     "lastVerified": "2026-10-19",
-    "source": "https://www.fiftyyears.com/5050"
+    "source": "https://www.fiftyyears.com/5050",
+    "isNew": true
   },
   {
     "id": "basis-fellowship",
@@ -30297,7 +30370,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://basisfellowship.org/"
+    "source": "https://basisfellowship.org/",
+    "isNew": true
   },
   {
     "id": "astera-residency",
@@ -30330,7 +30404,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://astera.org/residency/"
+    "source": "https://astera.org/residency/",
+    "isNew": true
   },
   {
     "id": "catalyze-impact",
@@ -30363,7 +30438,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.catalyze-impact.org/"
+    "source": "https://www.catalyze-impact.org/",
+    "isNew": true
   },
   {
     "id": "oshaughnessy-fellowships",
@@ -30397,7 +30473,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.osvfellowship.com/"
+    "source": "https://www.osvfellowship.com/",
+    "isNew": true
   },
   {
     "id": "nycedc-founder-fellowship",
@@ -30428,7 +30505,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://edc.nyc/founder-fellowship"
+    "source": "https://edc.nyc/founder-fellowship",
+    "isNew": true
   },
   {
     "id": "sequoia-open-source-fellowship",
@@ -30465,7 +30543,8 @@ window.OPPORTUNITIES = [
       "Chatbot Arena team"
     ],
     "lastVerified": "2026-10-19",
-    "source": "https://www.sequoiacap.com/oss"
+    "source": "https://www.sequoiacap.com/oss",
+    "isNew": true
   },
   {
     "id": "founders-dojo-residency",
@@ -30498,7 +30577,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://foundersdojo.fund/residency"
+    "source": "https://foundersdojo.fund/residency",
+    "isNew": true
   },
   {
     "id": "harbor-accelerator-2027",
@@ -30529,7 +30609,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://harborec.org/accelerator"
+    "source": "https://harborec.org/accelerator",
+    "isNew": true
   },
   {
     "id": "starterstudio-pre-seed-accelerator",
@@ -30560,7 +30641,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.starterstudio.org/seed-stage-accelerator/"
+    "source": "https://www.starterstudio.org/seed-stage-accelerator/",
+    "isNew": true
   },
   {
     "id": "curql-accelerate",
@@ -30598,7 +30680,8 @@ window.OPPORTUNITIES = [
       "Penny"
     ],
     "lastVerified": "2026-10-19",
-    "source": "https://curql.com/accelerator"
+    "source": "https://curql.com/accelerator",
+    "isNew": true
   },
   {
     "id": "miller-center-accelerator",
@@ -30630,7 +30713,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://millercenterglobal.org/accelerator/"
+    "source": "https://millercenterglobal.org/accelerator/",
+    "isNew": true
   },
   {
     "id": "towson-startup-accelerator-2027",
@@ -30661,7 +30745,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.towson.edu/startup/programs/community-entrepreneurship/accelerator/apply.html"
+    "source": "https://www.towson.edu/startup/programs/community-entrepreneurship/accelerator/apply.html",
+    "isNew": true
   },
   {
     "id": "launchvt-accelerator",
@@ -30693,7 +30778,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://lccvermont.org/launchvt"
+    "source": "https://lccvermont.org/launchvt",
+    "isNew": true
   },
   {
     "id": "venture-for-climatetech",
@@ -30725,7 +30811,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://forclimatetech.org/venture-for-climatetech/"
+    "source": "https://forclimatetech.org/venture-for-climatetech/",
+    "isNew": true
   },
   {
     "id": "awesome-inc-fellowship",
@@ -30759,7 +30846,8 @@ window.OPPORTUNITIES = [
       "WeatherCheck"
     ],
     "lastVerified": "2026-10-19",
-    "source": "https://www.awesomeinc.org/fellowship"
+    "source": "https://www.awesomeinc.org/fellowship",
+    "isNew": true
   },
   {
     "id": "company-ventures-residency",
@@ -30798,7 +30886,8 @@ window.OPPORTUNITIES = [
       "Maven Clinic"
     ],
     "lastVerified": "2026-10-19",
-    "source": "https://www.companyventures.com/programs/residency"
+    "source": "https://www.companyventures.com/programs/residency",
+    "isNew": true
   },
   {
     "id": "grid110-clicks-and-mortar",
@@ -30829,7 +30918,8 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://grid110.org/programs"
+    "source": "https://grid110.org/programs",
+    "isNew": true
   },
   {
     "id": "inception-studio",
@@ -30860,6 +30950,7 @@ window.OPPORTUNITIES = [
     ],
     "notableAlumni": [],
     "lastVerified": "2026-10-19",
-    "source": "https://www.inceptionstudio.org/"
+    "source": "https://www.inceptionstudio.org/",
+    "isNew": true
   }
 ];
