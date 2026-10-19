@@ -220,38 +220,6 @@ window.OPPORTUNITIES = [
     "lastVerified": "2026-07-12"
   },
   {
-    "id": "a16z-start",
-    "name": "a16z START",
-    "category": "Fellowship",
-    "region": "Global",
-    "country": "Menlo Park, CA, USA",
-    "focusAreas": [
-      "General/Any",
-      "Fintech",
-      "Enterprise",
-      "Consumer"
-    ],
-    "stage": "Pre-idea",
-    "fundingAmount": "Up to $1M in funding (amount and structure determined case-by-case)",
-    "equity": "Unknown (not publicly disclosed; likely deal-specific)",
-    "programLength": "Ongoing/flexible — not a fixed-length cohort program",
-    "format": "Remote/Hybrid — 1:1 support with the a16z seed team, not a structured in-person cohort",
-    "eligibility": "Founders at the very earliest stages of company building, including those without a fully formed idea yet or who haven't quit their day job; spans American Dynamism, Consumer, Enterprise, and Fintech sectors.",
-    "applicationDeadline": "Rolling — no fixed deadline, continuous intake",
-    "applicationWindow": "Rolling / continuous (not cohort-based)",
-    "applyLink": "https://a16z.com/start/",
-    "website": "https://a16z.com/start/",
-    "description": "a16z START is Andreessen Horowitz's earliest-stage founder support program, offering 1:1 mentorship, network introductions, and up to $1M in funding for founders who are just beginning to explore or build a company, including pre-idea founders.",
-    "highlights": [
-      "Designed for the earliest possible stage, including pre-idea founders",
-      "Direct 1:1 access to a16z seed team and domain experts",
-      "Introductions to potential customers and peer founders",
-      "Backed by a16z's full-stack platform (talent, GTM, marketing support)"
-    ],
-    "notableAlumni": [],
-    "lastVerified": "2026-07-12"
-  },
-  {
     "id": "a16z-speedrun",
     "name": "a16z Speedrun",
     "category": "Accelerator",
@@ -702,8 +670,8 @@ window.OPPORTUNITIES = [
     "eligibility": "Entrepreneurial students at 40+ partner US universities interested in venture investing and deal-sourcing; no salary or carry, cost-free to participate.",
     "applicationDeadline": "2026–2027 cohort applications closed August 9, 2026; next cohort dates not yet announced",
     "applicationWindow": "Annual, two-semester cohort",
-    "applyLink": "https://pear.vc/fellows-application/",
-    "website": "https://pear.vc/fellows-application/",
+    "applyLink": "https://airtable.com/appOpLuCEFZnc97UV/paglABYl3DCPE4odd/form",
+    "website": "https://pear.vc/fellows/",
     "description": "Pear Fellows is a volunteer, part-time apprenticeship that embeds entrepreneurial students at 40+ US universities into Pear VC's pre-seed investing process, with weekly workshops led by Pear partners on deal sourcing, diligence and founder coaching. It's unpaid but cost-free, giving fellows proprietary market-data access, travel stipends to Pear events, and a path to Pear funding for strong deals they source.",
     "highlights": [
       "Weekly mentorship directly from Pear partners Mar Hershenson and Pejman Nozad",
@@ -712,7 +680,7 @@ window.OPPORTUNITIES = [
       "15+ alumni have gone on to raise Pear pre-seed capital for their own startups"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-10-15"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "ai2-incubator",
@@ -876,8 +844,8 @@ window.OPPORTUNITIES = [
     "eligibility": "Primarily Notre Dame-affiliated researchers, faculty, and inventors seeking to commercialize University-originated technology; some federal programs (SBIR/STTR) are open more broadly to any qualifying U.S. small business partnering with Notre Dame.",
     "applicationDeadline": "Rolling / varies by underlying federal program (SBIR/STTR/NSF PFI deadlines are set by the sponsoring agency) — Notre Dame-affiliated only for internal Pit Road/Engine funding",
     "applicationWindow": "Rolling; contact the IDEA Center commercialization team",
-    "applyLink": "https://ideacenter.nd.edu/commercialization-engine/for-researchers/funding/",
-    "website": "https://ideacenter.nd.edu/commercialization-engine/",
+    "applyLink": "https://ideacenter.nd.edu/research-commercialization/disclose-an-invention/technology-development-and-funding/research-commercialization-grant/",
+    "website": "https://ideacenter.nd.edu/research-commercialization/disclose-an-invention/technology-development-and-funding/",
     "description": "The IDEA Center's Commercialization Engine provides milestone-based, VC-informed de-risking funding (via the Notre Dame Pit Road Fund) to help Notre Dame research and inventions move toward market, and also helps researchers access federal non-dilutive funding (SBIR/STTR, NSF PFI, Convergence Accelerator). Best suited to Notre Dame faculty/researcher-led deep tech or biotech ventures rather than general outside founders.",
     "highlights": [
       "Backed by a $22M+ Pit Road Fund investor group",
@@ -886,7 +854,7 @@ window.OPPORTUNITIES = [
       "Milestone-based de-risking rather than a single lump-sum grant"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "mccloskey-new-venture-competition",
@@ -905,8 +873,8 @@ window.OPPORTUNITIES = [
     "eligibility": "Open to Notre Dame students, faculty, staff, and alumni across all majors, plus local community members (St. Joseph, Elkhart, LaPorte, Marshall counties), students from nearby partner universities, and regional high schoolers. Ventures must have <$500K cumulative revenue, <$500K external financing, and be <3 years old; non-student teams advancing past Round 1 must add a student participant.",
     "applicationDeadline": "Not currently open — 2026 competition closed; next cycle (2027) expected to open around September 2026 based on prior-year pattern",
     "applicationWindow": "Annual (applications typically open Sept-Nov; finals held in April)",
-    "applyLink": "https://ideacenter.nd.edu/se/opportunities/mccloskey-competition/",
-    "website": "https://ideacenter.nd.edu/se/opportunities/mccloskey-competition/",
+    "applyLink": "https://notredame.startupforge.app/p/mccloskey",
+    "website": "https://ideacenter.nd.edu/student-entrepreneurship/co-curricular-student-entrepreneurship/competitions-awards-and-programs/mccloskey-new-venture-competition/",
     "description": "The McCloskey New Venture Competition is Notre Dame's flagship, 25+ year-running business plan competition, open to Notre Dame affiliates and a defined regional community, offering over $100,000 in prizes and access to investor/VC judges. It's a strong early-validation and non-dilutive prize opportunity for Notre Dame-connected or South Bend-region founders.",
     "highlights": [
       "$100,000+ in total prize money across multiple categories",
@@ -918,7 +886,7 @@ window.OPPORTUNITIES = [
       "Better World Books",
       "Runwayz"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "race-to-revenue",
@@ -938,7 +906,7 @@ window.OPPORTUNITIES = [
     "applicationDeadline": "Not currently open — 2026 cohort is in progress (program runs May 26-July 31, 2026); check website for the 2027 cycle",
     "applicationWindow": "Annual (summer cohort)",
     "applyLink": "https://notredame.startuptree.co/event/s/E7csUMVrurV3MeU3rcAjgL/Race-to-Revenue-2026-Application",
-    "website": "https://ideacenter.nd.edu/se/opportunities/race-to-revenue/",
+    "website": "https://ideacenter.nd.edu/student-entrepreneurship/co-curricular-student-entrepreneurship/competitions-awards-and-programs/race-to-revenue/",
     "description": "Race to Revenue is Notre Dame's summer startup accelerator, structured as a fully-funded internship letting student founders work full-time on their ventures for 10 weeks. It's designed for Notre Dame students wanting focused, funded runway over the summer without needing to seek outside internships.",
     "highlights": [
       "Full-time, fully-funded summer internship model",
@@ -947,7 +915,7 @@ window.OPPORTUNITIES = [
       "Non-dilutive support for early-stage student ventures"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "village-capital",
@@ -1425,8 +1393,8 @@ window.OPPORTUNITIES = [
     "eligibility": "Science and technology startups, especially bioscience, medical device, cleantech, energy, advanced materials, hardware, enterprise software, fintech, and AI companies; the 2026 Life Sciences cohort drew applicants from 9 states and 2 countries, so relocation is not strictly required, though Colorado presence is a plus.",
     "applicationDeadline": "Not currently open — the most recent Regional Life Sciences Incubation Program deadline was March 22, 2026 (cohort of 38 companies since announced)",
     "applicationWindow": "Roughly annual for the Life Sciences Incubator cohort; rolling for general advisory services",
-    "applyLink": "https://innosphere.org/apply/",
-    "website": "https://innosphereventures.org",
+    "applyLink": "https://airtable.com/appfk975pdB9emxlG/paghTdWOg5l9PbiCY/form",
+    "website": "https://innosphere.org/accelerator",
     "description": "Innosphere Ventures is a nonprofit science and technology incubator based in Fort Collins, Colorado, providing long-term (9-month+), hands-on business mentorship, SBIR/grant support, and investor connections to bioscience, cleantech, hardware, and deep-tech startups. It is well regarded for its non-dilutive, expert-led approach rather than a cash-for-equity accelerator model.",
     "highlights": [
       "9-month program with a dedicated Client Director for personalized support",
@@ -1441,7 +1409,7 @@ window.OPPORTUNITIES = [
       "GelSana",
       "LongPath Technologies"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "boomtown-accelerators",
@@ -1549,38 +1517,6 @@ window.OPPORTUNITIES = [
     "lastVerified": "2026-07-12"
   },
   {
-    "id": "healthbox",
-    "name": "Healthbox",
-    "category": "Accelerator",
-    "region": "US",
-    "country": "Chicago, USA",
-    "focusAreas": [
-      "Biotech/Health"
-    ],
-    "stage": "Seed",
-    "fundingAmount": "Unknown",
-    "equity": "Unknown",
-    "programLength": "Unknown",
-    "format": "Unknown",
-    "eligibility": "Unknown — no active application process could be located.",
-    "applicationDeadline": "Program appears inactive/unverifiable",
-    "applicationWindow": "Unknown",
-    "applyLink": "Unknown",
-    "website": "https://www.healthbox.com",
-    "description": "Healthbox was a Chicago-founded healthcare startup accelerator (est. 2010) that backed roughly 98 startups across 10 countries and logged 16 exits, including Wisdo (acquired by Talkspace in 2025). It was acquired and is now run as a subsidiary of HIMSS; as of this research it shows no 2026 investment activity and its website domain (healthbox.com) does not resolve, indicating the accelerator arm is dormant or defunct rather than an active, applying-open program.",
-    "highlights": [
-      "Historic Chicago healthcare accelerator with ~98 portfolio companies / 16 exits",
-      "Now a HIMSS subsidiary; no confirmed active startup cohort",
-      "Website domain does not currently resolve"
-    ],
-    "notableAlumni": [
-      "Huma",
-      "Wisdo",
-      "NurseGrid"
-    ],
-    "lastVerified": "2026-07-12"
-  },
-  {
     "id": "blue-startups",
     "name": "Blue Startups",
     "category": "Accelerator",
@@ -1633,7 +1569,7 @@ window.OPPORTUNITIES = [
     "eligibility": "N/A — program is defunct",
     "applicationDeadline": "Program appears inactive/unverifiable",
     "applicationWindow": "N/A",
-    "applyLink": "Unknown",
+    "applyLink": "https://launchpad.la/apply/",
     "website": "http://launchpad.la/",
     "description": "Launchpad LA was an influential Santa Monica seed accelerator founded in 2009 by Mark Suster and Adam Lilling, notable for backing companies later acquired by LinkedIn and Imperva. Multiple sources indicate it wound down around 2014, and its live site only serves stale, years-old cached content with no current cohort or application activity — it is not a currently operating program.",
     "highlights": [
@@ -1647,7 +1583,7 @@ window.OPPORTUNITIES = [
       "Tradesy",
       "Pathmatics"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "amplify-la",
@@ -1668,7 +1604,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Pre-seed technology founders with a strong team and early traction/vision; the program has no set cohort dates and startups can join on a rolling basis, with access to the Venice campus.",
     "applicationDeadline": "Rolling",
     "applicationWindow": "Rolling / continuous admissions, no fixed cohort dates",
-    "applyLink": "https://amplify.la/apply",
+    "applyLink": "https://amplify.la/contact/",
     "website": "https://amplify.la",
     "description": "Amplify.LA is a Venice, California pre-seed fund and venture studio that invests $50K to $1M+ into early technology founders in exchange for negotiated equity, pairing capital with a free coworking campus and a 120+ person mentor network rather than running fixed-length cohorts.",
     "highlights": [
@@ -1683,7 +1619,7 @@ window.OPPORTUNITIES = [
       "Upwards",
       "Manta Health"
     ],
-    "lastVerified": "2026-07-12"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "the-brandery",
@@ -2882,41 +2818,6 @@ window.OPPORTUNITIES = [
     "lastVerified": "2026-07-13"
   },
   {
-    "id": "techstars-watertech-sustainability",
-    "name": "Techstars WaterTech & Sustainability",
-    "category": "Accelerator",
-    "region": "US",
-    "country": "Tuscaloosa, AL, USA",
-    "focusAreas": [
-      "Climate/Impact",
-      "Deep Tech"
-    ],
-    "stage": "Pre-seed",
-    "fundingAmount": "Program appears inactive/unverifiable — last confirmed equity cohort (Fall 2024) offered up to $120,000; current Techstars standard terms are $220,000 ($20,000 Post-Money CEA + $200,000 uncapped MFN SAFE), but no equity-based cohort has run since the April 2025 terms update was confirmed",
-    "equity": "Not publicly disclosed for the Fall 2024 cohort; if reactivated, standard current terms (5% common stock + future value of $200,000 uncapped MFN SAFE) would likely apply — unconfirmed",
-    "programLength": "3 months (13 weeks) when active",
-    "format": "In-person, Tuscaloosa, AL",
-    "eligibility": "Startups in water technology, hydrology, drinking water/wastewater systems, water utility management, and digital/treatment solutions for water and environmental sustainability.",
-    "applicationDeadline": "Program appears inactive/unverifiable",
-    "applicationWindow": "Unclear — the main 13-week equity accelerator's last confirmed class was Fall 2024; only a separate free, non-equity pre-accelerator ('Techstars Founder Catalyst: WaterTech & Sustainability') has continued on a Spring/Fall cadence into 2026",
-    "applyLink": "https://apply.techstars.com?source=nav&accelerator=watertech-sustainability",
-    "website": "https://www.techstars.com/accelerators/watertech-sustainability",
-    "description": "A hydrology- and water-tech-focused accelerator run with the Tuscaloosa County Economic Development Authority and the University of Alabama. Notably, the equity-based 13-week Accelerator does not appear to have run again after its Fall 2024 class — Techstars has since shifted visible activity in this vertical to a free, non-equity 'Founder Catalyst' pre-accelerator track (Spring/Fall 2026 cohorts confirmed). Founders should verify directly with Techstars whether the equity accelerator will run again before counting on it.",
-    "highlights": [
-      "Partnership with University of Alabama and Tuscaloosa County Economic Development Authority",
-      "Deep specialization in water resources, treatment tech, and utility management",
-      "A parallel free, non-equity Founder Catalyst pre-accelerator remains active as of mid-2026",
-      "Uncertain whether the main equity accelerator will run another cohort"
-    ],
-    "notableAlumni": [
-      "Aabshar",
-      "SeafoodAI",
-      "AquaOrganix",
-      "SIPP"
-    ],
-    "lastVerified": "2026-07-13"
-  },
-  {
     "id": "techstars-workforce-development",
     "name": "Techstars Workforce Development Accelerator",
     "category": "Accelerator",
@@ -3042,7 +2943,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Early-stage startups with early traction — e.g., $2K+ MRR growing 20%+ monthly for B2B/marketplace, or 3K+ DAUs growing weekly for consumer, or a market-ready MVP for deep tech teams.",
     "applicationDeadline": "Rolling — cohorts run continuously (Cohort 35+ in progress); apply anytime via launch.co/apply",
     "applicationWindow": "Rolling admissions with new cohorts launching regularly throughout the year",
-    "applyLink": "https://launch.co/apply",
+    "applyLink": "https://forms.launch.co/apply",
     "website": "https://launch.co/",
     "description": "LAUNCH Accelerator, founded by angel investor and 'This Week in Startups' host Jason Calacanis, is a highly selective (only ~7 companies per cohort) accelerator focused on getting founders in front of active angels and VCs fast. It emphasizes pitch training and direct investor access over curriculum.",
     "highlights": [
@@ -3056,7 +2957,7 @@ window.OPPORTUNITIES = [
       "Robinhood",
       "Calm"
     ],
-    "lastVerified": "2026-07-24"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "alphalab",
@@ -3114,7 +3015,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Technology startups (general tech, MedTech, 5G/telecom, digital health) seeking longer-term incubation rather than a short accelerator sprint; several tracks run in partnership with Sharp HealthCare and Qualcomm.",
     "applicationDeadline": "Rolling — application form is live year-round on the website",
     "applicationWindow": "Rolling admissions with periodic themed cohorts (e.g., Digital Healthcare Cohort)",
-    "applyLink": "https://evonexus.org/apply/",
+    "applyLink": "https://evonexus.org/application/",
     "website": "https://evonexus.org/",
     "description": "EvoNexus is a nonprofit San Diego/Irvine tech incubator offering an unusually long (up to 2-year) residency and take only 1% equity, far below typical accelerator terms. It runs specialty tracks with corporate partners including Sharp HealthCare (MedTech) and Qualcomm (5G).",
     "highlights": [
@@ -3129,7 +3030,7 @@ window.OPPORTUNITIES = [
       "SOCi",
       "Housecall Pro"
     ],
-    "lastVerified": "2026-07-24"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "carb-x",
@@ -3197,37 +3098,6 @@ window.OPPORTUNITIES = [
       "Biobot Analytics",
       "Accion Systems"
     ],
-    "lastVerified": "2026-07-24"
-  },
-  {
-    "id": "urban-x",
-    "name": "URBAN-X",
-    "category": "Accelerator",
-    "region": "US",
-    "country": "Brooklyn, NY, USA",
-    "focusAreas": [
-      "Climate/Impact",
-      "Hardware",
-      "Deep Tech"
-    ],
-    "stage": "Pre-seed",
-    "fundingAmount": "Historically at least $100,000 per company (program has ceased operations — no longer applicable)",
-    "equity": "Historically negotiated per deal (terms no longer applicable)",
-    "programLength": "Historically 4-5 months (20 weeks)",
-    "format": "Was in-person at Newlab, Brooklyn Navy Yard, NYC",
-    "eligibility": "N/A — program has shut down",
-    "applicationDeadline": "Program appears inactive/unverifiable",
-    "applicationWindow": "N/A — no longer running cohorts",
-    "applyLink": "https://urban-x.com/",
-    "website": "https://urban-x.com/",
-    "description": "URBAN-X was a Brooklyn-based urban-tech accelerator founded by MINI (BMW Group) and run in partnership with Urban Us, focused on mobility, climate, and built-environment startups. IMPORTANT: URBAN-X announced its closure in January 2025 after completing its 15th and final cohort, concluding operations at the end of 2025 with no reason publicly given. This program should be treated as DEFUNCT and is included here only per research instructions — founders should not plan to apply.",
-    "highlights": [
-      "Ran 15 cohorts and backed 116+ startups between 2016 and 2024/2025 before closing",
-      "Was located at Newlab in the Brooklyn Navy Yard with access to MINI/BMW's global network",
-      "Closure announced January 20, 2025; wound down by end of 2025 with no reason disclosed",
-      "No longer accepting applications — flagged here as inactive per verification requirement"
-    ],
-    "notableAlumni": [],
     "lastVerified": "2026-07-24"
   },
   {
@@ -3516,7 +3386,7 @@ window.OPPORTUNITIES = [
     "programLength": "~6 months per cycle (two cohorts/year: Spring and Fall)",
     "format": "Hybrid — St. Louis, MO",
     "eligibility": "Late-seed to Series A fintech, insurtech, or cybersecurity startups seeking pilot/partnership access to major financial-services and insurance institutions.",
-    "applyLink": "https://sixthirty.co/apply/",
+    "applyLink": "https://form.typeform.com/to/gWIv0UnK",
     "applicationDeadline": "Rolling — check website for current Spring/Fall cohort dates",
     "applicationWindow": "Two cohorts per year (Spring and Fall), 8–12 companies selected annually",
     "website": "https://sixthirty.co/",
@@ -3533,7 +3403,7 @@ window.OPPORTUNITIES = [
       "Bankjoy",
       "BOXX Insurance"
     ],
-    "lastVerified": "2026-07-24"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "biogenerator",
@@ -4418,7 +4288,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Early-stage insurtech and insurance-adjacent startups; selected companies must relocate to Des Moines, IA for the in-person program weeks.",
     "applicationDeadline": "2027 100-Day Program applications open August 11, 2026 (exact submission deadline to be posted on program site)",
     "applicationWindow": "Annual cohort; applications typically open in August for the following year's program",
-    "applyLink": "https://selections.globalinsuranceaccelerator.com/global-insurance-accelerator-application.php",
+    "applyLink": "https://www.globalinsuranceaccelerator.com/program",
     "website": "https://www.globalinsuranceaccelerator.com/",
     "description": "The Global Insurance Accelerator is a nationally recognized insurtech accelerator based in Des Moines, Iowa, offering $50,000 in seed funding, mentorship from 75+ industry mentors, and direct connections to leading insurance carriers over a 100-day program.",
     "highlights": [
@@ -4429,7 +4299,7 @@ window.OPPORTUNITIES = [
       "One of the only accelerators exclusively focused on insurance/insurtech"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "datatribe-cyber-startup-challenge",
@@ -4843,37 +4713,6 @@ window.OPPORTUNITIES = [
     "lastVerified": "2026-08-02"
   },
   {
-    "id": "verizon-forward-for-good-accelerator",
-    "name": "Verizon Forward for Good Accelerator",
-    "category": "Accelerator",
-    "region": "US",
-    "country": "Basking Ridge, NJ, USA",
-    "focusAreas": [
-      "Social Impact",
-      "Biotech/Health",
-      "Hardware"
-    ],
-    "stage": "Seed",
-    "fundingAmount": "$50,000 in non-dilutive funding per selected startup",
-    "equity": "Equity-free (0% equity; non-dilutive funding)",
-    "programLength": "16 weeks per cohort",
-    "format": "Hybrid (virtual workshops and mentorship with in-person cohort events)",
-    "eligibility": "US-based, mission-driven startups using next-generation technology (5G, MEC, AI, XR, Big Data) to address a specific social-impact focus area; recent cohorts required founders with disabilities and disability-led leadership (Disability Innovation cohort) or health-equity-focused ventures (Health Equity cohort) — focus area rotates by cohort",
-    "applicationDeadline": "Not currently open; the most recent Disability Innovation cohort's application deadline was November 1 — check verizonforwardforgood.com for the next cohort's dates and focus area",
-    "applicationWindow": "Periodic cohorts with rotating social-impact themes (e.g., Disability Innovation, Health Equity)",
-    "applyLink": "https://www.verizonforwardforgood.com/",
-    "website": "https://www.verizonforwardforgood.com/",
-    "description": "Verizon Forward for Good Accelerator is Verizon's corporate social-impact accelerator for startups using 5G-enabled and emerging technology to tackle specific societal challenges, with each cohort focused on a rotating theme such as disability innovation or health equity. Selected startups receive $50,000 in non-dilutive funding plus mentorship, technology coaching, and community connections over a 16-week program.",
-    "highlights": [
-      "$50,000 in equity-free funding per selected startup",
-      "16-week program with mentorship, technology coaching, and workshops",
-      "Cohort theme rotates (past cohorts: Health Equity, Disability Innovation)",
-      "Access to speakers and mentors from the relevant community (e.g., disability community for the Disability Innovation cohort)"
-    ],
-    "notableAlumni": [],
-    "lastVerified": "2026-08-02"
-  },
-  {
     "id": "t-mobile-accelerator",
     "name": "T-Mobile Accelerator",
     "category": "Accelerator",
@@ -4901,37 +4740,6 @@ window.OPPORTUNITIES = [
       "Cohort themes rotate (recent examples: 5G AR smart glasses, sports/entertainment fan experiences, wellness tech)",
       "Hybrid format based out of Bellevue, WA and Overland Park, KS",
       "Access to T-Mobile's 5G network and business/technology mentors; potential later introductions to T-Mobile Ventures"
-    ],
-    "notableAlumni": [],
-    "lastVerified": "2026-08-02"
-  },
-  {
-    "id": "sap-io-foundry",
-    "name": "SAP.iO Foundry",
-    "category": "Accelerator",
-    "region": "Global",
-    "country": "Newtown Square, PA, USA (SAP.iO Foundries include New York and San Francisco locations)",
-    "focusAreas": [
-      "B2B SaaS",
-      "Enterprise",
-      "AI/ML"
-    ],
-    "stage": "Seed",
-    "fundingAmount": "$0 (equity-free program; no capital investment — value delivered through SAP technology access, customer/partner introductions, and go-to-market support)",
-    "equity": "Equity-free (0% equity; no capital and no equity exchanged)",
-    "programLength": "Approximately 13 weeks per cohort (varies by Foundry location and program)",
-    "format": "Hybrid (in-person programming at Foundry locations including New York and San Francisco, plus virtual mentoring)",
-    "eligibility": "Early- to growth-stage B2B startups building enterprise technology relevant to SAP's customer base; specific US cohorts have focused on women- and diverse-led startups (SAP.iO Foundry New York) and other verticals (e.g., travel & expense management in San Francisco); eligibility criteria vary by cohort/Foundry",
-    "applicationDeadline": "Rolling; SAP.iO periodically opens new cohort applications by Foundry location and theme — check sap.io/foundries/programs for current calls",
-    "applicationWindow": "Rolling, cohorts open periodically by Foundry location and theme",
-    "applyLink": "https://sap.io/foundries/programs/",
-    "website": "https://sap.io/",
-    "description": "SAP.iO Foundry is SAP's global network of equity-free corporate accelerators that help early-stage B2B enterprise startups build integrations and go-to-market relationships with SAP's customer and partner ecosystem. US Foundries have run cohorts in New York (including a program focused on women- and diverse-led startups) and San Francisco.",
-    "highlights": [
-      "Equity-free — no capital invested and no equity taken",
-      "Access to SAP's enterprise customer base, technology, and partner network",
-      "US Foundries have included cohorts specifically for women- and diverse-led enterprise tech founders (New York)",
-      "Part of a global network with additional Foundries in Berlin, Munich, Paris, Singapore, Tel Aviv, and Tokyo"
     ],
     "notableAlumni": [],
     "lastVerified": "2026-08-02"
@@ -5452,8 +5260,8 @@ window.OPPORTUNITIES = [
     "eligibility": "US-owned, for-profit small business with 500 or fewer employees, proposing technology relevant to one of DOT's operating administrations (e.g., FTA, PHMSA, FRA, FHWA), spanning topics like AI trip planning, hazmat safety coatings, battery fire suppression, and vehicle-to-everything (V2X) congestion tools.",
     "applicationDeadline": "The FY2026 Phase I solicitation closed July 7, 2026 (after a pre-solicitation period from April 29–May 29, 2026), with award recommendations expected roughly 90 days later (around mid-October 2026); the next cycle (FY2027) is expected to open in spring 2027 — check volpe.dot.gov for the announcement",
     "applicationWindow": "One Phase I cycle per fiscal year, typically opening in spring",
-    "applyLink": "https://www.volpe.dot.gov/work-us/small-business-innovation-research",
-    "website": "https://www.volpe.dot.gov/work-us/small-business-innovation-research",
+    "applyLink": "https://www.volpe.dot.gov/work-with-us/small-business-innovation-research",
+    "website": "https://www.volpe.dot.gov/work-with-us/small-business-innovation-research",
     "description": "The US DOT SBIR program, run through the Volpe National Transportation Systems Center, funds small businesses developing transportation safety and technology solutions across highway, rail, transit, and pipeline/hazmat domains. It runs one Phase I solicitation cycle per fiscal year with topics set by DOT's individual operating administrations.",
     "highlights": [
       "FY2026 topics spanned AI trip planning, hazmat coatings, battery fire suppression, and V2X congestion tools",
@@ -5462,7 +5270,7 @@ window.OPPORTUNITIES = [
       "Topics sourced from FTA, PHMSA, FRA, FHWA, and the Volpe Center itself"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "epa-sbir",
@@ -5885,64 +5693,6 @@ window.OPPORTUNITIES = [
     "lastVerified": "2026-08-02"
   },
   {
-    "id": "visa-everywhere-initiative",
-    "name": "Visa Everywhere Initiative",
-    "category": "Grant",
-    "region": "Global",
-    "country": "Global (open to US-based fintech startups)",
-    "focusAreas": [
-      "Fintech"
-    ],
-    "stage": "Seed",
-    "fundingAmount": "$100,000 cash prize to the global winner, plus a live pitch slot at TechCrunch Disrupt (San Francisco) in front of investors and press; regional/local editions (e.g., Latin America & Caribbean) award smaller tiered prizes such as $25,000/$15,000/$10,000",
-    "equity": "0% equity — no equity taken; non-dilutive cash prize",
-    "programLength": "One-time competition/prize",
-    "format": "Hybrid (online application and virtual rounds; in-person global final at TechCrunch Disrupt)",
-    "eligibility": "For-profit, growth-stage fintech startups building solutions in payments, money movement, digital issuance, cross-border payments, open banking, or embedded finance; open globally, including US-based startups",
-    "applicationDeadline": "Unknown — exact 2026/2027 deadline not published on the reachable official pages; the program has historically run annually ahead of TechCrunch Disrupt (San Francisco, typically held in October). Confirm current dates via corporate.visa.com/en/visa-everywhere/everywhere-initiative before relying on this",
-    "applicationWindow": "Annual cycle, tied to TechCrunch Disrupt",
-    "applyLink": "https://corporate.visa.com/en/visa-everywhere/everywhere-initiative/initiative.html",
-    "website": "https://corporate.visa.com/en/visa-everywhere/everywhere-initiative/initiative.html",
-    "description": "Visa's Everywhere Initiative is a global fintech startup competition (running since 2015, ~15,000 applicants from 100+ countries to date) that awards a $100,000 non-dilutive cash prize to its global winner, chosen after finalists pitch live on the TechCrunch Disrupt stage in San Francisco.",
-    "highlights": [
-      "$100,000 non-dilutive cash prize for the global winner",
-      "Global final held on the TechCrunch Disrupt stage in San Francisco",
-      "Nearly 15,000 startups from 100+ countries have applied since 2015",
-      "Focused specifically on payments/fintech innovation"
-    ],
-    "notableAlumni": [],
-    "lastVerified": "2026-08-02"
-  },
-  {
-    "id": "sogal-black-founder-startup-grant",
-    "name": "SoGal Foundation Black Founder Startup Grant",
-    "category": "Grant",
-    "region": "US",
-    "country": "USA (nationwide)",
-    "focusAreas": [
-      "General/Any"
-    ],
-    "stage": "Pre-seed",
-    "fundingAmount": "$5,000–$10,000 cash grant, amount determined by team assessment of company needs",
-    "equity": "0% equity — no equity taken; non-dilutive grant",
-    "programLength": "One-time award",
-    "format": "Remote (online application)",
-    "eligibility": "Black women or Black nonbinary founders (inclusive of multiracial Black women/nonbinary founders) of a legally registered, for-profit US business intending to seek investor financing; applicant must be 18+, able to legally receive funds in the US, and have a business bank account with an EIN/Tax ID",
-    "applicationDeadline": "Rolling — no fixed deadline; most recent cohort's winners were announced November 20–22, 2025. Note: this program is administered by SoGal Foundation and referenced by multiple official partners (e.g., Pace University SBDC), but was not independently confirmed on a live SoGal-hosted page at time of research — verify it is still accepting applications before referring founders",
-    "applicationWindow": "Rolling, year-round",
-    "applyLink": "https://www.iamsogal.com/black-founder-startup-grant/",
-    "website": "https://www.iamsogal.com/",
-    "description": "SoGal Foundation's Black Founder Startup Grant gives Black women and nonbinary entrepreneurs $5,000–$10,000 in non-dilutive cash, plus tactical fundraising support and ongoing access to the SoGal Foundation and SoGal Ventures teams, to help close the racial funding gap in venture-backable startups.",
-    "highlights": [
-      "$5,000–$10,000 non-dilutive cash grant",
-      "Includes lifetime access to SoGal Foundation/Ventures for fundraising advice",
-      "Rolling applications, reviewed on an ongoing basis",
-      "Could not be independently verified as currently open on an official SoGal page — confirm status before applying"
-    ],
-    "notableAlumni": [],
-    "lastVerified": "2026-08-02"
-  },
-  {
     "id": "nc-idea-seed",
     "name": "NC IDEA SEED",
     "category": "Grant",
@@ -6143,8 +5893,8 @@ window.OPPORTUNITIES = [
     "eligibility": "For-profit companies, nonprofits, local governments, research institutions, federally recognized tribes, higher-education institutions, and national labs; Washington-based applicants preferred (out-of-state applicants eligible if they benefit the state and have significant WA presence); focused on advanced bioenergy/biofuels, advanced energy storage/battery technologies, greenhouse gas removal/carbon capture, and grid modernization/flexible load integration",
     "applicationDeadline": "September 3, 2026, 4:00 PM PT",
     "applicationWindow": "Annual competitive solicitation",
-    "applyLink": "https://www.commerce.wa.gov/funding/apply-now-for-research-development-and-demonstration-program-grants/",
-    "website": "https://www.commerce.wa.gov/funding/apply-now-for-research-development-and-demonstration-program-grants/",
+    "applyLink": "https://www.commerce.wa.gov/epic/rdd/",
+    "website": "https://www.commerce.wa.gov/epic/rdd/",
     "description": "The Washington State Department of Commerce's Research, Development & Demonstration Program awards non-dilutive grants, funded by Climate Commitment Act revenue, to organizations — including startups — advancing clean energy technologies such as battery storage, carbon capture, and grid modernization.",
     "highlights": [
       "~$10 million available in the current funding round",
@@ -6154,7 +5904,7 @@ window.OPPORTUNITIES = [
       "Administered by Washington State Department of Commerce (EPICGrants@commerce.wa.gov)"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "masscec-catalyst-dices",
@@ -6398,7 +6148,7 @@ window.OPPORTUNITIES = [
     "applicationDeadline": "Rolling for general investment inquiries; the Soma Fellowship has run an annual deadline (e.g., April 1) in past cycles — confirm the current date at programs.somacap.com/fellows",
     "applicationWindow": "Rolling (main fund) / annual cycle (Fellowship track)",
     "applyLink": "https://programs.somacap.com/fellows",
-    "website": "https://www.somacap.com/",
+    "website": "https://somacap.com/",
     "description": "Soma Capital is an early-stage venture fund investing $100K-$1M checks (avg. ~$431K) into pre-seed/seed startups across AI, climate, fintech, healthcare, and more. Its Soma Fellowship track separately offers select early founders up to $2M in uncapped, 0%-equity SAFE funding plus access to a network of unicorn-founder alumni.",
     "highlights": [
       "Typical checks $100K-$1M (avg. ~$431K)",
@@ -6413,7 +6163,7 @@ window.OPPORTUNITIES = [
       "Deel",
       "Kalshi"
     ],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "afore-capital",
@@ -6432,7 +6182,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Pre-traction, pre-everything (idea to early-product) founders building venture-scale companies; the Founders-in-Residence track is also open to aspiring founders without a concrete idea yet",
     "applicationDeadline": "Rolling — no fixed deadline for general pitch submissions",
     "applicationWindow": "Rolling, year-round",
-    "applyLink": "https://www.afore.vc/pitch",
+    "applyLink": "https://www.afore.vc/residence",
     "website": "https://www.afore.vc/",
     "description": "Afore Capital is a San Francisco pre-seed venture fund (Fund IV: $185M; $500M+ total AUM) investing $500K-$2M+ in pre-traction founders via YC-style SAFEs, alongside a separate Founders-in-Residence program for people with conviction but no concrete startup idea yet.",
     "highlights": [
@@ -6442,7 +6192,7 @@ window.OPPORTUNITIES = [
       "$500M+ total assets under management across its funds"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-02"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "sku-austin",
@@ -6462,7 +6212,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Consumer product (CPG) companies with a market-ready physical product and existing sales traction in food, beverage, pet care, personal care, apparel, or health & wellness; not for idea-stage companies",
     "applicationDeadline": "July 15, 2026 (Fall '26 track)",
     "applicationWindow": "Two cohorts per year (Spring and Fall tracks)",
-    "applyLink": "https://sku.is/apply-2/",
+    "applyLink": "https://sku.is/apply/",
     "website": "https://sku.is/",
     "description": "SKU is one of the country's first and most established consumer product goods (CPG) accelerators, founded in Austin in 2011 by Shari Wynne Ressler and Clayton Christopher (Sweet Leaf Tea, Deep Eddy Vodka). The 12-week hybrid program pairs market-validated CPG brands with a curated network of retail, distribution, and investor mentors to help them scale.",
     "highlights": [
@@ -6478,7 +6228,7 @@ window.OPPORTUNITIES = [
       "DUDE Wipes",
       "wildwonder"
     ],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "austin-technology-incubator-ati",
@@ -6530,7 +6280,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Early-stage 'maker-founder' startups across any industry; open to founders relocating to Austin for the program",
     "applicationDeadline": "Rolling; Summer cohort applications due ~June 25 and Winter cohort applications due ~December 25 each year",
     "applicationWindow": "Two cohorts per year (Summer and Winter)",
-    "applyLink": "https://www.sputnikatx.com/accelerator",
+    "applyLink": "https://gust.com/programs/sputnik-atx-vc-summer-2026",
     "website": "https://www.sputnikatx.com/",
     "description": "Sputnik ATX is an Austin-based pre-seed accelerator and venture fund that runs a 13-week bootcamp focused on sales training and traction-building for early-stage 'maker-founder' startups. It invests $100K upfront via SAFE with the potential for significant follow-on funding.",
     "highlights": [
@@ -6541,7 +6291,7 @@ window.OPPORTUNITIES = [
       "Recent cohorts (2025-2026) included Auric Essentials, Nitex, Biky, and MOD Tech Labs"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "international-accelerator-austin",
@@ -6620,8 +6370,8 @@ window.OPPORTUNITIES = [
     "eligibility": "Current University of Texas at Austin students only",
     "applicationDeadline": "Unknown exact date; enrollment follows UT Austin's semester course registration calendar",
     "applicationWindow": "Annual (Fall seminar, Spring lab)",
-    "applyLink": "https://www.cs.utexas.edu/longhorn-startup",
-    "website": "https://www.cs.utexas.edu/longhorn-startup",
+    "applyLink": "http://apply.longhornstartup.com",
+    "website": "https://longhornstartup.notion.site/Longhorn-Startup-d974c32419fe48f79a9233663a3840f0",
     "description": "Longhorn Startup Lab is a free, UT Austin student-only accelerator program taught by Capital Factory founder and UT CS instructor Joshua Baer. Students get course credit, weekly one-on-one mentoring from entrepreneurs, and free coworking membership at Capital Factory while building their startups.",
     "highlights": [
       "Founded 2011; over 1,000 UT Austin students have participated",
@@ -6631,7 +6381,7 @@ window.OPPORTUNITIES = [
       "Restricted to enrolled UT Austin students"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "mediatech-ventures-incubator",
@@ -6802,8 +6552,8 @@ window.OPPORTUNITIES = [
     "eligibility": "Women-identifying and non-binary-led, for-profit tech startups of any industry focused on scaling and becoming venture-backable; non-profits and consulting firms not eligible",
     "applicationDeadline": "Most recent Austin cohort ran April-June 2026 (applications closed November 30, 2025); next cycle dates not yet announced",
     "applicationWindow": "Annual cohort cycle",
-    "applyLink": "https://www.divinc.org/apply",
-    "website": "https://www.divinc.org/focusareas/women-in-tech",
+    "applyLink": "https://divinc.typeform.com/WITA15",
+    "website": "https://divinc.org/active-accelerators/women-in-tech",
     "description": "DivInc's Women in Tech Accelerator is a 12-week program (distinct from DivInc's flagship Innovation & Influence Accelerator) launched in partnership with SheSpace to support women-identifying and non-binary tech founders in Austin and Houston, providing $10,000 in non-dilutive funding plus mentorship and resources.",
     "highlights": [
       "Launched Fall 2022 in partnership with SheSpace",
@@ -6813,11 +6563,11 @@ window.OPPORTUNITIES = [
       "Run by DivInc, an Austin-based 501(c)(3) nonprofit accelerator"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "accelerateher-austin",
-    "name": "AccelerateHER Austin (TWU Center for Women Entrepreneurs)",
+    "name": "CWE Accelerator – Austin (formerly AccelerateHER)",
     "category": "Fellowship",
     "region": "US",
     "country": "Austin, TX, USA",
@@ -6833,7 +6583,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Women-owned businesses (51% or more women ownership required) based in the Greater Austin area",
     "applicationDeadline": "October 24, 2026 (2026 Austin cohort)",
     "applicationWindow": "Annual cohort",
-    "applyLink": "https://twu.edu/center-women-entrepreneurs/accelerateher/austin/",
+    "applyLink": "https://twu.edu/center-women-entrepreneurs/accelerator/austin/",
     "website": "https://twu.edu/center-women-entrepreneurs/",
     "description": "AccelerateHER Austin is a free 15-week program run by Texas Woman's University's Center for Women Entrepreneurs, selecting a small cohort of Austin-area women-owned businesses each year for business-plan refinement, pitch training, mentorship, and networking support at no cost to founders.",
     "highlights": [
@@ -6844,7 +6594,7 @@ window.OPPORTUNITIES = [
       "Run by Texas Woman's University's Center for Women Entrepreneurs, which has provided $2.3M+ in funding to small businesses over 10 years"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-08-06"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "the-residency",
@@ -7832,36 +7582,6 @@ window.OPPORTUNITIES = [
       "Selective — 5-7 teams from applicant pool",
       "Private office, co-working space, and maker space access at 'The Garage'",
       "Full-time commitment required (16-24 hrs/week)"
-    ],
-    "notableAlumni": [],
-    "lastVerified": "2026-09-14"
-  },
-  {
-    "id": "trout-tank-pitch-accelerator",
-    "name": "Trout Tank Pitch Accelerator (Denver Metro SBDC / Chamber of Commerce)",
-    "category": "Accelerator",
-    "region": "US",
-    "country": "Denver, CO, USA",
-    "focusAreas": [
-      "General/Any",
-      "Agtech/Foodtech"
-    ],
-    "stage": "Stage-agnostic",
-    "fundingAmount": "No direct funding pool disclosed for most editions; free to apply",
-    "equity": "No equity taken",
-    "programLength": "5-8 weeks of pitch training, culminating in a public pitch event/demo day",
-    "format": "In-person (Denver metro)",
-    "eligibility": "Colorado-based entrepreneurs/businesses; only 20 companies accepted per cohort",
-    "applicationDeadline": "Rolling",
-    "applicationWindow": "Multiple editions/cohorts per year (general, CPG/Food Frenzy, Sustainability)",
-    "applyLink": "https://www.denversbdc.org/trout-tank-cpg-pitch-accelerator/",
-    "website": "https://www.denversbdc.org/trout-tank-cpg-pitch-accelerator/",
-    "description": "Created in 2014 by the Denver Metro SBDC in partnership with the Denver Metro Chamber of Commerce, Trout Tank is a recurring, free pitch-training accelerator running several themed editions culminating in public pitch events.",
-    "highlights": [
-      "Free, no-equity model backed by a chamber of commerce/SBDC",
-      "Running since 2014",
-      "Multiple themed editions per year",
-      "Only 20 companies accepted per cohort"
     ],
     "notableAlumni": [],
     "lastVerified": "2026-09-14"
@@ -10042,7 +9762,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Currently enrolled University of Pennsylvania students (Bachelor's, Master's, or Doctorate); alumni are not eligible for this specific fund",
     "applicationDeadline": "2026-2027 cycle deadlines: October 4, 2026; November 1, 2026; January 24, 2027; March 14, 2027 (11:59 PM ET)",
     "applicationWindow": "Multiple cycles per academic year",
-    "applyLink": "https://venturelab.smapply.io/prog/lst/",
+    "applyLink": "https://venturelab.smapply.io/",
     "website": "https://entrepreneurship.wharton.upenn.edu/innovation-fund/",
     "description": "The Penn Wharton Innovation Fund provides tiered, equity-free grants ($1K-$5K) to current Penn students building early-stage ventures, while giving a student investment team hands-on early-stage investing experience. It runs through Venture Lab, the university-wide entrepreneurship hub at Penn.",
     "highlights": [
@@ -10052,7 +9772,7 @@ window.OPPORTUNITIES = [
       "Run by a student investment team as part of Venture Lab"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-09-14"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "columbia-startup-lab",
@@ -10278,7 +9998,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Northeastern University affiliation required — students, alumni, or faculty/staff of any academic discipline; graduate students in eligible programs may earn academic credit",
     "applicationDeadline": "Rolling — applications open each semester; monthly orientation sessions",
     "applicationWindow": "Rolling, semester-based intake",
-    "applyLink": "https://www.ideaneu.com/get-involved/venture",
+    "applyLink": "https://www.ideaneu.com/contact-5",
     "website": "https://www.ideaneu.com/",
     "description": "IDEA is Northeastern's student-run venture accelerator, guiding founders through a three-stage (Ready, Set, Go) pipeline from ideation to launch, culminating in up to $30,000 of non-equity Gap Fund financing. IDEA ventures have collectively raised more than $833 million.",
     "highlights": [
@@ -10288,7 +10008,7 @@ window.OPPORTUNITIES = [
       "Ventures have collectively raised $833M+"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-09-14"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "jhu-fastforward-u-fuel-accelerator",
@@ -10792,36 +10512,6 @@ window.OPPORTUNITIES = [
     "lastVerified": "2026-09-14"
   },
   {
-    "id": "overlooked-ventures",
-    "name": "Overlooked Ventures",
-    "category": "Accelerator",
-    "region": "US",
-    "country": "Columbus, OH, USA",
-    "focusAreas": [
-      "Social Impact",
-      "General/Any"
-    ],
-    "stage": "Pre-seed",
-    "fundingAmount": "$150,000-$1,000,000 typical check size (Fund I is a $50M pre-seed/seed vehicle)",
-    "equity": "Traditional equity investment (priced round or SAFE); ownership percentage is negotiated per deal and not publicly fixed.",
-    "programLength": "Rolling investment (not a cohort program); ongoing portfolio support",
-    "format": "Remote — application, review, and investment process are fully online; founders are not required to relocate and can be based anywhere in the US.",
-    "eligibility": "Early-stage tech and tech-enabled companies with one or more historically overlooked/underrepresented founders (women, Black, Latino, LGBTQ+, disabled, and other underestimated groups); no warm intro required.",
-    "applicationDeadline": "Rolling",
-    "applicationWindow": "Applications accepted on an ongoing basis",
-    "applyLink": "https://airtable.com/shrxICQtjx7CUcVyR",
-    "website": "https://www.overlookedventures.com/",
-    "description": "A Columbus, Ohio-based venture fund investing pre-seed and seed capital into tech and tech-enabled startups led by historically overlooked founders, including women, people of color, and LGBTQ+ entrepreneurs. Founded in 2021 by Janine Sickmeyer and Brandon Brooks, it reviews applications with identifying details removed to reduce bias and does not require warm introductions.",
-    "highlights": [
-      "$50M Fund I; typical checks of $150K-$1M",
-      "No warm intro required — anyone can apply via an open online form",
-      "Backed by investors including Bank of America",
-      "Debiased review process removes founder/company names before evaluation"
-    ],
-    "notableAlumni": [],
-    "lastVerified": "2026-09-14"
-  },
-  {
     "id": "zeal-capital-partners",
     "name": "Zeal Capital Partners",
     "category": "Accelerator",
@@ -10995,7 +10685,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Tech-driven, early-stage startups (pre-seed through Series A) committed to closing gaps of access, opportunity, or outcome for low-income communities and communities of color in the US.",
     "applicationDeadline": "Rolling",
     "applicationWindow": "Applications accepted on an ongoing basis",
-    "applyLink": "https://www.kaporcapital.com/for-founders/",
+    "applyLink": "https://www.kaporcapital.com/pitch/",
     "website": "https://www.kaporcapital.com/",
     "description": "An Oakland-based venture capital firm founded by Mitch Kapor and Freada Kapor Klein that invests in tech startups explicitly aimed at closing gaps of access, opportunity, and outcome for low-income communities and communities of color, making 20-25 new seed investments per year.",
     "highlights": [
@@ -11005,7 +10695,7 @@ window.OPPORTUNITIES = [
       "Open online application via the 'For Founders' portal"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-09-14"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "ganas-ventures",
@@ -11114,7 +10804,7 @@ window.OPPORTUNITIES = [
     "eligibility": "At least one founding team member must be a currently enrolled undergraduate or graduate student, or have graduated within the last 6 months, at a US college/university; company should be incorporated in the US and typically already has a live product/early traction",
     "applicationDeadline": "Rolling (regional cycles reopen each semester)",
     "applicationWindow": "Rolling, multiple cohorts per year across 4 US regions",
-    "applyLink": "https://drf.vc/apply",
+    "applyLink": "https://airtable.com/appP6NRnqNGp9XyEH/shrIkIQTZqkdcS05v",
     "website": "https://www.dormroomfund.com/",
     "description": "Dorm Room Fund is a student-run venture fund — launched under First Round Capital over a decade ago and independent since 2021 — that writes the first check, typically $40K-$200K via an uncapped SAFE, for founders who are current students or very recent graduates. More than 60 student partners across four US regional hubs run diligence and vote on investments, but the entire process is done remotely with no relocation required.",
     "highlights": [
@@ -11129,7 +10819,7 @@ window.OPPORTUNITIES = [
       "Shield AI",
       "Dandy"
     ],
-    "lastVerified": "2026-09-14"
+    "lastVerified": "2026-10-19"
   },
   {
     "id": "contrary-capital",
@@ -11190,36 +10880,6 @@ window.OPPORTUNITIES = [
       "40+ student Fellows sourcing deals across 35+ campuses in the US, Canada, and UK",
       "Decade-long track record operating as Rough Draft Ventures before 2024 relaunch",
       "Starter-grant pathway available for very early-stage student founders"
-    ],
-    "notableAlumni": [],
-    "lastVerified": "2026-09-14"
-  },
-  {
-    "id": "calm-company-fund",
-    "name": "Calm Company Fund (formerly Earnest Capital)",
-    "category": "Accelerator",
-    "region": "US",
-    "country": "Miami, FL, USA",
-    "focusAreas": [
-      "B2B SaaS"
-    ],
-    "stage": "Seed",
-    "fundingAmount": "$75,000–$250,000 typical check (fund has flexibility for larger amounts on a case-by-case basis)",
-    "equity": "No equity — financed via a Shared Earnings Agreement (SEAL): investors provide upfront capital and receive a percentage of future founder earnings/profit once a threshold is met, capped at roughly 2-4x the original investment; not debt, not a loan, and no stock or board seat changes hands",
-    "programLength": "N/A — investment only, on a rolling basis, plus ongoing access to a remote founder community and mentorship",
-    "format": "Remote — the fund and its founder community operate entirely remote-first; no physical program, office, or relocation required",
-    "eligibility": "Bootstrapped, founder-led software (SaaS) companies with existing revenue (typically at least a few thousand dollars/month), majority founder-owned, seeking capital without giving up equity or control",
-    "applicationDeadline": "Rolling",
-    "applicationWindow": "Rolling",
-    "applyLink": "https://calmfund.com/for-founders",
-    "website": "https://calmfund.com/",
-    "description": "Calm Company Fund — rebranded from Earnest Capital in 2021 — provides $75K-$250K in non-equity Shared Earnings Agreement (SEAL) financing to bootstrapped, profitable SaaS founders who want capital without dilution. Repayment is a percentage of founder earnings/profit, capped at 2-4x the investment, and the fund and its founder community run entirely remote with no physical program.",
-    "highlights": [
-      "Non-dilutive SEAL financing — no equity, no board seat, no personal guarantee",
-      "Typical check $75K-$250K, repayment capped at 2-4x investment",
-      "Originally founded as Earnest Capital in 2019; rebranded 2021",
-      "Launched a $10M Subscription Fund III for profitable software businesses",
-      "Remote-first fund community and founder mentorship network"
     ],
     "notableAlumni": [],
     "lastVerified": "2026-09-14"
@@ -13887,7 +13547,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Stage-agnostic startups in AI/ML, Deep Tech, Hardware; see the firm's site for its current thesis",
     "applicationDeadline": "Rolling",
     "applicationWindow": "Rolling — pitch any time",
-    "applyLink": "https://www.samsungnext.com/pitch-us",
+    "applyLink": "https://www.samsungnext.com/contact",
     "website": "https://www.samsungnext.com",
     "description": "Samsung's corporate venture arm, investing across all stages as a minority, non-lead investor. Its sectors are AI, robotics, digital health, blockchain/media services and frontier tech.",
     "highlights": [
@@ -13896,7 +13556,7 @@ window.OPPORTUNITIES = [
       "Site says 'Now taking meetings · Q2 2026'"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-10-16",
+    "lastVerified": "2026-10-19",
     "source": [
       "https://www.samsungnext.com",
       "https://venturebeat.com/business/samsungs-150-million-bet-to-find-the-next-big-startup",
@@ -17960,7 +17620,7 @@ window.OPPORTUNITIES = [
     "eligibility": "Seed startups in EdTech, Biotech/Health; see the firm's site for its current thesis",
     "applicationDeadline": "Rolling",
     "applicationWindow": "Rolling — pitch any time",
-    "applyLink": "https://www.reachcapital.com/apply/",
+    "applyLink": "mailto:info@reachcapital.com",
     "website": "https://www.reachcapital.com",
     "description": "Early-stage firm backing founders across learning, health and work.",
     "highlights": [
@@ -17968,7 +17628,7 @@ window.OPPORTUNITIES = [
       "Leading edtech-focused VC"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-10-16",
+    "lastVerified": "2026-10-19",
     "source": "https://www.reachcapital.com"
   },
   {
