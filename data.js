@@ -4569,8 +4569,8 @@ window.OPPORTUNITIES = [
       "Fintech"
     ],
     "stage": "Pre-seed",
-    "fundingAmount": "$500,000 investment",
-    "equity": "Investment via SAFE at a $5,000,000 post-money valuation, plus a 1:1 token side letter for crypto-native companies",
+    "fundingAmount": "$400,000 per startup",
+    "equity": "SAFE at a $4M post-money valuation with a 1:1 token side letter",
     "programLength": "12 weeks total (2-week in-person onboarding + 10-week remote program)",
     "format": "Hybrid — 2-week in-person onboarding in New York City, followed by 10 weeks fully remote",
     "eligibility": "Early-stage crypto/web3 and fintech founders (teams or solo); open globally, with onboarding held in NYC.",
@@ -4587,7 +4587,7 @@ window.OPPORTUNITIES = [
       "Fast process — interview invites typically sent within 1 week of applying"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-10-15"
+    "lastVerified": "2026-10-20"
   },
   {
     "id": "revtech-labs-accelerator",
@@ -30612,5 +30612,35 @@ window.OPPORTUNITIES = [
     "lastVerified": "2026-10-19",
     "source": "https://www.inceptionstudio.org/",
     "isNew": true
+  },
+  {
+    "id": "hbs-africa-business-club-nvc-2027",
+    "name": "HBS Africa Business Club New Venture Competition 2027",
+    "category": "Competition",
+    "region": "Global",
+    "country": "Harvard Business School, Boston, MA, USA",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Stage-agnostic",
+    "fundingAmount": "Up to $50,000",
+    "equity": "Not disclosed",
+    "programLength": "Selected startups pitch at the Africa Business Conference, February 5–6, 2027",
+    "format": "Online application; selected startups pitch at the Africa Business Conference at Harvard Business School",
+    "eligibility": "Founders building a startup in or for Africa. Applicants need a pitch deck (PDF) and a link to a 2-minute pitch video.",
+    "applicationDeadline": "November 12, 2026 (pitches at the Africa Business Conference, February 5–6, 2027)",
+    "applicationWindow": "Open until November 12, 2026",
+    "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSfvktqgJWJMS1iAh2aUvZPuVOwWXOjzlsG7gtZTIWgfyRmbqQ/viewform",
+    "website": "https://docs.google.com/forms/d/e/1FAIpQLSfvktqgJWJMS1iAh2aUvZPuVOwWXOjzlsG7gtZTIWgfyRmbqQ/viewform",
+    "description": "A startup competition run by the Harvard Business School Africa Business Club for founders building in or for Africa. Selected startups pitch at the Africa Business Conference at Harvard Business School, with a chance to win up to $50,000.",
+    "highlights": [
+      "Win up to $50,000",
+      "Selected startups pitch at Harvard Business School on February 5–6, 2027",
+      "Application takes about 15–20 minutes"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-11-04",
+    "source": "Competition announcement shared by the user; official conference site was unavailable when checked",
+    "appliedSeed": true
   }
 ];

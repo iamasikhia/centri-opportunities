@@ -401,7 +401,7 @@ html.dark .chip.active { background: var(--paper); border-color: var(--paper); c
   color: var(--text-dim);
 }
 
-.card-footer { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 2px; }
+.card-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; margin-top: 2px; }
 
 /* ---------- Status badges ---------- */
 
@@ -429,7 +429,7 @@ html.dark .chip.active { background: var(--paper); border-color: var(--paper); c
   background: currentColor;
   flex-shrink: 0;
 }
-.card-footer .deadline-badge { max-width: 62%; }
+.card-footer .deadline-badge { max-width: 100%; }
 
 .deadline-rolling { background: var(--blue-bg); border-color: var(--blue-border); color: var(--blue-text); }
 .deadline-dated   { background: var(--amber-bg); border-color: var(--amber-border); color: var(--amber-text); }
@@ -518,7 +518,7 @@ html.dark .apply-btn { background: var(--paper); color: var(--ink); }
 .overlay-section p, .overlay-section li { font-size: 13.5px; color: var(--text); line-height: 1.55; }
 .overlay-section ul { margin: 0; padding-left: 18px; }
 .overlay-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-.overlay-links { display: flex; gap: 10px; margin-top: 6px; }
+.overlay-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
 .overlay-links a.secondary {
   border: 1px solid var(--border);
   color: var(--text);
@@ -533,7 +533,7 @@ html.dark .apply-btn { background: var(--paper); color: var(--ink); }
 
 /* ---------- Top list ---------- */
 
-.card-actions { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+.card-actions { display: flex; align-items: center; gap: 6px; flex-shrink: 0; margin-left: auto; }
 .toplist-btn {
   display: inline-flex;
   align-items: center;
@@ -560,6 +560,13 @@ html.dark .apply-btn { background: var(--paper); color: var(--ink); }
   color: var(--amber-text);
 }
 .toplist-btn.active svg { fill: currentColor; }
+.applied-btn.with-label { margin-left: 0; }
+.applied-btn.active {
+  background: var(--emerald-bg);
+  border-color: var(--emerald-border);
+  color: var(--emerald-text);
+}
+.applied-btn.active svg { fill: none; }
 .tab-count {
   display: inline-block;
   margin-left: 4px;

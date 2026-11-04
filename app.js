@@ -9,10 +9,52 @@
     region: new Set(),
     equity: new Set(), // "Equity-free" | "Takes equity"
     format: new Set(), // "In-person" | "Remote" | "Hybrid"
-    statusTab: "all", // all | rolling | dated | closed | toplist
+    statusTab: "all", // all | rolling | dated | closed | toplist | applied
     sort: "name",
     topList: loadTopList(), // ids the user has starred; kept per-browser in localStorage
+    applied: loadApplied(), // ids the user has applied to; kept per-browser in localStorage
   };
+
+  // Entries flagged appliedSeed in data.js start as applied, once per browser,
+  // so moving one back out of Applied sticks across reloads.
+  function loadApplied() {
+    let applied = new Set();
+    let seeded = new Set();
+    try {
+      applied = new Set(JSON.parse(localStorage.getItem("appliedIds") || "[]"));
+      seeded = new Set(JSON.parse(localStorage.getItem("appliedSeededIds") || "[]"));
+    } catch (e) {
+      // Fall through with empty sets.
+    }
+    DATA.forEach((d) => {
+      if (d.appliedSeed && !seeded.has(d.id)) {
+        applied.add(d.id);
+        seeded.add(d.id);
+      }
+    });
+    try {
+      localStorage.setItem("appliedIds", JSON.stringify(Array.from(applied)));
+      localStorage.setItem("appliedSeededIds", JSON.stringify(Array.from(seeded)));
+    } catch (e) {
+      // Storage can be unavailable (private mode); Applied still works for this session.
+    }
+    return applied;
+  }
+
+  function saveApplied() {
+    try {
+      localStorage.setItem("appliedIds", JSON.stringify(Array.from(state.applied)));
+    } catch (e) {
+      // Storage can be unavailable (private mode); Applied still works for this session.
+    }
+  }
+
+  function toggleApplied(id) {
+    if (state.applied.has(id)) state.applied.delete(id);
+    else state.applied.add(id);
+    saveApplied();
+    renderAll();
+  }
 
   function loadTopList() {
     try {
@@ -39,9 +81,12 @@
   }
 
   // The Top list tab narrows to starred items and the New tab to the latest
-  // batch (entries flagged isNew in data.js); every other tab shows them as usual.
+  // batch (entries flagged isNew in data.js). Applied items move out of the
+  // browsing tabs into the Applied tab, but stay on the Top list if starred.
   function inTabScope(item) {
     if (state.statusTab === "toplist") return state.topList.has(item.id);
+    if (state.statusTab === "applied") return state.applied.has(item.id);
+    if (state.applied.has(item.id)) return false;
     if (state.statusTab === "new") return !!item.isNew;
     return true;
   }
@@ -158,7 +203,7 @@
       }
       if (!ok) return false;
     }
-    if (!["all", "toplist", "new"].includes(state.statusTab) && classifyDeadline(item) !== state.statusTab) return false;
+    if (!["all", "toplist", "new", "applied"].includes(state.statusTab) && classifyDeadline(item) !== state.statusTab) return false;
     if (state.search) {
       const hay = [
         item.name, item.description, item.eligibility, item.country, item.region,
@@ -277,6 +322,15 @@
     return `<button class="toplist-btn${listed ? " active" : ""}${withLabel ? " with-label" : ""}" data-toplist-id="${escapeHtml(item.id)}" title="${label}" aria-pressed="${listed}" aria-label="${label}: ${escapeHtml(item.name)}">${STAR_ICON}${withLabel ? `<span>${listed ? "On top list" : "Add to top list"}</span>` : ""}</button>`;
   }
 
+  const CHECK_ICON =
+    '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
+
+  function appliedButton(item, withLabel) {
+    const applied = state.applied.has(item.id);
+    const label = applied ? "Move back out of Applied" : "Mark as applied";
+    return `<button class="toplist-btn applied-btn${applied ? " active" : ""}${withLabel ? " with-label" : ""}" data-applied-id="${escapeHtml(item.id)}" title="${label}" aria-pressed="${applied}" aria-label="${label}: ${escapeHtml(item.name)}">${CHECK_ICON}${withLabel ? `<span>${applied ? "Applied" : "Mark as applied"}</span>` : ""}</button>`;
+  }
+
   function cardTemplate(item) {
     const tags = (item.focusAreas || []).map((f) => `<span class="tag">${escapeHtml(f)}</span>`).join("");
     return `
@@ -302,6 +356,7 @@
           ${deadlineChip(item)}
           <div class="card-actions">
             ${topListButton(item, false)}
+            ${appliedButton(item, false)}
             <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Apply →</a>
           </div>
         </div>
@@ -357,6 +412,7 @@
         <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer">Apply now →</a>
         <a class="secondary" href="${escapeHtml(item.website || "#")}" target="_blank" rel="noopener noreferrer">Visit website</a>
         ${topListButton(item, true)}
+        ${appliedButton(item, true)}
       </div>
     `;
   }
@@ -367,9 +423,13 @@
     els.overlayCard.innerHTML = overlayTemplate(item);
     els.overlay.hidden = false;
     document.getElementById("overlayCloseBtn").addEventListener("click", closeDetail);
-    els.overlayCard.querySelector(".toplist-btn").addEventListener("click", () => {
+    els.overlayCard.querySelector(".toplist-btn:not(.applied-btn)").addEventListener("click", () => {
       toggleTopList(id);
       openDetail(id); // re-render so the button reflects the new state
+    });
+    els.overlayCard.querySelector(".applied-btn").addEventListener("click", () => {
+      toggleApplied(id);
+      openDetail(id);
     });
   }
 
@@ -394,6 +454,7 @@
       { key: "dated", label: "Has a deadline" },
       { key: "closed", label: "Closed / Inactive" },
       { key: "toplist", label: "Top list", count: state.topList.size },
+      { key: "applied", label: "Applied", count: state.applied.size },
     ];
     els.statusTabs.innerHTML = "";
     tabs.forEach((t) => {
@@ -427,7 +488,9 @@
     els.empty.querySelector("p").textContent =
       state.statusTab === "toplist" && state.topList.size === 0
         ? "Your top list is empty. Tap the star on any opportunity to add it here."
-        : "No opportunities match your filters.";
+        : state.statusTab === "applied" && state.applied.size === 0
+          ? "Nothing here yet. Tap the check mark on any opportunity once you've applied."
+          : "No opportunities match your filters.";
     els.grid.querySelectorAll(".card").forEach((card, i) => {
       card.style.animationDelay = `${(i % 8) * 80}ms`;
       card.addEventListener("click", () => openDetail(card.dataset.id));
@@ -435,7 +498,8 @@
     els.grid.querySelectorAll(".toplist-btn").forEach((btn) => {
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
-        toggleTopList(btn.dataset.toplistId);
+        if (btn.dataset.appliedId) toggleApplied(btn.dataset.appliedId);
+        else toggleTopList(btn.dataset.toplistId);
       });
     });
   }
