@@ -15,6 +15,10 @@
     applied: loadApplied(), // ids the user has applied to; kept per-browser in localStorage
   };
 
+  // An opportunity is either on the top list or applied, never both.
+  state.applied.forEach((id) => state.topList.delete(id));
+  saveTopList();
+
   // Entries flagged appliedSeed in data.js start as applied, once per browser,
   // so moving one back out of Applied sticks across reloads.
   function loadApplied() {
@@ -50,19 +54,42 @@
   }
 
   function toggleApplied(id) {
-    if (state.applied.has(id)) state.applied.delete(id);
-    else state.applied.add(id);
+    if (state.applied.has(id)) {
+      state.applied.delete(id);
+    } else {
+      state.applied.add(id);
+      state.topList.delete(id);
+      saveTopList();
+    }
     saveApplied();
     renderAll();
   }
 
+  // Entries flagged topListSeed in data.js start on the top list, once per
+  // browser, so un-starring one sticks across reloads.
   function loadTopList() {
+    let listed = new Set();
+    let seeded = new Set();
     try {
       localStorage.removeItem("archivedIds"); // archive feature was retired; show everything again
-      return new Set(JSON.parse(localStorage.getItem("topListIds") || "[]"));
+      listed = new Set(JSON.parse(localStorage.getItem("topListIds") || "[]"));
+      seeded = new Set(JSON.parse(localStorage.getItem("topListSeededIds") || "[]"));
     } catch (e) {
-      return new Set();
+      // Fall through with empty sets.
     }
+    DATA.forEach((d) => {
+      if (d.topListSeed && !seeded.has(d.id)) {
+        listed.add(d.id);
+        seeded.add(d.id);
+      }
+    });
+    try {
+      localStorage.setItem("topListIds", JSON.stringify(Array.from(listed)));
+      localStorage.setItem("topListSeededIds", JSON.stringify(Array.from(seeded)));
+    } catch (e) {
+      // Storage can be unavailable (private mode); the top list still works for this session.
+    }
+    return listed;
   }
 
   function saveTopList() {
@@ -82,7 +109,7 @@
 
   // The Top list tab narrows to starred items and the New tab to the latest
   // batch (entries flagged isNew in data.js). Applied items move out of the
-  // browsing tabs into the Applied tab, but stay on the Top list if starred.
+  // browsing tabs into the Applied tab.
   function inTabScope(item) {
     if (state.statusTab === "toplist") return state.topList.has(item.id);
     if (state.statusTab === "applied") return state.applied.has(item.id);
@@ -317,6 +344,7 @@
     '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>';
 
   function topListButton(item, withLabel) {
+    if (state.applied.has(item.id)) return ""; // applied items can't be starred
     const listed = state.topList.has(item.id);
     const label = listed ? "Remove from top list" : "Add to top list";
     return `<button class="toplist-btn${listed ? " active" : ""}${withLabel ? " with-label" : ""}" data-toplist-id="${escapeHtml(item.id)}" title="${label}" aria-pressed="${listed}" aria-label="${label}: ${escapeHtml(item.name)}">${STAR_ICON}${withLabel ? `<span>${listed ? "On top list" : "Add to top list"}</span>` : ""}</button>`;
@@ -423,10 +451,13 @@
     els.overlayCard.innerHTML = overlayTemplate(item);
     els.overlay.hidden = false;
     document.getElementById("overlayCloseBtn").addEventListener("click", closeDetail);
-    els.overlayCard.querySelector(".toplist-btn:not(.applied-btn)").addEventListener("click", () => {
-      toggleTopList(id);
-      openDetail(id); // re-render so the button reflects the new state
-    });
+    const starBtn = els.overlayCard.querySelector(".toplist-btn:not(.applied-btn)");
+    if (starBtn) {
+      starBtn.addEventListener("click", () => {
+        toggleTopList(id);
+        openDetail(id); // re-render so the button reflects the new state
+      });
+    }
     els.overlayCard.querySelector(".applied-btn").addEventListener("click", () => {
       toggleApplied(id);
       openDetail(id);

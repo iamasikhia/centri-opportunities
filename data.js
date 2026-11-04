@@ -4566,14 +4566,15 @@ window.OPPORTUNITIES = [
     "country": "New York, NY, USA",
     "focusAreas": [
       "Web3/Crypto",
+      "AI/ML",
       "Fintech"
     ],
     "stage": "Pre-seed",
-    "fundingAmount": "$400,000 per startup",
-    "equity": "SAFE at a $4M post-money valuation with a 1:1 token side letter",
+    "fundingAmount": "$800,000 total: $400,000 at admission + $400,000 follow-on at seed",
+    "equity": "$400K SAFE at a $4M post-money valuation with a 1:1 token side letter; no program fee",
     "programLength": "12 weeks total (2-week in-person onboarding + 10-week remote program)",
     "format": "Hybrid — 2-week in-person onboarding in New York City, followed by 10 weeks fully remote",
-    "eligibility": "Early-stage crypto/web3 and fintech founders (teams or solo); open globally, with onboarding held in NYC.",
+    "eligibility": "Technical founders across crypto, AI, fintech and stablecoins, at any stage including pre-product and pre-revenue; onboarding held in NYC.",
     "applicationDeadline": "November 18, 2026 (ALL19 regular admission deadline; program starts January 11, 2027 with NYC onboarding)",
     "applicationWindow": "Multiple cohorts per year",
     "applyLink": "https://alliance.xyz/apply",
@@ -4587,7 +4588,8 @@ window.OPPORTUNITIES = [
       "Fast process — interview invites typically sent within 1 week of applying"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-10-20"
+    "lastVerified": "2026-11-04",
+    "topListSeed": true
   },
   {
     "id": "revtech-labs-accelerator",
@@ -30011,12 +30013,12 @@ window.OPPORTUNITIES = [
       "AI/ML"
     ],
     "stage": "Pre-idea",
-    "fundingAmount": "$50,000 unrestricted (discretionary $3,000 awards to strong applicants not selected)",
+    "fundingAmount": "$50,000 unrestricted (discretionary $3,000 for strong applicants not selected; $1,000 nomination reward)",
     "equity": "No equity, no reporting requirements",
     "programLength": "Not disclosed",
     "format": "Remote — no-strings grant plus a fellow community; ~10-minute application",
     "eligibility": "Anyone: operators, engineers, scientists and other independent builders; no company, pitch deck or location/age requirement stated",
-    "applicationDeadline": "Rolling",
+    "applicationDeadline": "Rolling — applications always open",
     "applicationWindow": "Rolling, always open; 2026 founding cohort of 20 named on a rolling basis",
     "applyLink": "https://basisfellowship.org/apply",
     "website": "https://basisfellowship.org/",
@@ -30029,9 +30031,10 @@ window.OPPORTUNITIES = [
       "2026 founding cohort of 20 slots"
     ],
     "notableAlumni": [],
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-11-04",
     "source": "https://basisfellowship.org/",
-    "isNew": true
+    "isNew": true,
+    "topListSeed": true
   },
   {
     "id": "astera-residency",
@@ -30642,5 +30645,35 @@ window.OPPORTUNITIES = [
     "lastVerified": "2026-11-04",
     "source": "Competition announcement shared by the user; official conference site was unavailable when checked",
     "appliedSeed": true
+  },
+  {
+    "id": "tech-no-excuses-fund",
+    "name": ".tech $1 Million No Excuses Fund",
+    "category": "Grant",
+    "region": "Global",
+    "country": "Not disclosed",
+    "focusAreas": [
+      "General/Any"
+    ],
+    "stage": "Pre-seed",
+    "fundingAmount": "Up to $1 million in equity-free grants (amount per company not confirmed)",
+    "equity": "No equity, no SAFE (equity-free grants)",
+    "programLength": "Not disclosed",
+    "format": "Not disclosed",
+    "eligibility": "Builders from day zero to pre-Series A. Other requirements not confirmed; check the official page.",
+    "applicationDeadline": "Not disclosed — check the official page",
+    "applicationWindow": "Not disclosed",
+    "applyLink": "https://noexcuse.get.tech/",
+    "website": "https://noexcuse.get.tech/",
+    "description": "An equity-free grant fund from .tech for builders from day zero to pre-Series A, offering up to $1 million in grants with no equity or SAFE. Details come from the fund announcement; the official page could not be read automatically.",
+    "highlights": [
+      "Up to $1 million in equity-free grants",
+      "No equity and no SAFE",
+      "For builders from day zero to pre-Series A"
+    ],
+    "notableAlumni": [],
+    "lastVerified": "2026-11-04",
+    "source": "Announcement shared by the user; https://get.tech/no-excuses-fund redirects to the official page, which blocks automated access",
+    "topListSeed": true
   }
 ];
