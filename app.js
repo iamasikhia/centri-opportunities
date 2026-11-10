@@ -13,11 +13,45 @@
     sort: "name",
     topList: loadTopList(), // ids the user has starred; kept per-browser in localStorage
     applied: loadApplied(), // ids the user has applied to; kept per-browser in localStorage
+    later: loadIdSet("laterIds"), // ids the user plans to apply to later; kept per-browser
   };
 
-  // An opportunity is either on the top list or applied, never both.
-  state.applied.forEach((id) => state.topList.delete(id));
+  // An opportunity sits in at most one list: Top list, Apply later or Applied.
+  state.applied.forEach((id) => {
+    state.topList.delete(id);
+    state.later.delete(id);
+  });
+  state.later.forEach((id) => state.topList.delete(id));
   saveTopList();
+  saveIdSet("laterIds", state.later);
+
+  function loadIdSet(key) {
+    try {
+      return new Set(JSON.parse(localStorage.getItem(key) || "[]"));
+    } catch (e) {
+      return new Set();
+    }
+  }
+
+  function saveIdSet(key, set) {
+    try {
+      localStorage.setItem(key, JSON.stringify(Array.from(set)));
+    } catch (e) {
+      // Storage can be unavailable (private mode); the list still works for this session.
+    }
+  }
+
+  function toggleLater(id) {
+    if (state.later.has(id)) {
+      state.later.delete(id);
+    } else {
+      state.later.add(id);
+      state.topList.delete(id);
+      saveTopList();
+    }
+    saveIdSet("laterIds", state.later);
+    renderAll();
+  }
 
   // Entries flagged appliedSeed in data.js start as applied, once per browser,
   // so moving one back out of Applied sticks across reloads.
@@ -59,7 +93,9 @@
     } else {
       state.applied.add(id);
       state.topList.delete(id);
+      state.later.delete(id);
       saveTopList();
+      saveIdSet("laterIds", state.later);
     }
     saveApplied();
     renderAll();
@@ -101,8 +137,13 @@
   }
 
   function toggleTopList(id) {
-    if (state.topList.has(id)) state.topList.delete(id);
-    else state.topList.add(id);
+    if (state.topList.has(id)) {
+      state.topList.delete(id);
+    } else {
+      state.topList.add(id);
+      state.later.delete(id);
+      saveIdSet("laterIds", state.later);
+    }
     saveTopList();
     renderAll();
   }
@@ -112,6 +153,7 @@
   // browsing tabs into the Applied tab.
   function inTabScope(item) {
     if (state.statusTab === "toplist") return state.topList.has(item.id);
+    if (state.statusTab === "later") return state.later.has(item.id);
     if (state.statusTab === "applied") return state.applied.has(item.id);
     if (state.applied.has(item.id)) return false;
     if (state.statusTab === "new") return !!item.isNew;
@@ -230,7 +272,7 @@
       }
       if (!ok) return false;
     }
-    if (!["all", "toplist", "new", "applied"].includes(state.statusTab) && classifyDeadline(item) !== state.statusTab) return false;
+    if (!["all", "toplist", "new", "later", "applied"].includes(state.statusTab) && classifyDeadline(item) !== state.statusTab) return false;
     if (state.search) {
       const hay = [
         item.name, item.description, item.eligibility, item.country, item.region,
@@ -350,6 +392,16 @@
     return `<button class="toplist-btn${listed ? " active" : ""}${withLabel ? " with-label" : ""}" data-toplist-id="${escapeHtml(item.id)}" title="${label}" aria-pressed="${listed}" aria-label="${label}: ${escapeHtml(item.name)}">${STAR_ICON}${withLabel ? `<span>${listed ? "On top list" : "Add to top list"}</span>` : ""}</button>`;
   }
 
+  const CLOCK_ICON =
+    '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15 14"/></svg>';
+
+  function laterButton(item, withLabel) {
+    if (state.applied.has(item.id)) return ""; // already applied
+    const later = state.later.has(item.id);
+    const label = later ? "Remove from Apply later" : "Apply later";
+    return `<button class="toplist-btn later-btn${later ? " active" : ""}${withLabel ? " with-label" : ""}" data-later-id="${escapeHtml(item.id)}" title="${label}" aria-pressed="${later}" aria-label="${label}: ${escapeHtml(item.name)}">${CLOCK_ICON}${withLabel ? `<span>${later ? "Saved for later" : "Apply later"}</span>` : ""}</button>`;
+  }
+
   const CHECK_ICON =
     '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
 
@@ -384,6 +436,7 @@
           ${deadlineChip(item)}
           <div class="card-actions">
             ${topListButton(item, false)}
+            ${laterButton(item, false)}
             ${appliedButton(item, false)}
             <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Apply →</a>
           </div>
@@ -439,8 +492,11 @@
       <div class="overlay-links">
         <a class="apply-btn" href="${escapeHtml(item.applyLink || item.website || "#")}" target="_blank" rel="noopener noreferrer">Apply now →</a>
         <a class="secondary" href="${escapeHtml(item.website || "#")}" target="_blank" rel="noopener noreferrer">Visit website</a>
-        ${topListButton(item, true)}
-        ${appliedButton(item, true)}
+        <div class="overlay-lists">
+          ${topListButton(item, true)}
+          ${laterButton(item, true)}
+          ${appliedButton(item, true)}
+        </div>
       </div>
     `;
   }
@@ -451,7 +507,14 @@
     els.overlayCard.innerHTML = overlayTemplate(item);
     els.overlay.hidden = false;
     document.getElementById("overlayCloseBtn").addEventListener("click", closeDetail);
-    const starBtn = els.overlayCard.querySelector(".toplist-btn:not(.applied-btn)");
+    const laterBtn = els.overlayCard.querySelector(".later-btn");
+    if (laterBtn) {
+      laterBtn.addEventListener("click", () => {
+        toggleLater(id);
+        openDetail(id);
+      });
+    }
+    const starBtn = els.overlayCard.querySelector(".toplist-btn:not(.applied-btn):not(.later-btn)");
     if (starBtn) {
       starBtn.addEventListener("click", () => {
         toggleTopList(id);
@@ -485,6 +548,7 @@
       { key: "dated", label: "Has a deadline" },
       { key: "closed", label: "Closed / Inactive" },
       { key: "toplist", label: "Top list", count: state.topList.size },
+      { key: "later", label: "Apply later", count: state.later.size },
       { key: "applied", label: "Applied", count: state.applied.size },
     ];
     els.statusTabs.innerHTML = "";
@@ -519,6 +583,8 @@
     els.empty.querySelector("p").textContent =
       state.statusTab === "toplist" && state.topList.size === 0
         ? "Your top list is empty. Tap the star on any opportunity to add it here."
+        : state.statusTab === "later" && state.later.size === 0
+          ? "Nothing saved for later. Tap the clock on any opportunity you plan to apply to later."
         : state.statusTab === "applied" && state.applied.size === 0
           ? "Nothing here yet. Tap the check mark on any opportunity once you've applied."
           : "No opportunities match your filters.";
@@ -530,6 +596,7 @@
       btn.addEventListener("click", (e) => {
         e.stopPropagation();
         if (btn.dataset.appliedId) toggleApplied(btn.dataset.appliedId);
+        else if (btn.dataset.laterId) toggleLater(btn.dataset.laterId);
         else toggleTopList(btn.dataset.toplistId);
       });
     });

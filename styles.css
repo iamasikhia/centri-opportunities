@@ -553,14 +553,22 @@ html.dark .apply-btn { background: var(--paper); color: var(--ink); }
   transition: background-color 0.12s ease, color 0.12s ease;
 }
 .toplist-btn:hover { background: var(--surface-2); color: var(--text); }
-.toplist-btn.with-label { margin-left: auto; padding: 0 14px; color: var(--text); }
+.toplist-btn.with-label { padding: 0 14px; color: var(--text); }
+.overlay-lists { display: flex; flex-wrap: wrap; gap: 10px; margin-left: auto; }
 .toplist-btn.active {
   background: var(--amber-bg);
   border-color: var(--amber-border);
   color: var(--amber-text);
 }
 .toplist-btn.active svg { fill: currentColor; }
-.applied-btn.with-label { margin-left: 0; }
+.applied-btn.with-label,
+.later-btn.with-label { margin-left: 0; }
+.later-btn.active {
+  background: var(--blue-bg);
+  border-color: var(--blue-border);
+  color: var(--blue-text);
+}
+.later-btn.active svg { fill: none; }
 .applied-btn.active {
   background: var(--emerald-bg);
   border-color: var(--emerald-border);

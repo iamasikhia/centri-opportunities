@@ -4579,9 +4579,9 @@ window.OPPORTUNITIES = [
     "applicationWindow": "Multiple cohorts per year",
     "applyLink": "https://alliance.xyz/apply",
     "website": "https://alliance.xyz/",
-    "description": "Alliance (formerly Alliance DAO) is a New York-based Web3 and crypto accelerator offering $500,000 in SAFE funding at a $5M post-money valuation plus a 1:1 token side letter, with a hybrid program combining in-person NYC onboarding and a remote 10-week build phase.",
+    "description": "Alliance is a New York-based accelerator for technical founders building in crypto, AI, fintech and stablecoins. It invests $400,000 at admission via a SAFE at a $4M post-money valuation (plus a 1:1 token side letter) and a further $400,000 at the seed round, with no program fee.",
     "highlights": [
-      "$500,000 investment via SAFE at a $5M post-money valuation",
+      "$400K at admission via SAFE at a $4M post-money valuation, plus $400K follow-on at seed",
       "1:1 token side letter for crypto-native teams",
       "2-week in-person onboarding in New York City, then 10 weeks remote",
       "Median alumni company has raised approximately $3.5M at a ~$25M post-money valuation after the program",
